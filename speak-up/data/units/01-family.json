@@ -1,0 +1,114 @@
+{
+  "n": 1,
+  "title": "Family",
+  "icon": "users",
+  "cando": [
+    "talk about the people in my family",
+    "say what my family members do and what they are like",
+    "ask and answer questions about someone’s family"
+  ],
+  "warmup": ["How many people are there in your family?", "Who are you closest to?"],
+  "phrases": [
+    ["There are … of us in my family.", "Oilamizda … kishimiz.", "There are five of us in my family."],
+    ["I’ve got one brother and two sisters.", "Bitta akam (ukam) va ikkita opam (singlim) bor.", ""],
+    ["I’m the oldest / the youngest.", "Men eng kattasiman / eng kichigiman.", "I’m the youngest of three."],
+    ["I’m an only child.", "Men yolg‘iz farzandman.", ""],
+    ["My dad works as a …", "Dadam … bo‘lib ishlaydi.", "My dad works as a driver."],
+    ["She’s retired.", "U nafaqada.", "My grandma’s retired."],
+    ["We all live together.", "Hammamiz birga yashaymiz.", ""],
+    ["I look like my mum.", "Men oyimga o‘xshayman.", ""],
+    ["He’s really kind / funny / strict.", "U juda mehribon / kulgili / qattiqqo‘l.", ""],
+    ["I get on well with my …", "Men … bilan yaxshi chiqishaman.", "I get on well with my sister."],
+    ["We sometimes argue, but …", "Ba’zan tortishamiz, lekin …", "We sometimes argue, but we’re good friends."],
+    ["I’m closest to my …", "Men …ga eng yaqinman.", "I’m closest to my grandma."],
+    ["We spend time together at the weekend.", "Dam olish kunlari birga vaqt o‘tkazamiz.", ""],
+    ["How many brothers and sisters have you got?", "Nechta aka-uka, opa-singling bor?", ""],
+    ["What does your mum do?", "Oying nima ish qiladi?", ""]
+  ],
+  "dialogue": {
+    "title": "Meet Laylo’s family",
+    "setting": "Laylo is talking to Tom, a new teacher at her language centre.",
+    "voices": {"Tom": "onyx", "Laylo": "nova"},
+    "lines": [
+      ["Tom", "So, Laylo, tell me about your family. Is it big?"],
+      ["Laylo", "Quite big! There are six of us: my parents, my two brothers, my grandma and me."],
+      ["Tom", "Wow. Are you the oldest?"],
+      ["Laylo", "No, I’m the youngest. My brothers are both older than me."],
+      ["Tom", "What do they do?"],
+      ["Laylo", "Bekzod works as a doctor, and Jasur is still a student. He studies IT."],
+      ["Tom", "And your parents?"],
+      ["Laylo", "My dad’s a driver and my mum’s a teacher. My grandma’s retired – she lives with us."],
+      ["Tom", "Who do you look like?"],
+      ["Laylo", "Everyone says I look like my mum. I’m closest to her, too. What about you, Tom?"],
+      ["Tom", "Oh, I’m an only child. But I get on really well with my cousins."],
+      ["Laylo", "That’s nice. Do you see them often?"],
+      ["Tom", "Every weekend. We usually play football together."]
+    ]
+  },
+  "pron": {
+    "title": "The “th” sound /ð/",
+    "tip": "Put the tip of your tongue between your teeth and use your voice. It is not “d” and not “z”.",
+    "tip_uz": "Til uchini tishlar orasiga qo‘ying va ovoz bilan ayting. Bu “d” ham, “z” ham emas.",
+    "words": ["mother", "father", "brother", "together", "they", "the"],
+    "sentence": "My mother and father live together with my brother."
+  },
+  "tables": [
+    {
+      "title": "Talk about jobs",
+      "cols": [["My dad", "My mum", "My brother", "My aunt"], ["works as a", "is a"], ["teacher", "doctor", "driver", "shop assistant"], ["in a school.", "in a hospital.", "in Tashkent.", "in a big shop."]]
+    },
+    {
+      "title": "Talk about people",
+      "cols": [["I get on well with", "I’m closest to", "I look like"], ["my mum", "my dad", "my sister", "my grandma"], ["because she’s", "because he’s"], ["really kind.", "very funny.", "easy-going.", "always there for me."]]
+    }
+  ],
+  "drill": {
+    "title": "Make the questions — fast!",
+    "items": [
+      ["brothers and sisters?", "How many brothers and sisters have you got?"],
+      ["your dad / do?", "What does your dad do?"],
+      ["you / look like?", "Who do you look like?"],
+      ["you / closest to?", "Who are you closest to?"],
+      ["your family / live?", "Where does your family live?"],
+      ["you / spend time together?", "When do you spend time together?"]
+    ]
+  },
+  "recall": [
+    ["Oilamizda to‘rt kishimiz.", "There are four of us in my family."],
+    ["Mening bitta singlim bor.", "I’ve got one younger sister."],
+    ["Men yolg‘iz farzandman.", "I’m an only child."],
+    ["Dadam haydovchi bo‘lib ishlaydi.", "My dad works as a driver."],
+    ["Buvim nafaqada.", "My grandma’s retired."],
+    ["Men dadamga o‘xshayman.", "I look like my dad."],
+    ["Akam juda kulgili.", "My brother is really funny."],
+    ["Men opam bilan yaxshi chiqishaman.", "I get on well with my sister."],
+    ["Ba’zan tortishamiz, lekin biz yaxshi do‘stmiz.", "We sometimes argue, but we’re good friends."],
+    ["Oying nima ish qiladi?", "What does your mum do?"]
+  ],
+  "infogap": {
+    "title": "Rustam’s family",
+    "intro": "You and your partner have different information about Rustam’s family. Ask questions to complete your table. Don’t show your page!",
+    "intro_uz": "Sizda va sherigingizda turli ma’lumotlar bor. Savol berib jadvalni to‘ldiring. Sahifangizni ko‘rsatmang!",
+    "cols": ["Person", "Age", "Job", "What is he / she like?"],
+    "rows": [
+      ["Father", "52", "taxi driver", "strict but fair"],
+      ["Mother", "48", "nurse", "very kind"],
+      ["Sister – Malika", "17", "student", "funny"],
+      ["Grandpa", "75", "retired", "quiet"]
+    ],
+    "hide_a": [[0, 2], [1, 1], [2, 3], [3, 2]],
+    "hide_b": [[0, 1], [1, 3], [2, 2], [3, 1]],
+    "questions": ["How old is his …?", "What does his … do?", "What’s his … like?"]
+  },
+  "common": {
+    "title": "Find three things in common",
+    "intro": "Interview your partner. Find three things that are the same in your families.",
+    "questions": ["How many people are there in your family?", "Are you the oldest?", "Who do you look like?", "Who are you closest to?", "What do you do together at the weekend?"]
+  },
+  "fluency": {
+    "topic": "Talk about your family",
+    "prompts": ["Who is in your family?", "What do they do?", "What are they like?", "Who are you closest to? Why?", "What do you do together?"],
+    "model": "There are five of us in my family: my parents, my two younger sisters and me. I’m the oldest. My dad works as an engineer, and my mum is a teacher at a primary school. My sisters are still at school. Everyone says I look like my dad – we’re both tall and quiet. I get on well with my sisters, but sometimes we argue about the TV! I’m closest to my mum because she always listens to me. At the weekend we usually visit my grandparents and have lunch together. I really love my family."
+  },
+  "checks": ["I spoke for one minute without long stops.", "I used five or more key phrases.", "I said “th” in mother / brother correctly.", "I asked my partner at least three questions."]
+}
