@@ -1,0 +1,512 @@
+[
+ {
+  "id": "1.1",
+  "title": "Time",
+  "part1": [
+   "Do you spend a lot of time with your family or relatives?",
+   "Do you prefer to hang out with old friends or make new friends?",
+   "How often do you do exercise or play sports to keep fit?",
+   "Do you like to make a to-do list to plan your things in advance?"
+  ],
+  "cue": "Describe a free-time activity that you enjoy doing.",
+  "say": [
+   "What the activity is",
+   "How often you do it",
+   "Who you usually do it with"
+  ],
+  "explain": "And explain why you enjoy doing this activity in your free time."
+ },
+ {
+  "id": "1.2",
+  "title": "Inside outside (Street life & Home life)",
+  "part1": [
+   "Is the nightlife in your town or city lively or dull?",
+   "Do you think there is a huge problem with rubbish in your city centre?",
+   "What is your favourite room in your home?",
+   "Do you prefer living in a house or a flat?"
+  ],
+  "cue": "Describe a street or a pedestrian area in your town that you know well.",
+  "say": [
+   "Where it is",
+   "What kinds of shops or stalls are there",
+   "What people do there"
+  ],
+  "explain": "And explain why you think this is a safe or interesting place to visit."
+ },
+ {
+  "id": "1.3",
+  "title": "Stories (Past events & Adverbs of manner)",
+  "part1": [
+   "Do you usually make important life decisions quickly or slowly?",
+   "How do you feel when you have to speak in front of a large group of people?",
+   "Can you easily start a short conversation with a stranger on a bus or train?",
+   "When was the last time you felt very excited about a special event?"
+  ],
+  "cue": "Describe a memorable experience or a funny thing that happened to you in the past.",
+  "say": [
+   "When and where it happened",
+   "What you were doing at that time",
+   "What went wrong or happened in the end"
+  ],
+  "explain": "And explain how you felt during this experience."
+ },
+ {
+  "id": "1.4",
+  "title": "Changes (Life stages, Internet & Future plans)",
+  "part1": [
+   "Do you want to live or work abroad in the future?",
+   "How much time do you spend online using social media every day?",
+   "Are you going to check your emails right after this class finishes?",
+   "Do you find it easy or difficult to give up a bad habit?"
+  ],
+  "cue": "Describe a future plan or arrangement you have made for a special event.",
+  "say": [
+   "What the event or plan is",
+   "When and where it is going to happen",
+   "Who is going to go with you"
+  ],
+  "explain": "And explain why you are looking forward to this future plan."
+ },
+ {
+  "id": "1.5",
+  "title": "Stuff and things (Objects, Money & Quantifiers)",
+  "part1": [
+   "What is an ordinary personal possession that you use every day?",
+   "Do you prefer to buy things online or look for them in real shops?",
+   "Do you carry a lot of cash and coins in your wallet or purse?",
+   "Do you enjoy spending money on fashionable clothes?"
+  ],
+  "cue": "Describe a special object or a valuable possession that you own.",
+  "say": [
+   "What it looks like and what material it is made of",
+   "Who gave it to you or where you got it from",
+   "What you use it for"
+  ],
+  "explain": "And explain why this possession is so important or special to you."
+ },
+ {
+  "id": "2.1",
+  "title": "Local art and crafts",
+  "part1": [
+   "Do you like buying traditional handmade items?",
+   "Are there any famous crafts made in your hometown?",
+   "Do you prefer to decorate your home with modern things or traditional objects?",
+   "Did you learn how to make any arts or crafts when you were a child?"
+  ],
+  "cue": "Describe a traditional handmade object from your country.",
+  "say": [
+   "What the object is",
+   "What it is made of",
+   "How people make it"
+  ],
+  "explain": "And explain why this traditional craft is important to your culture."
+ },
+ {
+  "id": "2.2",
+  "title": "City transport and commuting",
+  "part1": [
+   "How do you usually travel to work or study every day?",
+   "Do you think public transport in your city is expensive?",
+   "Is traffic a big problem in the area where you live?",
+   "Do you prefer driving a car or riding a bicycle in the city?"
+  ],
+  "cue": "Describe a journey you took on public transport that you remember well.",
+  "say": [
+   "Where you were going",
+   "What kind of transport you used",
+   "Who you travelled with"
+  ],
+  "explain": "And explain how you felt about this journey."
+ },
+ {
+  "id": "2.3",
+  "title": "Weather and climate",
+  "part1": [
+   "What is your favourite kind of weather?",
+   "Does the weather affect your mood or how you feel?",
+   "What do you usually do when it rains heavily outside?",
+   "Is the climate in your country changing compared to the past?"
+  ],
+  "cue": "Describe a time when extreme weather changed your outdoor plans.",
+  "say": [
+   "When it happened",
+   "What the weather was like",
+   "What you planned to do"
+  ],
+  "explain": "And explain what you did instead because of the weather."
+ },
+ {
+  "id": "2.4",
+  "title": "Architecture and local buildings",
+  "part1": [
+   "Do you prefer living in a modern building or an old building?",
+   "What is the most beautiful building in your town or city?",
+   "Do you think it is important to protect historical buildings?",
+   "Would you like to design your own house in the future?"
+  ],
+  "cue": "Describe an interesting building in your town or city that you visited.",
+  "say": [
+   "Where the building is",
+   "What it looks like from the outside",
+   "What people use this building for"
+  ],
+  "explain": "And explain why you find this building interesting."
+ },
+ {
+  "id": "2.5",
+  "title": "Shopping and local markets",
+  "part1": [
+   "Do you enjoy shopping at local street markets?",
+   "Is it better to buy fresh food from a market or a big supermarket?",
+   "How often do you go shopping for clothes?",
+   "Do you like to bargain for a lower price when you buy things?"
+  ],
+  "cue": "Describe a popular outdoor market that you know.",
+  "say": [
+   "Where the market is",
+   "What kinds of things people sell there",
+   "When it is usually busy"
+  ],
+  "explain": "And explain why you like or dislike shopping at this market."
+ },
+ {
+  "id": "3.1",
+  "title": "Memorable journeys and travel experiences",
+  "part1": [
+   "Do you prefer to travel by train or by airplane when you go on holiday?",
+   "How often do you visit new places outside your hometown?",
+   "Do you like packing your bags a long time before a trip?",
+   "What is the most beautiful place you have ever visited?"
+  ],
+  "cue": "Describe a memorable trip you took with your friends or family.",
+  "say": [
+   "Where you went on this trip",
+   "Who you travelled with",
+   "What activities you did during the trip"
+  ],
+  "explain": "And explain why this travel experience was so memorable to you."
+ },
+ {
+  "id": "3.2",
+  "title": "Family history and childhood memories",
+  "part1": [
+   "Did you spend a lot of time with your grandparents when you were a child?",
+   "Do your parents often tell you stories about their own childhood?",
+   "What was your favourite game to play when you were young?",
+   "Do you think it is important to collect old family photographs?"
+  ],
+  "cue": "Describe a happy memory from your childhood days.",
+  "say": [
+   "How old you were at that time",
+   "Where you were when this happened",
+   "What exactly happened during this event"
+  ],
+  "explain": "And explain why you still feel happy when you remember this childhood moment."
+ },
+ {
+  "id": "3.3",
+  "title": "Traditional celebrations and festivals",
+  "part1": [
+   "What is the most important traditional holiday in your country?",
+   "Do you prefer staying at home or going out during major festivals?",
+   "What kind of special food does your family prepare for celebrations?",
+   "Do people wear traditional clothes during holidays in your town?"
+  ],
+  "cue": "Describe a traditional festival or celebration that you enjoyed recently.",
+  "say": [
+   "What kind of festival it was",
+   "Who you celebrated it with",
+   "What activities people did during the day"
+  ],
+  "explain": "And explain why you enjoyed participating in this traditional celebration."
+ },
+ {
+  "id": "3.4",
+  "title": "Inspiring books and life-changing stories",
+  "part1": [
+   "Do you enjoy reading books or do you prefer watching movies?",
+   "How often did your teachers read stories to you at school?",
+   "Do you like receiving books as gifts for your birthday?",
+   "What is the title of the last book or story you read?"
+  ],
+  "cue": "Describe an interesting book or story that you read in the past.",
+  "say": [
+   "What the title of the book or story was",
+   "What the main topic or story was about",
+   "Where you first found or bought this book"
+  ],
+  "explain": "And explain why you think this book or story was so interesting to read."
+ },
+ {
+  "id": "3.5",
+  "title": "Personal achievements and success",
+  "part1": [
+   "What is a small daily goal that you try to achieve every morning?",
+   "Do you feel proud when you learn a difficult new skill?",
+   "Who is the most successful person that you know personally?",
+   "Do you like setting big goals for your future career or study?"
+  ],
+  "cue": "Describe an important personal success or achievement in your life.",
+  "say": [
+   "What you successfully achieved",
+   "When and where you completed this goal",
+   "How hard you had to work to achieve it"
+  ],
+  "explain": "And explain how you felt after you achieved this success."
+ },
+ {
+  "id": "4.1",
+  "title": "Technology and future lifestyle",
+  "part1": [
+   "Do you use smart gadgets to help you with your daily chores?",
+   "Do you think robots will do most of the housework in the future?",
+   "How often do you buy new electronic products or devices?",
+   "Do you like using technology to learn new things online?"
+  ],
+  "cue": "Describe a piece of technology that you want to buy in the future.",
+  "say": [
+   "What kind of technology it is",
+   "When you plan to buy it",
+   "What features you will use the most"
+  ],
+  "explain": "And explain why this piece of technology will change your lifestyle."
+ },
+ {
+  "id": "4.2",
+  "title": "Environmental changes and green living",
+  "part1": [
+   "Do you try to recycle plastic bottles and paper at home?",
+   "Is there enough green space or parks in your local neighborhood?",
+   "Do you prefer to walk or cycle instead of taking a car to protect the air?",
+   "Do you think young people care a lot about saving energy?"
+  ],
+  "cue": "Describe an environmentally friendly habit that you started recently.",
+  "say": [
+   "What the habit is",
+   "How often you do it",
+   "Who helps you to keep this habit"
+  ],
+  "explain": "And explain why you think this change is good for the environment."
+ },
+ {
+  "id": "4.3",
+  "title": "Life stages and personal growth",
+  "part1": [
+   "What is the most exciting age for a person in your country?",
+   "Do you think people become wiser as they get older?",
+   "What important skill did you learn when you became an adult?",
+   "Do you like to celebrate your birthday with a big party every year?"
+  ],
+  "cue": "Describe an important change or transition that happened in your life.",
+  "say": [
+   "When this change happened",
+   "How your daily routine changed after it",
+   "What challenges you faced during this time"
+  ],
+  "explain": "And explain why this was an important stage for your personal growth."
+ },
+ {
+  "id": "4.4",
+  "title": "Future careers and work life",
+  "part1": [
+   "What kind of job do you hope to do in five years?",
+   "Do you prefer to work alone or as part of a big team?",
+   "Is it common for people in your country to change their jobs often?",
+   "Would you like to start your own business or work for a company?"
+  ],
+  "cue": "Describe a career or a job that you would like to have in the future.",
+  "say": [
+   "What the job is",
+   "What qualifications or skills you need for it",
+   "Where you would like to work"
+  ],
+  "explain": "And explain why you think this career path will be satisfying for you."
+ },
+ {
+  "id": "4.5",
+  "title": "Global travel and cultural changes",
+  "part1": [
+   "Do you want to visit a country that has a completely different culture from yours?",
+   "Do you think international tourism changes the local traditions of a place?",
+   "What foreign language would you like to learn fluently in the future?",
+   "Do you enjoy trying traditional food from other countries?"
+  ],
+  "cue": "Describe a foreign country that you plan to visit for a holiday.",
+  "say": [
+   "Where this country is located",
+   "When you are going to travel there",
+   "What cultural activities you want to experience there"
+  ],
+  "explain": "And explain why you chose this specific country for your future trip."
+ },
+ {
+  "id": "5.1",
+  "title": "Personal belongings and valuable objects",
+  "part1": [
+   "What is the most useful object that you carry with you every day?",
+   "Do you like keeping old things that have personal memories?",
+   "Is it easy for you to lose important things like your keys or phone?",
+   "Do you prefer to buy expensive items or cheap items?"
+  ],
+  "cue": "Describe an important object that you own.",
+  "say": [
+   "What the object looks like",
+   "How long you have owned it",
+   "What you use it for"
+  ],
+  "explain": "And explain why this personal possession is valuable to you."
+ },
+ {
+  "id": "5.2",
+  "title": "Money management and spending habits",
+  "part1": [
+   "Do you think it is easy to save money every month?",
+   "What do you spend most of your money on?",
+   "Do you prefer to pay with cash or a bank card when you buy things?",
+   "Did your parents teach you how to manage your money when you were younger?"
+  ],
+  "cue": "Describe something expensive that you bought recently.",
+  "say": [
+   "What you bought",
+   "Where you bought it from",
+   "Why you decided to buy it"
+  ],
+  "explain": "And explain how you felt after spending your money on this item."
+ },
+ {
+  "id": "5.3",
+  "title": "Gifts and giving items to others",
+  "part1": [
+   "Do you enjoy choosing gifts for your friends on their birthdays?",
+   "What was the best gift that you received last year?",
+   "Do you prefer giving gifts or receiving gifts?",
+   "Is it common to give money as a present in your country?"
+  ],
+  "cue": "Describe a special gift that you gave to someone else.",
+  "say": [
+   "Who you gave the gift to",
+   "What the gift was",
+   "Why you chose this specific item"
+  ],
+  "explain": "And explain how the person reacted when they opened your gift."
+ },
+ {
+  "id": "5.4",
+  "title": "Collecting things and hobbies",
+  "part1": [
+   "Did you collect anything like stamps or stickers when you were a child?",
+   "Do you know anyone who collects unusual things?",
+   "Why do you think some people enjoy collecting old items?",
+   "Would you like to start a new collection or hobby in the future?"
+  ],
+  "cue": "Describe a collection of objects that you or someone you know has.",
+  "say": [
+   "What the objects are",
+   "How many items are in the collection",
+   "Where the items are kept"
+  ],
+  "explain": "And explain why this collection is interesting to look at."
+ },
+ {
+  "id": "5.5",
+  "title": "Advertising and unwanted things",
+  "part1": [
+   "Do you often watch advertisements online or on television?",
+   "Have you ever bought something because of an interesting advertisement?",
+   "What do you do with things that you do not need anymore?",
+   "Do you like recycling old items to make something new?"
+  ],
+  "cue": "Describe a time when you bought something that you did not actually need.",
+  "say": [
+   "What the item was",
+   "Why you decided to buy it at that moment",
+   "Where you put it after you bought it"
+  ],
+  "explain": "And explain why you regret buying this unwanted item."
+ },
+ {
+  "id": "6.1",
+  "title": "Health, fitness and active lifestyles",
+  "part1": [
+   "Do you try to eat healthy food every day?",
+   "How often do you go for a walk to get some fresh air?",
+   "Do you prefer playing team sports or exercising alone?",
+   "Is it easy for you to wake up early in the morning?"
+  ],
+  "cue": "Describe a sport or physical activity that you enjoy doing.",
+  "say": [
+   "What the activity is",
+   "How often you do it",
+   "Where you usually do it"
+  ],
+  "explain": "And explain why this activity helps you stay healthy and fit."
+ },
+ {
+  "id": "6.2",
+  "title": "Food, cooking and traditional dishes",
+  "part1": [
+   "Do you enjoy cooking meals for your family or friends?",
+   "What is your favourite dish from your country?",
+   "Do you prefer eating at home or going to restaurants?",
+   "How often do you try new types of food?"
+  ],
+  "cue": "Describe a special meal or traditional dish that you know how to make.",
+  "say": [
+   "What the dish is",
+   "What ingredients you need to prepare it",
+   "Who taught you how to cook it"
+  ],
+  "explain": "And explain why people in your country love this special food."
+ },
+ {
+  "id": "6.3",
+  "title": "Daily habits and morning routines",
+  "part1": [
+   "What is the first thing you do when you wake up?",
+   "Do you spend a lot of time preparing for your day in the morning?",
+   "Do you prefer a busy daily routine or a relaxed one?",
+   "Is your routine at the weekend different from your routine on weekdays?"
+  ],
+  "cue": "Describe a perfect morning routine that you would like to have.",
+  "say": [
+   "What time you would wake up",
+   "What activities you would do first",
+   "What you would eat for breakfast"
+  ],
+  "explain": "And explain why this morning routine would make you feel good."
+ },
+ {
+  "id": "6.4",
+  "title": "Leisure time and weekend entertainment",
+  "part1": [
+   "What do you like to do on a Saturday afternoon?",
+   "Do you prefer staying indoors or going outside during your free time?",
+   "How often do you watch movies or television shows on weekends?",
+   "Who do you usually spend your free time with?"
+  ],
+  "cue": "Describe an enjoyable weekend activity that you did recently.",
+  "say": [
+   "What the activity was",
+   "Where you went to do it",
+   "Who was with you at that time"
+  ],
+  "explain": "And explain why you found this weekend activity so enjoyable."
+ },
+ {
+  "id": "6.5",
+  "title": "Healthy minds and managing stress",
+  "part1": [
+   "What do you do to relax after a long day of work or study?",
+   "Do you think listening to music helps you feel calm?",
+   "Is it easy for you to fall asleep when you feel tired?",
+   "Do you like spending time alone when you need to think?"
+  ],
+  "cue": "Describe a quiet place where you go when you want to relax.",
+  "say": [
+   "Where this place is located",
+   "What it looks like",
+   "What you usually do when you are there"
+  ],
+  "explain": "And explain why this place helps you feel peaceful and stress-free."
+ }
+]

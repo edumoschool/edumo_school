@@ -1,0 +1,542 @@
+# B1 Speaking Book — additions to data/b1-questions.json (Part 1 + Part 2 come from the B1_Speaking.docx).
+# "## <id>"   p3: Part 3 discussion question   w: English = Uzbek   s: useful language
+
+## 1.1
+p3: Do people today have less free time than in the past? Why?
+p3: Is it better to spend free time with family or with friends?
+p3: Why do some people find it hard to relax?
+p3: How has technology changed the way people spend their free time?
+w: spend quality time with = …bilan mazmunli vaqt o‘tkazmoq
+w: hang out with = …bilan vaqt o‘tkazmoq
+w: keep fit = sog‘lom va baquvvat bo‘lmoq
+w: have a lie-in = ertalab uzoqroq uxlamoq
+w: stay in / go out = uyda qolmoq / ko‘chaga chiqmoq
+w: make a to-do list = ishlar ro‘yxatini tuzmoq
+w: take my mind off = fikrimni chalg‘itmoq
+w: a great way to unwind = dam olishning ajoyib usuli
+s: I’m going to talk about … , which I’ve been doing for … .
+s: I usually do it about … times a week, mostly with … .
+s: The main reason I enjoy it is that it helps me … .
+s: I’d say that people nowadays have less free time because … .
+
+## 1.2
+p3: What makes a city centre a pleasant place to visit?
+p3: Should cars be banned from city centres? Why or why not?
+p3: Who should be responsible for keeping streets clean?
+p3: Do you think people prefer living in houses or flats in the future?
+w: lively / dull = jonli / zerikarli
+w: pedestrian area = piyodalar hududi
+w: street performer = ko‘cha artisti
+w: crowded with = …ga to‘la, gavjum
+w: a safe place at night = kechasi xavfsiz joy
+w: rubbish / litter = axlat
+w: tower block = ko‘p qavatli uy
+w: spacious and cosy = keng va shinam
+s: The street I’d like to describe is … , which is in the centre of … .
+s: Along the street there are lots of … , such as … .
+s: In the evening it gets really lively because … .
+s: In my opinion, city centres should be … because … .
+
+## 1.3
+p3: Why do people like telling stories about their past?
+p3: Are older people better at making decisions than young people?
+p3: Why do some people feel nervous about speaking in public?
+p3: Is it a good idea to talk to strangers? Why or why not?
+w: a memorable experience = esda qolarli voqea
+w: at first / in the end = avvaliga / oxir-oqibat
+w: things went wrong = ishlar chappasiga ketdi
+w: to my surprise = hayratimga
+w: feel embarrassed / nervous = xijolat bo‘lmoq / hayajonlanmoq
+w: burst out laughing = kulib yubormoq
+w: calmly / quickly / politely = xotirjam / tez / xushmuomalalik bilan
+w: I’ll never forget = hech qachon unutmayman
+s: This happened about … years ago, when I was … .
+s: At the time, I was … , and suddenly … .
+s: In the end, … , so everything turned out fine.
+s: Looking back, I felt … , but now I find it really funny.
+
+## 1.4
+p3: What are the biggest changes in a person’s life?
+p3: Is it better to make plans or to be spontaneous?
+p3: How has the internet changed the way young people grow up?
+p3: Why do many young people want to live abroad?
+w: make an arrangement = kelishib olmoq
+w: be looking forward to = …ni intiqlik bilan kutmoq
+w: be about to = …moqchi bo‘lib turmoq
+w: a turning point = burilish nuqtasi
+w: settle down = oila qurib o‘rnashmoq
+w: give up a bad habit = yomon odatni tashlamoq
+w: spend hours online = internetda soatlab o‘tirmoq
+w: plan ahead = oldindan rejalashtirmoq
+s: Next month I’m going to … with … .
+s: We’ve already booked … , and we’re planning to … .
+s: I’m really looking forward to it because … .
+s: I think planning ahead is better because … , although … .
+
+## 1.5
+p3: Why do people buy more things than they need?
+p3: Will people stop using cash in the future?
+p3: Do possessions make people happy?
+p3: What are the advantages of living with fewer things?
+w: personal possession = shaxsiy buyum
+w: made of leather / metal / wood = charm / metall / yog‘ochdan qilingan
+w: brand new / second-hand = yangi / ishlatilgan
+w: of sentimental value = qadrdon, xotira sifatida qimmatli
+w: be in good condition = yaxshi holatda bo‘lmoq
+w: can’t afford = puli yetmaslik
+w: cashless society = naqd pulsiz jamiyat
+w: minimalist lifestyle = minimalistik turmush tarzi
+s: The object I’d like to talk about is my … .
+s: It’s made of … and it’s quite … .
+s: I got it from … when I … .
+s: It means a lot to me because … .
+
+## 2.1
+p3: Why are traditional crafts becoming less popular?
+p3: Should the government support local craftspeople?
+p3: Are handmade things better than things made in factories?
+p3: How can young people learn traditional skills?
+w: handmade / handcrafted = qo‘lda yasalgan
+w: traditional craft = an’anaviy hunarmandchilik
+w: pottery = kulolchilik
+w: embroidery = kashtachilik
+w: be passed down = avloddan avlodga o‘tmoq
+w: skilled craftsperson = mohir hunarmand
+w: cultural heritage = madaniy meros
+w: a unique design = betakror naqsh
+s: One traditional object from my country is … , for example suzani.
+s: It’s usually made of … by skilled craftspeople.
+s: The skills are often passed down from … to … .
+s: It’s important because it shows our … .
+
+## 2.2
+p3: How can cities reduce traffic?
+p3: Is public transport better than private cars? Why?
+p3: Should public transport be free?
+p3: How will people travel around cities in the future?
+w: commute = ishga qatnamoq
+w: rush hour = tirbandlik soatlari
+w: traffic jam = tirbandlik
+w: public transport = jamoat transporti
+w: get stuck in traffic = tirbandlikda qolib ketmoq
+w: reliable / affordable = ishonchli / hamyonbop
+w: cycle lane = velosiped yo‘lagi
+w: environmentally friendly = ekologik toza
+s: I’m going to describe a journey I took by … from … to … .
+s: It was during the rush hour, so … .
+s: What I remember most is … .
+s: I think the best way to reduce traffic is … .
+
+## 2.3
+p3: How does the weather affect people’s jobs?
+p3: Is climate change a serious problem in your country?
+p3: What can ordinary people do about climate change?
+p3: Do you think weather forecasts are reliable?
+w: extreme weather = ekstremal ob-havo
+w: heatwave = jazirama
+w: pouring with rain = sharros yomg‘ir
+w: a heavy storm = kuchli bo‘ron
+w: be cancelled / postponed = bekor qilinmoq / qoldirilmoq
+w: weather forecast = ob-havo ma’lumoti
+w: affect my mood = kayfiyatimga ta’sir qilmoq
+w: climate change = iqlim o‘zgarishi
+s: It happened last … , when we were planning to … .
+s: Suddenly the weather changed and it started … .
+s: Because of that, we had to … instead.
+s: In the end, it was actually … .
+
+## 2.4
+p3: Should old buildings be protected or replaced with new ones?
+p3: What makes a building beautiful?
+p3: Do modern cities all look the same?
+p3: Should people be allowed to design their own houses?
+w: historical building = tarixiy bino
+w: modern architecture = zamonaviy me’morchilik
+w: impressive = ta’sirli, salobatli
+w: be built in = …da qurilgan
+w: be decorated with = …bilan bezatilgan
+w: tower block / skyscraper = ko‘p qavatli bino / osmono‘par
+w: preserve = asrab-avaylamoq
+w: landmark = ramziy bino
+s: The building I’d like to describe is … , which is located in … .
+s: From the outside, it looks … and it’s decorated with … .
+s: Nowadays people use it for … .
+s: I find it interesting because … .
+
+## 2.5
+p3: Why do some people prefer markets to supermarkets?
+p3: Will online shopping replace traditional markets?
+p3: Is bargaining a good thing? Why or why not?
+p3: How have shopping habits changed in your country?
+w: local market = mahalliy bozor
+w: stall / stallholder = rasta / sotuvchi
+w: fresh produce = yangi mahsulotlar
+w: bargain (for) = savdolashmoq
+w: get a good deal = arzonga xarid qilmoq
+w: crowded and noisy = gavjum va shovqinli
+w: a wide variety of = turli xil
+w: lively atmosphere = jonli muhit
+s: The market I know best is … , in the … part of the city.
+s: People sell all kinds of things there, for example … .
+s: It gets really busy on … , especially in the morning.
+s: I love / don’t like shopping there because … .
+
+## 3.1
+p3: Why do people enjoy travelling?
+p3: Is it better to travel with family or with friends?
+p3: How has tourism changed in your country?
+p3: Do people learn more by travelling or by reading?
+w: go on a trip = sayohatga chiqmoq
+w: memorable = esda qolarli
+w: breathtaking scenery = hayratlanarli manzara
+w: off the beaten track = sayyohlar kam boradigan joyda
+w: go sightseeing = diqqatga sazovor joylarni ko‘rmoq
+w: pack your bags = yuk yig‘moq
+w: have the time of your life = umringizdagi eng yaxshi vaqtni o‘tkazmoq
+w: broaden your horizons = dunyoqarashni kengaytirmoq
+s: A few years ago, I went to … with … .
+s: We spent most of our time … .
+s: The highlight of the trip was … .
+s: It was so memorable because … .
+
+## 3.2
+p3: Why is it important to know about your family history?
+p3: Is childhood today better than in the past?
+p3: How do grandparents help in modern families?
+p3: Do children today play outside less than before?
+w: childhood memory = bolalik xotirasi
+w: grow up = katta bo‘lmoq
+w: bring back memories = xotiralarni qaytarmoq
+w: family history = oila tarixi
+w: be close to = …ga yaqin bo‘lmoq
+w: look back on = …ni eslamoq
+w: carefree = tashvishsiz
+w: generation = avlod
+s: When I was about … years old, … .
+s: I remember that we were at … .
+s: What happened was that … .
+s: Whenever I think about it, I feel … because … .
+
+## 3.3
+p3: Why are traditional festivals important?
+p3: Are festivals becoming too commercial?
+p3: How do young people celebrate differently from older people?
+p3: Should schools teach children about traditional celebrations?
+w: celebrate = nishonlamoq
+w: traditional festival = an’anaviy bayram
+w: get together = yig‘ilmoq
+w: prepare a feast = ziyofat tayyorlamoq
+w: wear traditional clothes = milliy kiyim kiymoq
+w: festive atmosphere = bayramona muhit
+w: custom / tradition = urf-odat / an’ana
+w: Navruz = Navro‘z
+s: The celebration I’d like to talk about is … , which takes place in … .
+s: I celebrated it with … at … .
+s: During the day, people usually … .
+s: I enjoyed it because … .
+
+## 3.4
+p3: Do young people read less than in the past? Why?
+p3: Are e-books better than paper books?
+p3: Can a book change someone’s life?
+p3: Should parents read to their children every day?
+w: a page-turner = qo‘yib bo‘lmaydigan kitob
+w: be based on a true story = haqiqiy voqeaga asoslangan
+w: the main character = bosh qahramon
+w: plot = syujet
+w: inspiring = ilhomlantiruvchi
+w: I couldn’t put it down = qo‘ldan qo‘ya olmadim
+w: e-book = elektron kitob
+w: recommend = tavsiya qilmoq
+s: The book I’d like to talk about is … by … .
+s: It’s about … , who … .
+s: I first found it in … / Someone gave it to me as … .
+s: It was interesting because … , and it taught me … .
+
+## 3.5
+p3: What does “success” mean to you?
+p3: Is success more about hard work or luck?
+p3: Should parents push their children to be successful?
+p3: Why do some people never give up?
+w: achieve a goal = maqsadga erishmoq
+w: set a goal = maqsad qo‘ymoq
+w: work hard = qattiq mehnat qilmoq
+w: overcome difficulties = qiyinchiliklarni yengmoq
+w: be proud of = …dan faxrlanmoq
+w: a sense of achievement = yutuq hissi
+w: never give up = hech qachon taslim bo‘lmaslik
+w: pay off = o‘zini oqlamoq
+s: One of my biggest achievements was when I … .
+s: It took me about … to achieve it.
+s: I had to work really hard: every day I … .
+s: When I finally succeeded, I felt … .
+
+## 4.1
+p3: How will technology change our homes in the future?
+p3: Do people depend too much on technology?
+p3: Should children use smartphones? At what age?
+p3: Will robots take people’s jobs?
+w: smart device = aqlli qurilma
+w: cutting-edge technology = eng yangi texnologiya
+w: user-friendly = foydalanish uchun qulay
+w: save time = vaqtni tejamoq
+w: depend on = …ga bog‘liq bo‘lmoq
+w: household chores = uy yumushlari
+w: be addicted to = …ga qaram bo‘lmoq
+w: make life easier = hayotni osonlashtirmoq
+s: One piece of technology I’d love to buy is … .
+s: I’m planning to buy it … , when I … .
+s: The feature I’ll use most is … .
+s: It will change my life because … .
+
+## 4.2
+p3: Who is more responsible for protecting the environment: governments or individuals?
+p3: Should plastic bags be banned?
+p3: Why don’t more people recycle?
+p3: How can cities become greener?
+w: environmentally friendly = ekologik toza
+w: recycle = qayta ishlash
+w: reduce waste = chiqindini kamaytirmoq
+w: carbon footprint = uglerod izi
+w: single-use plastic = bir martalik plastik
+w: save energy = energiyani tejamoq
+w: green space = yashil hudud
+w: make a difference = o‘zgarish qilmoq
+s: Recently I’ve started … .
+s: I do it about … , and my … helps me.
+s: It’s good for the environment because it … .
+s: If everyone did this, we could … .
+
+## 4.3
+p3: What is the best age to get married or start a family?
+p3: Do people become wiser as they get older?
+p3: What skills should every adult have?
+p3: Is it harder to be a teenager today than in the past?
+w: a turning point = burilish nuqtasi
+w: become independent = mustaqil bo‘lmoq
+w: leave home = uydan ketmoq (mustaqil yashash uchun)
+w: take responsibility = mas’uliyatni o‘z zimmasiga olmoq
+w: adapt to = …ga moslashmoq
+w: face challenges = qiyinchiliklarga duch kelmoq
+w: grow up = ulg‘aymoq
+w: in my late teens = o‘n to‘qqiz yoshlarimda
+s: An important change in my life was when I … .
+s: After that, my daily routine was completely different: … .
+s: At first it was hard because … .
+s: It helped me grow as a person because … .
+
+## 4.4
+p3: What makes a job satisfying?
+p3: Is it better to work for a company or be self-employed?
+p3: Should students choose a career that pays well or one they enjoy?
+p3: How will jobs change in the next twenty years?
+w: career path = kasbiy yo‘l
+w: job satisfaction = ishdan qoniqish
+w: qualifications = malaka
+w: be self-employed = o‘zini o‘zi ish bilan ta’minlamoq
+w: work in a team = jamoada ishlamoq
+w: a good salary = yaxshi maosh
+w: gain experience = tajriba orttirmoq
+w: change jobs = ish joyini o‘zgartirmoq
+s: In the future I’d really like to work as a … .
+s: To do this job, you need … and … .
+s: Ideally, I’d like to work in … / for … .
+s: I think it would be satisfying because … .
+
+## 4.5
+p3: Does international tourism damage local cultures?
+p3: Why is it important to learn about other cultures?
+p3: Is it necessary to learn the local language when you travel?
+p3: Are cultures around the world becoming more similar?
+w: cultural differences = madaniy farqlar
+w: experience a new culture = yangi madaniyatni his qilmoq
+w: local customs = mahalliy urf-odatlar
+w: tourist destination = sayyohlik manzili
+w: be fluent in = …ni ravon bilmoq
+w: open-minded = keng fikrli
+w: culture shock = madaniy zarba
+w: try local food = mahalliy taomlarni tatib ko‘rmoq
+s: One country I’d love to visit is … , which is in … .
+s: I’m hoping to go there … .
+s: While I’m there, I want to … .
+s: I chose it because I’m interested in … .
+
+## 5.1
+p3: Why do people keep things they don’t use?
+p3: Are expensive things always better quality?
+p3: Do young people care too much about brands?
+p3: What possessions will people value in the future?
+w: valuable = qimmatbaho
+w: of sentimental value = xotira sifatida qadrli
+w: belong to = …ga tegishli bo‘lmoq
+w: take care of = …ni ehtiyot qilmoq
+w: lose / misplace = yo‘qotmoq / joyini unutmoq
+w: worth a lot of money = katta pul turadi
+w: brand = brend
+w: can’t live without = …siz yasholmaslik
+s: The object I’d like to describe is … .
+s: I’ve had it for about … .
+s: I use it mainly for … .
+s: It’s valuable to me because … .
+
+## 5.2
+p3: Should children learn about money at school?
+p3: Is it a good idea to borrow money from friends?
+p3: Why do some people find it difficult to save money?
+p3: Will people stop using cash completely?
+w: save up for = …uchun pul yig‘moq
+w: spend money on = …ga pul sarflamoq
+w: be in debt = qarzdor bo‘lmoq
+w: borrow / lend = qarz olmoq / qarz bermoq
+w: budget = byudjet
+w: pay by card = karta bilan to‘lamoq
+w: a waste of money = pulni behuda sarflash
+w: be good value for money = narxiga arziydi
+s: Something expensive I bought recently was … .
+s: I bought it from … because … .
+s: I decided to buy it because … .
+s: Afterwards I felt … , but I think it was … .
+
+## 5.3
+p3: Why do people give gifts?
+p3: Is it better to give money or a present?
+p3: Are expensive gifts better than cheap ones?
+p3: Has gift-giving changed in your country?
+w: choose a gift = sovg‘a tanlamoq
+w: a thoughtful present = o‘ylab tanlangan sovg‘a
+w: wrap a present = sovg‘ani o‘ramoq
+w: surprise someone = kimnidir hayratda qoldirmoq
+w: be delighted = juda xursand bo‘lmoq
+w: it’s the thought that counts = muhimi e’tibor
+w: special occasion = maxsus voqea, bayram
+w: handmade gift = qo‘lda yasalgan sovg‘a
+s: The gift I’d like to talk about was for my … .
+s: I gave them … for their … .
+s: I chose it because I knew that they … .
+s: When they opened it, they … .
+
+## 5.4
+p3: Why do people collect things?
+p3: Is collecting a waste of money?
+p3: Are hobbies more important for adults or for children?
+p3: How have hobbies changed because of technology?
+w: collect = to‘plamoq
+w: collector = kolleksioner
+w: rare = noyob
+w: a valuable collection = qimmatbaho to‘plam
+w: keep in an album / a box = albomda / qutida saqlamoq
+w: take up a hobby = yangi mashg‘ulot boshlamoq
+w: spend hours on = …ga soatlab vaqt sarflamoq
+w: be passionate about = …ga ishtiyoqmand bo‘lmoq
+s: Someone I know, my … , collects … .
+s: They have about … items, and the oldest one is … .
+s: They keep them in … .
+s: It’s interesting because each item … .
+
+## 5.5
+p3: Do advertisements make people buy things they don’t need?
+p3: Should advertising for children be controlled?
+p3: Is online advertising more effective than TV advertising?
+p3: What should people do with things they don’t need?
+w: advertisement / advert = reklama
+w: catchy slogan = esda qoladigan shior
+w: impulse buy = o‘ylamasdan qilingan xarid
+w: regret = afsuslanmoq
+w: special offer = maxsus taklif
+w: give away = tekinga berib yubormoq
+w: donate to charity = xayriyaga bermoq
+w: clutter = keraksiz narsalar
+s: A few months ago, I bought … .
+s: I bought it because there was a special offer / an advert that … .
+s: After I bought it, I just put it … and never used it.
+s: I regret buying it because … .
+
+## 6.1
+p3: Why don’t more people exercise regularly?
+p3: Should the government do more to help people stay healthy?
+p3: Is it better to exercise alone or in a group?
+p3: Are people healthier now than in the past?
+w: work out = sport bilan shug‘ullanmoq
+w: stay in shape = qaddi-qomatni saqlamoq
+w: build up strength = kuchni oshirmoq
+w: a healthy lifestyle = sog‘lom turmush tarzi
+w: get some fresh air = toza havoda bo‘lmoq
+w: team sport = jamoaviy sport
+w: burn calories = kaloriya yoqmoq
+w: boost your energy = energiyani oshirmoq
+s: The activity I enjoy most is … .
+s: I do it about … times a week at … .
+s: It helps me stay healthy because … .
+s: Since I started, I’ve noticed that … .
+
+## 6.2
+p3: Why is traditional food important?
+p3: Do young people cook less than their parents?
+p3: Is fast food a serious problem in your country?
+p3: Should cooking be taught at school?
+w: traditional dish = milliy taom
+w: ingredients = masalliqlar
+w: home-cooked meal = uyda pishirilgan ovqat
+w: follow a recipe = retseptga amal qilmoq
+w: be served with = …bilan tortiladi
+w: mouth-watering = og‘izning suvi keladigan
+w: a family recipe = oilaviy retsept
+w: fast food = tezkor ovqat
+s: A dish I know how to make is … .
+s: You need … , … and … .
+s: My … taught me how to cook it when I was … .
+s: People love it because … .
+
+## 6.3
+p3: Is it important to have a daily routine?
+p3: Why do some people find it hard to get up early?
+p3: Do morning people achieve more than night owls?
+p3: How has technology changed people’s daily routines?
+w: morning person / night owl = erta turuvchi / kech yotuvchi odam
+w: wake up / get up = uyg‘onmoq / o‘rnidan turmoq
+w: oversleep = uxlab qolmoq
+w: stick to a routine = tartibga amal qilmoq
+w: start the day = kunni boshlamoq
+w: a healthy breakfast = foydali nonushta
+w: in a hurry = shoshilib
+w: feel refreshed = tetiklashmoq
+s: My perfect morning would start at … .
+s: First, I would … , and then I would … .
+s: For breakfast, I’d have … .
+s: This routine would make me feel … because … .
+
+## 6.4
+p3: Do people have enough free time nowadays?
+p3: Is it better to spend weekends at home or going out?
+p3: How do young people and older people spend their free time differently?
+p3: Has entertainment become too expensive?
+w: leisure time = bo‘sh vaqt
+w: stay indoors = uyda qolmoq
+w: go on a day trip = bir kunlik sayohatga chiqmoq
+w: catch up with friends = do‘stlar bilan uchrashib gaplashmoq
+w: binge-watch = ketma-ket ko‘p qism ko‘rmoq
+w: have a great time = ajoyib vaqt o‘tkazmoq
+w: entertainment = ko‘ngilochar tadbirlar
+w: recharge my batteries = kuch to‘plamoq
+s: Last weekend I … with … .
+s: We went to … , and we … .
+s: The best part was when … .
+s: I enjoyed it because it helped me … .
+
+## 6.5
+p3: Why do people feel more stressed today?
+p3: What can schools and companies do to reduce stress?
+p3: Is it good to spend time alone?
+p3: Does living in a city make people more stressed?
+w: feel stressed / under pressure = stressda / bosim ostida bo‘lmoq
+w: calm down = tinchlanmoq
+w: a peaceful place = osuda joy
+w: clear my head = fikrimni tiniqlashtirmoq
+w: switch off = o‘chirmoq, dam olmoq
+w: mental health = ruhiy salomatlik
+w: get enough sleep = yetarlicha uxlamoq
+w: take a break = tanaffus qilmoq
+s: The place I go to relax is … , which is … .
+s: It’s quiet and … , with … .
+s: When I’m there, I usually … .
+s: It helps me feel peaceful because … .

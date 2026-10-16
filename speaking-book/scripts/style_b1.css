@@ -1,0 +1,77 @@
+/* B1 (IELTS-style) additions on top of style.css + style_a2.css */
+.tsub{display:block;font-size:8pt;font-weight:600;color:var(--muted);margin-top:1px}
+.ielts .wbody{grid-template-columns:1fr 96mm;gap:5mm;padding:6px 12px 10px}
+.parts3{display:flex;flex-direction:column;gap:6px;min-height:0}
+.parts3 h4{display:flex;align-items:center;gap:5px;font-size:7.4pt;font-weight:800;letter-spacing:.1em;text-transform:uppercase;margin-bottom:3px}
+.parts3 h4 .ico{width:12px;height:12px}
+.pbox1,.pbox3{border-radius:9px;padding:6px 10px}
+.pbox1{background:var(--tint2);border:1px solid var(--line)}
+.pbox1 h4{color:var(--blue-d)}
+.pbox3{background:#F4F2FF;border:1px solid #DDD8FB}
+.pbox3 h4{color:var(--violet)}
+.pbox3 .qn{border-color:var(--violet);color:var(--violet)}
+.parts3 .qs{padding:0;display:block}
+.parts3 .qs li{padding:2.5px 0}
+.parts3 .qs p,.qs.mock p{font-size:9.4pt}
+.cue{border:2px solid var(--teal);border-radius:10px;padding:7px 12px 8px;background:#F2FBFA;flex:1;display:flex;flex-direction:column;justify-content:center}
+.cuehead{display:flex;justify-content:space-between;align-items:center;margin-bottom:3px}
+.cuehead b{font-size:7.4pt;letter-spacing:.12em;color:var(--teal)}
+.cuehead span{font-size:7.2pt;font-weight:700;color:#fff;background:var(--teal);border-radius:999px;padding:2px 8px}
+.cueq{font-size:11pt;font-weight:800;color:var(--navy)}
+.say{font-size:8.4pt;color:var(--muted);margin-top:2px}
+.cue ul{list-style:none;font-size:9.4pt;color:#24406E}
+.cue li{padding:1px 0 1px 14px;position:relative}
+.cue li:before{content:"•";position:absolute;left:3px;color:var(--teal);font-weight:900}
+.explain{font-size:9.4pt;font-weight:600;color:#0B6E6D;margin-top:2px}
+.ielts .words ul{gap:5px 12px}
+.ielts .words li{font-size:8.8pt}
+.ielts .words li span{font-size:7.8pt}
+.ielts .starters li{font-size:9pt;padding:2px 0}
+.ubanner+.ielts .parts3 .qs li{padding:1.5px 0}
+.ubanner+.ielts .parts3 .qs p{font-size:9pt}
+.ubanner+.ielts .cue ul,.ubanner+.ielts .explain{font-size:9pt}
+.ubanner+.ielts .cueq{font-size:10.2pt}
+.ubanner+.ielts .words ul{gap:3px 12px}
+.ubanner+.ielts .words li{font-size:8.4pt}
+.ubanner+.ielts .starters li{font-size:8.6pt;padding:1px 0}
+/* mock test page */
+.rcol{gap:6px}
+.rcol .rbox{margin:8px 0 0}
+.mockcue{margin-top:8px;flex:0 0 auto}
+.qs.mock{padding:2px 0 0;display:block}
+.qs.mock li{padding:3px 0}
+.rcol .rbox:first-child{flex:0 0 auto}
+.rcol .rbox.notes{flex:1;display:flex;flex-direction:column}
+.rcol .rbox.notes .line{flex:1;height:auto}
+.rcol .checks{flex:0 0 auto;display:block}
+/* front pages */
+.steps.three{grid-template-columns:repeat(3,1fr)}
+.steps.three em{display:inline-block;font-style:normal;font-size:7.6pt;font-weight:800;color:#fff;background:var(--teal);border-radius:999px;padding:1px 8px;margin:4px 0 2px}
+.crit td:first-child{width:36mm}
+.crit td{padding:11px 6px}
+.plain2 li{font-style:normal!important;color:var(--ink)!important}
+.model{font-size:9.6pt;color:#24406E;font-style:italic;margin-top:8px;background:var(--tint2);border-radius:9px;padding:9px 11px}
+.model b{color:var(--blue-d);font-style:normal}
+.toc.three{grid-template-columns:repeat(3,1fr)}
+.toc.three .c ul{font-size:9pt}
+.toc.three .c li{padding:3px 0 3px 10px}
+.cover .card .q{font-size:11pt}
+.csay{font-size:8.4pt;color:var(--muted);margin:6px 0 2px}
+.csl{font-size:9pt;color:#24406E;padding-left:16px;margin-bottom:8px}
+/* spacing fixes */
+.parts3{justify-content:space-between}
+.cue{flex:0 0 auto}
+.pbox1,.pbox3{flex:1;display:flex;flex-direction:column}
+.pbox1 .qs,.pbox3 .qs{flex:1;display:flex;flex-direction:column;justify-content:space-around}
+.parts3 .qs p{font-size:10.2pt}
+.cueq{font-size:12pt}
+.cue ul,.explain{font-size:10pt}
+.ubanner+.ielts .parts3 .qs p{font-size:9.6pt}
+.ubanner+.ielts .cueq{font-size:10.8pt}
+.ubanner+.ielts .cue ul,.ubanner+.ielts .explain{font-size:9.4pt}
+.review .qrange{color:#BFE0FF}
+.rcol .rbox:last-child:not(.notes){flex:1;display:flex;flex-direction:column}
+.rcol .rbox:last-child:not(.notes) .qs.mock{flex:1;display:flex;flex-direction:column;justify-content:space-around}
+.qs.mock p{font-size:10pt}
+.steps.three em{display:table;margin:5px 0 4px}
+.steps.three b{display:block}
