@@ -1,10 +1,9 @@
 """Generate the audio tracks for every unit with the OpenAI text-to-speech API.
 
 Tracks per unit (dist/audio/uNN-*.mp3):
-  1-phrases    key phrases, each followed by a pause to repeat
-  2-dialogue   the dialogue at natural speed (two voices)
-  3-shadowing  the dialogue line by line with a pause to repeat each line
-  4-model      the model talk for the fluency task
+  1-words   topic vocabulary, each word followed by a pause to repeat
+  2-story   the story
+  3-speech  the model speech
 
 Every clip is cached in audio-cache/ (keyed by voice + text), so re-running only
 pays for new or changed sentences. Requests go to api.openai.com through the
@@ -80,31 +79,26 @@ def spoken(text):
     return re.sub(r"\s+", " ", text).strip()
 
 
+def plain(text):
+    return spoken(text.replace("**", "").replace(" | ", " "))
+
+
 def build_unit(u):
     n = f"u{u['n']:02d}"
     narrator, talker = CFG["narrator_voice"], CFG["model_talk_voice"]
     print(f"Unit {u['n']}: {u['title']}")
-    # 1 key phrases: say each one (or its example), then a pause to repeat
-    parts = [speak(f"Unit {u['n']}. {u['title']}. Key phrases. Listen and repeat.", narrator), silence(1.2)]
-    for en, _, example in u["phrases"]:
-        clip = speak(spoken(example or en), narrator)
-        parts += [clip, silence(max(2.0, duration(clip) + 1.0))]
-    join(parts, f"{n}-1-phrases.mp3")
-    # 2 dialogue at natural speed
-    d = u["dialogue"]
-    lines = [speak(spoken(t), d["voices"][who]) for who, t in d["lines"]]
-    parts = [speak(f"{d['title']}.", narrator), silence(0.8)]
-    for clip in lines:
-        parts += [clip, silence(0.45)]
-    join(parts, f"{n}-2-dialogue.mp3")
-    # 3 shadowing: each line, then a pause as long as the line to repeat it
-    parts = [speak("Shadowing. Listen and repeat each line.", narrator), silence(1.0)]
-    for clip in lines:
-        parts += [clip, silence(duration(clip) + 1.0)]
-    join(parts, f"{n}-3-shadowing.mp3")
-    # 4 model talk
-    join([speak(f"Model talk. {u['fluency']['topic']}.", narrator), silence(0.8),
-          speak(u["fluency"]["model"], talker)], f"{n}-4-model.mp3")
+    # 1 topic vocabulary: each word, then a pause to repeat it
+    parts = [speak(f"Unit {u['n']}. {u['title']}. Topic vocabulary. Listen and repeat.", narrator), silence(1.2)]
+    for g in u["words"]:
+        for en, _ in g["items"]:
+            clip = speak(spoken(en), narrator)
+            parts += [clip, silence(1.8)]
+    join(parts, f"{n}-1-words.mp3")
+    # 2 story
+    s = u["story"]
+    join([speak(f"{s['title']}.", narrator), silence(0.8), speak(plain(s["text"]), talker)], f"{n}-2-story.mp3")
+    # 3 model speech
+    join([speak("Model speech.", narrator), silence(0.6), speak(plain(u["speech"]), talker)], f"{n}-3-speech.mp3")
 
 
 if __name__ == "__main__":
