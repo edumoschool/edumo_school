@@ -1,0 +1,2834 @@
+[
+ {
+  "n": 1,
+  "title": "Your World",
+  "lessons": [
+   {
+    "id": "1.1",
+    "title": "Multicultural Cities",
+    "questions": [
+     {
+      "n": 1,
+      "q": "What countries do you know where many languages are spoken?"
+     },
+     {
+      "n": 2,
+      "q": "What nationalities live in your city or town?"
+     },
+     {
+      "n": 3,
+      "q": "Can you name five countries and their official languages?"
+     },
+     {
+      "n": 4,
+      "q": "What does 'multicultural' mean to you?"
+     },
+     {
+      "n": 5,
+      "q": "Do you think it is good to live in a multicultural city? Why?"
+     },
+     {
+      "n": 6,
+      "q": "What languages do people speak in the UK?"
+     },
+     {
+      "n": 7,
+      "q": "Can you name three cities that are famous for being multicultural?"
+     },
+     {
+      "n": 8,
+      "q": "What is the difference between nationality and language?"
+     },
+     {
+      "n": 9,
+      "q": "Do people in your country speak more than one language?"
+     },
+     {
+      "n": 10,
+      "q": "What language would you like to learn? Why?"
+     }
+    ]
+   },
+   {
+    "id": "1.2",
+    "title": "Family",
+    "questions": [
+     {
+      "n": 11,
+      "q": "How many people are in your family?"
+     },
+     {
+      "n": 12,
+      "q": "What are your family members' names?"
+     },
+     {
+      "n": 13,
+      "q": "Do you have brothers or sisters? How old are they?"
+     },
+     {
+      "n": 14,
+      "q": "What does your mother or father do for work?"
+     },
+     {
+      "n": 15,
+      "q": "Do you live with your grandparents? Do you visit them often?"
+     },
+     {
+      "n": 16,
+      "q": "What do you and your family do at weekends?"
+     },
+     {
+      "n": 17,
+      "q": "Are you similar to or different from your parents?"
+     },
+     {
+      "n": 18,
+      "q": "What is a typical family in your country like?"
+     },
+     {
+      "n": 19,
+      "q": "Do you prefer a big family or a small family? Why?"
+     },
+     {
+      "n": 20,
+      "q": "Who is the most important person in your family? Why?"
+     }
+    ]
+   },
+   {
+    "id": "1.3",
+    "title": "Vocabulary & Skills Development",
+    "questions": [
+     {
+      "n": 21,
+      "q": "What words do you use to describe people's appearance?"
+     },
+     {
+      "n": 22,
+      "q": "How do you say hello and goodbye in different languages?"
+     },
+     {
+      "n": 23,
+      "q": "Can you describe a person using adjectives?"
+     },
+     {
+      "n": 24,
+      "q": "What is the difference between 'tall' and 'short'?"
+     },
+     {
+      "n": 25,
+      "q": "How do you introduce yourself to a new person?"
+     },
+     {
+      "n": 26,
+      "q": "Can you describe your best friend's appearance?"
+     },
+     {
+      "n": 27,
+      "q": "What vocabulary do you know for talking about age?"
+     },
+     {
+      "n": 28,
+      "q": "What does the word 'nationality' mean?"
+     },
+     {
+      "n": 29,
+      "q": "Can you spell your name and say your nationality in English?"
+     },
+     {
+      "n": 30,
+      "q": "What skills do you think are important for learning English?"
+     }
+    ]
+   },
+   {
+    "id": "1.4",
+    "title": "Speaking & Writing",
+    "questions": [
+     {
+      "n": 31,
+      "q": "How do you greet people in your culture?"
+     },
+     {
+      "n": 32,
+      "q": "What do you say when you meet someone for the first time?"
+     },
+     {
+      "n": 33,
+      "q": "How do you introduce a friend to another person?"
+     },
+     {
+      "n": 34,
+      "q": "Can you write a short text message introducing yourself?"
+     },
+     {
+      "n": 35,
+      "q": "What information do you give when you introduce yourself?"
+     },
+     {
+      "n": 36,
+      "q": "What is the difference between formal and informal greetings?"
+     },
+     {
+      "n": 37,
+      "q": "Do you shake hands, hug, or kiss when you greet someone?"
+     },
+     {
+      "n": 38,
+      "q": "How do you say goodbye politely in English?"
+     },
+     {
+      "n": 39,
+      "q": "Can you describe yourself in three sentences?"
+     },
+     {
+      "n": 40,
+      "q": "What do you write at the beginning and end of an email?"
+     }
+    ]
+   },
+   {
+    "id": "1.5",
+    "title": "Video: Brighton Language Exchange",
+    "questions": [
+     {
+      "n": 41,
+      "q": "What is a language exchange?"
+     },
+     {
+      "n": 42,
+      "q": "Have you ever spoken English with a native speaker?"
+     },
+     {
+      "n": 43,
+      "q": "What would you talk about at a language exchange event?"
+     },
+     {
+      "n": 44,
+      "q": "Why do people go to language exchange meetings?"
+     },
+     {
+      "n": 45,
+      "q": "Would you like to go to a language exchange? Why?"
+     },
+     {
+      "n": 46,
+      "q": "What questions would you ask a person from another country?"
+     },
+     {
+      "n": 47,
+      "q": "Is Brighton in England, Scotland, or Wales?"
+     },
+     {
+      "n": 48,
+      "q": "What do you think people talk about when they first meet?"
+     },
+     {
+      "n": 49,
+      "q": "How can a language exchange help you improve your English?"
+     },
+     {
+      "n": 50,
+      "q": "What other ways can you practise speaking English?"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "n": 2,
+  "title": "My Day",
+  "lessons": [
+   {
+    "id": "2.1",
+    "title": "A Day in the Life of a Scientist",
+    "questions": [
+     {
+      "n": 51,
+      "q": "What time do you usually wake up?"
+     },
+     {
+      "n": 52,
+      "q": "What do you do in the morning before work or school?"
+     },
+     {
+      "n": 53,
+      "q": "Do you eat breakfast every day? What do you eat?"
+     },
+     {
+      "n": 54,
+      "q": "What does a scientist do in their job?"
+     },
+     {
+      "n": 55,
+      "q": "How often do you use the internet for work or study?"
+     },
+     {
+      "n": 56,
+      "q": "Do you work long hours or short hours?"
+     },
+     {
+      "n": 57,
+      "q": "What time do you go to bed at night?"
+     },
+     {
+      "n": 58,
+      "q": "How do you travel to school or work?"
+     },
+     {
+      "n": 59,
+      "q": "Do you have a routine? What is it?"
+     },
+     {
+      "n": 60,
+      "q": "What is one interesting job you know about?"
+     }
+    ]
+   },
+   {
+    "id": "2.2",
+    "title": "Spending Time",
+    "questions": [
+     {
+      "n": 61,
+      "q": "What do you do in your free time?"
+     },
+     {
+      "n": 62,
+      "q": "How do you spend your weekends?"
+     },
+     {
+      "n": 63,
+      "q": "What time do you have lunch?"
+     },
+     {
+      "n": 64,
+      "q": "Do you watch TV in the evening? What do you watch?"
+     },
+     {
+      "n": 65,
+      "q": "Do you listen to music? What kind?"
+     },
+     {
+      "n": 66,
+      "q": "How often do you exercise or play sport?"
+     },
+     {
+      "n": 67,
+      "q": "Do you prefer to spend time alone or with friends?"
+     },
+     {
+      "n": 68,
+      "q": "What is your favourite way to relax?"
+     },
+     {
+      "n": 69,
+      "q": "Do you read books or magazines in your free time?"
+     },
+     {
+      "n": 70,
+      "q": "What did you do last weekend?"
+     }
+    ]
+   },
+   {
+    "id": "2.3",
+    "title": "Vocabulary & Skills Development",
+    "questions": [
+     {
+      "n": 71,
+      "q": "What are common daily activities in your routine?"
+     },
+     {
+      "n": 72,
+      "q": "Can you say the times: 7:15, 8:30, 10:45?"
+     },
+     {
+      "n": 73,
+      "q": "What adverbs of frequency do you know (always, usually, never)?"
+     },
+     {
+      "n": 74,
+      "q": "How often do you cook at home?"
+     },
+     {
+      "n": 75,
+      "q": "What is the difference between 'sometimes' and 'rarely'?"
+     },
+     {
+      "n": 76,
+      "q": "Can you make a sentence with 'usually' and a daily activity?"
+     },
+     {
+      "n": 77,
+      "q": "What vocabulary do you use to describe your morning routine?"
+     },
+     {
+      "n": 78,
+      "q": "How do you say you do something 'every day' in English?"
+     },
+     {
+      "n": 79,
+      "q": "What time is 'quarter past three' in numbers?"
+     },
+     {
+      "n": 80,
+      "q": "Can you describe your typical weekday?"
+     }
+    ]
+   },
+   {
+    "id": "2.4",
+    "title": "Speaking & Writing",
+    "questions": [
+     {
+      "n": 81,
+      "q": "Can you invite a friend to do something this weekend?"
+     },
+     {
+      "n": 82,
+      "q": "How do you suggest an activity to a friend?"
+     },
+     {
+      "n": 83,
+      "q": "What do you say when you accept an invitation?"
+     },
+     {
+      "n": 84,
+      "q": "What do you say when you decline (refuse) an invitation?"
+     },
+     {
+      "n": 85,
+      "q": "How do you arrange to meet a friend?"
+     },
+     {
+      "n": 86,
+      "q": "Can you write a text message to make arrangements?"
+     },
+     {
+      "n": 87,
+      "q": "What phrases do you use to make suggestions in English?"
+     },
+     {
+      "n": 88,
+      "q": "What do you reply if someone says 'Would you like to go to the cinema?'"
+     },
+     {
+      "n": 89,
+      "q": "How do you say you are busy politely?"
+     },
+     {
+      "n": 90,
+      "q": "Can you suggest three activities for this evening?"
+     }
+    ]
+   },
+   {
+    "id": "2.5",
+    "title": "Video: The Menna Family",
+    "questions": [
+     {
+      "n": 91,
+      "q": "What does a typical family day look like in your home?"
+     },
+     {
+      "n": 92,
+      "q": "Do different family members have different routines?"
+     },
+     {
+      "n": 93,
+      "q": "Who makes breakfast in your family?"
+     },
+     {
+      "n": 94,
+      "q": "At what time does your family usually have dinner?"
+     },
+     {
+      "n": 95,
+      "q": "Do you eat together as a family? How often?"
+     },
+     {
+      "n": 96,
+      "q": "What do children do after school in your country?"
+     },
+     {
+      "n": 97,
+      "q": "How do parents spend their evenings in your family?"
+     },
+     {
+      "n": 98,
+      "q": "Do you help with housework? What do you do?"
+     },
+     {
+      "n": 99,
+      "q": "What is the most important meal of the day in your family?"
+     },
+     {
+      "n": 100,
+      "q": "How is your family's routine on weekdays different from weekends?"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "n": 3,
+  "title": "Work",
+  "lessons": [
+   {
+    "id": "3.1",
+    "title": "Jobs",
+    "questions": [
+     {
+      "n": 101,
+      "q": "What is your job or what job would you like in the future?"
+     },
+     {
+      "n": 102,
+      "q": "Can you name five different jobs in English?"
+     },
+     {
+      "n": 103,
+      "q": "What does a nurse do?"
+     },
+     {
+      "n": 104,
+      "q": "What is the difference between a doctor and a dentist?"
+     },
+     {
+      "n": 105,
+      "q": "Do you prefer to work indoors or outdoors? Why?"
+     },
+     {
+      "n": 106,
+      "q": "What job do you think is the most important in society?"
+     },
+     {
+      "n": 107,
+      "q": "Can you describe a teacher's daily routine?"
+     },
+     {
+      "n": 108,
+      "q": "What job would you never want to do? Why?"
+     },
+     {
+      "n": 109,
+      "q": "Is being a chef a popular job in your country?"
+     },
+     {
+      "n": 110,
+      "q": "What skills do you need to be a good journalist?"
+     }
+    ]
+   },
+   {
+    "id": "3.2",
+    "title": "What Do You Do?",
+    "questions": [
+     {
+      "n": 111,
+      "q": "What do you do? (What is your job or study?)"
+     },
+     {
+      "n": 112,
+      "q": "Where do you work or study?"
+     },
+     {
+      "n": 113,
+      "q": "Do you work full-time or part-time?"
+     },
+     {
+      "n": 114,
+      "q": "How many hours a week do you work?"
+     },
+     {
+      "n": 115,
+      "q": "Do you enjoy your job or studies? Why?"
+     },
+     {
+      "n": 116,
+      "q": "What are the advantages of working from home?"
+     },
+     {
+      "n": 117,
+      "q": "What do you think about having a freelance job?"
+     },
+     {
+      "n": 118,
+      "q": "What is a salary? Is a good salary important to you?"
+     },
+     {
+      "n": 119,
+      "q": "Do you have colleagues? How many?"
+     },
+     {
+      "n": 120,
+      "q": "What is the difference between a boss and a manager?"
+     }
+    ]
+   },
+   {
+    "id": "3.3",
+    "title": "Vocabulary & Skills Development",
+    "questions": [
+     {
+      "n": 121,
+      "q": "What is an '-er' suffix? Can you give examples (teacher, baker)?"
+     },
+     {
+      "n": 122,
+      "q": "Can you make a job word from: cook, build, dance?"
+     },
+     {
+      "n": 123,
+      "q": "What vocabulary do you know for workplaces (office, hospital, factory)?"
+     },
+     {
+      "n": 124,
+      "q": "What is the difference between 'earn' and 'salary'?"
+     },
+     {
+      "n": 125,
+      "q": "Can you use the suffix '-er' to create a new word?"
+     },
+     {
+      "n": 126,
+      "q": "What does 'unemployed' mean?"
+     },
+     {
+      "n": 127,
+      "q": "What is a 'part-time' job?"
+     },
+     {
+      "n": 128,
+      "q": "Can you name three jobs that work in a hospital?"
+     },
+     {
+      "n": 129,
+      "q": "What is the opposite of 'full-time'?"
+     },
+     {
+      "n": 130,
+      "q": "What vocabulary do you know for describing a workplace?"
+     }
+    ]
+   },
+   {
+    "id": "3.4",
+    "title": "Speaking & Writing",
+    "questions": [
+     {
+      "n": 131,
+      "q": "How do you ask someone about their job politely?"
+     },
+     {
+      "n": 132,
+      "q": "What questions do you ask at a job interview?"
+     },
+     {
+      "n": 133,
+      "q": "How do you describe your job in English?"
+     },
+     {
+      "n": 134,
+      "q": "Can you write a short paragraph about your job or studies?"
+     },
+     {
+      "n": 135,
+      "q": "What information is in a CV (curriculum vitae)?"
+     },
+     {
+      "n": 136,
+      "q": "How do you answer the question: 'What do you do?'"
+     },
+     {
+      "n": 137,
+      "q": "What do you say in English when you start a new job?"
+     },
+     {
+      "n": 138,
+      "q": "What is the difference between 'work for' and 'work at'?"
+     },
+     {
+      "n": 139,
+      "q": "Can you describe your ideal job in two sentences?"
+     },
+     {
+      "n": 140,
+      "q": "How do you talk about working hours in English?"
+     }
+    ]
+   },
+   {
+    "id": "3.5",
+    "title": "Video: An Iranian Doctor in the USA",
+    "questions": [
+     {
+      "n": 141,
+      "q": "Why do people move to another country for work?"
+     },
+     {
+      "n": 142,
+      "q": "What challenges does a doctor face in a foreign country?"
+     },
+     {
+      "n": 143,
+      "q": "Is it easy to work in another country? Why or why not?"
+     },
+     {
+      "n": 144,
+      "q": "What language skills are important for a foreign worker?"
+     },
+     {
+      "n": 145,
+      "q": "Do many people from your country work abroad?"
+     },
+     {
+      "n": 146,
+      "q": "What country would you like to work in? Why?"
+     },
+     {
+      "n": 147,
+      "q": "What is the difference between working in a big city and a small town?"
+     },
+     {
+      "n": 148,
+      "q": "What support do foreign workers need in a new country?"
+     },
+     {
+      "n": 149,
+      "q": "What is the most difficult thing about working abroad?"
+     },
+     {
+      "n": 150,
+      "q": "What are the benefits of working in another country?"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "n": 4,
+  "title": "Places and Things",
+  "lessons": [
+   {
+    "id": "4.1",
+    "title": "Underground Towns",
+    "questions": [
+     {
+      "n": 151,
+      "q": "What is an underground town or city?"
+     },
+     {
+      "n": 152,
+      "q": "Have you heard of places like Coober Pedy in Australia?"
+     },
+     {
+      "n": 153,
+      "q": "Why do people live underground in some places?"
+     },
+     {
+      "n": 154,
+      "q": "What places are in a typical town (hospital, school, library)?"
+     },
+     {
+      "n": 155,
+      "q": "What is the difference between a city and a town?"
+     },
+     {
+      "n": 156,
+      "q": "What buildings are near your home?"
+     },
+     {
+      "n": 157,
+      "q": "Is there a swimming pool or cinema in your town?"
+     },
+     {
+      "n": 158,
+      "q": "What is the most unusual place you have visited?"
+     },
+     {
+      "n": 159,
+      "q": "Would you like to live underground? Why or why not?"
+     },
+     {
+      "n": 160,
+      "q": "What do you think makes a good place to live?"
+     }
+    ]
+   },
+   {
+    "id": "4.2",
+    "title": "Where I Live",
+    "questions": [
+     {
+      "n": 161,
+      "q": "Do you live in a house or a flat (apartment)?"
+     },
+     {
+      "n": 162,
+      "q": "How many rooms does your home have?"
+     },
+     {
+      "n": 163,
+      "q": "What furniture is in your bedroom?"
+     },
+     {
+      "n": 164,
+      "q": "What is in your kitchen?"
+     },
+     {
+      "n": 165,
+      "q": "Is there a garden or balcony in your home?"
+     },
+     {
+      "n": 166,
+      "q": "Where do you live - near the centre or far from the city?"
+     },
+     {
+      "n": 167,
+      "q": "What is next to your home?"
+     },
+     {
+      "n": 168,
+      "q": "What do you like most about your home?"
+     },
+     {
+      "n": 169,
+      "q": "Would you like to move to a different place? Where?"
+     },
+     {
+      "n": 170,
+      "q": "What is the difference between a house and a flat?"
+     }
+    ]
+   },
+   {
+    "id": "4.3",
+    "title": "Vocabulary & Skills Development",
+    "questions": [
+     {
+      "n": 171,
+      "q": "What are opposite adjectives? Can you give examples (clean/dirty)?"
+     },
+     {
+      "n": 172,
+      "q": "What is the opposite of 'noisy'?"
+     },
+     {
+      "n": 173,
+      "q": "What is the opposite of 'new'?"
+     },
+     {
+      "n": 174,
+      "q": "Can you describe your neighbourhood using adjectives?"
+     },
+     {
+      "n": 175,
+      "q": "What does 'modern' mean? What is the opposite?"
+     },
+     {
+      "n": 176,
+      "q": "How do you say where something is using prepositions (next to, opposite)?"
+     },
+     {
+      "n": 177,
+      "q": "What is the difference between 'in front of' and 'behind'?"
+     },
+     {
+      "n": 178,
+      "q": "Can you describe the position of objects in your room?"
+     },
+     {
+      "n": 179,
+      "q": "What adjectives describe a good or bad place to live?"
+     },
+     {
+      "n": 180,
+      "q": "Can you use 'there is' and 'there are' in sentences about your town?"
+     }
+    ]
+   },
+   {
+    "id": "4.4",
+    "title": "Speaking & Writing",
+    "questions": [
+     {
+      "n": 181,
+      "q": "How do you ask for and give directions in English?"
+     },
+     {
+      "n": 182,
+      "q": "Can you explain how to get from school to a supermarket near you?"
+     },
+     {
+      "n": 183,
+      "q": "What do you say when someone asks you 'Where is the bank?'"
+     },
+     {
+      "n": 184,
+      "q": "What words do you use for directions (turn left, go straight)?"
+     },
+     {
+      "n": 185,
+      "q": "How do you write an email to a friend about where you live?"
+     },
+     {
+      "n": 186,
+      "q": "What is 'on the right' in your language?"
+     },
+     {
+      "n": 187,
+      "q": "Can you describe the route from your home to school?"
+     },
+     {
+      "n": 188,
+      "q": "What do you say when you don't know the directions?"
+     },
+     {
+      "n": 189,
+      "q": "How do you ask if there is a pharmacy near here?"
+     },
+     {
+      "n": 190,
+      "q": "What information do you include when giving directions?"
+     }
+    ]
+   },
+   {
+    "id": "4.5",
+    "title": "Video: Almas Tower",
+    "questions": [
+     {
+      "n": 191,
+      "q": "What is a famous tall building in your country?"
+     },
+     {
+      "n": 192,
+      "q": "Where is Almas Tower? (Dubai, UAE)"
+     },
+     {
+      "n": 193,
+      "q": "What do people use tall office buildings for?"
+     },
+     {
+      "n": 194,
+      "q": "Have you ever been to a very tall building?"
+     },
+     {
+      "n": 195,
+      "q": "What do you see from the top of a tall building?"
+     },
+     {
+      "n": 196,
+      "q": "Why do cities build skyscrapers?"
+     },
+     {
+      "n": 197,
+      "q": "What is the tallest building in the world? Do you know?"
+     },
+     {
+      "n": 198,
+      "q": "Would you like to work on the top floor of a skyscraper? Why?"
+     },
+     {
+      "n": 199,
+      "q": "What facilities are usually in a big office tower?"
+     },
+     {
+      "n": 200,
+      "q": "What is interesting about modern architecture in your city?"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "n": 5,
+  "title": "Clothes and Shopping",
+  "lessons": [
+   {
+    "id": "5.1",
+    "title": "Shopping",
+    "questions": [
+     {
+      "n": 201,
+      "q": "Do you like shopping? Why or why not?"
+     },
+     {
+      "n": 202,
+      "q": "Where do you usually buy your clothes?"
+     },
+     {
+      "n": 203,
+      "q": "How often do you go shopping?"
+     },
+     {
+      "n": 204,
+      "q": "Do you prefer shopping online or in a store? Why?"
+     },
+     {
+      "n": 205,
+      "q": "What is your favourite shop?"
+     },
+     {
+      "n": 206,
+      "q": "What do you buy most often?"
+     },
+     {
+      "n": 207,
+      "q": "What is the difference between a market and a shopping mall?"
+     },
+     {
+      "n": 208,
+      "q": "How do you pay when you shop - cash or card?"
+     },
+     {
+      "n": 209,
+      "q": "Do you like shopping for food or clothes more?"
+     },
+     {
+      "n": 210,
+      "q": "What did you buy last time you went shopping?"
+     }
+    ]
+   },
+   {
+    "id": "5.2",
+    "title": "What Is He Wearing?",
+    "questions": [
+     {
+      "n": 211,
+      "q": "What are you wearing today?"
+     },
+     {
+      "n": 212,
+      "q": "Can you describe what your teacher is wearing?"
+     },
+     {
+      "n": 213,
+      "q": "What is your favourite item of clothing?"
+     },
+     {
+      "n": 214,
+      "q": "What clothes do people wear in winter in your country?"
+     },
+     {
+      "n": 215,
+      "q": "What is the difference between formal and casual clothes?"
+     },
+     {
+      "n": 216,
+      "q": "Do you have a school or work uniform?"
+     },
+     {
+      "n": 217,
+      "q": "What clothes do people wear to a wedding in your culture?"
+     },
+     {
+      "n": 218,
+      "q": "What colours do you like to wear?"
+     },
+     {
+      "n": 219,
+      "q": "Do you follow fashion? Why or why not?"
+     },
+     {
+      "n": 220,
+      "q": "Can you describe a person's outfit using clothing vocabulary?"
+     }
+    ]
+   },
+   {
+    "id": "5.3",
+    "title": "Vocabulary & Skills Development",
+    "questions": [
+     {
+      "n": 221,
+      "q": "What materials are clothes made of (cotton, wool, leather)?"
+     },
+     {
+      "n": 222,
+      "q": "Can you name five different types of clothes?"
+     },
+     {
+      "n": 223,
+      "q": "What is the difference between 'shoes' and 'boots'?"
+     },
+     {
+      "n": 224,
+      "q": "What clothing vocabulary do you know for accessories (belt, scarf, hat)?"
+     },
+     {
+      "n": 225,
+      "q": "Can you describe what someone is wearing using colours and materials?"
+     },
+     {
+      "n": 226,
+      "q": "What is a 'size' in clothing?"
+     },
+     {
+      "n": 227,
+      "q": "What do you say in a shop when you want to try clothes on?"
+     },
+     {
+      "n": 228,
+      "q": "What is the difference between 'cheap' and 'expensive'?"
+     },
+     {
+      "n": 229,
+      "q": "Can you name three types of shoes?"
+     },
+     {
+      "n": 230,
+      "q": "How do you ask the price of something in a shop?"
+     }
+    ]
+   },
+   {
+    "id": "5.4",
+    "title": "Speaking & Writing",
+    "questions": [
+     {
+      "n": 231,
+      "q": "How do you ask for help in a shop?"
+     },
+     {
+      "n": 232,
+      "q": "What do you say when you want to buy something?"
+     },
+     {
+      "n": 233,
+      "q": "How do you ask for a different size or colour?"
+     },
+     {
+      "n": 234,
+      "q": "What do you say when something is too expensive?"
+     },
+     {
+      "n": 235,
+      "q": "Can you role-play buying a shirt in a shop?"
+     },
+     {
+      "n": 236,
+      "q": "How do you complain if something is broken or wrong?"
+     },
+     {
+      "n": 237,
+      "q": "What phrases do shop assistants use in English?"
+     },
+     {
+      "n": 238,
+      "q": "Can you write a short email to return something you bought online?"
+     },
+     {
+      "n": 239,
+      "q": "What do you say at the checkout when you pay?"
+     },
+     {
+      "n": 240,
+      "q": "How do you ask 'How much is this?' in formal and informal English?"
+     }
+    ]
+   },
+   {
+    "id": "5.5",
+    "title": "Video: Camden Market",
+    "questions": [
+     {
+      "n": 241,
+      "q": "What is Camden Market? Where is it?"
+     },
+     {
+      "n": 242,
+      "q": "What can you buy at a street market?"
+     },
+     {
+      "n": 243,
+      "q": "Are there street markets in your city?"
+     },
+     {
+      "n": 244,
+      "q": "What do you like about shopping in a market?"
+     },
+     {
+      "n": 245,
+      "q": "How is a market different from a supermarket?"
+     },
+     {
+      "n": 246,
+      "q": "Have you ever bought something unusual at a market?"
+     },
+     {
+      "n": 247,
+      "q": "What kind of food is sold at markets in your country?"
+     },
+     {
+      "n": 248,
+      "q": "Would you like to visit Camden Market in London? Why?"
+     },
+     {
+      "n": 249,
+      "q": "What is the atmosphere like at a busy market?"
+     },
+     {
+      "n": 250,
+      "q": "Do you prefer markets or shopping centres?"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "n": 6,
+  "title": "Past Times",
+  "lessons": [
+   {
+    "id": "6.1",
+    "title": "Don't Give Up!",
+    "questions": [
+     {
+      "n": 251,
+      "q": "What is something difficult you learned to do in the past?"
+     },
+     {
+      "n": 252,
+      "q": "Did you find it easy or difficult to learn English?"
+     },
+     {
+      "n": 253,
+      "q": "What is the past tense of 'go', 'eat', and 'have'?"
+     },
+     {
+      "n": 254,
+      "q": "Can you tell me about a time you didn't give up?"
+     },
+     {
+      "n": 255,
+      "q": "What did you do yesterday?"
+     },
+     {
+      "n": 256,
+      "q": "What sport or activity did you do as a child?"
+     },
+     {
+      "n": 257,
+      "q": "Did you go to school? What did you study?"
+     },
+     {
+      "n": 258,
+      "q": "What is a famous person who didn't give up? Tell me about them."
+     },
+     {
+      "n": 259,
+      "q": "How did you feel when you succeeded at something difficult?"
+     },
+     {
+      "n": 260,
+      "q": "Can you make three sentences about what you did last week?"
+     }
+    ]
+   },
+   {
+    "id": "6.2",
+    "title": "Stories",
+    "questions": [
+     {
+      "n": 261,
+      "q": "Can you tell me a short story about your past?"
+     },
+     {
+      "n": 262,
+      "q": "What did you do on your last holiday?"
+     },
+     {
+      "n": 263,
+      "q": "What was a memorable day in your life?"
+     },
+     {
+      "n": 264,
+      "q": "Can you use past simple to talk about a journey?"
+     },
+     {
+      "n": 265,
+      "q": "What happened in a story you read or watched recently?"
+     },
+     {
+      "n": 266,
+      "q": "Did something funny or unusual happen to you? What?"
+     },
+     {
+      "n": 267,
+      "q": "What did you do on your last birthday?"
+     },
+     {
+      "n": 268,
+      "q": "Can you describe a day trip using past tense verbs?"
+     },
+     {
+      "n": 269,
+      "q": "What did you see, eat, and do on your last holiday?"
+     },
+     {
+      "n": 270,
+      "q": "Can you tell me the story of how you learned to do something?"
+     }
+    ]
+   },
+   {
+    "id": "6.3",
+    "title": "Vocabulary & Skills Development",
+    "questions": [
+     {
+      "n": 271,
+      "q": "What time expressions do you use with the past (yesterday, last week, ago)?"
+     },
+     {
+      "n": 272,
+      "q": "Can you use 'ago' in a sentence?"
+     },
+     {
+      "n": 273,
+      "q": "What is the difference between 'last night' and 'yesterday evening'?"
+     },
+     {
+      "n": 274,
+      "q": "Can you name five irregular past tense verbs?"
+     },
+     {
+      "n": 275,
+      "q": "What is the past tense of 'buy', 'make', and 'see'?"
+     },
+     {
+      "n": 276,
+      "q": "How do you form negative sentences in the past simple?"
+     },
+     {
+      "n": 277,
+      "q": "Can you ask three questions in the past simple?"
+     },
+     {
+      "n": 278,
+      "q": "What does 'a long time ago' mean?"
+     },
+     {
+      "n": 279,
+      "q": "Can you put these in order: a minute ago / a year ago / a week ago?"
+     },
+     {
+      "n": 280,
+      "q": "What tense do we use to tell stories about the past?"
+     }
+    ]
+   },
+   {
+    "id": "6.4",
+    "title": "Speaking & Writing",
+    "questions": [
+     {
+      "n": 281,
+      "q": "Can you write a postcard from a place you visited?"
+     },
+     {
+      "n": 282,
+      "q": "How do you begin and end a postcard or letter?"
+     },
+     {
+      "n": 283,
+      "q": "What information do you put in a postcard?"
+     },
+     {
+      "n": 284,
+      "q": "Can you describe a trip to Istanbul (or another city)?"
+     },
+     {
+      "n": 285,
+      "q": "What vocabulary do you use when writing about travel?"
+     },
+     {
+      "n": 286,
+      "q": "How do you describe the weather in a postcard?"
+     },
+     {
+      "n": 287,
+      "q": "What do you say in English when talking about past experiences?"
+     },
+     {
+      "n": 288,
+      "q": "Can you write five sentences about your last trip?"
+     },
+     {
+      "n": 289,
+      "q": "How do you describe food you ate on a trip?"
+     },
+     {
+      "n": 290,
+      "q": "What is the difference between a postcard and an email?"
+     }
+    ]
+   },
+   {
+    "id": "6.5",
+    "title": "Video: Istanbul",
+    "questions": [
+     {
+      "n": 291,
+      "q": "Where is Istanbul?"
+     },
+     {
+      "n": 292,
+      "q": "What famous places can you visit in Istanbul?"
+     },
+     {
+      "n": 293,
+      "q": "What is Istanbul known for?"
+     },
+     {
+      "n": 294,
+      "q": "Have you ever visited a historical city? What did you see?"
+     },
+     {
+      "n": 295,
+      "q": "What food is Istanbul famous for?"
+     },
+     {
+      "n": 296,
+      "q": "What is a bazaar? Do you have one in your city?"
+     },
+     {
+      "n": 297,
+      "q": "What is interesting about Istanbul's location (Europe and Asia)?"
+     },
+     {
+      "n": 298,
+      "q": "Would you like to visit Istanbul? Why or why not?"
+     },
+     {
+      "n": 299,
+      "q": "What do you know about Turkish culture?"
+     },
+     {
+      "n": 300,
+      "q": "What is the most famous historical site in your country?"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "n": 7,
+  "title": "Health and Sport",
+  "lessons": [
+   {
+    "id": "7.1",
+    "title": "My Health, My Business",
+    "questions": [
+     {
+      "n": 301,
+      "q": "How do you stay healthy?"
+     },
+     {
+      "n": 302,
+      "q": "Do you eat a balanced diet? What do you eat?"
+     },
+     {
+      "n": 303,
+      "q": "How often do you exercise each week?"
+     },
+     {
+      "n": 304,
+      "q": "What do you do when you feel ill?"
+     },
+     {
+      "n": 305,
+      "q": "Do you go to the doctor regularly?"
+     },
+     {
+      "n": 306,
+      "q": "What is the difference between a cold and the flu?"
+     },
+     {
+      "n": 307,
+      "q": "What healthy habits do you have?"
+     },
+     {
+      "n": 308,
+      "q": "Do you sleep enough? How many hours a night?"
+     },
+     {
+      "n": 309,
+      "q": "What is the most important thing for good health?"
+     },
+     {
+      "n": 310,
+      "q": "What food is healthy and what food is unhealthy?"
+     }
+    ]
+   },
+   {
+    "id": "7.2",
+    "title": "Sporting Heroes",
+    "questions": [
+     {
+      "n": 311,
+      "q": "Who is your favourite sports person? Why?"
+     },
+     {
+      "n": 312,
+      "q": "What sport do you play or watch?"
+     },
+     {
+      "n": 313,
+      "q": "What sport is most popular in your country?"
+     },
+     {
+      "n": 314,
+      "q": "What sports did you do as a child?"
+     },
+     {
+      "n": 315,
+      "q": "Have you ever met a famous sports person?"
+     },
+     {
+      "n": 316,
+      "q": "What skills do you need to be a successful athlete?"
+     },
+     {
+      "n": 317,
+      "q": "What is the difference between team sports and individual sports?"
+     },
+     {
+      "n": 318,
+      "q": "Can you name three Olympic sports?"
+     },
+     {
+      "n": 319,
+      "q": "What is more important in sport - talent or hard work?"
+     },
+     {
+      "n": 320,
+      "q": "Do you prefer watching sport or playing it?"
+     }
+    ]
+   },
+   {
+    "id": "7.3",
+    "title": "Vocabulary & Skills Development",
+    "questions": [
+     {
+      "n": 321,
+      "q": "What parts of the body do you know in English?"
+     },
+     {
+      "n": 322,
+      "q": "What do you say when you have a headache or stomachache?"
+     },
+     {
+      "n": 323,
+      "q": "What is the difference between 'ache' and 'pain'?"
+     },
+     {
+      "n": 324,
+      "q": "Can you name five symptoms of a cold?"
+     },
+     {
+      "n": 325,
+      "q": "What do you say to a doctor about your problem?"
+     },
+     {
+      "n": 326,
+      "q": "What advice do you give someone who has a cold?"
+     },
+     {
+      "n": 327,
+      "q": "What sports vocabulary do you know (score, team, coach, win)?"
+     },
+     {
+      "n": 328,
+      "q": "What is the difference between 'exercise' and 'sport'?"
+     },
+     {
+      "n": 329,
+      "q": "How do you say you feel ill in English?"
+     },
+     {
+      "n": 330,
+      "q": "Can you describe an injury using body part vocabulary?"
+     }
+    ]
+   },
+   {
+    "id": "7.4",
+    "title": "Speaking & Writing",
+    "questions": [
+     {
+      "n": 331,
+      "q": "How do you give advice in English?"
+     },
+     {
+      "n": 332,
+      "q": "What do you say when someone tells you they are sick?"
+     },
+     {
+      "n": 333,
+      "q": "Can you give advice for staying healthy?"
+     },
+     {
+      "n": 334,
+      "q": "What is the difference between 'should' and 'shouldn't'?"
+     },
+     {
+      "n": 335,
+      "q": "Can you write a short advice message for a sick friend?"
+     },
+     {
+      "n": 336,
+      "q": "How do you respond to health advice you agree with?"
+     },
+     {
+      "n": 337,
+      "q": "What do you say if you don't agree with someone's advice?"
+     },
+     {
+      "n": 338,
+      "q": "Can you give three pieces of advice for a healthy lifestyle?"
+     },
+     {
+      "n": 339,
+      "q": "How do you ask someone if they are OK?"
+     },
+     {
+      "n": 340,
+      "q": "What do you write in a 'get well soon' card?"
+     }
+    ]
+   },
+   {
+    "id": "7.5",
+    "title": "Video: Health and Fitness in New York",
+    "questions": [
+     {
+      "n": 341,
+      "q": "What health and fitness activities are popular in New York?"
+     },
+     {
+      "n": 342,
+      "q": "What do people do to stay fit in big cities?"
+     },
+     {
+      "n": 343,
+      "q": "Is fitness popular in your country? What do people do?"
+     },
+     {
+      "n": 344,
+      "q": "What outdoor activities can you do in your city?"
+     },
+     {
+      "n": 345,
+      "q": "Are there gyms or fitness centres near your home?"
+     },
+     {
+      "n": 346,
+      "q": "What is a healthy lifestyle in a busy city?"
+     },
+     {
+      "n": 347,
+      "q": "Do you think people in cities live a healthy life? Why?"
+     },
+     {
+      "n": 348,
+      "q": "What free activities can you do to stay fit?"
+     },
+     {
+      "n": 349,
+      "q": "What is the most popular fitness activity in your country?"
+     },
+     {
+      "n": 350,
+      "q": "How has the idea of health and fitness changed in recent years?"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "n": 8,
+  "title": "Travel and Adventure",
+  "lessons": [
+   {
+    "id": "8.1",
+    "title": "I Went To...",
+    "questions": [
+     {
+      "n": 351,
+      "q": "Where did you go on your last holiday?"
+     },
+     {
+      "n": 352,
+      "q": "How did you travel there - by plane, train, or car?"
+     },
+     {
+      "n": 353,
+      "q": "What did you see and do on your trip?"
+     },
+     {
+      "n": 354,
+      "q": "Have you ever been on an adventure holiday?"
+     },
+     {
+      "n": 355,
+      "q": "What is the best place you have ever visited?"
+     },
+     {
+      "n": 356,
+      "q": "Did you travel abroad last year? Where did you go?"
+     },
+     {
+      "n": 357,
+      "q": "What do you usually pack in your suitcase for a trip?"
+     },
+     {
+      "n": 358,
+      "q": "What transport do you prefer for long journeys?"
+     },
+     {
+      "n": 359,
+      "q": "How long did your last journey take?"
+     },
+     {
+      "n": 360,
+      "q": "Would you like to go on a holiday to a jungle or a desert? Why?"
+     }
+    ]
+   },
+   {
+    "id": "8.2",
+    "title": "Journeys",
+    "questions": [
+     {
+      "n": 361,
+      "q": "What is the longest journey you have ever made?"
+     },
+     {
+      "n": 362,
+      "q": "Do you prefer travelling by train or by plane? Why?"
+     },
+     {
+      "n": 363,
+      "q": "What is a typical journey to school or work for you?"
+     },
+     {
+      "n": 364,
+      "q": "Have you ever had a problem during a journey?"
+     },
+     {
+      "n": 365,
+      "q": "What do you do on a long journey to pass the time?"
+     },
+     {
+      "n": 366,
+      "q": "What is the most exciting form of transport you have used?"
+     },
+     {
+      "n": 367,
+      "q": "Do you like road trips? Why or why not?"
+     },
+     {
+      "n": 368,
+      "q": "What do you need to prepare before a long journey?"
+     },
+     {
+      "n": 369,
+      "q": "Have you ever taken a boat or ship trip?"
+     },
+     {
+      "n": 370,
+      "q": "What is the difference between a 'trip', a 'journey', and a 'travel'?"
+     }
+    ]
+   },
+   {
+    "id": "8.3",
+    "title": "Vocabulary & Skills Development",
+    "questions": [
+     {
+      "n": 371,
+      "q": "What transport vocabulary do you know (bus, ferry, tram)?"
+     },
+     {
+      "n": 372,
+      "q": "What is the difference between 'arrive at' and 'arrive in'?"
+     },
+     {
+      "n": 373,
+      "q": "Can you name five types of accommodation (hotel, hostel, campsite)?"
+     },
+     {
+      "n": 374,
+      "q": "What do you say when you check in at a hotel?"
+     },
+     {
+      "n": 375,
+      "q": "What verbs go with 'journey' (take, make, go on)?"
+     },
+     {
+      "n": 376,
+      "q": "What is a 'departure' and an 'arrival'?"
+     },
+     {
+      "n": 377,
+      "q": "What vocabulary do you use for travel problems (delay, cancel, miss)?"
+     },
+     {
+      "n": 378,
+      "q": "Can you describe a journey using past tense verbs?"
+     },
+     {
+      "n": 379,
+      "q": "What does 'boarding pass' mean?"
+     },
+     {
+      "n": 380,
+      "q": "What is the difference between 'destination' and 'route'?"
+     }
+    ]
+   },
+   {
+    "id": "8.4",
+    "title": "Speaking & Writing",
+    "questions": [
+     {
+      "n": 381,
+      "q": "How do you book a hotel room in English?"
+     },
+     {
+      "n": 382,
+      "q": "What questions do you ask when booking accommodation?"
+     },
+     {
+      "n": 383,
+      "q": "Can you describe your ideal holiday destination?"
+     },
+     {
+      "n": 384,
+      "q": "How do you write a simple travel blog entry?"
+     },
+     {
+      "n": 385,
+      "q": "What information do you put in a holiday review?"
+     },
+     {
+      "n": 386,
+      "q": "How do you ask for information at a tourist information office?"
+     },
+     {
+      "n": 387,
+      "q": "What phrases do you use to recommend a place to visit?"
+     },
+     {
+      "n": 388,
+      "q": "Can you write a short email to a friend about a holiday plan?"
+     },
+     {
+      "n": 389,
+      "q": "How do you describe transport options for getting to a place?"
+     },
+     {
+      "n": 390,
+      "q": "What do you say when recommending a hotel or restaurant?"
+     }
+    ]
+   },
+   {
+    "id": "8.5",
+    "title": "Video: Adventure Holidays",
+    "questions": [
+     {
+      "n": 391,
+      "q": "What is an adventure holiday?"
+     },
+     {
+      "n": 392,
+      "q": "Would you prefer a relaxing beach holiday or an adventure holiday? Why?"
+     },
+     {
+      "n": 393,
+      "q": "What adventure activities do you know (hiking, bungee jumping, kayaking)?"
+     },
+     {
+      "n": 394,
+      "q": "Have you ever done an outdoor adventure activity?"
+     },
+     {
+      "n": 395,
+      "q": "What equipment do you need for a hiking trip?"
+     },
+     {
+      "n": 396,
+      "q": "What is the most adventurous thing you have ever done?"
+     },
+     {
+      "n": 397,
+      "q": "Why do some people prefer active holidays to relaxing ones?"
+     },
+     {
+      "n": 398,
+      "q": "What country is famous for adventure tourism?"
+     },
+     {
+      "n": 399,
+      "q": "What safety rules are important for adventure sports?"
+     },
+     {
+      "n": 400,
+      "q": "Would you like to try skydiving or rock climbing? Why or why not?"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "n": 9,
+  "title": "Food and Drink",
+  "lessons": [
+   {
+    "id": "9.1",
+    "title": "Food and Drink",
+    "questions": [
+     {
+      "n": 401,
+      "q": "What is your favourite food and drink?"
+     },
+     {
+      "n": 402,
+      "q": "What do you usually have for breakfast, lunch, and dinner?"
+     },
+     {
+      "n": 403,
+      "q": "Do you drink coffee or tea? How many cups a day?"
+     },
+     {
+      "n": 404,
+      "q": "What is a traditional drink in your country?"
+     },
+     {
+      "n": 405,
+      "q": "Have you ever tried food or drink from another country?"
+     },
+     {
+      "n": 406,
+      "q": "What food or drink do you dislike? Why?"
+     },
+     {
+      "n": 407,
+      "q": "Do you prefer hot drinks or cold drinks?"
+     },
+     {
+      "n": 408,
+      "q": "What is the difference between juice and a soft drink?"
+     },
+     {
+      "n": 409,
+      "q": "How much water do you drink every day?"
+     },
+     {
+      "n": 410,
+      "q": "What food and drink is popular at celebrations in your country?"
+     }
+    ]
+   },
+   {
+    "id": "9.2",
+    "title": "In the Kitchen",
+    "questions": [
+     {
+      "n": 411,
+      "q": "Do you like cooking? Why or why not?"
+     },
+     {
+      "n": 412,
+      "q": "What do you know how to cook?"
+     },
+     {
+      "n": 413,
+      "q": "What kitchen equipment do you use (knife, pan, oven)?"
+     },
+     {
+      "n": 414,
+      "q": "Can you describe how to make a simple dish?"
+     },
+     {
+      "n": 415,
+      "q": "What is the difference between 'boil' and 'fry'?"
+     },
+     {
+      "n": 416,
+      "q": "What ingredients do you need to make an omelette?"
+     },
+     {
+      "n": 417,
+      "q": "How long does it take to cook pasta?"
+     },
+     {
+      "n": 418,
+      "q": "What is your favourite recipe?"
+     },
+     {
+      "n": 419,
+      "q": "Do you follow recipes or cook without instructions?"
+     },
+     {
+      "n": 420,
+      "q": "What is 'baking'? What can you bake?"
+     }
+    ]
+   },
+   {
+    "id": "9.3",
+    "title": "Vocabulary & Skills Development",
+    "questions": [
+     {
+      "n": 421,
+      "q": "What cooking verbs do you know (chop, stir, mix, pour)?"
+     },
+     {
+      "n": 422,
+      "q": "What is the difference between 'a little' and 'a lot of'?"
+     },
+     {
+      "n": 423,
+      "q": "Can you use countable and uncountable nouns in food sentences?"
+     },
+     {
+      "n": 424,
+      "q": "What is 'some' used for in food vocabulary?"
+     },
+     {
+      "n": 425,
+      "q": "Can you name five countable foods and five uncountable foods?"
+     },
+     {
+      "n": 426,
+      "q": "What does 'ingredient' mean? Can you name five ingredients?"
+     },
+     {
+      "n": 427,
+      "q": "What is the difference between a 'recipe' and a 'menu'?"
+     },
+     {
+      "n": 428,
+      "q": "Can you describe the steps to make tea or coffee?"
+     },
+     {
+      "n": 429,
+      "q": "What food vocabulary do you use for quantities (a cup of, a slice of)?"
+     },
+     {
+      "n": 430,
+      "q": "What is the difference between 'cook' as a noun and as a verb?"
+     }
+    ]
+   },
+   {
+    "id": "9.4",
+    "title": "Speaking & Writing",
+    "questions": [
+     {
+      "n": 431,
+      "q": "How do you order food at a cafe or restaurant in English?"
+     },
+     {
+      "n": 432,
+      "q": "What do you say if you are vegetarian or have an allergy?"
+     },
+     {
+      "n": 433,
+      "q": "Can you write a simple recipe with steps?"
+     },
+     {
+      "n": 434,
+      "q": "How do you describe a dish you enjoyed?"
+     },
+     {
+      "n": 435,
+      "q": "What is the difference between a formal and informal restaurant conversation?"
+     },
+     {
+      "n": 436,
+      "q": "How do you compliment a chef or cook on their food?"
+     },
+     {
+      "n": 437,
+      "q": "Can you describe your favourite meal in detail?"
+     },
+     {
+      "n": 438,
+      "q": "What do you say when you want the bill at a restaurant?"
+     },
+     {
+      "n": 439,
+      "q": "How do you recommend a dish to a friend?"
+     },
+     {
+      "n": 440,
+      "q": "What do you write in a food review for a website?"
+     }
+    ]
+   },
+   {
+    "id": "9.5",
+    "title": "Video: Making a Pizza",
+    "questions": [
+     {
+      "n": 441,
+      "q": "What ingredients do you need to make a pizza?"
+     },
+     {
+      "n": 442,
+      "q": "Is pizza popular in your country?"
+     },
+     {
+      "n": 443,
+      "q": "Have you ever made pizza at home?"
+     },
+     {
+      "n": 444,
+      "q": "What is your favourite pizza topping?"
+     },
+     {
+      "n": 445,
+      "q": "What is the difference between thin-crust and thick-crust pizza?"
+     },
+     {
+      "n": 446,
+      "q": "What other Italian foods do you know?"
+     },
+     {
+      "n": 447,
+      "q": "How long does it take to make a pizza from scratch?"
+     },
+     {
+      "n": 448,
+      "q": "What kitchen equipment do you need to make a pizza?"
+     },
+     {
+      "n": 449,
+      "q": "Do you prefer homemade food or takeaway food? Why?"
+     },
+     {
+      "n": 450,
+      "q": "Can you describe the steps to make a pizza?"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "n": 10,
+  "title": "The Natural World",
+  "lessons": [
+   {
+    "id": "10.1",
+    "title": "The Weather",
+    "questions": [
+     {
+      "n": 451,
+      "q": "What is the weather like today?"
+     },
+     {
+      "n": 452,
+      "q": "What is the weather usually like in your country in summer?"
+     },
+     {
+      "n": 453,
+      "q": "What is your favourite type of weather? Why?"
+     },
+     {
+      "n": 454,
+      "q": "What do you do on a rainy day?"
+     },
+     {
+      "n": 455,
+      "q": "What weather vocabulary do you know (sunny, cloudy, windy, foggy)?"
+     },
+     {
+      "n": 456,
+      "q": "Have you ever experienced a storm or flood?"
+     },
+     {
+      "n": 457,
+      "q": "What is the hottest or coldest temperature in your country?"
+     },
+     {
+      "n": 458,
+      "q": "Do you check the weather forecast every day?"
+     },
+     {
+      "n": 459,
+      "q": "How does the weather affect your daily life?"
+     },
+     {
+      "n": 460,
+      "q": "What is the climate like in the place you live?"
+     }
+    ]
+   },
+   {
+    "id": "10.2",
+    "title": "Natural Wonders",
+    "questions": [
+     {
+      "n": 461,
+      "q": "What natural wonders of the world do you know?"
+     },
+     {
+      "n": 462,
+      "q": "Have you ever visited a natural wonder?"
+     },
+     {
+      "n": 463,
+      "q": "What is the most beautiful natural place in your country?"
+     },
+     {
+      "n": 464,
+      "q": "What is the Grand Canyon? Where is it?"
+     },
+     {
+      "n": 465,
+      "q": "Do you prefer mountains, beaches, or forests? Why?"
+     },
+     {
+      "n": 466,
+      "q": "What animals live in natural habitats near you?"
+     },
+     {
+      "n": 467,
+      "q": "What is a 'natural wonder'? Can you give examples?"
+     },
+     {
+      "n": 468,
+      "q": "Have you ever seen a waterfall, volcano, or desert?"
+     },
+     {
+      "n": 469,
+      "q": "How do humans affect natural wonders?"
+     },
+     {
+      "n": 470,
+      "q": "What is one natural place you would like to visit? Why?"
+     }
+    ]
+   },
+   {
+    "id": "10.3",
+    "title": "Vocabulary & Skills Development",
+    "questions": [
+     {
+      "n": 471,
+      "q": "What weather adjectives do you know (hot, cold, warm, cool, wet, dry)?"
+     },
+     {
+      "n": 472,
+      "q": "Can you use comparatives to compare weather (hotter than, colder than)?"
+     },
+     {
+      "n": 473,
+      "q": "What is the difference between 'weather' and 'climate'?"
+     },
+     {
+      "n": 474,
+      "q": "Can you name five natural features (mountain, river, lake, desert, forest)?"
+     },
+     {
+      "n": 475,
+      "q": "How do you compare two places using 'more' and 'less'?"
+     },
+     {
+      "n": 476,
+      "q": "What is the superlative of 'big', 'hot', and 'beautiful'?"
+     },
+     {
+      "n": 477,
+      "q": "Can you describe your country's geography using natural feature vocabulary?"
+     },
+     {
+      "n": 478,
+      "q": "What is the difference between 'ocean' and 'sea'?"
+     },
+     {
+      "n": 479,
+      "q": "Can you compare the climate of two countries you know?"
+     },
+     {
+      "n": 480,
+      "q": "What nature vocabulary do you use to describe a landscape?"
+     }
+    ]
+   },
+   {
+    "id": "10.4",
+    "title": "Speaking & Writing",
+    "questions": [
+     {
+      "n": 481,
+      "q": "How do you describe a natural place in English?"
+     },
+     {
+      "n": 482,
+      "q": "Can you write a short description of a place in nature?"
+     },
+     {
+      "n": 483,
+      "q": "What adjectives do you use to describe a beautiful landscape?"
+     },
+     {
+      "n": 484,
+      "q": "How do you talk about the weather in conversation?"
+     },
+     {
+      "n": 485,
+      "q": "Can you compare summer and winter in your country?"
+     },
+     {
+      "n": 486,
+      "q": "What do you say when you recommend a natural place to visit?"
+     },
+     {
+      "n": 487,
+      "q": "How do you write a short travel description of a natural wonder?"
+     },
+     {
+      "n": 488,
+      "q": "What language do you use to express strong feelings about nature?"
+     },
+     {
+      "n": 489,
+      "q": "Can you describe a landscape using superlatives?"
+     },
+     {
+      "n": 490,
+      "q": "How do you begin and end a descriptive paragraph about nature?"
+     }
+    ]
+   },
+   {
+    "id": "10.5",
+    "title": "Video: The Grand Canyon",
+    "questions": [
+     {
+      "n": 491,
+      "q": "Where is the Grand Canyon located?"
+     },
+     {
+      "n": 492,
+      "q": "Why is the Grand Canyon famous?"
+     },
+     {
+      "n": 493,
+      "q": "How was the Grand Canyon formed?"
+     },
+     {
+      "n": 494,
+      "q": "Have you ever seen a canyon or a similar natural landmark?"
+     },
+     {
+      "n": 495,
+      "q": "What activities can tourists do at the Grand Canyon?"
+     },
+     {
+      "n": 496,
+      "q": "How big is the Grand Canyon?"
+     },
+     {
+      "n": 497,
+      "q": "What animals live in or near the Grand Canyon?"
+     },
+     {
+      "n": 498,
+      "q": "Why is it important to protect natural wonders?"
+     },
+     {
+      "n": 499,
+      "q": "Would you like to visit the Grand Canyon? Why or why not?"
+     },
+     {
+      "n": 500,
+      "q": "What is a similar famous natural place in your country or region?"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "n": 11,
+  "title": "Communities",
+  "lessons": [
+   {
+    "id": "11.1",
+    "title": "Community Spirit",
+    "questions": [
+     {
+      "n": 501,
+      "q": "What is a 'community'?"
+     },
+     {
+      "n": 502,
+      "q": "Do you have a strong community spirit where you live?"
+     },
+     {
+      "n": 503,
+      "q": "What community activities or events happen in your area?"
+     },
+     {
+      "n": 504,
+      "q": "Do you volunteer or help other people in your community?"
+     },
+     {
+      "n": 505,
+      "q": "What is the difference between a neighbourhood and a community?"
+     },
+     {
+      "n": 506,
+      "q": "What problems can communities face?"
+     },
+     {
+      "n": 507,
+      "q": "What makes a good community?"
+     },
+     {
+      "n": 508,
+      "q": "Do you know your neighbours? Do you talk to them?"
+     },
+     {
+      "n": 509,
+      "q": "What community facilities are important (library, park, sports centre)?"
+     },
+     {
+      "n": 510,
+      "q": "How can young people contribute to their community?"
+     }
+    ]
+   },
+   {
+    "id": "11.2",
+    "title": "Challenges",
+    "questions": [
+     {
+      "n": 511,
+      "q": "What challenges do people face in your community?"
+     },
+     {
+      "n": 512,
+      "q": "What is a challenge you faced in your life? How did you deal with it?"
+     },
+     {
+      "n": 513,
+      "q": "What challenges do young people face today?"
+     },
+     {
+      "n": 514,
+      "q": "What is the biggest challenge for your city or town?"
+     },
+     {
+      "n": 515,
+      "q": "How do people help each other during difficult times?"
+     },
+     {
+      "n": 516,
+      "q": "What challenges can immigrants face in a new country?"
+     },
+     {
+      "n": 517,
+      "q": "What is the difference between a problem and a challenge?"
+     },
+     {
+      "n": 518,
+      "q": "What challenges did people face 50 years ago that don't exist now?"
+     },
+     {
+      "n": 519,
+      "q": "What do you think will be the biggest challenge in the future?"
+     },
+     {
+      "n": 520,
+      "q": "How can governments help communities with challenges?"
+     }
+    ]
+   },
+   {
+    "id": "11.3",
+    "title": "Vocabulary & Skills Development",
+    "questions": [
+     {
+      "n": 521,
+      "q": "What modal verbs do you know for talking about ability (can, could, be able to)?"
+     },
+     {
+      "n": 522,
+      "q": "Can you use 'could' to talk about past ability?"
+     },
+     {
+      "n": 523,
+      "q": "What is the difference between 'can' and 'could'?"
+     },
+     {
+      "n": 524,
+      "q": "Can you make a sentence: 'When I was a child, I could...'?"
+     },
+     {
+      "n": 525,
+      "q": "What activities could people do 100 years ago that they can't do now?"
+     },
+     {
+      "n": 526,
+      "q": "What technology can people use today that they couldn't 20 years ago?"
+     },
+     {
+      "n": 527,
+      "q": "What abilities do you have now that you didn't have as a child?"
+     },
+     {
+      "n": 528,
+      "q": "Can you use 'be able to' in a sentence about the future?"
+     },
+     {
+      "n": 529,
+      "q": "What is the difference between 'can' and 'be able to'?"
+     },
+     {
+      "n": 530,
+      "q": "How do you ask about someone's ability politely?"
+     }
+    ]
+   },
+   {
+    "id": "11.4",
+    "title": "Speaking & Writing",
+    "questions": [
+     {
+      "n": 531,
+      "q": "How do you make a formal request in English?"
+     },
+     {
+      "n": 532,
+      "q": "What is the difference between 'Can you...?' and 'Could you...?'"
+     },
+     {
+      "n": 533,
+      "q": "How do you write a formal letter or email?"
+     },
+     {
+      "n": 534,
+      "q": "What phrases do you use to ask for permission politely?"
+     },
+     {
+      "n": 535,
+      "q": "Can you write a short letter to a local council about a community problem?"
+     },
+     {
+      "n": 536,
+      "q": "How do you begin and end a formal email?"
+     },
+     {
+      "n": 537,
+      "q": "What is the difference between formal and informal writing style?"
+     },
+     {
+      "n": 538,
+      "q": "How do you make a polite complaint in English?"
+     },
+     {
+      "n": 539,
+      "q": "What phrases do you use to make a suggestion in a formal context?"
+     },
+     {
+      "n": 540,
+      "q": "Can you write three sentences requesting help from a community organisation?"
+     }
+    ]
+   },
+   {
+    "id": "11.5",
+    "title": "Video: Silicon Fen",
+    "questions": [
+     {
+      "n": 541,
+      "q": "What is Silicon Fen? Where is it?"
+     },
+     {
+      "n": 542,
+      "q": "What is a 'technology hub' or 'tech cluster'?"
+     },
+     {
+      "n": 543,
+      "q": "What famous technology area in the USA is similar to Silicon Fen?"
+     },
+     {
+      "n": 544,
+      "q": "Why do technology companies gather in certain areas?"
+     },
+     {
+      "n": 545,
+      "q": "What technology companies or start-ups do you know?"
+     },
+     {
+      "n": 546,
+      "q": "Is there a technology community or hub in your country?"
+     },
+     {
+      "n": 547,
+      "q": "What skills do people need to work in the technology industry?"
+     },
+     {
+      "n": 548,
+      "q": "How does a technology community help the local economy?"
+     },
+     {
+      "n": 549,
+      "q": "What is the relationship between universities and technology companies?"
+     },
+     {
+      "n": 550,
+      "q": "What technology would you like to create or develop in the future?"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "n": 12,
+  "title": "Arts and Entertainment",
+  "lessons": [
+   {
+    "id": "12.1",
+    "title": "Artistic Ability",
+    "questions": [
+     {
+      "n": 551,
+      "q": "Are you artistic? What can you do (draw, paint, play music, act)?"
+     },
+     {
+      "n": 552,
+      "q": "What arts and crafts do you enjoy?"
+     },
+     {
+      "n": 553,
+      "q": "Did you learn to draw or paint at school?"
+     },
+     {
+      "n": 554,
+      "q": "What is the difference between 'artistic' and 'creative'?"
+     },
+     {
+      "n": 555,
+      "q": "Can you name a famous artist? What do you know about them?"
+     },
+     {
+      "n": 556,
+      "q": "What art forms are popular in your country?"
+     },
+     {
+      "n": 557,
+      "q": "Do you think everyone can learn to be artistic? Why?"
+     },
+     {
+      "n": 558,
+      "q": "What is your favourite type of art (painting, sculpture, photography)?"
+     },
+     {
+      "n": 559,
+      "q": "Have you ever visited an art gallery or museum?"
+     },
+     {
+      "n": 560,
+      "q": "What is the difference between traditional and modern art?"
+     }
+    ]
+   },
+   {
+    "id": "12.2",
+    "title": "At the Movies",
+    "questions": [
+     {
+      "n": 561,
+      "q": "Do you like going to the cinema? How often do you go?"
+     },
+     {
+      "n": 562,
+      "q": "What is your favourite film? What is it about?"
+     },
+     {
+      "n": 563,
+      "q": "What types of films do you like (comedy, action, drama, horror)?"
+     },
+     {
+      "n": 564,
+      "q": "Who is your favourite actor or actress?"
+     },
+     {
+      "n": 565,
+      "q": "What was the last film you watched? Did you enjoy it?"
+     },
+     {
+      "n": 566,
+      "q": "Do you prefer watching films at the cinema or at home?"
+     },
+     {
+      "n": 567,
+      "q": "What makes a film good or bad?"
+     },
+     {
+      "n": 568,
+      "q": "Have you ever watched a film in English without subtitles?"
+     },
+     {
+      "n": 569,
+      "q": "What is a film you would recommend to a friend? Why?"
+     },
+     {
+      "n": 570,
+      "q": "What is the difference between a 'film' and a 'movie'?"
+     }
+    ]
+   },
+   {
+    "id": "12.3",
+    "title": "Vocabulary & Skills Development",
+    "questions": [
+     {
+      "n": 571,
+      "q": "What entertainment vocabulary do you know (concert, exhibition, performance)?"
+     },
+     {
+      "n": 572,
+      "q": "What is the difference between a theatre and a cinema?"
+     },
+     {
+      "n": 573,
+      "q": "Can you name three types of music genres?"
+     },
+     {
+      "n": 574,
+      "q": "What does 'box office' mean?"
+     },
+     {
+      "n": 575,
+      "q": "What verbs do you use with entertainment (watch, see, attend, perform)?"
+     },
+     {
+      "n": 576,
+      "q": "What is the difference between 'actor' and 'actress'?"
+     },
+     {
+      "n": 577,
+      "q": "Can you describe a film or show using adjectives (exciting, boring, funny)?"
+     },
+     {
+      "n": 578,
+      "q": "What vocabulary do you use to talk about a concert?"
+     },
+     {
+      "n": 579,
+      "q": "What is a 'review'? Can you write a one-sentence review of a film?"
+     },
+     {
+      "n": 580,
+      "q": "What is the difference between 'audience' and 'spectators'?"
+     }
+    ]
+   },
+   {
+    "id": "12.4",
+    "title": "Speaking & Writing",
+    "questions": [
+     {
+      "n": 581,
+      "q": "How do you recommend a film or show to a friend?"
+     },
+     {
+      "n": 582,
+      "q": "Can you write a short film review?"
+     },
+     {
+      "n": 583,
+      "q": "What information do you include in a film review?"
+     },
+     {
+      "n": 584,
+      "q": "How do you describe a film plot without giving the ending away?"
+     },
+     {
+      "n": 585,
+      "q": "What phrases do you use to express your opinion about entertainment?"
+     },
+     {
+      "n": 586,
+      "q": "How do you politely disagree with someone's opinion about a film?"
+     },
+     {
+      "n": 587,
+      "q": "Can you describe your favourite type of music or performance?"
+     },
+     {
+      "n": 588,
+      "q": "How do you buy tickets for a theatre show or concert in English?"
+     },
+     {
+      "n": 589,
+      "q": "What do you say when recommending a TV show or film?"
+     },
+     {
+      "n": 590,
+      "q": "Can you write three sentences giving your opinion of a film you watched?"
+     }
+    ]
+   },
+   {
+    "id": "12.5",
+    "title": "Video: Park Theatre",
+    "questions": [
+     {
+      "n": 591,
+      "q": "What is Park Theatre? Where is it?"
+     },
+     {
+      "n": 592,
+      "q": "Have you ever been to a theatre?"
+     },
+     {
+      "n": 593,
+      "q": "What is the difference between watching a play at the theatre and watching a film?"
+     },
+     {
+      "n": 594,
+      "q": "What types of plays or performances are shown at theatres?"
+     },
+     {
+      "n": 595,
+      "q": "Why do people enjoy live theatre performances?"
+     },
+     {
+      "n": 596,
+      "q": "What famous theatres do you know (e.g. the Globe in London)?"
+     },
+     {
+      "n": 597,
+      "q": "Is theatre popular in your country? What kinds of shows are performed?"
+     },
+     {
+      "n": 598,
+      "q": "Would you like to act in a play? Why or why not?"
+     },
+     {
+      "n": 599,
+      "q": "What is the atmosphere like at a live theatre performance?"
+     },
+     {
+      "n": 600,
+      "q": "What is the difference between a 'theatre' and an 'opera house'?"
+     }
+    ]
+   }
+  ]
+ }
+]

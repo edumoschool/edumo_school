@@ -1,18 +1,28 @@
-# Impulse Learning Center — A1 Speaking Book
+# Impulse Learning Center — Speaking Books (A1 & A2)
 
-250 speaking questions from Navigate Beginner A1 (10 units × 5 lessons),
-designed to match the A1 Vocabulary Book.
+Speaking-question books based on Navigate topics, designed to match the
+Impulse vocabulary books.
 
-Every lesson has five questions with answer lines, a **Words & phrases**
-box (English with Uzbek translation) and **answer starters**. Each unit ends
-with a review card: a 1-minute talk, a can-do checklist and space for new words.
+| Book | Units | Lessons | Questions | Pages |
+|------|-------|---------|-----------|-------|
+| `dist/Impulse_A1_Speaking_Book.pdf` | 10 | 50 | 250 | 33 |
+| `dist/Impulse_A2_Speaking_Book.pdf` | 12 | 60 | 600 | 75 |
+
+**A1** — bright and friendly: two lesson cards per page, each with five
+questions and answer lines, words & phrases (with Uzbek) and answer
+starters, plus a review card per unit.
+
+**A2** — a more formal design (navy, serif headings): a full opener page per
+unit (lesson list, unit goals, two-minute talk task) and one page per lesson
+with ten questions, key vocabulary (with Uzbek), useful language and a
+speaking tip.
 
 ## Files
 
-- `dist/Impulse_A1_Speaking_Book.pdf` — the finished book (A4 landscape, 33 pages)
-- `data/questions.json` — the 250 questions (from the original .docx)
-- `data/helpers.txt` — words & phrases (`w: English = Uzbek`) and starters (`s:`) per lesson
-- `scripts/build.py`, `scripts/style.css`, `scripts/render.js` — HTML layout and PDF printing
+- `data/questions.json`, `data/helpers.txt` — A1 questions; words (`w: English = Uzbek`) and starters (`s:`)
+- `data/a2-questions.json`, `data/a2-helpers.txt` — the same for A2
+- `scripts/build.py` + `style.css` (A1), `scripts/build_a2.py` + `style_a2.css` (A2)
+- `scripts/render.js` — prints a book's HTML to PDF and warns about overflowing pages
 
 ## Rebuild
 
