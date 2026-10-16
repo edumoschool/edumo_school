@@ -1,4 +1,4 @@
-"""Build the Impulse "Speak Up!" A2 speaking book (A5 portrait, playful design) -> dist/speak-up.html.
+"""Build the "Speak Up!" A2 speaking book (A5 portrait, playful design) -> dist/speak-up.html.
 
 Each unit (6 pages): vocabulary → story in context → remember the words +
 useful phrases → speaking questions + sample answers → real speaking (model
@@ -17,8 +17,6 @@ import qrcode.image.svg
 ROOT = Path(__file__).resolve().parent.parent
 CFG = json.loads((ROOT / "data" / "config.json").read_text(encoding="utf-8"))
 UNITS = [json.loads(f.read_text(encoding="utf-8")) for f in sorted((ROOT / "data" / "units").glob("*.json"))]
-LOGO = (ROOT.parent / "vocabulary-book" / "assets" / "impulse-logo.png")
-SCHOOL = "Impulse Learning Center"
 e = html.escape
 
 # section number, title, Uzbek instruction, colour class, emoji
@@ -37,13 +35,6 @@ CHARACTERS = [
     ("😎", "Superstar", "Mashhur blogerdek — “men zo‘rman” ohangida."),
     ("🔥", "Coach", "Motivatsion murabbiydek — baland va ilhomli."),
 ]
-
-
-def logo(size, ring=False):
-    import base64
-    uri = "data:image/png;base64," + base64.b64encode(LOGO.read_bytes()).decode()
-    style = "border:2px solid #fff;" if ring else ""
-    return f'<img class="logo" src="{uri}" width="{size}" height="{size}" alt="" style="{style}">'
 
 
 def rich(text):
@@ -105,7 +96,7 @@ def page(inner, n, unit=None, cls=""):
     tab = f'<span class="tab {unit["color"]}">{unit["n"]}</span>' if unit else ""
     return f"""<section class="page {cls}">{tab}
  <div class="content">{inner}</div>
- <footer><span>{logo(12)} Impulse Speak Up! {CFG["level"]}</span><span class="pno">{n}</span></footer>
+ <footer><span>Speak Up! {CFG["level"]}</span><span class="pno">{n}</span></footer>
 </section>"""
 
 
@@ -188,7 +179,6 @@ def p_assistant(u):
 def cover():
     stickers = "".join(f'<span class="{cls}">{emo} {title}</span>' for _, title, _, cls, emo in SECTIONS.values())
     return f"""<section class="page cover"><div class="dots"></div><div class="blob b1"></div><div class="blob b2"></div>
- <div class="cbrand">{logo(40, ring=True)}<div><b>IMPULSE</b><small>LEARNING CENTER</small></div></div>
  <div class="ctitle"><span class="kicker">LEVEL {CFG["level"]} · {CFG["level_name"].upper()}</span>
   <h1>Speak<br>Up! <span>🎤</span></h1>
   <p>Learn the words. Read them in a story. <b>Start speaking!</b></p>
@@ -208,7 +198,7 @@ def how_page():
  <ol class="howlist">{rows}</ol>
  <div class="golden"><b>🥇 Golden rule:</b> always speak <u>out loud</u>. Reading silently is not speaking!
   <span>Har doim ovoz chiqarib gapiring — jim o‘qish gapirish emas!</span></div>
-</div><footer><span>{logo(12)} Impulse Speak Up! {CFG["level"]}</span><span class="pno">2</span></footer></section>"""
+</div><footer><span>Speak Up! {CFG["level"]}</span><span class="pno">2</span></footer></section>"""
 
 
 def build():
@@ -220,7 +210,7 @@ def build():
     css = (ROOT / "scripts" / "style.css").read_text(encoding="utf-8")
     fonts = ('<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700'
              '&family=Nunito:ital,wght@0,500;0,700;0,800;0,900;1,500;1,700&display=swap">')
-    doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><title>{SCHOOL} — Speak Up! {CFG["level"]}</title>
+    doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Speak Up! {CFG["level"]}</title>
 {fonts}<style>{css}</style></head><body>{color_emoji(''.join(pages))}</body></html>"""
     (ROOT / "dist").mkdir(exist_ok=True)
     (ROOT / "dist" / "speak-up.html").write_text(doc, encoding="utf-8")

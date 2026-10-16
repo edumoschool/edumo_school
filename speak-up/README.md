@@ -1,4 +1,4 @@
-# Impulse Speak Up! A2 — speaking method book (sample: Unit 1)
+# Speak Up! A2 — speaking method book (12 units)
 
 A5 speaking book in a playful design (Fredoka + Nunito fonts, emoji, colour stickers).
 Each unit has 6 pages and 7 sections:
@@ -16,7 +16,7 @@ Each unit has 6 pages and 7 sections:
 - `data/config.json` — book settings, including `audio_base_url` (where the MP3s will be hosted; the QR codes point there)
 - `data/units/NN-*.json` — unit content
 - `scripts/make_audio.py [unit]` — creates `dist/audio/uNN-1-words|2-story|3-speech.mp3` with OpenAI TTS (clips cached in `audio-cache/`, ~$0.03 per unit)
-- `scripts/build.py` → `dist/speak-up.html`; `scripts/render.js` → `dist/Impulse_Speak_Up_A2.pdf`
+- `scripts/build.py` → `dist/speak-up.html`; `scripts/render.js` → `dist/Speak_Up_A2.pdf`
 
 ## Rebuild
 
