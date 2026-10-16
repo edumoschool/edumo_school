@@ -1,0 +1,51 @@
+{
+ "n": 6, "title": "Free Time and Hobbies", "emoji": "🎨", "color": "teal",
+ "words": [
+  {"group": "Hobbies", "emoji": "🎸", "items": [["read books", "kitob o‘qimoq"], ["play the guitar", "gitara chalmoq"], ["take photos", "suratga olmoq"], ["draw", "rasm chizmoq"],
+    ["play chess", "shaxmat o‘ynamoq"], ["play computer games", "kompyuter o‘yinlari o‘ynamoq"], ["go fishing", "baliq oviga bormoq"], ["dance", "raqsga tushmoq"]]},
+  {"group": "Going out", "emoji": "🎬", "items": [["go to the cinema", "kinoga bormoq"], ["meet friends", "do‘stlar bilan uchrashmoq"], ["go for a walk", "sayr qilmoq"], ["eat out", "tashqarida ovqatlanmoq"],
+    ["concert", "konsert"], ["museum", "muzey"]]},
+  {"group": "Talking about hobbies", "emoji": "💬", "items": [["free time", "bo‘sh vaqt"], ["hobby", "qiziqish, xobbi"], ["be interested in", "…ga qiziqmoq"], ["be into", "…ni juda yoqtirmoq"],
+    ["relaxing", "dam beruvchi"], ["exciting", "hayajonli"], ["boring", "zerikarli"], ["join a club", "to‘garakka qo‘shilmoq"],
+    ["spend time", "vaqt o‘tkazmoq"], ["at least", "kamida"]]}
+ ],
+ "story": {
+  "title": "Jasur’s new hobby",
+  "text": "Jasur is sixteen. A year ago, he spent all his **free time** at home. He **played computer games** for hours, and his mum was not happy. | One day his uncle gave him an old camera. At first Jasur thought it was **boring**, but then he started to **take photos** of the city, people and animals. Now photography is his favourite **hobby**! | Last month he **joined a** photography **club**. They meet every Saturday and **go for a walk** in different parts of the city. Sometimes they visit a **museum** or a **concert** and take pictures there. Jasur says it’s really **exciting**. | He’s also **interested in** music. He’s learning to **play the guitar**, and he practises **at least** thirty minutes every day. He says it’s very **relaxing**. | At the weekend he **meets friends**, they **go to the cinema** or **eat out**. And computer games? He still plays sometimes, but he isn’t really **into** them any more.",
+  "tf": [["Jasur bought a camera.", false], ["The photography club meets on Saturdays.", true], ["He practises the guitar every day.", true], ["He plays computer games every evening now.", false]],
+  "retell": ["before – computer games", "uncle – old camera", "photos – favourite hobby", "joined a club", "museums, concerts", "guitar – 30 min a day", "weekend – friends, cinema"]
+ },
+ "gaps": [
+  ["In my ___ I like reading and drawing.", "free time"],
+  ["My brother is really ___ football – he watches every match.", "into"],
+  ["Every evening after dinner we ___ in the park.", "go for a walk"],
+  ["I want to ___ a chess club at school.", "join"],
+  ["Yoga is very ___ – I feel calm after it.", "relaxing"],
+  ["I read ___ one book a month, sometimes two.", "at least"]
+ ],
+ "phrases": [
+  ["In my free time I like / love …", "Bo‘sh vaqtimda …ni yaxshi ko‘raman."],
+  ["I’m really into …", "Men …ni juda yoqtiraman."],
+  ["I’m interested in …", "Men …ga qiziqaman."],
+  ["I got into it when …", "Men bunga … paytda qiziqib qolganman."],
+  ["I do it about … times a week.", "Buni haftasiga … marta qilaman."],
+  ["It helps me to relax / forget about …", "Bu menga dam olishga / …ni unutishga yordam beradi."],
+  ["I’m not very good at it, but …", "Men buni unchalik yaxshi bilmayman, lekin …"],
+  ["I’d like to try … one day.", "Bir kun …ni sinab ko‘rmoqchiman."]
+ ],
+ "questions": [
+  "What do you do in your free time?", "Do you have a hobby? When did you start it?", "How often do you meet your friends?",
+  "What did you do last weekend?", "Do you prefer staying at home or going out?", "Is there a hobby you would like to try?",
+  "Do you think computer games are a good hobby?", "What do young people in your city do for fun?"
+ ],
+ "answers": [
+  ["Do you have a hobby? When did you start it?", "Yes, **I’m really into** drawing. **I got into it when** I was ten – my grandma gave me some paints. **For example**, now I draw my friends’ portraits."],
+  ["Do you prefer staying at home or going out?", "I prefer going out. **I’m interested in** films, so I often **go to the cinema**. Staying at home all weekend is **boring** for me."]
+ ],
+ "speech": "Hi! Let me tell you about my free time. **In my free time I love** playing chess. **I got into it when** I was eight – my grandpa taught me. **I do it about** three **times a week**, usually online, and sometimes I play with my grandpa in the park. **I’m not very good at it, but** I’m getting better. **It helps me to** think and **relax**. I’m also **interested in** music, and I go to concerts with my friends. **I’d like to try** dancing **one day**, but I’m a bit shy! Thank you!",
+ "assistant": {"topic": "My favourite hobby",
+  "start": [["I want to tell you about my hobby.", "Sizga xobbim haqida aytib bermoqchiman."], ["My favourite hobby is …", "Sevimli mashg‘ulotim …"]],
+  "middle": [["I started it when …", "Men buni … paytda boshlaganman."], ["I like it because …", "Menga yoqadi, chunki …"]],
+  "end": [["I think everybody needs a hobby.", "Menimcha, har kimga xobbi kerak."], ["Maybe you can try it too!", "Balki siz ham sinab ko‘rarsiz!"]]},
+ "cando": ["talk about my hobbies and free time", "say how often I do things", "invite and suggest activities"]
+}

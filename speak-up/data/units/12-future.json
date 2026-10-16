@@ -1,0 +1,50 @@
+{
+ "n": 12, "title": "Plans and Dreams", "emoji": "🚀", "color": "lime",
+ "words": [
+  {"group": "Future plans", "emoji": "🗓️", "items": [["be going to", "… moqchi (reja)"], ["plan", "reja; rejalashtirmoq"], ["hope", "umid qilmoq"], ["would like to", "… ni xohlardim"],
+    ["decide", "qaror qilmoq"], ["next year", "kelasi yil"], ["in five years", "besh yildan keyin"], ["one day", "bir kun"]]},
+  {"group": "Life goals", "emoji": "🎯", "items": [["study abroad", "chet elda o‘qimoq"], ["get a job", "ishga kirmoq"], ["save money", "pul jamg‘armoq"], ["buy a car", "mashina sotib olmoq"],
+    ["learn to drive", "haydashni o‘rganmoq"], ["start a business", "biznes boshlamoq"], ["pass an exam", "imtihondan o‘tmoq"], ["improve my English", "ingliz tilimni yaxshilamoq"]]},
+  {"group": "Dreams", "emoji": "✨", "items": [["dream", "orzu; orzu qilmoq"], ["goal", "maqsad"], ["successful", "muvaffaqiyatli"], ["achieve", "erishmoq"],
+    ["probably", "ehtimol"], ["definitely", "albatta, aniq"], ["it depends", "bu …ga bog‘liq"], ["work hard", "qattiq mehnat qilmoq"]]}
+ ],
+ "story": {
+  "title": "Malika’s big plans",
+  "text": "Malika is seventeen, and she has a lot of **plans** for the future! First, she**’s going to** **pass** her IELTS **exam** in March. She **works hard** every day to **improve her English**. Her **goal** is band 7. | After that, she **hopes** to **study abroad**. She **would like to** study business in Malaysia or Korea. “It **depends** on the price,” she says. “I’m **probably** going to apply for a scholarship.” | She is also **going to** **learn to drive** this summer. Her dad promised to teach her. | **In five years**, she wants to come back to Uzbekistan and **get a job** in a big company. She **plans** to **save money** and **buy a car**. | But her biggest **dream** is to **start** her own **business** – a small café with books. “I don’t know when, but **one day** I’ll **definitely** do it,” she says. “I want to be **successful** and **achieve** my dreams!” Her parents **decided** to help her.",
+  "tf": [["Malika is going to take IELTS in March.", true], ["She wants to study medicine abroad.", false], ["Her mum is going to teach her to drive.", false], ["Her dream is to open a café with books.", true]],
+  "retell": ["17 – many plans", "IELTS in March – band 7", "study abroad – business", "learn to drive – dad", "in 5 years – job, car", "dream – café with books", "parents will help"]
+ },
+ "gaps": [
+  ["I’m ___ visit my grandparents next weekend.", "going to"],
+  ["I want to ___ for a new phone, so I don’t buy sweets.", "save money"],
+  ["My ___ is to run a marathon before I’m thirty.", "goal"],
+  ["“Will you come to the party?” – “ ___ . I don’t know if I’m free.”", "It depends"],
+  ["You need to ___ if you want to be successful.", "work hard"],
+  ["I’ll ___ go to the gym tomorrow – I promise!", "definitely"]
+ ],
+ "phrases": [
+  ["Next year I’m going to …", "Kelasi yil men … moqchiman."],
+  ["I hope to … / I’d like to …", "… ni umid qilaman / xohlardim."],
+  ["My biggest dream is to …", "Eng katta orzuim — …"],
+  ["I’m planning to … because …", "… ni rejalashtiryapman, chunki …"],
+  ["I’ll probably / definitely …", "Ehtimol / albatta … qilaman."],
+  ["It depends on …", "Bu …ga bog‘liq."],
+  ["To achieve this, I need to …", "Bunga erishish uchun men … qilishim kerak."],
+  ["I can see myself … in ten years.", "O‘n yildan keyin o‘zimni … deb tasavvur qilaman."]
+ ],
+ "questions": [
+  "What are you going to do this weekend?", "What are your plans for next year?", "Would you like to study or work abroad?",
+  "What is your biggest dream?", "Where do you see yourself in ten years?", "What do you need to do to achieve your goals?",
+  "Why are you learning English?", "What new skill would you like to learn?"
+ ],
+ "answers": [
+  ["Why are you learning English?", "**I’m planning to** study abroad, **because** many good universities teach in English. **For example**, **I hope to** study IT in Germany next year."],
+  ["What is your biggest dream?", "**My biggest dream is to** travel around the world. **To achieve this, I need to** **save money** and **improve my English**. **I’ll definitely** do it **one day**!"]
+ ],
+ "speech": "Hello everyone! Today I want to talk about my future. **Next year I’m going to** finish school and take the IELTS exam. **I hope to** get band 6.5. **I’m planning to** study computer science **because** I love technology. **I’d like to** study abroad, but **it depends on** money. **My biggest dream is to** start my own IT company. **To achieve this, I need to** work hard and learn a lot. **I can see myself** working in my own office **in ten years**. **I’ll definitely** come back and help my country. Thank you for listening!",
+ "assistant": {"topic": "My plans and dreams",
+  "start": [["I’d like to talk about my future plans.", "Kelajakdagi rejalarim haqida gapirmoqchiman."], ["I have some big plans!", "Mening katta rejalarim bor!"]],
+  "middle": [["First, I’m going to … After that, I hope to …", "Avval … moqchiman. Keyin … ni umid qilaman."], ["My biggest dream is …", "Eng katta orzuim …"]],
+  "end": [["I know it won’t be easy, but I’ll try.", "Bilaman, oson bo‘lmaydi, lekin harakat qilaman."], ["Wish me luck!", "Menga omad tilang!"]]},
+ "cando": ["talk about plans with going to", "describe my dreams and goals", "say what I will probably / definitely do"]
+}

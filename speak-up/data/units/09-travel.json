@@ -1,0 +1,272 @@
+{
+ "n": 9,
+ "title": "Travel and Holidays",
+ "emoji": "✈️",
+ "color": "sky",
+ "words": [
+  {
+   "group": "Transport",
+   "emoji": "🚆",
+   "items": [
+    [
+     "by plane",
+     "samolyotda"
+    ],
+    [
+     "by train",
+     "poyezdda"
+    ],
+    [
+     "by car",
+     "mashinada"
+    ],
+    [
+     "airport",
+     "aeroport"
+    ],
+    [
+     "station",
+     "vokzal"
+    ],
+    [
+     "ticket",
+     "chipta"
+    ],
+    [
+     "passport",
+     "pasport"
+    ],
+    [
+     "luggage",
+     "yuk, bagaj"
+    ]
+   ]
+  },
+  {
+   "group": "Holidays",
+   "emoji": "🏖️",
+   "items": [
+    [
+     "go on holiday",
+     "ta’tilga chiqmoq"
+    ],
+    [
+     "book a hotel",
+     "mehmonxona band qilmoq"
+    ],
+    [
+     "go sightseeing",
+     "diqqatga sazovor joylarni ko‘rmoq"
+    ],
+    [
+     "beach",
+     "plyaj"
+    ],
+    [
+     "mountains",
+     "tog‘lar"
+    ],
+    [
+     "abroad",
+     "chet elda"
+    ],
+    [
+     "tourist",
+     "sayyoh"
+    ],
+    [
+     "souvenir",
+     "esdalik sovg‘a"
+    ]
+   ]
+  },
+  {
+   "group": "Travel verbs",
+   "emoji": "🧳",
+   "items": [
+    [
+     "pack",
+     "yig‘ishtirmoq (jomadon)"
+    ],
+    [
+     "arrive",
+     "yetib kelmoq"
+    ],
+    [
+     "leave",
+     "jo‘nab ketmoq"
+    ],
+    [
+     "stay",
+     "qolmoq, yashamoq"
+    ],
+    [
+     "visit",
+     "tashrif buyurmoq"
+    ],
+    [
+     "get lost",
+     "adashib qolmoq"
+    ],
+    [
+     "explore",
+     "o‘rganmoq, kezmoq"
+    ],
+    [
+     "take a trip",
+     "sayohat qilmoq"
+    ]
+   ]
+  }
+ ],
+ "story": {
+  "title": "Our first trip abroad",
+  "text": "Last summer, my family decided to **go on holiday** **abroad** for the first time. We chose Turkey! My mum **booked a hotel** online two months before, and Dad bought the **tickets**. The night before the trip, we **packed** our **luggage** – my sister wanted to take all her toys! | We went to the **airport** **by car**. Dad couldn’t find his **passport** for ten minutes – we were so nervous! We **left** at 6 a.m. and **arrived** in Istanbul at 9. | We **stayed** in Istanbul for three days. We **went sightseeing** and **visited** old mosques and markets. On the second day, we **got lost** in the small streets, but a kind man helped us. | Then we **took a trip** to Antalya **by train** and bus. We swam at the **beach** every day and **explored** the **mountains** near the town. | There were **tourists** from many countries. | Before we went home, I bought **souvenirs** for my friends. It was the best holiday ever!",
+  "tf": [
+   [
+    "Dad booked the hotel.",
+    false
+   ],
+   [
+    "Dad couldn’t find his passport at first.",
+    true
+   ],
+   [
+    "They got lost in Istanbul.",
+    true
+   ],
+   [
+    "They went to Antalya by plane.",
+    false
+   ]
+  ],
+  "retell": [
+   "trip abroad – Turkey",
+   "hotel, tickets",
+   "packing – toys",
+   "airport – passport",
+   "Istanbul – got lost",
+   "Antalya – beach",
+   "souvenirs"
+  ]
+ },
+ "gaps": [
+  [
+   "Don’t forget your ___ – you can’t fly without it!",
+   "passport"
+  ],
+  [
+   "We always ___ in a small hotel near the sea.",
+   "stay"
+  ],
+  [
+   "I didn’t have a map, so I ___ in the old town.",
+   "got lost"
+  ],
+  [
+   "I bought a small ___ for my mum – a beautiful plate.",
+   "souvenir"
+  ],
+  [
+   "Our train ___ at 8 p.m. and arrives at 6 a.m.",
+   "leaves"
+  ],
+  [
+   "My bag was very heavy – I had too much ___ .",
+   "luggage"
+  ]
+ ],
+ "phrases": [
+  [
+   "Last summer I went to …",
+   "O‘tgan yozda men …ga bordim."
+  ],
+  [
+   "We went there by … and it took …",
+   "U yerga … bilan bordik, … vaqt ketdi."
+  ],
+  [
+   "We stayed in / at … for … days.",
+   "… da … kun qoldik."
+  ],
+  [
+   "The best thing about the trip was …",
+   "Sayohatning eng yaxshi tomoni …"
+  ],
+  [
+   "It was amazing / a bit disappointing.",
+   "Bu ajoyib / biroz ko‘ngilsiz edi."
+  ],
+  [
+   "I’d love to visit … one day.",
+   "Bir kun …ga borishni juda xohlardim."
+  ],
+  [
+   "I prefer … holidays because …",
+   "Men … ta’tilni afzal ko‘raman, chunki …"
+  ],
+  [
+   "Excuse me, how can I get to …?",
+   "Kechirasiz, …ga qanday borsam bo‘ladi?"
+  ]
+ ],
+ "questions": [
+  "Do you like travelling? Why?",
+  "Where did you go on your last holiday?",
+  "How do you prefer to travel?",
+  "Do you prefer the beach or the mountains?",
+  "What places should tourists visit in your country?",
+  "Have you ever got lost?",
+  "Which country would you like to visit? Why?",
+  "What do you always take with you on a trip?"
+ ],
+ "answers": [
+  [
+   "Do you prefer the beach or the mountains?",
+   "**I prefer** mountain **holidays because** it’s cool and quiet there. **For example**, last year we **stayed** in Chimgan **for** four **days** and walked every day."
+  ],
+  [
+   "What places should tourists visit in your country?",
+   "They should **visit** Samarkand and Bukhara. There are beautiful old buildings, and the food is delicious. **It was amazing** for me when I went there."
+  ]
+ ],
+ "speech": "Hello! I want to tell you about my last trip. **Last summer I went to** Bukhara with my classmates. **We went there by** train **and it took** about four hours. **We stayed at** a small family hotel **for** three **days**. We went sightseeing every day and visited old mosques and madrasas. We also bought souvenirs at the market. **The best thing about the trip was** the evening walks in the old city – it was beautiful with all the lights. **It was amazing!** **I’d love to visit** Japan **one day**. Thank you for listening!",
+ "assistant": {
+  "topic": "A trip I remember",
+  "start": [
+   [
+    "I’d like to tell you about a trip.",
+    "Bir sayohat haqida aytib bermoqchiman."
+   ],
+   [
+    "It was … years ago / last …",
+    "Bu … yil oldin / o‘tgan … edi."
+   ]
+  ],
+  "middle": [
+   [
+    "We went there by … with …",
+    "U yerga … bilan … da bordik."
+   ],
+   [
+    "Every day we …",
+    "Har kuni biz …"
+   ]
+  ],
+  "end": [
+   [
+    "I will never forget this trip.",
+    "Bu sayohatni hech qachon unutmayman."
+   ],
+   [
+    "I want to go there again!",
+    "U yerga yana borishni xohlayman!"
+   ]
+  ]
+ },
+ "cando": [
+  "talk about a past holiday",
+  "describe how I travel",
+  "ask for directions"
+ ]
+}

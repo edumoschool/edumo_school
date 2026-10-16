@@ -1,0 +1,50 @@
+{
+ "n": 10, "title": "Weather and Seasons", "emoji": "🌦️", "color": "yellow",
+ "words": [
+  {"group": "Weather", "emoji": "☀️", "items": [["sunny", "quyoshli"], ["cloudy", "bulutli"], ["rainy", "yomg‘irli"], ["windy", "shamolli"],
+    ["snowy", "qorli"], ["foggy", "tumanli"], ["storm", "bo‘ron"], ["temperature", "harorat"]]},
+  {"group": "Hot and cold", "emoji": "🌡️", "items": [["hot", "issiq"], ["warm", "iliq"], ["cool", "salqin"], ["cold", "sovuq"],
+    ["freezing", "qahraton sovuq"], ["degrees", "daraja"], ["weather forecast", "ob-havo ma’lumoti"], ["umbrella", "soyabon"]]},
+  {"group": "Seasons", "emoji": "🍂", "items": [["spring", "bahor"], ["summer", "yoz"], ["autumn", "kuz"], ["winter", "qish"],
+    ["season", "fasl"], ["climate", "iqlim"], ["get dark", "qorong‘i tushmoq"], ["stay indoors", "uyda qolmoq"]]}
+ ],
+ "story": {
+  "title": "Four seasons in Tashkent",
+  "text": "I’m Laylo from Tashkent. We have four very different **seasons** here. **Summer** is very **hot** – sometimes the **temperature** is 42 **degrees**! It’s **sunny** every day and it almost never rains. People **stay indoors** in the afternoon. | **Autumn** is my favourite season. It’s **warm** in September and **cool** in November. There are lots of fruits. Sometimes it’s **cloudy** and **windy**. | **Winter** can be **cold**, but it isn’t **freezing** every day. Sometimes it’s **snowy**. It **gets dark** very early – at five o’clock! In the mornings it’s often **foggy**. | In **spring** everything is green, and it’s often **rainy**, so I always take an **umbrella**. Sometimes there is a big **storm**. Before I leave home, I always check the **weather forecast** on my phone. I think our **climate** is great – you can enjoy every season!",
+  "tf": [["In summer it rains a lot in Tashkent.", false], ["Laylo’s favourite season is autumn.", true], ["In winter it gets dark at five o’clock.", true], ["It never rains in spring.", false]],
+  "retell": ["four seasons", "summer – very hot, 42°", "autumn – favourite, fruits", "winter – snow, dark at 5", "spring – green, rainy", "umbrella, forecast", "great climate"]
+ },
+ "gaps": [
+  ["It’s raining! Don’t forget your ___ .", "umbrella"],
+  ["The ___ says it will be sunny tomorrow.", "weather forecast"],
+  ["In winter it ___ very early, so I don’t like going out.", "gets dark"],
+  ["It’s ___ today – I can’t see the buildings across the street.", "foggy"],
+  ["It’s minus fifteen outside. It’s ___ !", "freezing"],
+  ["When it’s very hot, we ___ and drink cold tea.", "stay indoors"]
+ ],
+ "phrases": [
+  ["What’s the weather like today?", "Bugun ob-havo qanday?"],
+  ["It’s quite / really … today.", "Bugun ancha / juda …"],
+  ["My favourite season is … because …", "Sevimli faslim …, chunki …"],
+  ["I can’t stand … weather.", "… ob-havoni yomon ko‘raman."],
+  ["When it’s …, I like to …", "… bo‘lganda men …ni yoqtiraman."],
+  ["In my country, summers are … and winters are …", "Mamlakatimda yozi … va qishi …"],
+  ["It looks like rain.", "Yomg‘ir yog‘adiganga o‘xshaydi."],
+  ["The weather makes me feel …", "Ob-havo meni … his qildiradi."]
+ ],
+ "questions": [
+  "What’s the weather like today?", "What is your favourite season? Why?", "What is the weather like in your country in summer?",
+  "Do you like rainy days?", "What do you do when it’s very hot?", "Do you check the weather forecast?",
+  "Does the weather change your mood?", "What was the weather like on your last holiday?"
+ ],
+ "answers": [
+  ["What is your favourite season? Why?", "**My favourite season is** spring **because** everything is green and **it’s** not too hot. **For example**, in April we have picnics in the mountains with my family."],
+  ["Does the weather change your mood?", "Yes, it does. **When it’s** sunny, I feel happy and active. **I can’t stand** rainy, grey **weather** – it makes me sleepy and a bit sad."]
+ ],
+ "speech": "Hi everyone! Let’s talk about the weather. **In my country, summers are** very hot **and winters are** cold. **My favourite season is** autumn **because** it’s warm and there are delicious fruits everywhere – grapes, melons and pomegranates. **I can’t stand** very hot **weather**. **When it’s** forty degrees, I just **like to** stay at home with the air conditioner! I don’t mind snow – it’s beautiful. I always check the weather forecast in the morning. Today **it’s quite** cloudy and cool. **It looks like rain**, so I have my umbrella! Thank you!",
+ "assistant": {"topic": "My favourite season",
+  "start": [["I want to talk about the weather in my country.", "Mamlakatimdagi ob-havo haqida gapirmoqchiman."], ["We have four seasons.", "Bizda to‘rt fasl bor."]],
+  "middle": [["In …, the weather is usually …", "… da ob-havo odatda …"], ["People like to … at that time.", "O‘sha paytda odamlar …ni yoqtirishadi."]],
+  "end": [["That’s why … is my favourite season.", "Shuning uchun … sevimli faslim."], ["Every season has something special.", "Har bir faslning o‘ziga xosligi bor."]]},
+ "cando": ["describe the weather", "talk about seasons in my country", "say how weather changes my mood"]
+}

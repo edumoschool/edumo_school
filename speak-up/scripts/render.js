@@ -11,6 +11,8 @@ const dist = path.resolve(__dirname, '..', 'dist');
   const page = await browser.newPage({ viewport: { width: 560, height: 794 } });
   await page.goto('file://' + path.join(dist, 'speak-up.html'), { waitUntil: 'networkidle' });
   await page.emulateMedia({ media: 'print' });
+  await page.evaluate(() => document.fonts.ready);
+  await page.waitForTimeout(500);
   const overflow = await page.evaluate(() => [...document.querySelectorAll('.page')]
     .map((pg, i) => [i + 1, [pg, ...pg.querySelectorAll('.content, .opener')]
       .filter((el) => el.scrollHeight > el.clientHeight + 1).map((el) => `${el.className} +${el.scrollHeight - el.clientHeight}px`)])

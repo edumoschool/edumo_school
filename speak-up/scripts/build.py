@@ -50,8 +50,44 @@ def rich(text):
     return re.sub(r"\*\*(.+?)\*\*", r"<mark>\1</mark>", e(text))
 
 
+TRACKS = ["1-words", "2-story", "3-speech"]
+
+
+def track_url(file_name):
+    """t.me link for a track: tracks are posted in order (unit 1 tracks 1-3, unit 2 …) in a new channel."""
+    m = re.match(r"u(\d+)-(\d)-", file_name)
+    post = CFG["telegram_first_post"] + (int(m.group(1)) - 1) * len(TRACKS) + int(m.group(2)) - 1
+    return f"https://t.me/{CFG['telegram_channel']}/{post}"
+
+
+def upload_list():
+    """Write dist/UPLOAD_ORDER.md: the exact order to post the MP3s in the Telegram channel."""
+    lines = [f"# Telegram upload order — @{CFG['telegram_channel']}", "",
+             "Post these files in a NEW, empty channel, one file per post, in exactly this order,",
+             "and nothing else in between. Each post's link must match the right-hand column.", "",
+             "| # | File | Caption | Link |", "|---|------|---------|------|"]
+    i = 0
+    for u in UNITS:
+        for t in TRACKS:
+            i += 1
+            f = f"u{u['n']:02d}-{t}.mp3"
+            cap = f"Unit {u['n']} · {u['title']} — Track {u['n']}.{t[0]} ({t[2:]})"
+            lines.append(f"| {i} | {f} | {cap} | {track_url(f)} |")
+    (ROOT / "dist" / "UPLOAD_ORDER.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
+EMOJI = re.compile("([\U0001F000-\U0001FAFF\u2600-\u27BF\u2B00-\u2BFF\u2300-\u23FF]"
+                   "(?:\uFE0F|\u200D[\U0001F000-\U0001FAFF\u2600-\u27BF]\uFE0F?|[\U0001F3FB-\U0001F3FF])*"
+                   "|[\U0001F1E6-\U0001F1FF]{2})")
+
+
+def color_emoji(markup):
+    """Wrap every emoji in a span that uses the colour emoji font (never a black-and-white text glyph)."""
+    return EMOJI.sub(r'<span class="em">\1</span>', markup)
+
+
 def qr(file_name, label):
-    img = qrcode.make(CFG["audio_base_url"] + file_name, image_factory=qrcode.image.svg.SvgPathImage, box_size=10, border=1)
+    img = qrcode.make(track_url(file_name), image_factory=qrcode.image.svg.SvgPathImage, box_size=10, border=1)
     buf = io.BytesIO()
     img.save(buf)
     svg = re.sub(r"<\?xml[^>]*\?>", "", buf.getvalue().decode())
@@ -141,7 +177,7 @@ def p_assistant(u):
     can = "".join(f"<li><span>⭐</span>I can {e(c)}.</li>" for c in u["cando"])
     return f"""{section("assistant")}
  <p class="atopic">Topic: <b>“{e(a["topic"])}”</b></p>
- {block("▶ Start", "Gapni boshlash", a["start"], "a1")}{block("➕ Continue", "Davom ettirish", a["middle"], "a2")}{block("🏁 Finish", "Tugatish", a["end"], "a3")}
+ {block("🟢 Start", "Gapni boshlash", a["start"], "a1")}{block("➡️ Continue", "Davom ettirish", a["middle"], "a2")}{block("🏁 Finish", "Tugatish", a["end"], "a3")}
  <div class="challenge"><span>⏱️</span><div><b>1-minute challenge</b><small>Gapiring va vaqtni yozing. Har safar uzoqroq!</small></div>
   <div class="tries"><i></i><i></i><i></i><small>seconds · 3 tries</small></div></div>
  <div class="mine"><h3>📝 My speech plan<small>Faqat kalit so‘zlar yozing.</small></h3>{'<i class="line"></i>' * 4}</div>
@@ -185,9 +221,10 @@ def build():
     fonts = ('<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700'
              '&family=Nunito:ital,wght@0,500;0,700;0,800;0,900;1,500;1,700&display=swap">')
     doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><title>{SCHOOL} — Speak Up! {CFG["level"]}</title>
-{fonts}<style>{css}</style></head><body>{''.join(pages)}</body></html>"""
+{fonts}<style>{css}</style></head><body>{color_emoji(''.join(pages))}</body></html>"""
     (ROOT / "dist").mkdir(exist_ok=True)
     (ROOT / "dist" / "speak-up.html").write_text(doc, encoding="utf-8")
+    upload_list()
     print("pages:", len(pages))
 
 

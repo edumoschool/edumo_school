@@ -1,0 +1,50 @@
+{
+ "n": 11, "title": "Memories and Experiences", "emoji": "📸", "color": "rose",
+ "words": [
+  {"group": "Life events", "emoji": "🎓", "items": [["be born", "tug‘ilmoq"], ["grow up", "katta bo‘lmoq"], ["start school", "maktabga bormoq"], ["graduate", "o‘qishni tamomlamoq"],
+    ["move house", "ko‘chib o‘tmoq"], ["get married", "turmush qurmoq"], ["childhood", "bolalik"], ["teenager", "o‘smir"]]},
+  {"group": "Experiences", "emoji": "🌟", "items": [["have you ever …?", "hech … ganmisiz?"], ["once", "bir marta"], ["never", "hech qachon"], ["already", "allaqachon"],
+    ["just", "hozirgina"], ["yet", "hali (inkor/so‘roq)"], ["for the first time", "birinchi marta"], ["experience", "tajriba, voqea"]]},
+  {"group": "Feelings and memories", "emoji": "💭", "items": [["remember", "eslamoq"], ["forget", "unutmoq"], ["miss", "sog‘inmoq"], ["proud", "faxrlangan"],
+    ["scared", "qo‘rqqan"], ["embarrassed", "uyalgan"], ["unforgettable", "unutilmas"], ["used to", "ilgari … edi (odat)"]]}
+ ],
+ "story": {
+  "title": "Grandpa’s photo album",
+  "text": "Last weekend, Grandpa showed me his old photo album. “Look, this is me,” he said. “I **was born** in a small village near Namangan in 1955. I **grew up** there. In my **childhood** we didn’t have a TV – we **used to** play outside all day.” | “Here I am as a **teenager**. I **started school** at seven, and I **graduated** from university in Tashkent. My parents were very **proud**.” | “We **got married** in 1980 and **moved house** to the city.” | Then he asked, “**Have you ever** flown on a plane?” “Yes, **once**,” I said. “But I **was** really **scared**!” Grandpa laughed. “I flew **for the first time** when I was forty. I was scared too!” | “Do you **miss** the village?” I asked. “Sometimes. I **remember** every street. I’ll **never** **forget** those days.” | It was an **unforgettable** afternoon. Then Grandpa asked, “Have you finished your homework **yet**?” I said, “I’ve **just** started!” I was a bit **embarrassed**.",
+  "tf": [["Grandpa was born in Tashkent.", false], ["He used to play outside a lot.", true], ["He got married in 1980.", true], ["Grandpa has never flown on a plane.", false]],
+  "retell": ["photo album", "born 1955 – village", "no TV – played outside", "university – parents proud", "married 1980, moved to city", "first flight at 40", "unforgettable afternoon"]
+ },
+ "gaps": [
+  ["I ___ in Samarkand, but now I live in Tashkent.", "was born"],
+  ["When I was a child, I ___ play football every day.", "used to"],
+  ["I passed my exam! My parents are very ___ of me.", "proud"],
+  ["Have you finished your homework ___ ?", "yet"],
+  ["I visited the sea ___ when I was nineteen.", "for the first time"],
+  ["My first day at university was ___ – I still remember everything.", "unforgettable"]
+ ],
+ "phrases": [
+  ["I remember when I …", "… qilganim esimda."],
+  ["When I was a child, I used to …", "Bolaligimda men … edim."],
+  ["I’ll never forget the day when …", "… bo‘lgan kunni hech qachon unutmayman."],
+  ["Have you ever …? – Yes, I have. / No, never.", "Hech … ganmisiz? – Ha. / Yo‘q, hech qachon."],
+  ["I’ve … once / twice / many times.", "Men bir / ikki / ko‘p marta … ganman."],
+  ["It was the first time I …", "Bu men birinchi marta … edim."],
+  ["I felt really … at that moment.", "O‘sha paytda o‘zimni juda … his qildim."],
+  ["Looking back, I think …", "Ortga qarasam, menimcha …"]
+ ],
+ "questions": [
+  "Where were you born and where did you grow up?", "What did you use to do when you were a child?", "What is your best childhood memory?",
+  "Have you ever been on TV or the radio?", "Have you ever met a famous person?", "What was the happiest day of your life?",
+  "When did you feel really proud?", "What do you miss about your childhood?"
+ ],
+ "answers": [
+  ["What did you use to do when you were a child?", "**When I was a child, I used to** climb trees in my grandma’s garden. **For example**, every summer I picked apples and cherries. I really **miss** those days."],
+  ["Have you ever met a famous person?", "**Yes, I have** – **once**! I met a famous football player at the airport. **I felt really** excited **at that moment**, and we took a photo together."]
+ ],
+ "speech": "Hello everyone! I want to share a special memory. **I’ll never forget the day when** I started school. I was six years old. My mum bought me a new bag and a white shirt. **I remember** I was very **scared** – I didn’t know anyone! But a girl sat next to me and gave me a sweet. Now she is my best friend. **When I was a child, I used to** cry every morning before school, but later I loved it. **Looking back, I think** that day changed my life, because I found a real friend. Thank you!",
+ "assistant": {"topic": "An unforgettable day",
+  "start": [["I’d like to tell you about a special day.", "Sizga bir alohida kun haqida aytib bermoqchiman."], ["It happened when I was …", "Bu men … bo‘lganimda sodir bo‘lgan."]],
+  "middle": [["First, … then, …", "Avval … keyin …"], ["I felt … because …", "O‘zimni … his qildim, chunki …"]],
+  "end": [["I’ll always remember this day.", "Bu kunni doim eslayman."], ["It was one of the best days of my life.", "Bu hayotimdagi eng yaxshi kunlardan biri edi."]]},
+ "cando": ["talk about my childhood", "describe a special memory", "ask and answer “Have you ever …?”"]
+}

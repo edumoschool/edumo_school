@@ -1,0 +1,50 @@
+{
+ "n": 2, "title": "Daily Routine", "emoji": "⏰", "color": "orange",
+ "words": [
+  {"group": "Morning", "emoji": "🌅", "items": [["wake up", "uyg‘onmoq"], ["get up", "o‘rnidan turmoq"], ["have a shower", "dush qabul qilmoq"], ["get dressed", "kiyinmoq"],
+    ["have breakfast", "nonushta qilmoq"], ["brush my teeth", "tishimni yuvmoq"], ["leave home", "uydan chiqmoq"], ["catch the bus", "avtobusga ulgurmoq"]]},
+  {"group": "Day and evening", "emoji": "🌙", "items": [["start work", "ishni boshlamoq"], ["have lunch", "tushlik qilmoq"], ["take a break", "tanaffus qilmoq"], ["finish work", "ishni tugatmoq"],
+    ["get home", "uyga yetib kelmoq"], ["cook dinner", "kechki ovqat pishirmoq"], ["do the housework", "uy ishlarini qilmoq"], ["go to bed", "uxlashga yotmoq"]]},
+  {"group": "How often?", "emoji": "🔁", "items": [["always", "doim"], ["usually", "odatda"], ["often", "tez-tez"], ["sometimes", "ba’zan"],
+    ["hardly ever", "deyarli hech qachon"], ["never", "hech qachon"], ["every day", "har kuni"], ["twice a week", "haftada ikki marta"]]}
+ ],
+ "story": {
+  "title": "A day in Bobur’s life",
+  "text": "Bobur is a student in Tashkent, and he also works part-time in a café. His days are very busy! | He **always** **wakes up** at half past six, but he doesn’t **get up** immediately – he checks his phone first. Then he **has a shower**, **gets dressed** and **has breakfast** with his mum. He **brushes his teeth** and **leaves home** at half past seven to **catch the bus**. | His classes **start** at eight. At twelve he **has lunch** with his friends, and in the afternoon he goes to the café. He **usually** **starts work** at two and **finishes work** at six. He can **take a break** for fifteen minutes. | When he **gets home**, he **often** helps his mum. Sometimes he **cooks dinner**, and he **does the housework** **twice a week**. He **hardly ever** watches TV. | Bobur **never** **goes to bed** before midnight – he studies in the evening. He’s tired, but he loves his life!",
+  "tf": [["Bobur gets up as soon as he wakes up.", false], ["He takes the bus to university.", true], ["He works in the café in the morning.", false], ["He hardly ever watches TV.", true]],
+  "retell": ["wakes up – 6:30", "shower, breakfast", "bus – 7:30", "lunch with friends", "café – 2 to 6", "helps his mum", "bed – after midnight"]
+ },
+ "gaps": [
+  ["I ___ at 7, but I stay in bed for ten more minutes.", "wake up"],
+  ["After breakfast I ___ – usually jeans and a T-shirt.", "get dressed"],
+  ["I go to the gym ___ – on Mondays and Thursdays.", "twice a week"],
+  ["My mum ___ every evening – she makes great soup.", "cooks dinner"],
+  ["I ___ drink coffee – maybe once a year.", "hardly ever"],
+  ["At work I ___ at 11 for a cup of tea.", "take a break"]
+ ],
+ "phrases": [
+  ["On weekdays I usually …", "Ish kunlari odatda men …"],
+  ["The first thing I do is …", "Birinchi qiladigan ishim …"],
+  ["It takes me about … minutes to …", "…ga taxminan … daqiqa ketadi."],
+  ["After that, …", "Shundan keyin …"],
+  ["In the evening I like to …", "Kechqurun men … ni yoqtiraman."],
+  ["I’m a morning person / a night owl.", "Men erta turuvchiman / kech yotuvchiman."],
+  ["At the weekend my routine is different.", "Dam olish kunlari tartibim boshqacha."],
+  ["My favourite part of the day is …", "Kunning eng yoqimli qismi …"]
+ ],
+ "questions": [
+  "What time do you usually get up?", "What do you have for breakfast?", "How do you get to school or work?",
+  "How long does it take?", "What do you do in the evening?", "Are you a morning person or a night owl?",
+  "How is your weekend different from your weekdays?", "What is your favourite part of the day? Why?"
+ ],
+ "answers": [
+  ["Are you a morning person or a night owl?", "I’m definitely **a night owl**. I **hardly ever** go to bed before midnight because I like studying when it’s quiet."],
+  ["What is your favourite part of the day? Why?", "**My favourite part of the day is** the evening. I **get home**, have dinner with my family and relax. **For example**, we often drink tea and talk."]
+ ],
+ "speech": "Hello everyone! Let me tell you about my daily routine. **On weekdays I usually** get up at seven o’clock. **The first thing I do is** drink a glass of water. **After that**, I have a shower, get dressed and have breakfast. **It takes me about** twenty **minutes to** get to school by bus. I have lunch at one and finish school at three. **In the evening I like to** play football or read. I **hardly ever** watch TV. **At the weekend my routine is different** – I get up late and visit my grandparents. Thank you!",
+ "assistant": {"topic": "My daily routine",
+  "start": [["Let me tell you about my day.", "Sizga kunim haqida aytib beray."], ["I usually get up at …", "Odatda … da turaman."]],
+  "middle": [["After that, I …", "Shundan keyin men …"], ["In the afternoon / evening I …", "Tushdan keyin / kechqurun men …"]],
+  "end": [["Finally, I go to bed at …", "Nihoyat, … da uxlayman."], ["That’s my busy but happy day!", "Mana mening band, lekin baxtli kunim!"]]},
+ "cando": ["describe my daily routine", "say how often I do things", "compare weekdays and weekends"]
+}

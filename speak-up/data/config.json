@@ -1,9 +1,10 @@
 {
-  "title": "Speak Up!",
-  "level": "A2",
-  "level_name": "Elementary",
-  "audio_base_url": "https://impulse.uz/speak-up/a2/audio/",
-  "tts_model": "tts-1",
-  "narrator_voice": "nova",
-  "model_talk_voice": "shimmer"
+ "title": "Speak Up!",
+ "level": "A2",
+ "level_name": "Elementary",
+ "tts_model": "tts-1",
+ "narrator_voice": "nova",
+ "model_talk_voice": "shimmer",
+ "telegram_channel": "impulse_speakup_a2",
+ "telegram_first_post": 2
 }

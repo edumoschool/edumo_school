@@ -1,0 +1,50 @@
+{
+ "n": 5, "title": "Shopping and Clothes", "emoji": "🛍️", "color": "purple",
+ "words": [
+  {"group": "Clothes", "emoji": "👕", "items": [["T-shirt", "futbolka"], ["jeans", "jinsi shim"], ["dress", "ko‘ylak (ayollar)"], ["jacket", "kurtka"],
+    ["trainers", "krossovka"], ["coat", "palto"], ["suit", "kostyum"], ["scarf", "sharf"]]},
+  {"group": "In the shop", "emoji": "🏬", "items": [["shopping centre", "savdo markazi"], ["market", "bozor"], ["price", "narx"], ["discount", "chegirma"],
+    ["sale", "arzonlashtirish (sotuv)"], ["size", "o‘lcham"], ["try on", "kiyib ko‘rmoq"], ["fit", "to‘g‘ri kelmoq (o‘lchamda)"]]},
+  {"group": "Money and opinions", "emoji": "💳", "items": [["cheap", "arzon"], ["expensive", "qimmat"], ["pay by card", "karta bilan to‘lamoq"], ["in cash", "naqd pulda"],
+    ["online", "onlayn"], ["fashionable", "zamonaviy (moda)"], ["comfortable", "qulay"], ["spend money", "pul sarflamoq"]]}
+ ],
+ "story": {
+  "title": "Dilnoza’s birthday shopping",
+  "text": "Dilnoza’s birthday was on Saturday, and she wanted something new to wear. On Friday she went to a big **shopping centre** with her sister. | First, they looked at **dresses**. Dilnoza found a beautiful blue dress, but the **price** was very high – it was too **expensive** for her. Then they saw a sign: “**Sale**! 50% **discount**!” | She **tried on** three dresses. The first one didn’t **fit** – it was the wrong **size**. The second one was **fashionable** but not **comfortable**. The third one was perfect! She also bought a pair of white **trainers** and a warm **scarf** for her mum. | She wanted to **pay by card**, but the card machine wasn’t working, so she paid **in cash**. | On the way home they went to the **market** and bought fruit – it’s always **cheap** there. “I didn’t **spend** too much **money**,” Dilnoza said happily. Next time, maybe she will shop **online**!",
+  "tf": [["Dilnoza went shopping with her friend.", false], ["The first blue dress was too expensive.", true], ["The third dress was perfect.", true], ["She paid by card.", false]],
+  "retell": ["birthday – new clothes", "shopping centre + sister", "blue dress – too expensive", "sale, 50% discount", "tried on 3 dresses", "paid in cash", "market – cheap fruit"]
+ },
+ "gaps": [
+  ["These shoes are too small. Do you have a bigger ___ ?", "size"],
+  ["Can I ___ this jacket, please? Where is the changing room?", "try on"],
+  ["I never buy clothes in shops – I always buy them ___ .", "online"],
+  ["There’s a 30% ___ on all coats this week.", "discount"],
+  ["I wear ___ every day because they are good for walking.", "trainers"],
+  ["Sorry, we don’t take cards. You can only pay ___ .", "in cash"]
+ ],
+ "phrases": [
+  ["How much is it? / How much are they?", "Bu qancha turadi?"],
+  ["Can I try it on, please?", "Kiyib ko‘rsam bo‘ladimi?"],
+  ["Do you have it in a bigger / smaller size?", "Kattaroq / kichikroq o‘lchami bormi?"],
+  ["It doesn’t fit me.", "Bu menga to‘g‘ri kelmaydi."],
+  ["I’ll take it.", "Buni olaman."],
+  ["I prefer shopping online / in shops because …", "Onlayn / do‘konda xarid qilishni afzal ko‘raman, chunki …"],
+  ["I usually wear … because it’s comfortable.", "Odatda … kiyaman, chunki u qulay."],
+  ["I don’t like spending a lot of money on …", "…ga ko‘p pul sarflashni yoqtirmayman."]
+ ],
+ "questions": [
+  "Do you like shopping? Why / why not?", "Where do you usually buy clothes?", "Do you prefer shopping online or in shops?",
+  "What do you usually wear at the weekend?", "What was the last thing you bought?", "Do you like markets in your city?",
+  "Is fashion important to you?", "What do you spend most of your money on?"
+ ],
+ "answers": [
+  ["Do you prefer shopping online or in shops?", "**I prefer shopping in shops because** I can **try on** clothes. Online the **size** is often wrong. **For example**, last month I bought a jacket online and it didn’t **fit**."],
+  ["What do you usually wear at the weekend?", "**I usually wear** jeans and a T-shirt **because it’s comfortable**. I hardly ever wear a suit – only at weddings!"]
+ ],
+ "speech": "Hello! Today I want to talk about shopping. To be honest, I don’t love shopping, but I go to the shopping centre once a month. **I prefer shopping in shops because** I can try things on. Online, **it** often **doesn’t fit me**. **I usually wear** jeans and trainers **because** they’re **comfortable**. The last thing I bought was a warm coat for winter – it was on sale, so it wasn’t expensive. **I don’t like spending a lot of money on** clothes. I prefer to spend money on books and travelling. Thank you!",
+ "assistant": {"topic": "Shopping and my style",
+  "start": [["I’d like to talk about shopping.", "Xarid qilish haqida gapirmoqchiman."], ["To be honest, I love / don’t love shopping.", "Rostini aytsam, xarid qilishni yaxshi ko‘raman / yoqtirmayman."]],
+  "middle": [["I usually buy clothes at / in …", "Odatda kiyimni … dan olaman."], ["The last thing I bought was …", "Oxirgi sotib olgan narsam …"]],
+  "end": [["For me, comfort is more important than fashion.", "Men uchun qulaylik modadan muhimroq."], ["That’s my shopping style!", "Mana mening xarid uslubim!"]]},
+ "cando": ["buy clothes in a shop", "talk about prices and money", "describe my style and shopping habits"]
+}

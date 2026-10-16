@@ -1,0 +1,272 @@
+{
+ "n": 8,
+ "title": "Health and Sport",
+ "emoji": "⚽",
+ "color": "indigo",
+ "words": [
+  {
+   "group": "Sport",
+   "emoji": "🏃",
+   "items": [
+    [
+     "go running",
+     "yugurishga bormoq"
+    ],
+    [
+     "go swimming",
+     "suzishga bormoq"
+    ],
+    [
+     "play football",
+     "futbol o‘ynamoq"
+    ],
+    [
+     "do yoga",
+     "yoga qilmoq"
+    ],
+    [
+     "gym",
+     "sport zali"
+    ],
+    [
+     "team",
+     "jamoa"
+    ],
+    [
+     "match",
+     "o‘yin, uchrashuv"
+    ],
+    [
+     "win / lose",
+     "yutmoq / yutqazmoq"
+    ]
+   ]
+  },
+  {
+   "group": "Feeling ill",
+   "emoji": "🤒",
+   "items": [
+    [
+     "a headache",
+     "bosh og‘rig‘i"
+    ],
+    [
+     "a cold",
+     "shamollash"
+    ],
+    [
+     "a temperature",
+     "isitma"
+    ],
+    [
+     "a sore throat",
+     "tomoq og‘rig‘i"
+    ],
+    [
+     "feel sick",
+     "ko‘ngli aynimoq"
+    ],
+    [
+     "medicine",
+     "dori"
+    ],
+    [
+     "see a doctor",
+     "shifokorga ko‘rinmoq"
+    ],
+    [
+     "get better",
+     "tuzalmoq"
+    ]
+   ]
+  },
+  {
+   "group": "Healthy life",
+   "emoji": "💪",
+   "items": [
+    [
+     "keep fit",
+     "sog‘lom (formada) bo‘lmoq"
+    ],
+    [
+     "be in good shape",
+     "yaxshi formada bo‘lmoq"
+    ],
+    [
+     "get enough sleep",
+     "yetarlicha uxlamoq"
+    ],
+    [
+     "drink water",
+     "suv ichmoq"
+    ],
+    [
+     "lose weight",
+     "ozmoq"
+    ],
+    [
+     "stress",
+     "stress"
+    ],
+    [
+     "lazy",
+     "dangasa"
+    ],
+    [
+     "active",
+     "faol"
+    ]
+   ]
+  }
+ ],
+ "story": {
+  "title": "Shahzod’s healthy year",
+  "text": "Last winter, Shahzod was often ill. He had **a cold** almost every month, he often had **a headache**, and once he had **a temperature** for three days. He took a lot of **medicine**. He decided to **see a doctor**. The doctor asked him some questions. “How much do you sleep? Do you do any sport?” Shahzod said, “I sleep five hours, and I’m a bit **lazy** – I never go to the **gym**.” | The doctor said, “You need to **get enough sleep**, **drink** more **water** and be more **active**.” | So Shahzod changed his life. Now he **goes running** three times a week and he **goes swimming** on Saturdays. He also joined a football **team**. Last week they played an important **match**, and they **won**! | He doesn’t eat much junk food now, and he **lost** five kilos of **weight**. He has less **stress** and he hardly ever **feels sick**. “I’m **in** really **good shape** now,” he says. “It’s easy to **keep fit** – you just need to start!”",
+  "tf": [
+   [
+    "Shahzod was often ill last winter.",
+    true
+   ],
+   [
+    "He slept eight hours a night.",
+    false
+   ],
+   [
+    "He goes swimming on Saturdays.",
+    true
+   ],
+   [
+    "His team lost the match.",
+    false
+   ]
+  ],
+  "retell": [
+   "often ill",
+   "cold, headache",
+   "saw a doctor",
+   "sleep, water, active",
+   "running, swimming",
+   "team – won",
+   "good shape"
+  ]
+ },
+ "gaps": [
+  [
+   "I can’t speak much today – I have ___ .",
+   "a sore throat"
+  ],
+  [
+   "You look tired. You need to ___ .",
+   "get enough sleep"
+  ],
+  [
+   "My dad goes to the ___ every morning before work.",
+   "gym"
+  ],
+  [
+   "Take this ___ three times a day after meals.",
+   "medicine"
+  ],
+  [
+   "I do yoga to ___ and stay calm.",
+   "keep fit"
+  ],
+  [
+   "Our team didn’t ___ the match – the score was 0–3.",
+   "win"
+  ]
+ ],
+ "phrases": [
+  [
+   "I try to keep fit by …",
+   "Men … orqali sog‘lom bo‘lishga harakat qilaman."
+  ],
+  [
+   "I go … once / twice a week.",
+   "Haftada bir / ikki marta …ga boraman."
+  ],
+  [
+   "I’m not very sporty, but …",
+   "Men unchalik sportchi emasman, lekin …"
+  ],
+  [
+   "I don’t feel well. I’ve got …",
+   "O‘zimni yaxshi his qilmayapman. Menda … bor."
+  ],
+  [
+   "You should … / You shouldn’t …",
+   "Siz … qilishingiz kerak / … qilmasligingiz kerak."
+  ],
+  [
+   "I think the secret of good health is …",
+   "Menimcha, sog‘liqning siri …"
+  ],
+  [
+   "When I’m stressed, I …",
+   "Stressda bo‘lganimda men …"
+  ],
+  [
+   "Get well soon!",
+   "Tezroq tuzalib keting!"
+  ]
+ ],
+ "questions": [
+  "Do you do any sport? How often?",
+  "What sport is popular in your country?",
+  "What do you do to keep fit?",
+  "What do you do when you have a cold?",
+  "Do you get enough sleep?",
+  "Do you prefer team sports or doing sport alone?",
+  "What do you do when you are stressed?",
+  "What advice can you give to a lazy friend?"
+ ],
+ "answers": [
+  [
+   "What do you do to keep fit?",
+   "**I try to keep fit by** walking a lot and playing football. **I go** to the **gym twice a week**. **For example**, yesterday I walked ten thousand steps!"
+  ],
+  [
+   "What advice can you give to a lazy friend?",
+   "**You should** start with something easy, like a short walk every day. **You shouldn’t** sit at the computer all day. And find a friend to do sport with – it’s more fun!"
+  ]
+ ],
+ "speech": "Hi everyone! I want to talk about health and sport. **I’m not very sporty, but** I try to be active. **I try to keep fit by** swimming and walking. **I go** swimming **twice a week** after school. I also try to **drink** a lot of **water** and **get enough sleep** – at least eight hours. **When I’m stressed, I** go for a long walk or listen to music. Last month I had a bad cold, and I stayed at home for a week. It was terrible! **I think the secret of good health is** sleep, sport and good food. Thank you!",
+ "assistant": {
+  "topic": "How I stay healthy",
+  "start": [
+   [
+    "I’d like to talk about my health.",
+    "Sog‘lig‘im haqida gapirmoqchiman."
+   ],
+   [
+    "I think health is very important.",
+    "Menimcha, sog‘liq juda muhim."
+   ]
+  ],
+  "middle": [
+   [
+    "To stay healthy, I …",
+    "Sog‘lom bo‘lish uchun men …"
+   ],
+   [
+    "I also try not to …",
+    "Shuningdek, … qilmaslikka harakat qilaman."
+   ]
+  ],
+  "end": [
+   [
+    "So, my advice is: …",
+    "Demak, mening maslahatim: …"
+   ],
+   [
+    "Take care of yourself!",
+    "O‘zingizga yaxshi qarang!"
+   ]
+  ]
+ },
+ "cando": [
+  "talk about sport and keeping fit",
+  "say what is wrong when I’m ill",
+  "give health advice with should"
+ ]
+}

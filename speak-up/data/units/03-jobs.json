@@ -1,0 +1,50 @@
+{
+ "n": 3, "title": "Jobs and Work", "emoji": "💼", "color": "blue",
+ "words": [
+  {"group": "Jobs", "emoji": "👩‍⚕️", "items": [["doctor", "shifokor"], ["nurse", "hamshira"], ["engineer", "muhandis"], ["teacher", "o‘qituvchi"],
+    ["programmer", "dasturchi"], ["shop assistant", "sotuvchi"], ["driver", "haydovchi"], ["accountant", "buxgalter"]]},
+  {"group": "Places of work", "emoji": "🏢", "items": [["office", "ofis"], ["hospital", "kasalxona"], ["factory", "zavod"], ["bank", "bank"]]},
+  {"group": "Work words", "emoji": "💰", "items": [["salary", "maosh"], ["colleague", "hamkasb"], ["boss", "boshliq"], ["full-time", "to‘liq stavka"],
+    ["part-time", "yarim stavka"], ["work from home", "uydan ishlamoq"], ["earn money", "pul topmoq"], ["work long hours", "uzoq soat ishlamoq"],
+    ["be good at", "…ni yaxshi bilmoq"], ["dream job", "orzudagi ish"], ["interview", "suhbat (ishga)"], ["retired", "nafaqada"]]}
+ ],
+ "story": {
+  "title": "Three jobs, one family",
+  "text": "In the Karimov family, everyone has a different job. | The father, Rustam, is an **engineer**. He works in a big **factory** and he often **works long hours**. His **salary** is good, but he is always tired. He gets on very well with his **colleagues**. | His wife, Nilufar, is a **nurse** at a **hospital**. She works **full-time** and sometimes at night. She loves her job because she helps people. | Their son, Sardor, is a **programmer**. He **works from home** three days a week and goes to the **office** two days a week. His **boss** is young and friendly. Sardor **earns money** and also studies English in the evening. | Their daughter, Madina, is still a student, but she has a **part-time** job as a **shop assistant**. She is very **good at** talking to people. Her **dream job** is to be a **doctor**, and next month she has an important **interview** at a medical university. | Grandpa Hasan is **retired** now. He was a **driver** for forty years!",
+  "tf": [["Rustam works in an office.", false], ["Nilufar sometimes works at night.", true], ["Sardor works from home every day.", false], ["Madina wants to be a doctor.", true]],
+  "retell": ["Rustam – engineer, factory", "long hours, good salary", "Nilufar – nurse, hospital", "Sardor – programmer, home + office", "Madina – part-time, shop", "dream job – doctor", "Grandpa – retired driver"]
+ },
+ "gaps": [
+  ["My aunt works in a ___ – she helps sick people.", "hospital"],
+  ["I don’t go to the office. I ___ .", "work from home"],
+  ["Teachers in my country don’t get a high ___ .", "salary"],
+  ["My grandpa doesn’t work any more. He’s ___ .", "retired"],
+  ["My ___ is to be a pilot.", "dream job"],
+  ["She’s very ___ maths, so she wants to be an accountant.", "good at"]
+ ],
+ "phrases": [
+  ["I work as a … / I’m a student.", "Men … bo‘lib ishlayman / Men talabaman."],
+  ["I work for a company called …", "Men … nomli kompaniyada ishlayman."],
+  ["My job is interesting / boring because …", "Ishim qiziqarli / zerikarli, chunki …"],
+  ["I’m responsible for …", "Men … uchun mas’ulman."],
+  ["The best thing about my job is …", "Ishimning eng yaxshi tomoni …"],
+  ["In the future I’d like to be a …", "Kelajakda … bo‘lishni xohlayman."],
+  ["I’m good at …", "Men …ni yaxshi bilaman."],
+  ["It’s a well-paid / badly paid job.", "Bu yaxshi / kam maoshli ish."]
+ ],
+ "questions": [
+  "Do you work or study?", "What do your parents do?", "What job would you like in the future? Why?",
+  "Would you like to work from home?", "What is the most important thing in a job?", "Which jobs are well-paid in your country?",
+  "What are you good at?", "What job would you never do? Why?"
+ ],
+ "answers": [
+  ["What job would you like in the future? Why?", "**In the future I’d like to be a** programmer, **because** I love computers. **For example**, I already make simple websites for my friends."],
+  ["Would you like to work from home?", "Yes, I would! I don’t like traffic, and **I’m good at** working alone. But I think it’s also important to see your **colleagues** sometimes."]
+ ],
+ "speech": "Hi everyone! Today I want to talk about my dream job. **In the future I’d like to be a** doctor. It isn’t an easy job – doctors **work long hours** and study for many years. But **the best thing about** this **job is** that you help people every day. My aunt **works as a** nurse in a hospital, and she tells me interesting stories. **I’m good at** biology and chemistry, and I’m not afraid of hard work. In my country, doctors get a good **salary**, but for me money isn’t the most important thing. I want a job I love. Thank you!",
+ "assistant": {"topic": "My job / my dream job",
+  "start": [["I’d like to talk about my (dream) job.", "(Orzudagi) ishim haqida gapirmoqchiman."], ["I work as a … / I want to be a …", "Men … bo‘lib ishlayman / … bo‘lishni xohlayman."]],
+  "middle": [["Every day I have to …", "Har kuni men … qilishim kerak."], ["The best / worst thing about it is …", "Uning eng yaxshi / yomon tomoni …"]],
+  "end": [["That’s why I love this job.", "Shuning uchun bu ishni yaxshi ko‘raman."], ["I hope my dream comes true!", "Umid qilamanki, orzuim amalga oshadi!"]]},
+ "cando": ["say what I and my family do", "talk about jobs and workplaces", "describe my dream job"]
+}

@@ -64,7 +64,7 @@ h3.sub{font-size:10pt;font-weight:600;color:var(--navy)}
  box-shadow:0 4px 0 #F7D774}
 .stitle{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:4px}
 .stitle h3{font-size:12pt;font-weight:700;color:#8A6400}
-.storybox p{font-size:9.4pt;line-height:1.5;margin-bottom:5px;text-align:justify}
+.storybox p{font-size:9.3pt;line-height:1.45;margin-bottom:5px;text-align:justify}
 mark{background:linear-gradient(transparent 55%,#FFD84D 55%);font-weight:800;color:var(--navy);padding:0 1px}
 .reads{display:flex;align-items:center;gap:6px;font-size:8.4pt;font-weight:800;color:var(--navy)}
 .reads span{background:#fff;border:1.5px solid var(--yellow);border-radius:999px;padding:1px 8px;font-weight:700;font-size:7.8pt}
@@ -172,15 +172,21 @@ mark{background:linear-gradient(transparent 55%,#FFD84D 55%);font-weight:800;col
 .retell h3 small,.mine h3 small,.survey h3 small{font-family:Nunito;font-size:7.4pt;font-weight:700;font-style:italic;color:#5A6482}
 .retell{flex:1}
 .keys{display:flex;flex-wrap:wrap;gap:4px;margin-top:4px}
-.keys span{background:#fff;border:1.5px solid var(--yellow);border-radius:999px;padding:2px 9px;font-size:8.4pt;font-weight:800}
+.keys span{background:#fff;border:1.5px solid var(--yellow);border-radius:999px;padding:1px 8px;font-size:8.1pt;font-weight:800}
 .mine{flex:1}
 .mine .line{display:block;flex:1;min-height:7mm;border-bottom:1.5px dashed #C3CBDB}
 .survey table{width:100%;border-collapse:collapse;font-size:8pt;margin-top:3px}
 .survey th{text-align:left;color:var(--muted);font-size:7pt;padding:2px 4px;border-bottom:1.5px solid #D8DEEA}
-.survey td{height:7mm;border-bottom:1px dashed #D8DEEA}
+.survey td{height:6mm;border-bottom:1px dashed #D8DEEA}
 .survey td:first-child{width:22mm;border-right:1px dashed #D8DEEA}
 .survey{flex:1}
 .chars{flex:none}
 .chars li{padding:7px 8px}
 .phr{flex:none}
 .qlist li{padding:5.5px 8px}
+/* colour emoji everywhere */
+.em{font-family:"Noto Color Emoji","Apple Color Emoji","Segoe UI Emoji",sans-serif!important;font-style:normal;font-weight:400;letter-spacing:0;text-shadow:none}
+/* unit tab colours */
+.orange{--tc:var(--orange);--tl:var(--orange-l)}.blue{--tc:var(--blue2);--tl:var(--blue-l)}.pink{--tc:var(--pink);--tl:var(--pink-l)}
+.purple{--tc:var(--purple);--tl:var(--purple-l)}.teal{--tc:var(--teal);--tl:var(--teal-l)}.yellow{--tc:#E0A800;--tl:var(--yellow-l)}
+.red{--tc:#EF4444;--tl:#FEECEC}.indigo{--tc:#4F46E5;--tl:#ECEBFF}.lime{--tc:#65A30D;--tl:#F0F8E4}.sky{--tc:#0284C7;--tl:#E3F3FB}.rose{--tc:#E11D48;--tl:#FFE7EC}

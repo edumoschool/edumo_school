@@ -1,0 +1,50 @@
+{
+ "n": 4, "title": "Home and Town", "emoji": "🏠", "color": "pink",
+ "words": [
+  {"group": "Home", "emoji": "🛋️", "items": [["flat", "kvartira"], ["house", "hovli uy"], ["bedroom", "yotoqxona"], ["living room", "mehmonxona"],
+    ["kitchen", "oshxona"], ["bathroom", "hammom"], ["balcony", "balkon"], ["garden", "bog‘"], ["furniture", "mebel"], ["sofa", "divan"]]},
+  {"group": "Describing places", "emoji": "✨", "items": [["cosy", "shinam"], ["spacious", "keng"], ["quiet", "tinch"], ["noisy", "shovqinli"],
+    ["modern", "zamonaviy"], ["crowded", "gavjum"]]},
+  {"group": "In town", "emoji": "🏙️", "items": [["neighbourhood", "mahalla"], ["neighbour", "qo‘shni"], ["next to", "yonida"], ["opposite", "qarshisida"],
+    ["near", "yaqinida"], ["far from", "…dan uzoqda"], ["park", "park"], ["supermarket", "supermarket"]]}
+ ],
+ "story": {
+  "title": "Kamola’s new flat",
+  "text": "Last month, Kamola moved to a new **flat** in Tashkent. Before that, she lived in a big **house** with a **garden** in a village. | Her new flat is on the fifth floor of a **modern** building. It has two **bedrooms**, a **living room**, a small **kitchen** and a **bathroom**. Her favourite place is the **balcony** – she drinks her morning tea there. The flat isn’t very **spacious**, but it’s **cosy**. She doesn’t have much **furniture** yet – only a bed, a table and a big blue **sofa**. | Kamola likes her **neighbourhood**. There is a **park** **opposite** her building and a **supermarket** **next to** it. The metro is very **near**, so she isn’t **far from** her office. | There is one problem: the street is quite **noisy** in the evening, and the metro is always **crowded**. But her **neighbours** are very friendly – the old woman next door often brings her bread! | Kamola misses her **quiet** village a little, but she is happy in her new home.",
+  "tf": [["Kamola lived in a flat before.", false], ["Her favourite place is the balcony.", true], ["There is a park next to her building.", false], ["Her neighbours are friendly.", true]],
+  "retell": ["new flat – Tashkent", "before – house, garden", "2 bedrooms, balcony", "cosy, not spacious", "park opposite, supermarket next to", "noisy street, crowded metro", "friendly neighbours"]
+ },
+ "gaps": [
+  ["We don’t have a garden, but we have a big ___ .", "balcony"],
+  ["My room is small but very ___ .", "cosy"],
+  ["The metro is always ___ at 8 a.m.", "crowded"],
+  ["My school is ___ my house – just five minutes on foot.", "near"],
+  ["Our ___ are very friendly – we often have tea together.", "neighbours"],
+  ["We bought new ___ for the living room: a table and chairs.", "furniture"]
+ ],
+ "phrases": [
+  ["I live in a … in …", "Men … da, … da yashayman."],
+  ["There are … rooms in my flat.", "Kvartiramda … xona bor."],
+  ["My favourite room is … because …", "Sevimli xonam …, chunki …"],
+  ["It’s small but cosy.", "U kichik, lekin shinam."],
+  ["There’s a … next to / opposite my house.", "Uyimning yonida / qarshisida … bor."],
+  ["It takes … minutes to get to …", "…ga borishga … daqiqa ketadi."],
+  ["The best thing about my area is …", "Mahallamning eng yaxshi tomoni …"],
+  ["One problem is that …", "Bitta muammo shundaki …"]
+ ],
+ "questions": [
+  "Do you live in a house or a flat?", "How many rooms are there in your home?", "What is your favourite room? Why?",
+  "What can you see from your window?", "What is there near your home?", "Do you know your neighbours?",
+  "What do you like about your neighbourhood?", "Describe your dream home."
+ ],
+ "answers": [
+  ["What is your favourite room? Why?", "**My favourite room is** my bedroom **because** it’s quiet and **cosy**. I study there and listen to music. **For example**, every evening I read on my bed."],
+  ["Describe your dream home.", "My dream home is a **spacious** house with a big **garden** and a swimming pool. It’s **near** the mountains but not **far from** the city."]
+ ],
+ "speech": "Hello! I’d like to tell you about my home. **I live in a** flat **in** the centre of Samarkand. **There are** three **rooms in my flat**: a living room, my parents’ bedroom and my bedroom. **My favourite room is** the kitchen **because** we eat and talk together there. **It’s small but cosy.** **There’s a** park **opposite my house**, and a supermarket **next to** it. **It takes** ten **minutes to get to** school on foot. **The best thing about my area is** the friendly neighbours. **One problem is that** the street is noisy at night. But I love my home!",
+ "assistant": {"topic": "My home and my area",
+  "start": [["Let me describe my home.", "Uyimni tasvirlab beray."], ["I live in a … with …", "Men … bilan … da yashayman."]],
+  "middle": [["In my flat there is / there are …", "Kvartiramda … bor."], ["Near my home you can find …", "Uyim yaqinida … topishingiz mumkin."]],
+  "end": [["It’s not perfect, but it’s home.", "U mukammal emas, lekin bu mening uyim."], ["I really love my neighbourhood.", "Mahallamni juda yaxshi ko‘raman."]]},
+ "cando": ["describe my home and rooms", "say where places are", "talk about my neighbourhood"]
+}

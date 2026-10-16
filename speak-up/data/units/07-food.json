@@ -1,0 +1,50 @@
+{
+ "n": 7, "title": "Food and Cooking", "emoji": "🍲", "color": "red",
+ "words": [
+  {"group": "Food", "emoji": "🥗", "items": [["vegetables", "sabzavotlar"], ["fruit", "meva"], ["meat", "go‘sht"], ["chicken", "tovuq go‘shti"],
+    ["rice", "guruch"], ["bread", "non"], ["dairy products", "sut mahsulotlari"], ["sweets", "shirinliklar"]]},
+  {"group": "Cooking", "emoji": "🍳", "items": [["recipe", "retsept"], ["ingredients", "masalliqlar"], ["fry", "qovurmoq"], ["boil", "qaynatmoq"],
+    ["bake", "pishirmoq (pechda)"], ["cut", "to‘g‘ramoq"], ["add", "qo‘shmoq"], ["dish", "taom"]]},
+  {"group": "Taste and eating", "emoji": "😋", "items": [["delicious", "mazali"], ["spicy", "achchiq (ziravorli)"], ["sweet", "shirin"], ["salty", "sho‘r"],
+    ["healthy", "foydali"], ["junk food", "zararli ovqat (fast-fud)"], ["be hungry", "och qolmoq"], ["order", "buyurtma bermoq"]]}
+ ],
+ "story": {
+  "title": "Cooking plov with Grandma",
+  "text": "Every Sunday, Aziza cooks with her grandma. Last Sunday, Grandma said, “Today I’ll teach you my famous plov **recipe**!” | First, they bought the **ingredients** at the market: **meat**, **rice**, carrots, onions and some other **vegetables**. | At home, Aziza **cut** the onions and carrots – she cried a lot because of the onions! Grandma **fried** the meat in a big pot. Then they **added** the onions, the carrots and some salt. After that, they **boiled** some water and added the **rice**. | While the plov was cooking, Grandma **baked** fresh **bread**. The kitchen smelled wonderful, and Aziza **was** very **hungry**. | Finally, the plov was ready. The whole family said it was **delicious** – not too **salty** and not too **spicy**. For dessert they had **fruit** and some **sweets** with green tea. | Aziza’s brother usually eats **junk food** and **orders** pizza, but that day he said, “Plov is my favourite **dish** now!”",
+  "tf": [["They bought the ingredients in a supermarket.", false], ["Aziza cut the onions.", true], ["Grandma baked bread.", true], ["The plov was too spicy.", false]],
+  "retell": ["Sunday – cooking with Grandma", "plov recipe", "market – meat, rice, vegetables", "cut onions – cried", "fried meat, added rice", "baked bread", "delicious – brother loved it"]
+ },
+ "gaps": [
+  ["Can you give me the ___ for this cake? It’s amazing!", "recipe"],
+  ["I don’t eat much ___ like burgers and chips.", "junk food"],
+  ["This soup is too ___ . Did you add a lot of salt?", "salty"],
+  ["Fruit and vegetables are very ___ .", "healthy"],
+  ["We often ___ food online on Friday evenings.", "order"],
+  ["First ___ the water, then add the pasta.", "boil"]
+ ],
+ "phrases": [
+  ["My favourite food / dish is …", "Sevimli taomim …"],
+  ["It’s made with …", "U … dan tayyorlanadi."],
+  ["I can cook … quite well.", "Men …ni ancha yaxshi pishiraman."],
+  ["First, … Then, … Finally, …", "Avval … Keyin … Nihoyat …"],
+  ["I’m trying to eat more healthily.", "Ko‘proq foydali ovqatlanishga harakat qilyapman."],
+  ["I can’t stand … / I’m not a big fan of …", "…ni yomon ko‘raman / …ni unchalik yoqtirmayman."],
+  ["Could I have …, please?", "Menga … bera olasizmi?"],
+  ["In my country, people usually eat … for …", "Mamlakatimda odamlar odatda … ga … yeyishadi."]
+ ],
+ "questions": [
+  "What is your favourite food?", "What do you usually have for breakfast?", "Can you cook? What can you make?",
+  "Do you prefer eating at home or eating out?", "What is a traditional dish in your country?", "Do you eat healthy food?",
+  "Is there any food you don’t like?", "What did you eat yesterday?"
+ ],
+ "answers": [
+  ["Can you cook? What can you make?", "Yes, a little. **I can cook** fried eggs and soup **quite well**. **For example**, last Sunday I made soup for my family and they said it was **delicious**."],
+  ["What is a traditional dish in your country?", "The most famous dish is plov. **It’s made with** rice, meat, carrots and onions. **In my country, people usually eat** plov **for** lunch, especially at weddings."]
+ ],
+ "speech": "Hello everyone! I want to talk about my favourite dish. **My favourite dish is** manti. **It’s made with** meat, onions and a thin dough. My mum cooks it every Friday. I can help her: **first**, we cut the meat and onions. **Then**, we put them in the dough. **Finally**, we cook them with steam for forty minutes. They are really delicious! **I’m not a big fan of** spicy food, so I eat manti with yoghurt. **I’m trying to eat more healthily**, so I don’t eat much junk food. Thank you!",
+ "assistant": {"topic": "My favourite food",
+  "start": [["Let me tell you about my favourite food.", "Sevimli taomim haqida aytib beray."], ["I really love …", "Men …ni juda yaxshi ko‘raman."]],
+  "middle": [["To make it, first you … then you …", "Uni tayyorlash uchun avval … keyin …"], ["It tastes … / It smells …", "Uning ta’mi … / Hidi …"]],
+  "end": [["You should try it one day!", "Bir kun albatta tatib ko‘ring!"], ["Now I’m hungry!", "Endi qornim ochib ketdi!"]]},
+ "cando": ["talk about food I like and don’t like", "explain how to cook a dish", "order food in a café"]
+}
