@@ -1,4 +1,16 @@
-# Impulse Learning Center — A2 Writing Book
+# Impulse Learning Center — Writing Books (A2 & B1)
+
+| Book | Units | Pages |
+|------|-------|-------|
+| `dist/Impulse_A2_Writing_Book.pdf` | 12 (opinion paragraphs) | 61 |
+| `dist/Impulse_B1_Writing_Book.pdf` | 12 (IELTS GT-style letters + Task 2-style essays) | 61 |
+
+The B1 book follows the Navigate Pre-intermediate B1 unit topics and vocabulary:
+informal, semi-formal and formal letters (complaint, enquiry, covering letter),
+an article, a story, a review and a description, plus opinion, discussion,
+advantages/disadvantages and problem/solution essays of 120–160 words.
+
+## A2 Writing Book
 
 A 61-page writing book (A4 landscape) on the Navigate Elementary A2 unit
 topics, in the same blue design as the speaking books. It reuses the
@@ -33,13 +45,14 @@ model answers for all 24 tasks.
 
 ## Files
 
-- `data/a2-writing.txt` — all unit content (edit here)
-- `scripts/build.py` — builds `dist/a2-writing-book.html` (writing bank and common mistakes are in this file)
+- `data/a2-writing.txt`, `data/b1-writing.txt` — all unit content (edit here)
+- `scripts/build.py LEVEL` — builds `dist/<level>-writing-book.html` (level settings, writing banks and common mistakes are in this file)
 - `scripts/style.css` — writing-book styles, loaded after `../speaking-book/scripts/style.css`
-- `scripts/render.js` — prints `dist/Impulse_A2_Writing_Book.pdf` and warns about overflowing pages
+- `scripts/render.js LEVEL` — prints `dist/Impulse_<LEVEL>_Writing_Book.pdf` and warns about overflowing pages
 
 ## Rebuild
 
 ```bash
-./build.sh
+./build.sh        # both books
+./build.sh B1     # one book
 ```

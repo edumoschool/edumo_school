@@ -1,0 +1,543 @@
+# Impulse B1 Writing Book — content (same format as a2-writing.txt)
+# Paragraphs are separated by " | ". [[text]] = highlighted useful phrase.
+# ielts_type: kind of essay   w: English = Uzbek   gap: sentence with ___ || answer   b: task bullet   idea: essay idea
+
+### 1
+title: Free Time
+type: Informal letter
+model_title: Re: How are things?
+model: Dear Sam, | [[Thanks a lot for your letter]] – [[it was lovely to hear from you]] and to see the photos from your camping trip! | [[You asked me about]] my free time. Well, life has been pretty busy since I started my new course, so I don’t have as much free time as before. During the week I usually go to the gym after class, and I’ve recently taken up chess – I play online with a friend most evenings. | At the weekend I try to have a lie-in on Saturday and then I hang out with my friends in the city centre. We often go for a walk or have a coffee. | [[Anyway, I’d better go now]] – I’ve got a huge to-do list! [[Why don’t you come and visit]] in the summer? We could go camping together. | [[Hope to hear from you soon.]] | [[All the best,]] | Bekzod
+focus: Features of an informal letter
+focus_text: Informal letters (IELTS General Training Task 1) are written to friends. Use contractions, phrasal verbs and friendly phrases, and organise your ideas in short paragraphs – one for each point in the task.
+ex: Open: Thanks a lot for your letter. / It was lovely to hear from you.
+ex: Reply: You asked me about … / As for …
+ex: Change topic: Anyway, … / By the way, …
+ex: Suggest: Why don’t you … ? / How about … -ing?
+ex: Close: Hope to hear from you soon. / All the best, / Take care,
+w: have a lie-in = ertalab uzoqroq uxlamoq
+w: take up = (mashg‘ulotni) boshlamoq
+w: hang out with = …bilan vaqt o‘tkazmoq
+w: keep fit = sog‘lom va baquvvat bo‘lmoq
+w: make plans = reja tuzmoq
+w: a to-do list = qilinadigan ishlar ro‘yxati
+w: stay in = uyda qolmoq
+w: spend time with = …bilan vaqt o‘tkazmoq
+w: unwind = charchoqni chiqarmoq
+w: be into something = …ga qiziqmoq
+gap: I’ve recently ___ yoga – I go twice a week. || taken up
+gap: On Sundays I love to ___ until ten o’clock. || have a lie-in
+gap: I was tired, so I decided to ___ and watch a film. || stay in
+gap: I always make ___ before a busy day. || a to-do list
+gap: Reading is the best way to ___ after work. || unwind
+task_title: Letter to an old friend
+task: You have received a letter from an English-speaking friend who asks how you spend your free time now. Write a letter to your friend.
+b: say how your life has changed recently
+b: describe what you do in your free time during the week
+b: describe a typical weekend
+b: invite your friend to do an activity with you
+words: 120–150
+check: I wrote one paragraph for each point and used informal language.
+check: I opened and closed the letter in a friendly way.
+ielts: Some people say that people today have less free time than in the past. Do you agree or disagree?
+ielts_type: Opinion essay
+idea: people work and study longer hours than before
+idea: phones and the internet fill every free minute
+idea: machines and online services save us time
+idea: many people now work from home and have flexible hours
+model_task: Dear Maria, | Thanks for your letter – it was great to hear from you! You asked how I spend my free time these days, so here’s my news. | My life has changed a lot since I started working at a bank last autumn. I work long hours, so in the week I don’t have much free time. Still, I try to keep fit – I go swimming twice a week after work. | At the weekend I usually have a lie-in on Saturday and then meet my friends. We often go for a walk in the park or have dinner together. On Sundays I visit my grandparents. | Anyway, why don’t you come to Tashkent in May? We could go hiking in the mountains – the weather is perfect then. | Hope to hear from you soon. | All the best, | Dilnoza
+model_ielts: It is often said that people today have less free time than in the past. In my opinion, this is true for most people, although technology has also saved us time in some ways. | Firstly, many people now work and study longer hours. For example, students often have extra classes in the evening, and adults may answer work emails at home. As a result, they have very little time to relax. | Secondly, phones and the internet fill every free minute. Instead of resting or meeting friends, people scroll through social media, so their free time does not feel free. | On the other hand, machines and online services save us a lot of time. We can shop, pay bills and order food without leaving home. | In conclusion, although technology helps us in some ways, I believe that most people today have less real free time than previous generations.
+
+### 2
+title: City Life
+type: Article for a website
+model_title: My city: Tashkent
+model: [[If you are looking for]] a city with a great mix of old and new, Tashkent is the place for you. | The city centre is lively and modern, with wide streets, parks and tower blocks. The metro, [[which is one of the most beautiful in the world]], is cheap and reliable. In the old town, [[where]] you can visit Chorsu Bazaar, life is very different: narrow streets, busy stalls and friendly street sellers. | [[Of course, it isn’t perfect.]] The traffic can be terrible in the rush hour, and some areas are crowded in summer. | [[All in all, though,]] Tashkent is a safe and welcoming city. [[I would definitely recommend]] spending a few days here – [[you won’t regret it!]]
+focus: Relative clauses and describing places
+focus_text: Use relative clauses to add information without starting a new sentence. In an article, start with a question or a strong sentence to interest the reader, and finish with a recommendation.
+ex: which: The metro, which is very cheap, is the best way to travel.
+ex: where: The old town, where my grandparents live, is very quiet.
+ex: who: The street sellers, who are very friendly, sell everything.
+ex: Hook: If you are looking for … , … is the place for you.
+ex: Ending: All in all, … / I would definitely recommend …
+w: lively / dull = jonli / zerikarli
+w: crowded = gavjum
+w: narrow streets = tor ko‘chalar
+w: pedestrian area = piyodalar hududi
+w: tower block = ko‘p qavatli uy
+w: street performer = ko‘cha artisti
+w: market place = bozor maydoni
+w: rubbish = axlat
+w: safe = xavfsiz
+w: public transport = jamoat transporti
+gap: The city centre is very ___ at night, with lots of cafés and music. || lively
+gap: Cars can’t enter the ___ , so it’s nice for shopping. || pedestrian area
+gap: The old town has many ___ that are too small for buses. || narrow streets
+gap: There is a lot of ___ in the streets after the festival. || rubbish
+gap: We watched a ___ juggling in the main square. || street performer
+task_title: Article: the best and worst of my town
+task: An international student magazine wants articles with the title “Living in my town: the good and the bad”. Write an article.
+b: start in an interesting way
+b: describe the best things about your town
+b: describe one or two problems
+b: say if you would recommend it to young people and why
+words: 120–150
+check: I used at least three relative clauses (which, where, who).
+check: My article has a title, an interesting start and a recommendation.
+ielts: More and more people are moving from the countryside to big cities. What are the advantages and disadvantages of this?
+ielts_type: Advantages & disadvantages essay
+idea: more jobs, universities and hospitals in cities
+idea: better public transport and entertainment
+idea: cities become crowded, polluted and expensive
+idea: villages lose young people and traditions
+model_task: Living in Samarkand: the good and the bad | Imagine a city where every street tells a story. That is Samarkand, my hometown. | The best thing about Samarkand is its history. The Registan, which is in the centre, is breathtaking, especially at night. The city is also safe and friendly, and the food at the bazaar, where I go every Saturday, is delicious and cheap. | However, there are a few problems. There isn’t much nightlife for young people, and the traffic in the city centre is getting worse every year. Some areas also have problems with rubbish. | All in all, I would recommend Samarkand to young people who love culture and history. It is a wonderful place to study, although it can feel a little quiet at the weekend.
+model_ielts: Nowadays, a growing number of people are leaving the countryside to live in big cities. This trend has both advantages and disadvantages. | The main advantage is that cities offer more opportunities. There are more jobs, universities and hospitals, so people can earn more and get a better education. In addition, cities have better public transport and more entertainment. | However, there are also serious disadvantages. When too many people move to a city, it becomes crowded, polluted and expensive. For example, rents in Tashkent have increased a lot in recent years. Moreover, villages lose their young people, and old traditions may disappear. | In conclusion, moving to a city can improve people’s lives, but governments should also create jobs in the countryside so that villages do not become empty.
+
+### 3
+title: Feelings and Actions
+type: Story
+model_title: Stuck!
+model: [[It was a hot afternoon in July]] and I was on my way to a job interview. [[I had left home early]] because I wanted to be on time. | [[While I was waiting]] for the lift on the ninth floor, I felt nervous but excited. I stepped inside and pressed the button. [[Suddenly,]] the lift stopped between two floors and the lights went out. | [[At first]] I panicked and pushed every button. Then I took a deep breath and [[calmly]] called the number on the wall. A voice on the intercom told me that a rescue team was coming. | Forty minutes later, the doors opened. [[I was exhausted and embarrassed]], but the manager just smiled and said, “You must be our candidate!” | [[To my surprise,]] I got the job. [[I’ll never forget]] that day.
+focus: Narrative tenses and adverbs
+focus_text: Use the past simple for the main events, the past continuous for background actions, and the past perfect for things that happened earlier. Adverbs and feelings make the story come alive.
+ex: Past simple: The lift stopped. I pressed the button.
+ex: Past continuous: While I was waiting, I felt nervous.
+ex: Past perfect: I had left home early, so I wasn’t late.
+ex: Adverbs: suddenly · calmly · nervously · luckily · eventually
+ex: Feelings: anxious · embarrassed · exhausted · relieved · frightened
+w: anxious = xavotirli
+w: embarrassed = xijolat tortgan
+w: exhausted = juda charchagan
+w: frightened = qo‘rqib ketgan
+w: relieved = yengil tortgan
+w: calmly = xotirjam
+w: suddenly = to‘satdan
+w: in a good mood = kayfiyati yaxshi
+w: things went wrong = ishlar chappasiga ketdi
+w: to my surprise = hayratimga
+gap: I felt so ___ when I fell over in front of everyone. || embarrassed
+gap: After a ten-hour journey, we were completely ___ . || exhausted
+gap: When the doctor said I was fine, I felt very ___ . || relieved
+gap: She explained the problem ___ , without shouting. || calmly
+gap: Everything was going well, but then ___ . || things went wrong
+task_title: A story competition
+task: You are entering a short story competition. Your story must begin with this sentence: “I knew it was going to be a strange day as soon as I woke up.”
+b: begin with the sentence above
+b: describe where you were and what was happening
+b: describe what went wrong and how you felt
+b: explain how the story ended
+words: 120–150
+check: I used the past simple, past continuous and past perfect.
+check: I used at least three adverbs and three feelings adjectives.
+ielts: Some people think it is better to show your emotions, while others think it is better to hide them. Discuss both views and give your opinion.
+ielts_type: Discussion essay
+idea: showing emotions helps people understand and support you
+idea: hiding feelings can cause stress
+idea: at work, staying calm is more professional
+idea: showing anger can hurt other people
+model_task: I knew it was going to be a strange day as soon as I woke up. My alarm hadn’t rung, and it was already half past eight! | I jumped out of bed, got dressed quickly and ran to the bus stop. While I was waiting, it started to rain heavily. I had forgotten my umbrella, so I was soon soaking wet and very anxious about being late for my exam. | When I finally arrived at the university, the building was completely empty. I felt confused and frightened. Then a security guard walked towards me and smiled. | “The exam is tomorrow,” he said calmly. I had read the timetable wrongly! | At first I was embarrassed, but then I started laughing. In the end, I went home, had a hot shower and studied for one more day. Luckily, I passed.
+model_ielts: People have different opinions about whether we should show our emotions or hide them. Both views have some truth in them. | On the one hand, showing emotions can be positive. When we tell others how we feel, they understand us better and can support us. Moreover, psychologists say that hiding feelings for a long time can cause stress and even health problems. | On the other hand, there are situations where it is better to stay calm. At work, for example, shouting at colleagues is unprofessional. In addition, showing strong anger can hurt the people we love. | In my opinion, it is important to express our feelings, but we should do it calmly and at the right time. In conclusion, the best approach is to be honest about emotions while still respecting other people.
+
+### 4
+title: Life Events
+type: Blog post: a turning point
+model_title: The year that changed my life
+model: [[I’ll never forget]] the day I left home. I was eighteen and I had just passed my university entrance exam. | [[At first,]] life in the capital was hard. I shared a small flat with two other students, and [[for the first few weeks]] I missed my family terribly. I had never cooked for myself or paid bills before. | [[However, as soon as]] I made some friends, things got easier. I learned to manage my money, I took up running, and [[eventually]] I found a part-time job in a café. | [[Since then]], I’ve become much more independent and confident. [[Looking back,]] leaving home was the best decision I’ve ever made, [[because]] it taught me to take responsibility for my own life.
+focus: Time linkers for life stories
+focus_text: Use time linkers to show when things happened and how a situation developed. Use the present perfect (since then, I’ve become …) to connect the past with now.
+ex: Beginning: At first, … / When I was … / In my late teens, …
+ex: Sequence: as soon as · after · before · then · later
+ex: Duration: for the first few weeks · during that year · until
+ex: Result: eventually · in the end · finally
+ex: Now: Since then, I’ve … / Looking back, …
+w: leave home = mustaqil yashash uchun uydan ketmoq
+w: get married / engaged = turmush qurmoq / unashtirilmoq
+w: pass your exams = imtihonlardan o‘tmoq
+w: move house = uy ko‘chmoq
+w: change career = kasbni o‘zgartirmoq
+w: retire = nafaqaga chiqmoq
+w: become independent = mustaqil bo‘lmoq
+w: take responsibility = mas’uliyatni o‘z zimmasiga olmoq
+w: a turning point = burilish nuqtasi
+w: in my late teens = o‘n to‘qqiz yoshlarimda
+gap: My father wants to ___ next year, when he is sixty. || retire
+gap: After ten years as a teacher, she decided to ___ and become a doctor. || change career
+gap: Moving abroad was ___ in my life. || a turning point
+gap: My parents ___ when I was five, to a bigger flat. || moved house
+gap: Living alone helped me to ___ for my own decisions. || take responsibility
+task_title: A special moment
+task: A website for young people is collecting blog posts called “The day that changed my life”. Write a blog post.
+b: describe the event and when it happened
+b: explain how you felt at first
+b: describe how your life changed afterwards
+b: say what you learned from the experience
+words: 120–150
+check: I used at least five time linkers.
+check: I used the present perfect to talk about the result now.
+ielts: Some people think that young people should leave home and live independently as soon as they finish school. Do you agree or disagree?
+ielts_type: Opinion essay
+idea: living alone teaches responsibility and money skills
+idea: young people become more confident
+idea: rent is expensive and students may need their parents’ help
+idea: in many cultures families live together for a long time
+model_task: The day that changed my life | The day I got my first job will always be special to me. It happened two years ago, when I was nineteen. | At first, I felt anxious and excited at the same time. I had never worked in an office before, and I was afraid of making mistakes. During the first week, I hardly slept! | However, as soon as I got to know my colleagues, everything became easier. They were patient and helpful, and eventually I started to enjoy my work. Since then, I’ve saved enough money to pay for my English course, and I’ve become much more confident. | Looking back, that day taught me that new challenges are frightening only at the beginning. Now I’m not afraid to try new things.
+model_ielts: In many countries, there is a debate about when young people should leave home. I partly agree that it is good to live independently after school, but I do not think it is always possible. | On the one hand, living alone teaches young people important skills. They learn to cook, manage money and take responsibility for their own decisions. As a result, they often become more confident and mature. | On the other hand, rent is very expensive, especially in big cities, so many students cannot afford their own flat. Moreover, in cultures like mine, families traditionally live together for a long time, and young people help their parents. | In conclusion, I believe living independently is a valuable experience, but young people should only leave home when they are ready and can support themselves.
+
+### 5
+title: Money and Possessions
+type: Formal letter of complaint
+model_title: Faulty headphones
+model: [[Dear Sir or Madam,]] | [[I am writing to complain about]] a pair of wireless headphones which I bought from your online shop on 12 March (order number 58214). | When the parcel arrived, the headphones looked brand new. [[However,]] after only two days the left side stopped working, and the battery now lasts less than an hour. [[I was extremely disappointed]], as the headphones cost £120 and were advertised as “high quality”. | [[I have tried to contact]] your customer service team twice by phone, but nobody has called me back. | [[I would be grateful if you could]] send me a full refund or a replacement pair as soon as possible. I have attached a copy of the receipt. | [[I look forward to hearing from you.]] | [[Yours faithfully,]] | Laylo Karimova
+focus: Writing a formal complaint
+focus_text: In IELTS General Training Task 1 you may need to complain. Explain the facts clearly, say how you feel politely, and say exactly what you want the company to do. Do not use contractions or slang.
+ex: Purpose: I am writing to complain about …
+ex: Facts: I bought … on … / When it arrived, …
+ex: Problem: However, … / Unfortunately, …
+ex: Feeling: I was extremely disappointed / surprised that …
+ex: Action: I would be grateful if you could … / I would like a full refund.
+w: get a refund = pulni qaytarib olmoq
+w: receipt = chek
+w: brand new = yangi, ishlatilmagan
+w: be in good condition = yaxshi holatda bo‘lmoq
+w: valuable = qimmatbaho
+w: can’t afford = puli yetmaslik
+w: pay back = qarzni qaytarmoq
+w: be in debt = qarzdor bo‘lmoq
+w: save up for = …uchun pul yig‘moq
+w: bank account = bank hisobi
+gap: The camera was second-hand, but it was ___ . || in good condition
+gap: I’m ___ a new laptop – I put money aside every month. || saving up for
+gap: She lent me £50, and I promised to ___ the money on Friday. || pay back
+gap: I’d love a new car, but I ___ one at the moment. || can’t afford
+gap: The shop gave me ___ because the phone was broken. || a refund
+task_title: A problem with a service
+task: You recently paid for a one-month gym membership, but there were several problems. Write a letter to the manager.
+b: give details of your membership
+b: explain what the problems were
+b: say how this affected you
+b: say what you would like the manager to do
+words: 120–150
+check: I used formal language and no contractions.
+check: I explained the facts and said exactly what I want.
+ielts: In the future, cash will disappear and people will pay for everything by card or phone. What are the advantages and disadvantages of a cashless society?
+ielts_type: Advantages & disadvantages essay
+idea: paying by phone is fast and convenient
+idea: less robbery and easier to track spending
+idea: older people may find it difficult
+idea: problems if the internet or bank system stops working
+model_task: Dear Sir or Madam, | I am writing to complain about the service at your City Centre gym, where I paid for a one-month membership on 1 May (membership number 3051). | Unfortunately, there have been several problems. Firstly, half of the running machines have been broken for three weeks. Secondly, the changing rooms are often dirty, and there is rarely any hot water in the showers. Finally, two of the evening classes were cancelled without warning. | As a result, I have only been able to use the gym a few times, and I feel that I have wasted my money. | I would be grateful if you could repair the equipment as soon as possible and give me a partial refund for this month. | I look forward to hearing from you. | Yours faithfully, | Aziz Rakhimov
+model_ielts: Many people believe that in the near future cash will disappear completely. A cashless society would have both benefits and drawbacks. | The biggest advantage is convenience. Paying by card or phone is fast, and people do not need to carry coins and notes. In addition, there would be fewer robberies, and it would be easier to keep a record of our spending, which could help people save money. | However, there are also disadvantages. Older people, who are not used to technology, may find it difficult to pay without cash. Moreover, if the internet or the bank system stops working, people might not be able to buy even basic things like food. | In conclusion, a cashless society would make life easier for most people, but it is important to keep cash as an option for those who need it.
+
+### 6
+title: Relationships
+type: Semi-formal letter to a neighbour
+model_title: A problem with noise
+model: [[Dear Mr Collins,]] | My name is Nodira and I live in flat 12, just below yours. [[I hope you don’t mind me writing to you]] about something that has been worrying me. | [[For the last few weeks]], there has been loud music from your flat late at night, often until two or three in the morning. [[I’m sure you don’t realise]] how much noise travels between the floors, but I have exams this month and I need to get up early. | [[I wonder if you could]] turn the music down after eleven o’clock on weekdays? [[I would really appreciate it.]] [[If it’s easier,]] I’d be happy to talk about it in person. | [[Thank you for understanding.]] | [[Kind regards,]] | Nodira Saidova
+focus: Polite and tactful language
+focus_text: A semi-formal letter goes to someone you don’t know well, like a neighbour or landlord. Be polite and friendly, avoid sounding angry, and use soft, indirect requests.
+ex: Opening: Dear Mr / Ms … , / I hope you don’t mind me writing …
+ex: Softening: I’m sure you don’t realise … / It seems that …
+ex: Indirect request: I wonder if you could … ? / Would you mind … -ing?
+ex: Offer: I’d be happy to … / If it’s easier, …
+ex: Closing: Thank you for understanding. / Kind regards,
+w: get on well with = …bilan yaxshi chiqishmoq
+w: sociable = kirishimli
+w: patient / impatient = sabrli / sabrsiz
+w: honest = halol
+w: polite / impolite = xushmuomala / odobsiz
+w: bad manners = odobsizlik
+w: flatmate = uydosh
+w: fair / unfair = adolatli / adolatsiz
+w: relationship = munosabat
+w: fall out with = …bilan arazlashmoq
+gap: My ___ never does the washing-up, which is annoying. || flatmate
+gap: It’s ___ to talk loudly on your phone in a library. || bad manners
+gap: I ___ my sister about money, but now we are friends again. || fell out with
+gap: He’s very ___ – he loves meeting new people. || sociable
+gap: Do you ___ your neighbours? || get on well with
+task_title: Letter to a flatmate or neighbour
+task: You share a flat with another student who is causing problems (for example, never cleaning or inviting friends late at night). Write a letter to him or her.
+b: explain who you are and why you are writing
+b: describe the problem politely
+b: explain how it affects you
+b: suggest a solution
+words: 120–150
+check: I used at least two indirect requests (I wonder if … / Would you mind …).
+check: My letter sounds polite and friendly, not angry.
+ielts: Some people say that social media makes our relationships weaker. To what extent do you agree or disagree?
+ielts_type: Opinion essay
+idea: people spend time on phones instead of talking face to face
+idea: online friendships are often not deep
+idea: social media helps us keep in touch with family abroad
+idea: it helps shy people make friends
+model_task: Dear Jamshid, | I hope you don’t mind me writing to you instead of talking, but I wanted to explain something clearly. | As you know, we agreed to share the cleaning when we moved in. However, for the last month the kitchen has been very messy, and the rubbish often stays in the flat for days. I’m sure you are busy with your studies, but I have been doing most of the cleaning myself. | This is quite stressful for me, especially now that I have a part-time job. | I wonder if we could make a simple cleaning timetable? For example, one of us could clean the kitchen on Mondays and the other on Thursdays. I’d be happy to talk about it this evening. | Thanks for understanding. | Best wishes, | Bobur
+model_ielts: Social media has become a central part of our lives, and some people believe it is damaging our relationships. I agree with this to some extent, but I also think it has important benefits. | On the one hand, many people now spend time on their phones instead of talking face to face. For example, it is common to see friends in a café who are all looking at their screens. Moreover, online friendships are often not very deep. | On the other hand, social media helps us keep in touch with family and friends who live far away. My cousin lives in Korea, but we talk every week. It can also help shy people to make friends. | In conclusion, I believe social media can weaken relationships if we use it too much, but used carefully, it can bring people closer together.
+
+### 7
+title: Travel and Transport
+type: Hotel review
+model_title: Review: Silk Road Guest House, Bukhara ★★★★☆
+model: [[I stayed at]] Silk Road Guest House for three nights in October, and [[overall, I was very impressed.]] | The location is perfect – it’s in the old town, so all the main sights are within walking distance. The rooms are basic but clean, and the beds are very comfortable. [[What I liked most was]] the breakfast, which was served on a beautiful terrace with a view of the old city. The staff were incredibly friendly and helped us book a taxi to the airport. | [[The only downside was]] the noise from the street in the evening, which was quite annoying. The Wi-Fi was also unreliable. | [[All things considered,]] it’s excellent value for money. [[I would highly recommend it to]] anyone who wants to experience traditional Uzbek hospitality.
+focus: Reviews and -ed / -ing adjectives
+focus_text: A good review describes the place, gives positive and negative points and ends with a recommendation. Use -ing adjectives to describe things and -ed adjectives to describe how people feel.
+ex: -ing (things): The trip was tiring / relaxing / fascinating / annoying.
+ex: -ed (people): I was tired / relaxed / fascinated / annoyed.
+ex: Positive: What I liked most was … / The highlight was …
+ex: Negative: The only downside was … / However, …
+ex: Recommend: All things considered, … / I would highly recommend it to …
+w: accommodation = turar joy
+w: self-catering = ovqatni o‘zing tayyorlaydigan
+w: book in advance = oldindan band qilmoq
+w: convenient = qulay
+w: reliable = ishonchli
+w: remote = chekka, uzoq
+w: fascinating = maftunkor
+w: annoying = asabga tegadigan
+w: relaxing = tinchlantiruvchi
+w: value for money = narxiga arziydigan
+gap: The bus service is very ___ – it’s never late. || reliable
+gap: We stayed in a ___ cottage high in the mountains, far from any town. || remote
+gap: The museum was ___ – I learned so much about the city’s history. || fascinating
+gap: Flights are cheaper if you ___ . || book in advance
+gap: The hotel was cheap but very good – excellent ___ . || value for money
+task_title: Review a place you stayed in
+task: A travel website wants reviews of hotels, hostels or guest houses. Write a review of a place where you have stayed.
+b: say where it is and when you stayed there
+b: describe the rooms, food and service
+b: mention one or two negative points
+b: say who you would recommend it to
+words: 120–150
+check: I used at least three -ed and -ing adjectives correctly.
+check: My review has positive points, negative points and a recommendation.
+ielts: Some people believe that international tourism does more harm than good to local communities. To what extent do you agree or disagree?
+ielts_type: Opinion essay
+idea: tourism creates jobs and brings money to the area
+idea: tourists learn about other cultures
+idea: too many tourists cause pollution and high prices
+idea: traditional culture may change to please tourists
+model_task: Review: Mountain View Hostel, Chimgan ★★★☆☆ | I stayed at Mountain View Hostel for two nights last summer with three friends. | The location is fantastic – it’s surrounded by mountains and the views from the balcony are breathtaking. Our room was small but clean, and the beds were comfortable. The best thing was the friendly owner, who cooked a delicious dinner for us and gave us useful advice about hiking routes. | However, there were a few annoying problems. The shower was often cold, and the Wi-Fi hardly ever worked. It is also quite remote, so you need a car to get there. | All things considered, it’s a relaxing place and good value for money. I would recommend it to young people who love nature and don’t mind basic accommodation.
+model_ielts: International tourism has grown enormously in recent years. Although it can cause problems, I disagree that it does more harm than good to local communities. | Firstly, tourism creates jobs and brings money to the area. Hotels, restaurants and shops need workers, and local craftspeople can sell their products. For example, in Bukhara many families earn a living from tourism. | Secondly, tourism helps people from different countries understand each other’s cultures, which is important in today’s world. | It is true that too many tourists can cause pollution and make prices higher for local people. However, these problems can be reduced if governments plan tourism carefully. | In conclusion, I believe that, when it is well managed, tourism brings more benefits than problems to local communities.
+
+### 8
+title: Education and Skills
+type: Formal email asking for information
+model_title: Enquiry about an English course
+model: [[Dear Sir or Madam,]] | [[I am writing to enquire about]] the IELTS preparation course advertised on your website. I am a second-year economics student and I am planning to apply for a Master’s degree in the UK next year. | [[I would be grateful if you could]] send me some more information about the course. In particular, [[I would like to know]] how many students there are in each class and whether the teachers are fully qualified. [[Could you also tell me]] if the course includes practice exams? | [[Finally, I was wondering whether]] it is possible to pay the fees in two parts. | [[Thank you in advance for your help.]] [[I look forward to hearing from you.]] | [[Yours faithfully,]] | Sardor Nazarov
+focus: Indirect questions
+focus_text: In formal emails, indirect questions sound more polite than direct ones. After the introductory phrase, use normal word order (subject + verb), not question word order.
+ex: Direct: How many students are there? → Indirect: Could you tell me how many students there are?
+ex: Yes / no: Is it possible …? → I would like to know whether / if it is possible …
+ex: Phrases: I would be grateful if you could … / I was wondering whether …
+ex: Purpose: I am writing to enquire about …
+ex: Close: Thank you in advance for your help.
+w: degree / diploma = daraja / diplom
+w: qualification = malaka
+w: entrance exam = kirish imtihoni
+w: fully qualified = to‘liq malakali
+w: course = kurs
+w: grade = baho
+w: communication skills = muloqot ko‘nikmalari
+w: practical skills = amaliy ko‘nikmalar
+w: private / state school = xususiy / davlat maktabi
+w: apply for = …ga ariza bermoq
+gap: She has a ___ in economics from Tashkent University. || degree
+gap: All our teachers are ___ and have years of experience. || fully qualified
+gap: I need to pass the university ___ in June. || entrance exam
+gap: Good ___ are important in jobs where you work with people. || communication skills
+gap: I want to ___ a scholarship to study in Germany. || apply for
+task_title: Asking about a course
+task: You want to do a short course (for example, cooking, photography or computer programming) during the summer holidays. Write an email to the school.
+b: say which course you are interested in and why
+b: ask about the dates and timetable
+b: ask about the teachers and class size
+b: ask about the price and how to pay
+words: 120–150
+check: I used at least three indirect questions with the correct word order.
+check: I used formal language throughout.
+ielts: Some people think that online learning will soon replace traditional classrooms. Do you agree or disagree?
+ielts_type: Opinion essay
+idea: online learning is flexible and often cheaper
+idea: students can learn from top teachers anywhere in the world
+idea: children need face-to-face contact and social skills
+idea: practical subjects are hard to learn online
+model_task: Dear Sir or Madam, | I am writing to enquire about the photography course for beginners which I saw advertised on your website. I have recently bought my first camera and I would like to learn how to take professional photos. | I would be grateful if you could send me some more information. In particular, I would like to know when the summer course starts and how many lessons there are each week. Could you also tell me whether the classes take place in the evening? | In addition, I was wondering how many students there are in each group and whether the teachers are professional photographers. | Finally, could you let me know how much the course costs and if it is possible to pay online? | Thank you in advance for your help. | Yours faithfully, | Kamila Usmonova
+model_ielts: With the growth of the internet, online learning has become very popular, and some people believe it will soon replace traditional classrooms. I do not agree with this view. | It is true that online learning has many advantages. It is flexible, so students can study at any time, and it is often cheaper. Moreover, learners can take courses from excellent teachers anywhere in the world. | However, I believe classrooms will always be necessary. Children need face-to-face contact to develop social skills, such as working in a team. In addition, practical subjects like chemistry or sport are very difficult to learn through a screen. Many students also find it hard to stay motivated at home. | In conclusion, online learning is a useful addition to education, but I do not think it will replace traditional classrooms completely.
+
+### 9
+title: Health and Greetings
+type: Article giving advice
+model_title: Five ways to stay healthy as a student
+model: [[Do you often feel tired and stressed]] during exams? You are not alone. Here are five simple ways to look after your health. | [[First of all,]] get enough sleep. Experts say that young people need eight to nine hours a night, so try not to stay up late. | [[Secondly,]] eat a balanced diet. [[It’s a good idea to]] keep healthy snacks, like fruit and nuts, in your bag [[instead of]] buying junk food. | [[Another tip is to]] stay active. Even a twenty-minute walk every day can improve your fitness and your mood. | [[You should also]] take regular breaks when you study, and spend time with friends – your mental health is as important as your physical health. | [[Finally,]] don’t forget to drink plenty of water. [[Follow these tips and you’ll]] feel the difference in just a few weeks!
+focus: Giving advice in an article
+focus_text: An advice article speaks directly to the reader. Start with a question to get their attention, organise each tip in its own paragraph and finish with a strong ending.
+ex: Hook: Do you often feel … ? You are not alone.
+ex: Order: First of all, … / Secondly, … / Another tip is to … / Finally, …
+ex: Advice: You should … / It’s a good idea to … / Try (not) to …
+ex: Alternative: … instead of + -ing
+ex: Ending: Follow these tips and you’ll …
+w: a balanced diet = muvozanatli ovqatlanish
+w: junk food = zararli ovqat
+w: mental health = ruhiy salomatlik
+w: fitness = jismoniy tayyorgarlik
+w: active lifestyle = faol turmush tarzi
+w: gentle exercise = yengil mashqlar
+w: get enough sleep = yetarlicha uxlamoq
+w: painkiller = og‘riq qoldiruvchi dori
+w: shake hands = qo‘l berib ko‘rishmoq
+w: make a good impression = yaxshi taassurot qoldirmoq
+gap: Walking and yoga are examples of ___ . || gentle exercise
+gap: Talking to friends is good for your ___ . || mental health
+gap: In a job interview, smile and ___ firmly. || shake hands
+gap: Crisps and burgers are ___ . || junk food
+gap: Wear smart clothes if you want to ___ . || make a good impression
+task_title: Advice for new students
+task: Your college magazine wants articles with the title “How to have a healthy first year at college”. Write an article.
+b: start in a way that interests the reader
+b: give advice about food and sleep
+b: give advice about exercise and stress
+b: finish with a strong ending
+words: 120–150
+check: I used at least four different ways of giving advice.
+check: Each tip is in a separate paragraph.
+ielts: Many people today do not get enough physical exercise. What are the causes of this problem, and what can be done to solve it?
+ielts_type: Problem & solution essay
+idea: people sit at desks and computers all day
+idea: people drive everywhere instead of walking
+idea: schools and companies could offer sport and exercise breaks
+idea: cities should build parks and cycle lanes
+model_task: How to have a healthy first year at college | Starting college is exciting, but it can also be stressful. Do you want to stay healthy and enjoy your first year? Then read on! | First of all, try to eat a balanced diet. It’s a good idea to cook simple meals at home instead of eating fast food every day. You should also go to bed at a regular time – your brain needs sleep to remember what you have learned. | Another tip is to join a sports club. Exercise is a great way to reduce stress, and you’ll make new friends too. If you feel worried about exams, talk to someone instead of keeping it inside. | Follow these tips and you’ll have a healthy, happy and successful first year!
+model_ielts: Nowadays, many people do not get enough physical exercise, which can lead to serious health problems. This essay will look at the causes of this situation and suggest some solutions. | The main cause is modern lifestyles. Many people sit at desks and computers all day, both at work and at home. In addition, people often drive everywhere, even for very short journeys, instead of walking or cycling. | There are several ways to solve this problem. Firstly, schools and companies could offer short exercise breaks and sports clubs. Secondly, governments should build more parks and safe cycle lanes, so that being active becomes easier. Finally, people can make small changes, such as taking the stairs instead of the lift. | In conclusion, although modern life makes us less active, there are simple solutions that could help people become healthier.
+
+### 10
+title: Food
+type: Description of a traditional dish
+model_title: Plov: the heart of Uzbek cooking
+model: [[If you ever visit Uzbekistan]], you must try plov. It is our national dish, and [[it is served at]] weddings, birthdays and family celebrations. | Plov [[is made with]] rice, lamb, carrots, onions and spices such as cumin. It [[is cooked in]] a large, heavy pan called a kazan. [[First,]] the meat and onions [[are fried]] in hot oil. [[Then]] the carrots, cut into thin strips, [[are added]], followed by water and spices. [[Finally,]] the rice is put on top and cooked slowly until the water disappears. | The result is a rich, savoury dish with a wonderful flavour. [[It is usually eaten]] with fresh salad and green tea. | [[For many Uzbek families,]] plov is more than food – it is a way of bringing people together.
+focus: The passive for processes
+focus_text: Use the passive when the action is more important than who does it – for example, in recipes and descriptions of how things are made. Form it with be + past participle.
+ex: Present passive: Plov is made with rice and lamb.
+ex: More examples: The meat is fried. The carrots are added.
+ex: Serving: It is usually served with … / It is eaten at …
+ex: Sequence: First, … Then … After that, … Finally, …
+ex: Taste: savoury · spicy · sweet · sour · bitter · rich
+w: flavour = ta’m
+w: savoury = sho‘r, ziravorli
+w: spicy = achchiq
+w: bitter / sour = taxir / nordon
+w: be made with = …bilan tayyorlanadi
+w: be served with = …bilan tortiladi
+w: fry / bake / boil = qovurmoq / pishirmoq / qaynatmoq
+w: ingredients = masalliqlar
+w: wasteful = isrofgar
+w: home-made = uyda tayyorlangan
+gap: Samsa ___ meat, onions and pastry. || is made with
+gap: Lemons taste ___ . || sour
+gap: This curry is too ___ for me – it burns my mouth. || spicy
+gap: Shashlik ___ fresh onions and bread. || is served with
+gap: Throwing away good food is very ___ . || wasteful
+task_title: A dish from my country
+task: An international food blog is collecting descriptions of traditional dishes. Write about a dish from your country.
+b: say what the dish is and when people eat it
+b: describe the ingredients
+b: explain how it is made
+b: say why the dish is important to you or your culture
+words: 120–150
+check: I used the passive at least five times.
+check: I described the steps in order.
+ielts: Some people think that governments should put a tax on unhealthy food to make people eat more healthily. Do you agree or disagree?
+ielts_type: Opinion essay
+idea: higher prices make people buy less junk food
+idea: the money could pay for hospitals or sports centres
+idea: poor families would suffer most
+idea: education about healthy eating may work better
+model_task: Manti | Manti is one of the most popular dishes in Uzbekistan. It is eaten all year round, but especially at family dinners and celebrations. | Manti are large steamed dumplings. The filling is made with chopped lamb or beef, onions, a little fat and spices such as black pepper and cumin. | First, a simple dough is made from flour, water and salt. Then it is rolled out very thinly and cut into squares. A spoonful of filling is put on each square, and the edges are folded together. After that, the manti are cooked in a special steamer for about forty minutes. Finally, they are served with sour cream or tomato sauce. | For me, manti are special because my grandmother taught me how to make them. Every time I eat them, I remember her kitchen.
+model_ielts: In many countries, unhealthy diets are causing serious health problems, and some people believe a tax on unhealthy food is the solution. I partly agree with this idea. | On the one hand, a tax could change people’s habits. If junk food becomes more expensive, people will probably buy less of it. Moreover, the government could use the money to pay for hospitals or build sports centres. | On the other hand, a tax would affect poor families most, because they often depend on cheap food. In addition, I believe education is more effective than higher prices. If children learn about healthy eating at school, they will make better choices for the rest of their lives. | In conclusion, a tax on unhealthy food might help, but it should be combined with education about healthy eating.
+
+### 11
+title: News and the World
+type: Formal letter to a newspaper
+model_title: Letter to the editor: save our park
+model: [[Dear Editor,]] | [[I am writing in response to]] your article “New car park for city centre” (12 May), [[which reported that]] the council plans to replace Bobur Park with a car park. | [[In my opinion,]] this would be a serious mistake. [[Firstly,]] the park is one of the few green spaces in the city centre, and it is used every day by families, students and elderly people. [[Furthermore,]] trees help to reduce air pollution, which is already a major issue in our city. | [[I understand that]] parking is a problem. [[However,]] I believe a better solution would be to improve public transport, [[so that]] fewer people need to drive into the centre. | [[I hope the council will think again]] before making a decision that cannot be undone. | [[Yours faithfully,]] | Jasur Aliyev
+focus: Expressing and supporting opinions formally
+focus_text: In a letter to a newspaper, say which article you are responding to, give your opinion clearly, support it with reasons, and suggest a solution. Use formal linking words to connect your ideas.
+ex: Purpose: I am writing in response to your article … / I am writing to express my concern about …
+ex: Opinion: In my opinion, … / I strongly believe that …
+ex: Adding: Firstly, … / Furthermore, … / In addition, …
+ex: Contrast: I understand that … However, …
+ex: Result / purpose: As a result, … / … so that …
+w: global warming = global isish
+w: natural disaster = tabiiy ofat
+w: flood = suv toshqini
+w: pollution = ifloslanish
+w: global issue = global muammo
+w: report = xabar bermoq
+w: spread = tarqalmoq
+w: up to date = dolzarb, yangi
+w: set up = tashkil etmoq
+w: give up = tashlamoq
+gap: The road was closed for two days because of a ___ . || flood
+gap: News ___ very quickly on social media. || spreads
+gap: Air ___ is a serious problem in many big cities. || pollution
+gap: Volunteers have ___ a group to clean the river. || set up
+gap: I read the news every morning to keep ___ . || up to date
+task_title: Your opinion about a local issue
+task: Your local newspaper has published an article saying that the city plans to close the only public library and open a shopping centre instead. Write a letter to the editor.
+b: say which article you are responding to
+b: give your opinion about the plan
+b: give reasons for your opinion
+b: suggest an alternative
+words: 120–150
+check: I gave my opinion clearly and supported it with at least two reasons.
+check: I used at least three formal linking words.
+ielts: Some people believe that environmental problems are too big for individuals to solve and only governments can help. To what extent do you agree or disagree?
+ielts_type: Opinion essay
+idea: governments can make laws and control factories
+idea: big projects need a lot of money
+idea: individuals can recycle, save energy and use less plastic
+idea: if millions of people change, it makes a big difference
+model_task: Dear Editor, | I am writing in response to your article “Library to close” (3 March), which reported that the city plans to replace the public library with a shopping centre. | I strongly believe that this plan is a mistake. Firstly, the library is the only quiet place in our town where students can study for free. Many young people do not have space to study at home. Furthermore, the library organises free English and computer classes for elderly people. | I understand that the building is old and expensive to run. However, I believe a better solution would be to modernise the library and add a small café, so that it could earn some money. | We already have two shopping centres in our town, but only one library. I hope the council will think again. | Yours faithfully, | Malika Tursunova
+model_ielts: Environmental problems such as global warming and pollution are some of the biggest challenges today. Some people think only governments can solve them, but I believe individuals also have an important role. | It is true that governments have the most power. They can make laws, control factories and invest in clean energy. Large projects, like building metro systems, also need a lot of money that only governments have. | However, individuals can make a real difference too. We can recycle, save energy at home and use less plastic. For example, if millions of people stop using plastic bags, the amount of rubbish will fall dramatically. In addition, when people change their habits, governments often follow. | In conclusion, I believe governments and individuals must work together to protect the environment.
+
+### 12
+title: The World of Work
+type: Covering letter for a job
+model_title: Application: Junior Administrator
+model: [[Dear Ms Davis,]] | [[I am writing to apply for]] the position of Junior Administrator, [[which was advertised]] on your company website. | I graduated from Tashkent State University of Economics last year [[with a degree in]] business management. [[Since then, I have been working]] as an assistant in a small travel company, where [[I am responsible for]] dealing with customer enquiries, writing reports and organising meetings. | [[I believe I would be suitable for]] this position because I am well organised and I work well under pressure. I also have excellent computer skills and I speak Uzbek, Russian and English fluently. | [[I would welcome the opportunity to]] discuss my application at an interview. [[I have attached my CV.]] | [[Yours sincerely,]] | Shahzod Karimov
+focus: Talking about experience and skills
+focus_text: A covering letter shows an employer why you are the right person for the job. Use the present perfect for experience up to now, give real examples of your skills, and keep the tone formal and positive.
+ex: Purpose: I am writing to apply for the position of … , which was advertised …
+ex: Experience: I have been working as … since … / I have experience of …
+ex: Duties: I am responsible for … / I deal with …
+ex: Suitability: I believe I would be suitable for this position because …
+ex: Ending: I would welcome the opportunity to … / Yours sincerely, (Ms Davis)
+w: be in charge of = …ga mas’ul bo‘lmoq
+w: deal with enquiries = so‘rovlar bilan ishlamoq
+w: candidate = nomzod
+w: client = mijoz
+w: presentation = taqdimot
+w: paperwork = hujjatlar bilan ishlash
+w: recruit = ishga yollamoq
+w: day-to-day = kundalik
+w: work under pressure = bosim ostida ishlamoq
+w: open-plan office = ochiq ofis
+gap: As a receptionist, I ___ from customers by phone and email. || deal with enquiries
+gap: The manager is ___ a team of twelve people. || in charge of
+gap: Our company wants to ___ five new engineers this year. || recruit
+gap: There were twenty ___ for the job, but only one got it. || candidates
+gap: I can ___ and still meet my deadlines. || work under pressure
+task_title: Apply for a part-time job
+task: You have seen an advert for a part-time job as an assistant at an international summer camp for teenagers. Write a covering letter.
+b: say which job you are applying for and where you saw the advert
+b: describe your education and any experience
+b: explain why you would be good at this job
+b: say when you are available for an interview
+words: 120–150
+check: I used the present perfect to talk about my experience.
+check: I gave real examples of my skills.
+ielts: Some people prefer to work for a large company, while others prefer to be self-employed. Discuss both views and give your opinion.
+ielts_type: Discussion essay
+idea: large companies offer a regular salary and training
+idea: big companies have clear career paths
+idea: self-employed people are free to make their own decisions
+idea: being self-employed can be risky and stressful
+model_task: Dear Sir or Madam, | I am writing to apply for the position of camp assistant, which was advertised on the Youth Travel website. | I am a third-year student of English at Samarkand State University. For the last two years, I have been working as a volunteer at a children’s sports club, where I am responsible for organising games and looking after groups of up to fifteen children. | I believe I would be suitable for this job because I am energetic, patient and good at working in a team. I also speak English and Russian fluently, which would help me communicate with teenagers from different countries. | I am available for an interview at any time after 20 May. I have attached my CV. | Yours faithfully, | Nigora Rashidova
+model_ielts: Some people prefer the security of working for a large company, while others would rather be their own boss. Both choices have advantages. | On the one hand, large companies offer a regular salary, holidays and training. They also usually have clear career paths, so employees can be promoted over time. For many people, especially those with families, this security is very important. | On the other hand, self-employed people are free to make their own decisions and choose their working hours. If their business is successful, they can also earn more money. However, it can be risky and stressful, because there is no guaranteed income. | In my opinion, young people should first work for a large company to gain experience. Later, when they have enough knowledge and savings, they can start their own business.

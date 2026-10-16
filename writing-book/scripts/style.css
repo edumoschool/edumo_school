@@ -110,3 +110,6 @@ mark{background:#D6EBFF;color:var(--blue-d);font-weight:700;padding:0 2px;border
 .toc.six{grid-template-columns:repeat(6,1fr)}
 .toc.six .c h4{font-size:11pt}
 .toc.six .c ul{font-size:8.4pt}
+/* B1: longer model answers */
+.lvl-b1 .ptext.small{font-size:8.2pt;line-height:1.33;padding:6px 12px}
+.lvl-b1 .ptext.small p{margin-bottom:2px}
