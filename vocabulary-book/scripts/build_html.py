@@ -60,12 +60,17 @@ e = html.escape
 
 
 def logo_svg(size=48, light=False):
-    ring = "#ffffff" if light else "#1E90FF"
-    mark = "#1E90FF" if light else "#ffffff"
-    return f"""<svg width="{size}" height="{size}" viewBox="0 0 64 64" aria-hidden="true">
-<circle cx="32" cy="32" r="30" fill="{ring}"/>
-<path d="M10 36 H22 L26 26 L32 46 L38 18 L42 36 H54" fill="none" stroke="{mark}" stroke-width="4.5"
- stroke-linecap="round" stroke-linejoin="round"/>
+    """Impulse Learning Center logo: white open book with a flame on a blue circle.
+
+    `light` adds a thin white ring so the logo stands out on blue backgrounds.
+    """
+    ring = '<circle cx="320" cy="320" r="304" fill="none" stroke="#fff" stroke-width="32"/>' if light else ""
+    return f"""<svg width="{size}" height="{size}" viewBox="0 0 640 640" aria-hidden="true">
+<circle cx="320" cy="320" r="320" fill="#0057FF"/>{ring}
+<g transform="translate(0 14)"><g fill="none" stroke="#fff" stroke-width="22">
+<path d="M320 140 C348 168 352 220 320 250 C288 220 292 168 320 140 Z"/>
+<path d="M203 241 C248 233 290 247 320 280 C350 247 392 233 437 241 V407 C392 404 350 420 320 456 C290 420 248 404 203 407 Z"/>
+</g><path d="M309 280 H331 V364 L320 354 L309 364 Z" fill="#fff"/></g>
 </svg>"""
 
 
@@ -319,7 +324,7 @@ def build_front():
     units_dots = "".join(f"<span>{u}</span>" for u in DATA)
     cover = f"""
 <div class="page cover"><div class="grid"></div><div class="blob b1"></div><div class="blob b2"></div>
- <div class="brand">{logo_svg(54, light=True)}<div><b>IMPULSE</b><small>LEARNING CENTER</small></div></div>
+ <div class="brand">{logo_svg(64, light=True)}<div><b>IMPULSE</b><small>LEARNING CENTER</small></div></div>
  <div class="main">
   <span class="kicker">LEVEL A1 · BEGINNER</span>
   <h1>Vocabulary<br><span>Book</span></h1>
