@@ -1,7 +1,7 @@
 """Build the Impulse Learning Center A2 Speaking Book (HTML -> dist/a2-speaking-book.html).
 
-Same colours and design as the A1 book (style.css + style_a2.css). A2 lessons
-have ten questions, so each lesson gets a full-width card on its own page:
+Same colours and design as the A1 book (style.css + style_a2.css). Questions,
+vocabulary and starters come from data/a2-content.txt. A2 lessons have ten questions, so each lesson gets a full-width card on its own page:
   cover · how to use · contents · per unit: 5 lesson pages + review page
 """
 import json
@@ -10,7 +10,33 @@ from pathlib import Path
 from build import ICONS, e, icon, logo
 
 ROOT = Path(__file__).resolve().parent.parent
-UNITS = json.loads((ROOT / "data" / "a2-questions.json").read_text(encoding="utf-8"))
+UNIT_TITLES = [u["title"] for u in json.loads((ROOT / "data" / "a2-questions.json").read_text(encoding="utf-8"))]
+
+
+def load_content():
+    """Read data/a2-content.txt into units -> lessons (questions numbered 1-600) and helper lists."""
+    units, helpers, n = [], {}, 0
+    for line in (ROOT / "data" / "a2-content.txt").read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if line.startswith("## "):
+            lid, kind, title = (x.strip() for x in line[3:].split("|"))
+            u = int(lid.split(".")[0])
+            if len(units) < u:
+                units.append({"n": u, "title": UNIT_TITLES[u - 1], "lessons": []})
+            lesson = {"id": lid, "kind": kind, "title": title, "questions": []}
+            units[-1]["lessons"].append(lesson)
+            helpers[lid] = {"words": [], "starters": []}
+        elif line.startswith("q: "):
+            n += 1
+            lesson["questions"].append({"n": n, "q": line[3:]})
+        elif line.startswith("w: "):
+            helpers[lid]["words"].append(tuple(line[3:].split(" = ", 1)))
+        elif line.startswith("s: "):
+            helpers[lid]["starters"].append(line[3:])
+    return units, helpers
+
+
+UNITS, HELPERS = load_content()
 SCHOOL = "Impulse Learning Center"
 
 ICONS.update({
@@ -41,30 +67,7 @@ KINDS = {
 
 
 def kind_of(lesson):
-    t = lesson["title"]
-    if t.startswith("Video"):
-        return "video", t.split(":", 1)[1].strip()
-    if t.startswith("Vocabulary"):
-        return "vocabulary", "Vocabulary & Skills Development"
-    if t.startswith("Speaking & Writing"):
-        return "writing", "Speaking & Writing"
-    return "speaking", t
-
-
-def load_helpers():
-    helpers, cur = {}, None
-    for line in (ROOT / "data" / "a2-helpers.txt").read_text(encoding="utf-8").splitlines():
-        line = line.strip()
-        if line.startswith("## "):
-            cur = helpers.setdefault(line[3:], {"words": [], "starters": []})
-        elif line.startswith("w: "):
-            cur["words"].append(tuple(line[3:].split(" = ", 1)))
-        elif line.startswith("s: "):
-            cur["starters"].append(line[3:])
-    return helpers
-
-
-HELPERS = load_helpers()
+    return lesson["kind"], lesson["title"]
 
 
 def frame(inner, page_no):
@@ -78,7 +81,7 @@ def frame(inner, page_no):
 
 
 def unit_banner(u):
-    titles = [kind_of(l)[1] for l in u["lessons"] if kind_of(l)[0] in ("speaking", "video")]
+    titles = [l["title"] for l in u["lessons"]]
     return f"""<div class="ubanner"><div class="uno"><small>UNIT</small><span>{u["n"]}</span></div>
  <span class="uico">{icon(UNIT_ICONS[u["n"] - 1])}</span>
  <div class="ut"><h1>{e(u["title"])}</h1><p>{" · ".join(e(t) for t in titles)}</p></div>
@@ -111,7 +114,11 @@ def lesson_card(lesson):
 
 def review_page(u):
     checks = "".join(f'<li><i class="cbox"></i>I can talk about: <b>{e(kind_of(l)[1])}</b></li>' for l in u["lessons"])
-    talk = "".join(f"<li>{e(l['questions'][0]['q'])}</li>" for l in u["lessons"] if kind_of(l)[0] != "vocabulary")
+    # IELTS Part 2-style prompts from the unit ("Describe …", "Tell me about …"), else each lesson's first question
+    prompts = [q["q"] for l in u["lessons"] for q in l["questions"] if q["q"].startswith(("Describe", "Tell me about"))]
+    if len(prompts) < 3:
+        prompts += [l["questions"][0]["q"] for l in u["lessons"]]
+    talk = "".join(f"<li>{e(q)}</li>" for q in prompts[:4])
     return f"""<article class="review wide">
  <div class="lh"><span class="lico">{icon("target")}</span>
   <div><small>UNIT {u["n"]} · REVIEW</small><h3>Check your speaking</h3></div></div>
@@ -178,7 +185,7 @@ def how_to():
 
 def contents(unit_pages):
     cards = "".join(f"""<a><div class="h"><span class="tico">{icon(UNIT_ICONS[u["n"] - 1])}</span><span><small>UNIT</small><b>{u["n"]}</b></span></div>
-  <div class="c"><h4>{e(u["title"])}</h4><ul>{"".join(f"<li>{e(kind_of(l)[1])}</li>" for l in u["lessons"] if kind_of(l)[0] in ("speaking", "video"))}</ul>
+  <div class="c"><h4>{e(u["title"])}</h4><ul>{"".join(f"<li>{e(l['title'])}</li>" for l in u["lessons"])}</ul>
   <div class="meta"><span>Q {u["lessons"][0]["questions"][0]["n"]}–{u["lessons"][-1]["questions"][-1]["n"]}</span><span class="pg">p. {unit_pages[u["n"]]}</span></div></div></a>"""
                     for u in UNITS)
     return f"""<section class="page"><div class="inner">

@@ -1,0 +1,1455 @@
+# A2 Speaking Book content — real-life, IELTS-style questions on the Navigate A2 unit topics.
+# "## <id> | <kind> | <title>"   kind: speaking · vocabulary · writing · video
+# q: question   w: English = Uzbek   s: answer starter
+
+# ───────────── Unit 1: Your World
+## 1.1 | speaking | Multicultural Cities
+q: Is your city multicultural? What nationalities live there?
+q: How many languages do people speak in your country?
+q: What does “multicultural” mean to you?
+q: Do you think it is good to live in a multicultural city? Why?
+q: Have you ever met people from other countries? Where?
+q: What can we learn from people from other cultures?
+q: Would you like to live in another country one day? Which one?
+q: Which foreign city would you most like to visit? Why?
+q: Is it important to know about other cultures? Why?
+q: What language would you like to learn next? Why?
+w: multicultural = ko‘p madaniyatli
+w: mother tongue = ona tili
+w: foreign language = chet tili
+w: be fluent in = …ni ravon bilmoq
+w: cultural diversity = madaniy xilma-xillik
+w: get used to = …ga ko‘nikmoq
+w: broaden your mind = dunyoqarashni kengaytirmoq
+w: local people = mahalliy aholi
+s: In my city there are people from … and … .
+s: I think living in a multicultural city is … because … .
+s: One thing we can learn from other cultures is … .
+s: I’d love to learn … because … .
+
+## 1.2 | speaking | Family
+q: How many people are there in your family?
+q: Who do you spend the most time with in your family?
+q: Do you have any brothers or sisters? Do you get on well?
+q: What do your parents do?
+q: Do you live with your grandparents? How often do you see them?
+q: What do you and your family do at weekends?
+q: Are you more similar to your mother or your father? How?
+q: What is a typical family in your country like?
+q: Would you prefer to have a big family or a small family? Why?
+q: Who is the most important person in your family? Why?
+w: immediate family = yaqin oila a’zolari
+w: extended family = keng oila (qarindoshlar bilan)
+w: take after = …ga tortmoq
+w: get on well with = …bilan yaxshi chiqishmoq
+w: bring up = tarbiyalab o‘stirmoq
+w: close-knit = ahil, jips
+w: generation = avlod
+w: rely on = …ga suyanmoq
+s: There are … of us in my family: my … , my … and me.
+s: I take after my … because we are both … .
+s: In my country, families are usually quite … .
+s: The person I’m closest to is … because … .
+
+## 1.3 | vocabulary | Describing People
+q: How would you describe your appearance?
+q: Who do you look like in your family?
+q: How would you describe your best friend’s personality?
+q: What kind of people do you like to spend time with?
+q: Is appearance important to you? Why or why not?
+q: Describe a person you admire. What is he or she like?
+q: Do you think first impressions are important? Why?
+q: What qualities make a good friend?
+q: Have you changed a lot since you were a child? How?
+q: Do people in your family have similar personalities?
+w: appearance = tashqi ko‘rinish
+w: personality = xarakter, shaxsiyat
+w: outgoing = ochiqko‘ngil, dilkash
+w: easy-going = oson muomalali
+w: hard-working = mehnatkash
+w: reliable = ishonchli
+w: first impression = birinchi taassurot
+w: have a lot in common = ko‘p umumiy jihatlarga ega bo‘lmoq
+s: I’m quite … and I’ve got … hair.
+s: My best friend is very … . For example, … .
+s: I really admire … because he / she is … .
+s: I think a good friend should be … and … .
+
+## 1.4 | writing | Meeting New People
+q: How do people usually greet each other in your country?
+q: What do you usually say when you meet someone for the first time?
+q: Is it easy for you to make new friends? Why or why not?
+q: Where is the best place to meet new people in your city?
+q: What topics are good to talk about with someone new?
+q: Are there any topics you shouldn’t talk about with a new person?
+q: Do you keep in touch with your old friends? How?
+q: Do you prefer sending messages or calling people? Why?
+q: Have you ever made friends online?
+q: How would you start an email to someone you don’t know?
+w: introduce yourself = o‘zingizni tanishtirmoq
+w: make friends = do‘st orttirmoq
+w: keep in touch with = …bilan aloqani uzmaslik
+w: small talk = yengil suhbat
+w: get to know someone = kimnidir yaqindan bilib olmoq
+w: break the ice = tortinchoqlikni yo‘qotmoq
+w: formal / informal = rasmiy / norasmiy
+w: lose touch with = …bilan aloqani yo‘qotmoq
+s: In my country, people usually greet each other by … .
+s: When I meet someone new, I usually ask about … .
+s: It’s quite easy / difficult for me to make friends because … .
+s: I keep in touch with my old friends by … .
+
+## 1.5 | video | Brighton Language Exchange
+q: Why are you learning English?
+q: What is the most difficult thing about learning English for you?
+q: Have you ever spoken English with a foreigner? How did you feel?
+q: What is the best way to learn a new language?
+q: Is it better to learn a language in your country or abroad? Why?
+q: How often do you practise speaking English?
+q: Do you use apps or websites to learn English? Which ones?
+q: Should children start learning foreign languages at a young age?
+q: How will English help you in the future?
+q: Which languages are the most useful to learn in your country?
+w: native speaker = ona tili sohibi
+w: practise speaking = gapirishni mashq qilmoq
+w: improve your skills = ko‘nikmalarni oshirmoq
+w: make progress = yutuqqa erishmoq
+w: confident = o‘ziga ishongan
+w: make mistakes = xato qilmoq
+w: at a young age = yoshlikdan
+w: job opportunities = ish imkoniyatlari
+s: I’m learning English because … .
+s: The most difficult thing for me is … .
+s: I think the best way to learn a language is … .
+s: English will help me to … in the future.
+
+# ───────────── Unit 2: My Day
+## 2.1 | speaking | A Day in the Life
+q: What time do you usually get up on weekdays?
+q: What do you do in the morning before work or school?
+q: Do you have breakfast every day? What do you usually have?
+q: Are you a morning person or an evening person?
+q: How do you get to school or work? How long does it take?
+q: Do you work or study long hours?
+q: What time do you usually go to bed? Do you get enough sleep?
+q: Which part of the day do you like most? Why?
+q: Do you like having a daily routine? Why or why not?
+q: Would you like to be a scientist? Why or why not?
+w: daily routine = kundalik tartib
+w: morning person = erta turishni yoqtiradigan odam
+w: busy schedule = band jadval
+w: commute = ishga / o‘qishga qatnamoq
+w: stay up late = kech yotmoq
+w: get enough sleep = yetarlicha uxlamoq
+w: on time = o‘z vaqtida
+w: rush hour = tirbandlik vaqti
+s: I usually get up at … and the first thing I do is … .
+s: I’m definitely a morning / evening person because … .
+s: It takes me about … minutes to get to … by … .
+s: I’d like / wouldn’t like to be a scientist because … .
+
+## 2.2 | speaking | Spending Time
+q: What do you like doing in your free time?
+q: How do you usually spend your weekends?
+q: Do you think people today have enough free time?
+q: Do you watch TV in the evening? What do you watch?
+q: What kind of music do you listen to?
+q: How often do you do sport or exercise?
+q: Do you prefer spending time alone or with friends? Why?
+q: What is your favourite way to relax after a busy day?
+q: Do you read books in your free time? What kind?
+q: What did you do last weekend?
+w: free time = bo‘sh vaqt
+w: leisure activities = hordiq mashg‘ulotlari
+w: unwind = charchoqni chiqarmoq
+w: hang out with = …bilan vaqt o‘tkazmoq
+w: be into something = …ga qiziqmoq
+w: get some fresh air = toza havoda bo‘lmoq
+w: a waste of time = vaqtni bekor o‘tkazish
+w: spend time on = …ga vaqt sarflamoq
+s: In my free time I’m really into … .
+s: At weekends I usually … , and sometimes I … .
+s: I don’t think people have enough free time because … .
+s: The best way for me to unwind is … .
+
+## 2.3 | vocabulary | Habits and Routines
+q: How often do you cook at home?
+q: What do you always do before you go to sleep?
+q: What is something you hardly ever do on weekdays?
+q: Do you have any good habits? What are they?
+q: Is there a bad habit you would like to change?
+q: How is your routine different at the weekend?
+q: Do you plan your day, or do things when you feel like it?
+q: Do you think routines are useful or boring? Why?
+q: How has your daily routine changed in the last few years?
+q: Describe a typical weekday in your life.
+w: good / bad habit = yaxshi / yomon odat
+w: once / twice a week = haftada bir / ikki marta
+w: hardly ever = deyarli hech qachon
+w: plan ahead = oldindan rejalashtirmoq
+w: break a habit = odatni tashlamoq
+w: to-do list = qilinadigan ishlar ro‘yxati
+w: as a rule = odatda, qoida tariqasida
+w: stick to a routine = tartibga amal qilmoq
+s: I cook at home about … times a week.
+s: One good habit I have is … .
+s: I’d really like to stop … because … .
+s: On a typical weekday, I … , then I … .
+
+## 2.4 | writing | Making Plans
+q: How do you usually invite friends to do something?
+q: What do you like doing with friends at the weekend?
+q: Do you prefer to plan your weekend or decide at the last minute?
+q: What do you say when you can’t accept an invitation?
+q: Are you usually on time when you meet friends?
+q: Do you usually make plans by phone or by message? Why?
+q: What would you suggest to a friend who is bored at the weekend?
+q: Have you ever forgotten an appointment? What happened?
+q: Is it rude to cancel plans at the last minute? Why?
+q: What are your plans for this weekend?
+w: make plans = reja tuzmoq
+w: make arrangements = kelishib olmoq
+w: invitation = taklif
+w: accept / turn down = qabul qilmoq / rad etmoq
+w: at the last minute = so‘nggi daqiqada
+w: cancel plans = rejani bekor qilmoq
+w: be free = bo‘sh bo‘lmoq
+w: How about …? = …ga nima deysiz?
+s: Would you like to … this weekend?
+s: I’d love to, but I’m afraid I … .
+s: I usually make plans by … because … .
+s: This weekend I’m planning to … .
+
+## 2.5 | video | The Menna Family
+q: What does a typical day look like in your home?
+q: Do the people in your family have different routines?
+q: Who does most of the cooking in your family?
+q: How often does your family eat together?
+q: What do children usually do after school in your country?
+q: Do you help with the housework? What do you do?
+q: Should children help with housework? Why or why not?
+q: Which meal of the day is the most important for your family?
+q: How are weekdays different from weekends in your family?
+q: Do families spend less time together today than in the past?
+w: family life = oilaviy hayot
+w: do the housework = uy ishlarini qilmoq
+w: share responsibilities = mas’uliyatni bo‘lishmoq
+w: have a meal together = birga ovqatlanmoq
+w: quality time = mazmunli vaqt
+w: look after = …ga qaramoq
+w: busy lifestyle = band turmush tarzi
+w: get together = yig‘ilmoq
+s: On a typical day in my home, … .
+s: In my family, … does most of the cooking.
+s: I think children should / shouldn’t help with housework because … .
+s: Nowadays families spend less time together because … .
+
+# ───────────── Unit 3: Work
+## 3.1 | speaking | Jobs
+q: What job would you like to do in the future? Why?
+q: Which jobs are popular in your country?
+q: Which jobs are the most important for society? Why?
+q: Would you prefer to work indoors or outdoors? Why?
+q: Is there a job you would never want to do? Why?
+q: Which jobs are well-paid in your country?
+q: Is it better to have an interesting job or a well-paid job?
+q: What did you want to be when you were a child?
+q: Do men and women usually do the same jobs in your country?
+q: What skills do young people need to get a good job today?
+w: career = kasb yo‘li, martaba
+w: well-paid / badly paid = yaxshi / kam maoshli
+w: job satisfaction = ishdan qoniqish
+w: in demand = talabgir
+w: work experience = ish tajribasi
+w: qualifications = malaka, ma’lumot
+w: dream job = orzudagi ish
+w: earn a living = tirikchilik qilmoq
+s: In the future I’d like to work as a … because … .
+s: In my country, jobs like … are very popular.
+s: I’d rather have an interesting / a well-paid job because … .
+s: When I was a child, I wanted to be a … .
+
+## 3.2 | speaking | What Do You Do?
+q: Do you work or are you a student?
+q: Where do you work or study?
+q: Do you work or study full-time or part-time?
+q: How many hours a week do you work or study?
+q: Do you enjoy your job or studies? Why?
+q: What are the advantages of working from home?
+q: Would you like to work freelance? Why or why not?
+q: Is a good salary the most important thing in a job?
+q: Do you get on well with your colleagues or classmates?
+q: What makes a good boss?
+w: full-time / part-time = to‘liq / yarim stavka
+w: work from home = uydan ishlamoq
+w: freelance = mustaqil (frilans)
+w: colleague = hamkasb
+w: salary = maosh
+w: work-life balance = ish va hayot muvozanati
+w: be responsible for = …uchun mas’ul bo‘lmoq
+w: deadline = muddat
+s: I’m a student at … . / I work as a … at … .
+s: I spend about … hours a week on … .
+s: The main advantage of working from home is … .
+s: In my opinion, a good boss should … .
+
+## 3.3 | vocabulary | Workplaces and Skills
+q: What kind of place would you like to work in?
+q: Would you prefer to work in an office, a shop or outdoors? Why?
+q: What skills are important for your job or studies?
+q: Is it easy to find a job in your city?
+q: What can people do to find work if they are unemployed?
+q: Do many students have part-time jobs in your country?
+q: Would you like to run your own business one day?
+q: What job do you think you would be good at? Why?
+q: Is teamwork important in your job or studies?
+q: Describe a job that you think is interesting.
+w: workplace = ish joyi
+w: teamwork = jamoaviy ish
+w: communication skills = muloqot ko‘nikmalari
+w: unemployed = ishsiz
+w: apply for a job = ishga ariza topshirmoq
+w: run your own business = o‘z biznesini yuritmoq
+w: be good at = …ni yaxshi uddalamoq
+w: part-time job = yarim kunlik ish
+s: I’d like to work in a … because … .
+s: I think I’d be good at … because … .
+s: It’s quite hard / easy to find a job in my city because … .
+s: One day I’d like to … .
+
+## 3.4 | writing | Job Interviews
+q: Have you ever had a job interview? How did it go?
+q: What questions do people usually ask in a job interview?
+q: How should you prepare for a job interview?
+q: What should you wear to a job interview?
+q: What information should you put in a CV?
+q: How would you describe yourself in an interview?
+q: Is it better to apply for jobs online or in person? Why?
+q: What do employers look for in young people?
+q: How would you describe your ideal job?
+q: How would you feel on your first day at a new job?
+w: job interview = ish suhbati
+w: CV = rezyume
+w: employer = ish beruvchi
+w: strengths and weaknesses = kuchli va zaif tomonlar
+w: be well prepared = yaxshi tayyorlangan bo‘lmoq
+w: make a good impression = yaxshi taassurot qoldirmoq
+w: apply for = …ga ariza bermoq
+w: ideal job = ideal ish
+s: To prepare for an interview, you should … .
+s: My main strengths are … and … .
+s: I think employers look for people who are … .
+s: My ideal job would be … because … .
+
+## 3.5 | video | An Iranian Doctor in the USA
+q: Why do people move to another country for work?
+q: Would you like to work abroad? Where?
+q: Is it easy to work in another country? Why or why not?
+q: What skills does someone need to work abroad?
+q: Do many people from your country work abroad? Where do they go?
+q: What is the hardest thing about living far from your family?
+q: What are the benefits of working in another country?
+q: Is it better to work in a big city or a small town? Why?
+q: How can employers help workers from other countries?
+q: Would you like a job where you travel a lot? Why or why not?
+w: work abroad = chet elda ishlamoq
+w: homesick = vatanni sog‘ingan
+w: culture shock = madaniy zarba
+w: opportunity = imkoniyat
+w: adapt to = …ga moslashmoq
+w: better prospects = yaxshiroq istiqbollar
+w: settle in = o‘rnashib olmoq
+w: miss your family = oilangizni sog‘inmoq
+s: People move abroad for work because … .
+s: I’d like / wouldn’t like to work in … because … .
+s: The hardest thing about living abroad is … .
+s: One big benefit is that you can … .
+
+# ───────────── Unit 4: Places and Things
+## 4.1 | speaking | Towns and Cities
+q: Do you live in a city, a town or a village?
+q: What is your hometown famous for?
+q: What buildings and places are near your home?
+q: What is there for young people to do in your town?
+q: Is your town a good place for families? Why?
+q: What is the most unusual place you have ever visited?
+q: Would you like to live underground or in a very unusual home? Why?
+q: Do you prefer living in the city or in the countryside?
+q: What would you change about your town if you could?
+q: What makes a good place to live?
+w: hometown = tug‘ilgan shahar
+w: city centre = shahar markazi
+w: suburbs = shahar chekkasi
+w: crowded = gavjum
+w: peaceful = osuda, tinch
+w: public facilities = jamoat ob’ektlari
+w: cost of living = yashash narxi
+w: be famous for = …bilan mashhur bo‘lmoq
+s: I live in … . It’s famous for … .
+s: Near my home there is a … and a … .
+s: For young people there isn’t much / there’s a lot to do, for example … .
+s: If I could, I would change … .
+
+## 4.2 | speaking | Where I Live
+q: Do you live in a house or a flat?
+q: How many rooms are there in your home?
+q: Which room do you spend the most time in? Why?
+q: What is your bedroom like?
+q: Is there a garden or a balcony in your home?
+q: Do you live near the city centre or far from it?
+q: What do you like most about your home?
+q: Is there anything you would like to change about your home?
+q: Would you like to move to a different home one day? Where?
+q: Describe your dream home.
+w: flat / house = kvartira / hovli uy
+w: spacious = keng
+w: cosy = shinam
+w: furnished = jihozlangan
+w: neighbourhood = mahalla, tuman
+w: move house = uy ko‘chmoq
+w: rent / own = ijaraga olmoq / egalik qilmoq
+w: dream home = orzudagi uy
+s: I live in a … with … rooms.
+s: I spend most of my time in the … because … .
+s: What I like most about my home is … .
+s: My dream home would be a … with … .
+
+## 4.3 | vocabulary | My Neighbourhood
+q: How would you describe your neighbourhood?
+q: Is your area noisy or quiet? Why?
+q: What is the best thing about living in your area?
+q: Are there any problems in your neighbourhood?
+q: Are the buildings in your area old or modern?
+q: Is it easy to get around your area?
+q: Do you know your neighbours well?
+q: Has your neighbourhood changed in the last few years?
+q: Is your area safe at night?
+q: Would you recommend your area to a new family? Why?
+w: neighbourhood = mahalla, hudud
+w: residential area = turar-joy hududi
+w: noisy / quiet = shovqinli / tinch
+w: modern / old-fashioned = zamonaviy / eskicha
+w: get around = aylanib yurmoq, harakatlanmoq
+w: within walking distance = piyoda boriladigan masofada
+w: safe = xavfsiz
+w: well-equipped = yaxshi jihozlangan
+s: My neighbourhood is quite … and … .
+s: The best thing about my area is that … .
+s: One problem is that … .
+s: Everything is within walking distance, for example … .
+
+## 4.4 | writing | Finding Your Way
+q: How do you usually find your way in a new place?
+q: Do you use maps on your phone? Which app?
+q: Are you good at giving directions? Why or why not?
+q: Have you ever got lost? What happened?
+q: How would you explain the way from your home to the nearest shop?
+q: What do you do if a tourist asks you for directions?
+q: Is it easy for tourists to find their way in your city?
+q: Do you prefer to walk, drive or take public transport in your city?
+q: What signs or information would help visitors in your town?
+q: Describe the way from your home to your school or work.
+w: get lost = adashib qolmoq
+w: give directions = yo‘l ko‘rsatmoq
+w: turn left / right = chapga / o‘ngga burilmoq
+w: go straight on = to‘g‘riga yurmoq
+w: at the end of the street = ko‘chaning oxirida
+w: landmark = mo‘ljal, diqqatga sazovor joy
+w: on foot = piyoda
+w: public transport = jamoat transporti
+s: When I’m in a new place, I usually … .
+s: Go straight on, then turn … at the … .
+s: Once I got lost in … . I … .
+s: The easiest way to get to … is … .
+
+## 4.5 | video | Almas Tower
+q: Is there a famous building in your city? What is it like?
+q: Do you like tall buildings? Why or why not?
+q: Have you ever been to the top of a very tall building?
+q: Would you like to live or work on the top floor of a skyscraper?
+q: Why do cities build skyscrapers?
+q: Which do you prefer: modern or traditional buildings?
+q: What is the most beautiful building you have ever seen?
+q: Should old buildings be protected or replaced? Why?
+q: What facilities should a modern office building have?
+q: What will cities look like in 50 years?
+w: skyscraper = osmono‘par bino
+w: landmark = ramziy bino, mo‘ljal
+w: architecture = me’morchilik
+w: breathtaking view = hayratlanarli manzara
+w: modern / traditional = zamonaviy / an’anaviy
+w: historic building = tarixiy bino
+w: tear down = buzib tashlamoq
+w: city skyline = shahar siluetti
+s: A famous building in my city is … . It’s … .
+s: I prefer modern / traditional buildings because … .
+s: Cities build skyscrapers because … .
+s: I think old buildings should be … because … .
+
+# ───────────── Unit 5: Clothes and Shopping
+## 5.1 | speaking | Shopping
+q: Do you enjoy shopping? Why or why not?
+q: Where do you usually buy your clothes?
+q: How often do you go shopping?
+q: Do you prefer shopping online or in shops? Why?
+q: What is your favourite shop? What do you like about it?
+q: Who do you usually go shopping with?
+q: Do you prefer markets or shopping centres? Why?
+q: Do you usually pay by card or in cash?
+q: Have you ever bought something and then regretted it?
+q: What was the last thing you bought? Why did you buy it?
+w: go shopping = xaridga bormoq
+w: shopping centre = savdo markazi
+w: online shopping = onlayn xarid
+w: a good bargain = arzon va foydali xarid
+w: on sale = chegirmada
+w: impulse buy = o‘ylamasdan qilingan xarid
+w: value for money = narxiga arziydigan
+w: window shopping = vitrinalarni tomosha qilish
+s: I enjoy / don’t enjoy shopping because … .
+s: I usually buy my clothes at … because … .
+s: I prefer shopping online / in shops because … .
+s: The last thing I bought was … .
+
+## 5.2 | speaking | Clothes and Fashion
+q: What kind of clothes do you usually wear?
+q: What is your favourite piece of clothing? Why?
+q: Do you wear different clothes at the weekend?
+q: Do you follow fashion? Why or why not?
+q: What do people wear to weddings in your country?
+q: Do you think schools should have uniforms?
+q: Do you prefer comfortable clothes or fashionable clothes?
+q: How much do you spend on clothes?
+q: Do people judge others by their clothes?
+q: Describe an outfit you wore to a special event.
+w: casual / formal clothes = oddiy / rasmiy kiyim
+w: outfit = kiyim to‘plami, libos
+w: be in fashion = modada bo‘lmoq
+w: fashionable = zamonaviy, modali
+w: dress up = yasanmoq
+w: suit someone = kimgadir yarashmoq
+w: brand = brend
+w: traditional dress = milliy libos
+s: I usually wear … because … .
+s: My favourite piece of clothing is … .
+s: I do / don’t follow fashion because … .
+s: At weddings in my country, people usually wear … .
+
+## 5.3 | vocabulary | Style and Value
+q: How would you describe your style?
+q: What colours do you like to wear?
+q: Do you prefer cheap clothes or expensive, good-quality clothes?
+q: Do you buy clothes from famous brands?
+q: Do you check the material before you buy clothes?
+q: Have you ever bought second-hand clothes?
+q: What do you do with clothes you don’t wear any more?
+q: Is it worth paying more for good quality? Why?
+q: What do you look at first when you buy shoes?
+q: Do you think people buy too many clothes today?
+w: style = uslub
+w: good quality = sifatli
+w: second-hand = ishlatilgan
+w: made of cotton / wool = paxta / jundan tikilgan
+w: it fits / it doesn’t fit = to‘g‘ri keladi / kelmaydi
+w: worth the money = pulga arziydi
+w: donate = xayriya qilmoq
+w: throw away = tashlab yubormoq
+s: I’d describe my style as … .
+s: I’d rather pay more for … because … .
+s: When I don’t wear something any more, I … .
+s: I think people buy too many clothes because … .
+
+## 5.4 | writing | In a Shop
+q: What do you say when you want to try something on?
+q: What do you do if something doesn’t fit you?
+q: Have you ever returned something to a shop? What happened?
+q: How do you ask for a different size or colour?
+q: What do you say if something is too expensive?
+q: Have you ever complained in a shop or restaurant?
+q: Do you like it when shop assistants help you? Why?
+q: Do you always keep the receipt? Why?
+q: Have you ever had a problem with something you bought online?
+q: What makes good customer service?
+w: try on = kiyib ko‘rmoq
+w: changing room = kiyinish xonasi
+w: in a bigger / smaller size = kattaroq / kichikroq o‘lchamda
+w: get a refund = pulni qaytarib olmoq
+w: exchange = almashtirmoq
+w: receipt = chek
+w: make a complaint = shikoyat qilmoq
+w: customer service = mijozlarga xizmat
+s: Excuse me, can I try this on, please?
+s: Do you have this in a … size / in … ?
+s: I bought this yesterday, but … . Can I get a refund?
+s: Good customer service means … .
+
+## 5.5 | video | Camden Market
+q: Are there any street markets in your city?
+q: What can you buy at markets in your country?
+q: Do you like shopping at markets? Why or why not?
+q: How are markets different from supermarkets?
+q: Do people bargain at markets in your country?
+q: Have you ever bought something unusual at a market?
+q: What street food is popular in your city?
+q: Do you think markets are good for tourists? Why?
+q: Is it better to buy food at a market or in a supermarket?
+q: Describe a busy market you have visited.
+w: street market = ko‘cha bozori
+w: stall = rasta
+w: bargain (v) = savdolashmoq
+w: fresh produce = yangi mahsulotlar
+w: handmade = qo‘lda yasalgan
+w: street food = ko‘cha taomlari
+w: lively atmosphere = jonli muhit
+w: souvenir = esdalik sovg‘a
+s: In my city there is a market called … .
+s: At markets you can buy … .
+s: Markets are different from supermarkets because … .
+s: The atmosphere there was … .
+
+# ───────────── Unit 6: Past Times
+## 6.1 | speaking | Don’t Give Up!
+q: What is something difficult you learned to do?
+q: Was it easy or difficult for you to start learning English?
+q: Tell me about a time you didn’t give up.
+q: What did you do yesterday evening?
+q: What sports or activities did you do as a child?
+q: What subjects did you like at school? Why?
+q: Who is a famous person who never gave up? What did they do?
+q: How did you feel when you achieved something difficult?
+q: Do you think hard work is more important than talent?
+q: What is something you want to achieve in the future?
+w: give up = taslim bo‘lmoq
+w: achieve = erishmoq
+w: succeed = muvaffaqiyatga erishmoq
+w: challenge = qiyinchilik
+w: keep trying = harakat qilishda davom etmoq
+w: be proud of = …dan faxrlanmoq
+w: work hard = qattiq mehnat qilmoq
+w: in the end = oxir-oqibat
+s: When I was … , I learned to … .
+s: It was really difficult at first, but … .
+s: I felt very proud when … .
+s: In the future I want to achieve … .
+
+## 6.2 | speaking | Stories
+q: Tell me about a memorable day in your life.
+q: What did you do on your last holiday?
+q: What did you do on your last birthday?
+q: Has anything funny happened to you recently?
+q: Tell me about a good day out you had.
+q: What is your earliest childhood memory?
+q: Tell me about a time something went wrong.
+q: Do you like listening to stories from older people?
+q: What was the best film or book you saw or read last year? What happened?
+q: Do you keep photos or a diary to remember special days?
+w: memorable = esda qolarli
+w: unforgettable = unutilmas
+w: day out = sayr kuni
+w: childhood memory = bolalik xotirasi
+w: go wrong = noto‘g‘ri ketmoq
+w: by accident = tasodifan
+w: at first / in the end = avvaliga / oxirida
+w: look back on = …ni eslamoq
+s: One of the most memorable days of my life was when … .
+s: First we … , then … , and in the end … .
+s: My earliest memory is … .
+s: Something went wrong when … .
+
+## 6.3 | vocabulary | Then and Now
+q: What did you do a week ago?
+q: How was your life different five years ago?
+q: What did you enjoy doing when you were a child?
+q: What games did children play in the past in your country?
+q: How was school different when your parents were young?
+q: What did people do in their free time before the internet?
+q: What is the biggest change in your town in the last ten years?
+q: Did you live in a different place when you were younger?
+q: What was your favourite toy or game as a child?
+q: Was life better in the past? Why or why not?
+w: in the past = o‘tmishda
+w: nowadays = hozirgi kunda
+w: used to = …ar edi (o‘tmishdagi odat)
+w: when I was a child = bolaligimda
+w: a long time ago = ancha oldin
+w: change a lot = ko‘p o‘zgarmoq
+w: grow up = katta bo‘lmoq
+w: compared to = …ga nisbatan
+s: Five years ago, I … , but now I … .
+s: When I was a child, I used to … .
+s: Before the internet, people … .
+s: I think life was better / worse in the past because … .
+
+## 6.4 | writing | Holidays and Trips
+q: Where did you go on your last trip?
+q: Who did you go with? How did you travel?
+q: What did you see and do there?
+q: What was the weather like?
+q: What was the best food you tried on a trip?
+q: Do you take a lot of photos on holiday?
+q: Do you send messages or post photos when you travel?
+q: Do you prefer to travel in your country or abroad?
+q: What souvenirs do you usually buy?
+q: Describe the best trip you have ever had.
+w: go on a trip = sayohatga chiqmoq
+w: go sightseeing = diqqatga sazovor joylarni ko‘rmoq
+w: historic sites = tarixiy obidalar
+w: local food = mahalliy taomlar
+w: stay in a hotel = mehmonxonada qolmoq
+w: take photos = surat olmoq
+w: post on social media = ijtimoiy tarmoqqa joylamoq
+w: have a great time = ajoyib vaqt o‘tkazmoq
+s: Last summer I went to … with … .
+s: We visited … and tried … .
+s: The weather was … , so we … .
+s: The best trip I’ve ever had was … because … .
+
+## 6.5 | video | Istanbul
+q: Have you ever visited a historical city? What did you see?
+q: What is the most famous historical place in your country?
+q: Why do tourists like visiting old cities?
+q: Would you like to visit Istanbul? Why or why not?
+q: Which city would you most like to visit? Why?
+q: Do you prefer visiting museums or walking around a city?
+q: What should a tourist see in your city?
+q: Is it important to learn about history? Why?
+q: How can we protect historical places?
+q: Do you think tourism is good for a city? Why?
+w: historical city = tarixiy shahar
+w: ancient = qadimiy
+w: heritage = meros
+w: tourist attraction = sayyohlik ob’ekti
+w: be worth visiting = borishga arziydi
+w: guided tour = gid bilan ekskursiya
+w: protect = himoya qilmoq
+w: tourism = turizm
+s: The most famous historical place in my country is … .
+s: Tourists like old cities because … .
+s: A visitor to my city should definitely see … .
+s: I think tourism is good / bad for a city because … .
+
+# ───────────── Unit 7: Health and Sport
+## 7.1 | speaking | Staying Healthy
+q: What do you do to stay healthy?
+q: Do you think you have a healthy diet? Why?
+q: How often do you exercise each week?
+q: What do you do when you feel ill?
+q: How often do you go to the doctor?
+q: Do you get enough sleep? How many hours do you sleep?
+q: What healthy habits do you have?
+q: Is it easy to eat healthily in your country?
+q: Do young people in your country live healthy lives?
+q: What is the most important thing for good health?
+w: stay healthy = sog‘lom bo‘lib qolmoq
+w: balanced diet = muvozanatli ovqatlanish
+w: junk food = zararli ovqat
+w: keep fit = jismonan chiniqqan bo‘lmoq
+w: feel under the weather = o‘zini biroz betob his qilmoq
+w: get some rest = dam olmoq
+w: healthy lifestyle = sog‘lom turmush tarzi
+w: put on weight / lose weight = semirmoq / ozmoq
+s: To stay healthy, I try to … .
+s: I think my diet is quite healthy / unhealthy because … .
+s: When I feel ill, I usually … .
+s: In my opinion, the most important thing for good health is … .
+
+## 7.2 | speaking | Sporting Heroes
+q: Who is your favourite sportsperson? Why?
+q: What sports do you play or watch?
+q: What is the most popular sport in your country?
+q: What sports did you do at school?
+q: Do you prefer watching sport or playing it? Why?
+q: What makes someone a great athlete?
+q: Is talent or hard work more important in sport?
+q: Do you prefer team sports or individual sports?
+q: Should famous athletes be role models for young people?
+q: Have you ever been to a big sports event? What was it like?
+w: athlete = sportchi
+w: role model = ibrat namunasi
+w: team sport / individual sport = jamoaviy / yakka sport
+w: train hard = qattiq mashq qilmoq
+w: win / lose a match = o‘yinda yutmoq / yutqazmoq
+w: support a team = jamoaga muxlislik qilmoq
+w: break a record = rekord yangilamoq
+w: natural talent = tug‘ma iste’dod
+s: My favourite sportsperson is … because … .
+s: The most popular sport in my country is … .
+s: I prefer team / individual sports because … .
+s: I think athletes should / shouldn’t be role models because … .
+
+## 7.3 | vocabulary | Feeling Ill
+q: How often do you get colds?
+q: What do you do when you have a headache?
+q: Do you prefer to take medicine or rest when you are ill?
+q: Have you ever hurt yourself playing sport?
+q: What do people in your country do when they have a cold?
+q: Do you know any traditional remedies?
+q: Do you go to work or school when you are ill? Why?
+q: How can people avoid getting ill in winter?
+q: What do you say to a friend who is ill?
+q: Have you ever stayed in hospital?
+w: catch a cold = shamollamoq
+w: have a headache / stomachache = boshi / qorni og‘rimoq
+w: sore throat = tomoq og‘rig‘i
+w: have a temperature = isitmasi chiqmoq
+w: take medicine = dori ichmoq
+w: injure = jarohatlamoq
+w: recover = tuzalmoq
+w: home remedy = xalq tabobati vositasi
+s: When I have a … , I usually … .
+s: I hurt my … when I was … .
+s: To avoid getting ill, people should … .
+s: In my country, people often drink … when they have a cold.
+
+## 7.4 | writing | Giving Advice
+q: Who do you ask for advice when you have a problem?
+q: What advice would you give to someone who wants to get fit?
+q: What advice would you give to someone who can’t sleep?
+q: Do you usually follow other people’s advice?
+q: What is the best advice you have ever received?
+q: What advice would you give to a new student at your school?
+q: How do you help a friend who is stressed?
+q: Is it better to give advice in person or in a message?
+q: What should people do to reduce stress?
+q: What advice would you give to your younger self?
+w: give advice = maslahat bermoq
+w: You should / shouldn’t … = …ishingiz kerak / kerak emas
+w: Why don’t you …? = Nega …maysiz?
+w: If I were you, I’d … = Sizning o‘rningizda bo‘lsam, …
+w: reduce stress = stressni kamaytirmoq
+w: take a break = tanaffus qilmoq
+w: follow advice = maslahatga amal qilmoq
+w: get in shape = qaddi-qomatni tiklamoq
+s: If I were you, I’d … .
+s: You should … , and you shouldn’t … .
+s: The best advice I’ve ever had was … .
+s: To reduce stress, people should … .
+
+## 7.5 | video | Health and Fitness in the City
+q: What do people in your city do to keep fit?
+q: Are there gyms or sports centres near your home?
+q: Is it easy to live a healthy life in a big city?
+q: What outdoor activities can you do in your city?
+q: Do you walk or cycle in your city? Why or why not?
+q: Are gyms expensive in your country?
+q: What free activities can people do to stay fit?
+q: Do you think people spend too much time sitting down?
+q: How can cities help people to be more active?
+q: Is fitness more popular now than ten years ago? Why?
+w: keep fit = sog‘lom bo‘lib yurmoq
+w: work out = sport bilan shug‘ullanmoq
+w: sports centre = sport markazi
+w: outdoor activities = ochiq havodagi mashg‘ulotlar
+w: active lifestyle = faol turmush tarzi
+w: sit for long hours = uzoq soat o‘tirmoq
+w: cycle lane = velosiped yo‘lagi
+w: free of charge = bepul
+s: In my city, people keep fit by … .
+s: It’s easy / hard to live a healthy life in a big city because … .
+s: Cities can help people be more active by … .
+s: Fitness is more popular now because … .
+
+# ───────────── Unit 8: Travel and Adventure
+## 8.1 | speaking | Holidays
+q: Where did you go on your last holiday?
+q: How did you get there?
+q: What did you see and do on your trip?
+q: Do you prefer beach holidays or city breaks? Why?
+q: Who do you usually go on holiday with?
+q: What is the best place you have ever visited?
+q: Do you prefer to travel in your country or abroad?
+q: What do you always pack in your suitcase?
+q: Do you like to plan holidays carefully or just go?
+q: Where would you like to go on your next holiday?
+w: go on holiday = ta’tilga chiqmoq
+w: city break = shaharga qisqa sayohat
+w: beach holiday = dengiz bo‘yidagi dam olish
+w: travel abroad = chet elga sayohat qilmoq
+w: pack a suitcase = chamadon yig‘moq
+w: book in advance = oldindan band qilmoq
+w: off the beaten track = sayyohlar kam boradigan joyda
+w: have the time of your life = umringizdagi eng yaxshi vaqtni o‘tkazmoq
+s: On my last holiday I went to … by … .
+s: I prefer … holidays because … .
+s: The best place I’ve ever visited is … .
+s: Next time I’d like to go to … .
+
+## 8.2 | speaking | Journeys
+q: What is the longest journey you have ever made?
+q: Do you prefer travelling by train, bus or plane? Why?
+q: How do you usually travel in your city?
+q: Have you ever had a problem on a journey? What happened?
+q: What do you do on long journeys?
+q: Do you like road trips? Why or why not?
+q: What do you need to do before a long journey?
+q: Is public transport good in your city?
+q: Do you get travel sick?
+q: Describe an interesting journey you have made.
+w: journey = safar, yo‘l
+w: road trip = avtomobilda sayohat
+w: public transport = jamoat transporti
+w: delay = kechikish
+w: miss a flight / train = reys / poyezdga kechikib qolmoq
+w: pass the time = vaqt o‘tkazmoq
+w: travel sick = yo‘lda ko‘ngli aynigan
+w: comfortable / crowded = qulay / gavjum
+s: The longest journey I’ve ever made was from … to … .
+s: I prefer travelling by … because … .
+s: Once, my train / flight was … , so … .
+s: On long journeys I usually … .
+
+## 8.3 | vocabulary | Travel Problems and Places to Stay
+q: Where do you usually stay when you travel?
+q: Would you prefer to stay in a hotel, a hostel or with friends?
+q: What is important for you in a hotel?
+q: Have you ever had a problem at a hotel?
+q: Has your flight or train ever been delayed or cancelled?
+q: What do you do if you miss your bus or train?
+q: Have you ever lost something while travelling?
+q: Do you check reviews before you book a hotel?
+q: What is the most beautiful place you have stayed in?
+q: What advice would you give to someone travelling for the first time?
+w: accommodation = turar joy
+w: hostel = arzon yotoqxona
+w: check in / check out = ro‘yxatdan o‘tmoq / chiqib ketmoq
+w: be delayed / cancelled = kechiktirilmoq / bekor qilinmoq
+w: lose your luggage = yukingizni yo‘qotmoq
+w: book online = onlayn band qilmoq
+w: read reviews = sharhlarni o‘qimoq
+w: travel insurance = sayohat sug‘urtasi
+s: When I travel, I usually stay in … because … .
+s: For me, the most important thing in a hotel is … .
+s: Once my flight was delayed, so I … .
+s: My advice for first-time travellers is … .
+
+## 8.4 | writing | Recommending a Place
+q: Which place in your country would you recommend to a tourist? Why?
+q: What is the best time of year to visit your country?
+q: How should tourists travel around your country?
+q: What food should visitors try in your country?
+q: Have you ever written a review of a hotel or restaurant?
+q: Do you read travel blogs or watch travel videos?
+q: What information should a good travel review include?
+q: How would you describe your hometown to a visitor?
+q: Do you trust online reviews? Why or why not?
+q: Describe a place you would like to recommend to a friend.
+w: recommend = tavsiya qilmoq
+w: must-see = albatta ko‘rish kerak bo‘lgan
+w: be worth visiting = borishga arziydi
+w: the best time to visit = borish uchun eng yaxshi vaqt
+w: affordable = hamyonbop
+w: friendly locals = samimiy mahalliy aholi
+w: review = sharh
+w: highly recommended = qat’iy tavsiya etiladi
+s: I’d highly recommend … because … .
+s: The best time to visit is … , when … .
+s: Visitors should definitely try … .
+s: It’s definitely worth visiting because … .
+
+## 8.5 | video | Adventure Holidays
+q: What is an adventure holiday?
+q: Would you prefer a relaxing holiday or an adventure holiday? Why?
+q: What adventure activities are popular in your country?
+q: Have you ever done an outdoor adventure activity?
+q: What is the most adventurous thing you have ever done?
+q: Would you like to try rock climbing or skydiving? Why or why not?
+q: Why do some people enjoy dangerous activities?
+q: What should people do to stay safe on adventure holidays?
+q: Is it better to go on an adventure holiday alone or in a group?
+q: Describe an adventure you would like to have in the future.
+w: adventure holiday = sarguzashtli ta’til
+w: hiking = piyoda sayr (tog‘da)
+w: rock climbing = qoyaga chiqish
+w: take risks = tavakkal qilmoq
+w: adrenaline = adrenalin
+w: safety equipment = xavfsizlik jihozlari
+w: step out of your comfort zone = odatiy sharoitdan chiqmoq
+w: once-in-a-lifetime = umrda bir marta bo‘ladigan
+s: I’d prefer a … holiday because … .
+s: The most adventurous thing I’ve ever done is … .
+s: Some people enjoy dangerous activities because … .
+s: One day I’d love to … .
+
+# ───────────── Unit 9: Food and Drink
+## 9.1 | speaking | Food and Drink
+q: What is your favourite food? Why?
+q: What do you usually have for breakfast?
+q: Do you prefer tea or coffee? How many cups do you drink a day?
+q: What is a traditional dish in your country?
+q: Have you ever tried food from another country? Did you like it?
+q: Is there any food you don’t like? Why?
+q: Do you prefer eating at home or eating out?
+q: How much water do you drink every day?
+q: What food do people eat at celebrations in your country?
+q: Has the food people eat in your country changed in recent years?
+w: traditional dish = milliy taom
+w: eat out = tashqarida ovqatlanmoq
+w: home-cooked meal = uyda tayyorlangan ovqat
+w: spicy = achchiq (ziravorli)
+w: fast food = tezkor ovqat
+w: have a sweet tooth = shirinlikni yaxshi ko‘rmoq
+w: try new food = yangi taomni tatib ko‘rmoq
+w: healthy / unhealthy = foydali / zararli
+s: My favourite food is … because … .
+s: A traditional dish in my country is … . It’s made with … .
+s: I prefer eating at home / eating out because … .
+s: At celebrations, people usually eat … .
+
+## 9.2 | speaking | In the Kitchen
+q: Do you like cooking? Why or why not?
+q: What can you cook?
+q: Who taught you to cook?
+q: How often do you cook for other people?
+q: What is your favourite dish to make?
+q: Do you follow recipes or cook without them?
+q: What kitchen equipment do you use most?
+q: Is it important for young people to learn to cook? Why?
+q: Do men and women share the cooking in your country?
+q: Describe how to make a simple dish from your country.
+w: recipe = retsept
+w: ingredients = masalliqlar
+w: chop = to‘g‘ramoq
+w: boil / fry / bake = qaynatmoq / qovurmoq / pishirmoq
+w: cook from scratch = noldan tayyorlamoq
+w: kitchen equipment = oshxona jihozlari
+w: ready meal = tayyor ovqat
+w: follow a recipe = retseptga amal qilmoq
+s: I can cook … and … .
+s: My … taught me how to cook.
+s: To make … , first you … , then … .
+s: I think young people should learn to cook because … .
+
+## 9.3 | vocabulary | Eating Habits
+q: How many meals do you have a day?
+q: Do you eat a lot of fruit and vegetables?
+q: Do you ever skip breakfast? Why?
+q: How much sugar do you eat?
+q: Do you eat snacks between meals? What do you eat?
+q: Do you buy food at the supermarket or the market?
+q: How much bread do people eat in your country?
+q: Do you check food labels when you shop?
+q: Do you think people eat too much meat?
+q: What would you change about your diet?
+w: skip a meal = ovqatni o‘tkazib yubormoq
+w: snack = yengil tamaddi
+w: a portion of = bir porsiya
+w: a lot of / a little = ko‘p / ozgina
+w: food label = mahsulot yorlig‘i
+w: cut down on = …ni kamaytirmoq
+w: be full = to‘q bo‘lmoq
+w: vegetarian = vegetarian
+s: I usually have … meals a day.
+s: I sometimes skip … because … .
+s: I should cut down on … .
+s: I would like to eat more … .
+
+## 9.4 | writing | Eating Out
+q: How often do you eat in restaurants or cafés?
+q: What is your favourite restaurant? Why?
+q: What do you usually order in a café?
+q: Do you leave a tip in restaurants in your country?
+q: Have you ever had a bad experience in a restaurant?
+q: What makes a good restaurant?
+q: Do you read online reviews before you choose a restaurant?
+q: Do you prefer quiet restaurants or busy ones?
+q: Is eating out expensive in your country?
+q: Describe a meal you really enjoyed.
+w: eat out = tashqarida ovqatlanmoq
+w: book a table = stol band qilmoq
+w: order = buyurtma bermoq
+w: the bill = hisob
+w: leave a tip = choychaqa qoldirmoq
+w: tasty / delicious = mazali
+w: friendly service = samimiy xizmat
+w: reasonable prices = maqbul narxlar
+s: I eat out about … times a month.
+s: My favourite place to eat is … because … .
+s: A good restaurant should have … .
+s: The best meal I’ve ever had was … .
+
+## 9.5 | video | Making a Pizza
+q: Is pizza popular in your country?
+q: What is your favourite pizza or fast food?
+q: Have you ever made pizza or bread at home?
+q: Do you prefer homemade food or takeaway food? Why?
+q: How often do you order food online?
+q: Which international food is popular in your country?
+q: Do you think fast food is bad for you?
+q: Should schools teach children to cook?
+q: What food from your country would foreigners enjoy?
+q: Is it cheaper to cook at home or buy takeaway food?
+w: homemade = uyda tayyorlangan
+w: takeaway = olib ketiladigan ovqat
+w: order food online = ovqatni onlayn buyurtma qilmoq
+w: delivery = yetkazib berish
+w: international cuisine = xalqaro oshxona
+w: topping = ustiga qo‘yiladigan masalliq
+w: save money = pul tejamoq
+w: convenient = qulay
+s: Pizza is very popular / not very popular in my country.
+s: I prefer homemade / takeaway food because … .
+s: I think foreigners would enjoy … .
+s: Cooking at home is cheaper / more expensive because … .
+
+# ───────────── Unit 10: The Natural World
+## 10.1 | speaking | The Weather
+q: What is the weather like today?
+q: What is the weather usually like in your country in summer?
+q: What is your favourite kind of weather? Why?
+q: What do you like doing on rainy days?
+q: Does the weather change your mood?
+q: Do you check the weather forecast? How often?
+q: Which season do you like best? Why?
+q: Have you ever been in a storm? What happened?
+q: How does the weather affect people’s lives in your country?
+q: Has the weather in your country changed in recent years?
+w: weather forecast = ob-havo ma’lumoti
+w: boiling hot / freezing cold = juda issiq / juda sovuq
+w: mild = mo‘tadil
+w: pouring with rain = sharros yomg‘ir yog‘moq
+w: heatwave = jazirama
+w: climate change = iqlim o‘zgarishi
+w: put someone in a good mood = kayfiyatni ko‘tarmoq
+w: season = fasl
+s: In summer it’s usually … in my country.
+s: My favourite kind of weather is … because … .
+s: On rainy days I like to … .
+s: I think the weather has changed because … .
+
+## 10.2 | speaking | Natural Wonders
+q: What is the most beautiful natural place in your country?
+q: Have you ever visited a famous natural place? What was it like?
+q: Do you prefer mountains, beaches or forests? Why?
+q: How often do you spend time in nature?
+q: What animals live in your country?
+q: Have you ever seen a waterfall, a volcano or a desert?
+q: Which natural wonder of the world would you like to see? Why?
+q: How do people damage nature?
+q: What can we do to protect nature?
+q: Should children spend more time outdoors? Why?
+w: natural wonder = tabiat mo‘jizasi
+w: scenery = manzara
+w: breathtaking = hayratlanarli
+w: wildlife = yovvoyi tabiat
+w: national park = milliy bog‘
+w: pollution = ifloslanish
+w: protect the environment = atrof-muhitni himoya qilmoq
+w: get close to nature = tabiatga yaqin bo‘lmoq
+s: The most beautiful natural place in my country is … .
+s: I prefer … because … .
+s: People damage nature by … .
+s: To protect nature, we should … .
+
+## 10.3 | vocabulary | Comparing Places
+q: How is the weather in your country different from the UK?
+q: Which is better for a holiday: the mountains or the sea?
+q: Is your city bigger or smaller than the capital?
+q: What is the hottest place you have ever been to?
+q: Is life in the countryside healthier than life in the city?
+q: Which is the most interesting city in your country?
+q: Is summer or winter better in your country? Why?
+q: Which country would you most like to compare with yours?
+q: What is the biggest river or lake in your country?
+q: Describe the landscape near your home.
+w: compared with = …ga qaraganda
+w: bigger / smaller than = …dan kattaroq / kichikroq
+w: the most / the least = eng ko‘p / eng kam
+w: landscape = landshaft, manzara
+w: countryside = qishloq joylar
+w: climate = iqlim
+w: a lot more / a bit less = ancha ko‘proq / biroz kamroq
+w: in my opinion = menimcha
+s: … is much hotter / colder than … .
+s: I think the mountains are better than the sea because … .
+s: The most interesting city in my country is … .
+s: Near my home the landscape is … .
+
+## 10.4 | writing | Describing a Place in Nature
+q: Describe your favourite place in nature.
+q: How often do you go to the countryside?
+q: What can you see, hear and smell in your favourite natural place?
+q: How do you feel when you are in nature?
+q: Do you take photos of nature? What do you do with them?
+q: Would you recommend this place to tourists? Why?
+q: What is the best season to visit this place?
+q: What activities can people do there?
+q: Is it easy to get there?
+q: How can we keep beautiful places clean?
+w: peaceful = osuda
+w: stunning view = ajoyib manzara
+w: fresh air = toza havo
+w: surrounded by = …bilan o‘ralgan
+w: go for a walk = sayr qilmoq
+w: relaxing = tinchlantiruvchi
+w: litter = axlat
+w: unspoilt = buzilmagan, tabiiy holicha
+s: My favourite place in nature is … . It’s surrounded by … .
+s: When I’m there, I feel … .
+s: The best time to visit is … because … .
+s: To keep beautiful places clean, people should … .
+
+## 10.5 | video | The Grand Canyon
+q: Would you like to visit the Grand Canyon? Why or why not?
+q: What is the most famous natural place in your country?
+q: Why do people like visiting natural wonders?
+q: What activities can tourists do in national parks?
+q: Do you think there are too many tourists in some natural places?
+q: Should visitors pay to enter national parks? Why?
+q: How can tourists damage natural places?
+q: Is it important to protect natural places for the future?
+q: Would you prefer to explore nature alone or with a guide?
+q: Describe a natural place you would like to visit.
+w: national park = milliy bog‘
+w: landmark = mashhur joy
+w: tourists = sayyohlar
+w: entrance fee = kirish to‘lovi
+w: explore = kashf qilmoq, o‘rganmoq
+w: future generations = kelajak avlodlar
+w: overcrowded = haddan tashqari gavjum
+w: preserve = asrab-avaylamoq
+s: I’d love to visit … because … .
+s: People like visiting natural wonders because … .
+s: Tourists can damage natural places by … .
+s: We should protect these places for future generations because … .
+
+# ───────────── Unit 11: Communities
+## 11.1 | speaking | Community Spirit
+q: Do you know your neighbours? Do you talk to them?
+q: Is there a strong community spirit where you live?
+q: What events happen in your neighbourhood?
+q: Do people in your area help each other? How?
+q: Have you ever done volunteer work?
+q: What makes a good community?
+q: What places in your area bring people together?
+q: Is community life different in cities and villages?
+q: How can young people help their community?
+q: Do people feel less connected to their neighbours today?
+w: community spirit = jamoaviylik ruhi
+w: neighbourhood = mahalla
+w: volunteer = ko‘ngilli bo‘lib ishlamoq
+w: help each other = bir-biriga yordam bermoq
+w: local event = mahalliy tadbir
+w: bring people together = odamlarni birlashtirmoq
+w: sense of belonging = tegishlilik hissi
+w: give something back = jamiyatga hissa qo‘shmoq
+s: I know / don’t know my neighbours well because … .
+s: In my area, people help each other by … .
+s: A good community is one where … .
+s: Young people can help by … .
+
+## 11.2 | speaking | Challenges
+q: What is a challenge you have faced in your life?
+q: How did you deal with it?
+q: What challenges do students face today?
+q: What is the biggest problem in your city?
+q: Do people help each other in difficult times in your country?
+q: What challenges do people face when they move to a new city?
+q: Is life more difficult for young people now than in the past?
+q: Who do you talk to when you have a problem?
+q: What problems will people face in the future?
+q: How can the government help people with their problems?
+w: face a challenge = qiyinchilikka duch kelmoq
+w: deal with = hal qilmoq, uddalamoq
+w: overcome = yengib o‘tmoq
+w: support = qo‘llab-quvvatlamoq
+w: pressure = bosim
+w: traffic jam = tirbandlik
+w: unemployment = ishsizlik
+w: ask for help = yordam so‘ramoq
+s: A big challenge I faced was … .
+s: I dealt with it by … .
+s: The biggest problem in my city is … .
+s: The government could help by … .
+
+## 11.3 | vocabulary | Abilities Then and Now
+q: What could you do when you were five years old?
+q: What couldn’t you do as a child that you can do now?
+q: What can you do well?
+q: Is there something you would like to be able to do?
+q: Can you cook, drive or swim?
+q: What can people do today that they couldn’t do twenty years ago?
+q: What skills will people need in the future?
+q: What is something you are learning to do now?
+q: Do you think it is easier to learn new skills as a child?
+q: Describe a skill you are proud of.
+w: be able to = …ga qodir bo‘lmoq
+w: could / couldn’t = qila olardim / olmasdim
+w: be good at = …ni yaxshi bilmoq
+w: learn a new skill = yangi ko‘nikma o‘rganmoq
+w: practice makes perfect = mashq mahoratga olib keladi
+w: improve = yaxshilamoq
+w: pick up = tez o‘rganib olmoq
+w: be proud of = …dan faxrlanmoq
+s: When I was five, I could … , but I couldn’t … .
+s: Now I can … quite well.
+s: I’d love to be able to … .
+s: Twenty years ago people couldn’t … , but now they can.
+
+## 11.4 | writing | Polite Requests and Complaints
+q: How do you ask a stranger for help politely?
+q: Is it difficult for you to say “no” to people?
+q: Have you ever complained about something? What happened?
+q: What would you do if your neighbours were very noisy?
+q: Do you prefer to complain in person, by phone or in writing?
+q: What would you write to your local council about a problem in your area?
+q: How do people ask for favours in your culture?
+q: Is it important to be polite in emails? Why?
+q: What do you do when someone asks you for help?
+q: Describe a time someone helped you.
+w: ask a favour = iltimos qilmoq
+w: Could you possibly …? = Iltimos, … olarmidingiz?
+w: Would you mind …? = …sangiz qarshi emasmisiz?
+w: make a complaint = shikoyat qilmoq
+w: local council = mahalliy hokimiyat
+w: polite / rude = xushmuomala / qo‘pol
+w: I’m writing to … = …ish uchun yozyapman
+w: I look forward to hearing from you = Javobingizni kutaman
+s: Excuse me, could you possibly … ?
+s: I once complained about … because … .
+s: If my neighbours were noisy, I would … .
+s: Dear Sir or Madam, I’m writing to … .
+
+## 11.5 | video | Silicon Fen
+q: How do you use technology in your daily life?
+q: What apps do you use every day?
+q: Would you like to work in the technology industry? Why?
+q: Are there many tech companies in your country?
+q: Why do students often want to work in technology?
+q: How has technology changed your city?
+q: Can technology help communities? How?
+q: Do you think people spend too much time on their phones?
+q: Should universities and companies work together? Why?
+q: What new technology would you like to see in the future?
+w: technology = texnologiya
+w: start-up = startap
+w: tech company = texnologik kompaniya
+w: online = onlayn
+w: screen time = ekranga qarab o‘tkazilgan vaqt
+w: be addicted to = …ga qaram bo‘lmoq
+w: innovation = innovatsiya
+w: make life easier = hayotni osonlashtirmoq
+s: I use technology every day to … .
+s: I’d like / wouldn’t like to work in technology because … .
+s: Technology has changed my city by … .
+s: I think people spend too much time on their phones because … .
+
+# ───────────── Unit 12: Arts and Entertainment
+## 12.1 | speaking | Art and Creativity
+q: Are you a creative person? What can you do?
+q: Did you enjoy art lessons at school?
+q: Do you like drawing, painting or taking photos?
+q: What kind of art do you like?
+q: Have you been to an art gallery or museum recently?
+q: Is art important in schools? Why?
+q: Can everyone learn to be creative?
+q: Is there a famous artist from your country?
+q: Would you put art on the walls of your home? What kind?
+q: Do you think modern art is real art?
+w: creative = ijodkor
+w: artistic = san’atga moyil
+w: art gallery = san’at galereyasi
+w: exhibition = ko‘rgazma
+w: painting / drawing = rangtasvir / chizma
+w: express yourself = o‘zingizni ifoda etmoq
+w: talented = iste’dodli
+w: take up a hobby = yangi mashg‘ulot boshlamoq
+s: I’m quite creative / not very creative. I can … .
+s: I like … art because … .
+s: I think art is / isn’t important in schools because … .
+s: A famous artist from my country is … .
+
+## 12.2 | speaking | At the Movies
+q: How often do you watch films?
+q: Do you prefer watching films at the cinema or at home? Why?
+q: What kinds of films do you like?
+q: What is your favourite film? What is it about?
+q: Who is your favourite actor or actress?
+q: What was the last film you watched? Did you enjoy it?
+q: Do you watch films in English? With or without subtitles?
+q: What makes a film good?
+q: Do you prefer films or TV series? Why?
+q: What film would you recommend to a friend? Why?
+w: comedy / drama / thriller = komediya / drama / triller
+w: be based on = …ga asoslangan
+w: plot = syujet
+w: the main character = bosh qahramon
+w: special effects = maxsus effektlar
+w: subtitles = subtitrlar
+w: streaming service = striming xizmati
+w: a must-see = albatta ko‘rish kerak bo‘lgan
+s: I usually watch films at home / at the cinema because … .
+s: My favourite film is … . It’s about … .
+s: I think a good film needs … .
+s: I’d recommend … because … .
+
+## 12.3 | vocabulary | Entertainment
+q: What do you like to do in the evening for entertainment?
+q: Have you ever been to a concert? Who did you see?
+q: What kind of music is popular in your country?
+q: Do you prefer live music or recorded music?
+q: How often do you go to the theatre?
+q: What festivals or shows are popular in your country?
+q: Do you prefer to be in the audience or on stage?
+q: How much do tickets for concerts cost in your country?
+q: Is entertainment better now than in the past?
+q: Describe a great show or performance you have seen.
+w: live music = jonli musiqa
+w: concert = konsert
+w: performance = chiqish, ijro
+w: audience = tomoshabinlar
+w: be on stage = sahnada bo‘lmoq
+w: sold out = chiptalar sotib bo‘lingan
+w: festival = festival
+w: entertaining = qiziqarli, ko‘ngilochar
+s: For entertainment, I usually … .
+s: The best concert I’ve been to was … .
+s: I prefer live / recorded music because … .
+s: The atmosphere was … and the performers were … .
+
+## 12.4 | writing | Reviews and Opinions
+q: Do you read reviews before you watch a film or buy something?
+q: Have you ever written a review online?
+q: What information should a good film review include?
+q: Have you ever disagreed with a friend about a film or show?
+q: Is it OK to tell people the ending of a film? Why?
+q: Do you trust film critics? Why or why not?
+q: What was the best show or series you watched this year?
+q: What makes a TV series popular?
+q: How do you give your opinion politely?
+q: Describe a film or series you didn’t like. Why?
+w: review = sharh, taqriz
+w: give your opinion = fikr bildirmoq
+w: In my opinion = Menimcha
+w: I see your point, but … = Fikringizni tushunaman, lekin …
+w: spoiler = syujetni oldindan aytib qo‘yish
+w: highly recommend = qat’iy tavsiya qilmoq
+w: overrated = ortiqcha maqtalgan
+w: well worth watching = ko‘rishga arziydi
+s: In my opinion, … was really … .
+s: I see your point, but I think … .
+s: A good review should include … .
+s: I didn’t like … because … .
+
+## 12.5 | video | Park Theatre
+q: Have you ever been to the theatre? What did you see?
+q: Is theatre popular in your country?
+q: Do you prefer watching a play or a film? Why?
+q: Why do people enjoy live performances?
+q: Would you like to act in a play? Why or why not?
+q: Are theatre tickets expensive in your country?
+q: Should children go to the theatre with their school?
+q: What is the atmosphere like at a live show?
+q: Will people still go to the theatre in the future?
+q: Describe a live performance you would like to see.
+w: play = spektakl
+w: live performance = jonli ijro
+w: actor / actress = aktyor / aktrisa
+w: stage = sahna
+w: audience = tomoshabinlar
+w: applaud = olqishlamoq
+w: atmosphere = muhit
+w: get tickets = chipta olmoq
+s: The last time I went to the theatre, I saw … .
+s: I prefer plays / films because … .
+s: People enjoy live performances because … .
+s: I’d love to see … live because … .

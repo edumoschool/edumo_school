@@ -23,7 +23,8 @@ new-words lines).
 ## Files
 
 - `data/questions.json`, `data/helpers.txt` — A1 questions; words (`w: English = Uzbek`) and starters (`s:`)
-- `data/a2-questions.json`, `data/a2-helpers.txt` — the same for A2
+- `data/a2-content.txt` — A2 lessons: real-life, IELTS-style questions (`q:`), words & phrases (`w: English = Uzbek`) and starters (`s:`)
+- `data/a2-questions.json`, `data/a2-questions-source.txt` — the original A2 question list (unit titles are read from here)
 - `scripts/build.py` + `style.css` (A1), `scripts/build_a2.py` + `style_a2.css` (A2 additions on top of `style.css`)
 - `scripts/render.js` — prints a book's HTML to PDF and warns about overflowing pages
 
