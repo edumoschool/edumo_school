@@ -1,0 +1,531 @@
+# Impulse A2 Writing Book — content
+# One block per unit. Paragraphs are separated by " | ". [[text]] = highlighted useful phrase.
+# w: English = Uzbek   gap: sentence with ___ || answer   b: task bullet   idea: IELTS idea
+
+### 1
+title: Your World
+type: Informal email
+model_title: Hi from Tashkent!
+model: Hi Emma, | [[Thanks for your email.]] It was great to hear from you! [[Let me tell you a bit about myself.]] My name is Aziza and I’m 19. I’m from Tashkent, the capital of Uzbekistan. It’s a big, multicultural city and people here speak Uzbek and Russian. | I live with my parents and my younger brother. I’m a student at university and I study economics. In my free time, I like reading and going for walks with my friends. | I’m learning English because I want to work abroad one day. [[What about you?]] Why are you learning Uzbek? | [[Write back soon!]] | Best wishes, | Aziza
+focus: Starting and ending an informal email
+focus_text: Informal emails go to friends and people you know. Start with a friendly greeting, say why you are writing, and finish with a short ending before your name.
+ex: Start: Hi Emma, / Hello Tom, / Dear Anna,
+ex: First line: Thanks for your email. / It was great to hear from you.
+ex: Ask a question: What about you? / How are things with you?
+ex: Before the end: Write back soon! / I hope to hear from you soon.
+ex: End: Best wishes, / Take care, / Love, (for family and close friends)
+w: introduce yourself = o‘zingizni tanishtirmoq
+w: be from = …dan bo‘lmoq
+w: multicultural = ko‘p madaniyatli
+w: mother tongue = ona tili
+w: be fluent in = …ni ravon bilmoq
+w: keep in touch = aloqada bo‘lmoq
+w: get to know = yaqindan tanishmoq
+w: have a lot in common = ko‘p umumiy jihatga ega bo‘lmoq
+w: outgoing = ochiqko‘ngil
+w: take after = …ga tortmoq
+gap: I’m from Samarkand, but my ___ is Tajik. || mother tongue
+gap: My sister and I like the same music – we have a lot ___ . || in common
+gap: I want to ___ my new classmates better. || get to know
+gap: Let’s keep ___ after the course finishes. || in touch
+gap: I ___ my father – we are both very calm. || take after
+task_title: Email to a new pen friend
+task: You have a new pen friend from another country. Write an email to introduce yourself.
+b: say where you are from and describe your city
+b: tell him or her about your family
+b: say what you do and what you like doing
+b: ask two questions about your pen friend
+words: 80–100
+check: I started with a greeting and finished with “Best wishes,” and my name.
+check: I asked my pen friend two questions.
+ielts: Is it important to learn a foreign language? Why or why not?
+idea: more job opportunities in the future
+idea: you can travel and talk to people from other countries
+idea: you can watch films and read books in the original language
+idea: it is hard and takes a lot of time
+model_task: Hi Lucas, | Thanks for your email! Let me tell you about myself. My name is Jasur and I’m from Bukhara. It’s an old city with beautiful mosques and markets. | There are five people in my family: my parents, my two sisters and me. I take after my father – we are both quiet and hard-working. | I’m a student at college and I study IT. In my free time, I play football and watch films. | What about you? What is your city like, and what do you do at weekends? | Write back soon! | Best wishes, | Jasur
+model_ielts: In my opinion, it is very important to learn a foreign language. | Firstly, a foreign language gives you more job opportunities. For example, many companies in my country want workers who speak English. | Secondly, you can travel more easily and talk to people from other countries. You can also watch films and read books in the original language. | Of course, learning a language is not easy and it takes a lot of time. However, I think it is worth it. | To sum up, I believe everyone should learn at least one foreign language.
+
+### 2
+title: My Day
+type: Blog post: a typical day
+model_title: A day in my life
+model: I’m a student, so my weekdays are quite busy. [[As a rule,]] I get up at half past six. [[First,]] I have a shower and get dressed. [[Then]] I have breakfast with my family – usually bread, eggs and green tea. | At about half past seven, I take the bus to university. My first class starts at eight. I [[usually]] have lunch with my friends in the canteen. | I get home at five. [[After that,]] I do my homework and help my mum with the housework. In the evening, I [[hardly ever]] watch TV – I prefer reading or chatting with friends online. | [[Finally,]] I go to bed at about eleven. I’m [[definitely a morning person!]]
+focus: Time order words and how often
+focus_text: Use sequencing words to show the order of your day. Put frequency adverbs before the main verb, but after the verb “be”.
+ex: Order: First, … Then … After that, … Finally, …
+ex: Time: at 7 o’clock · in the morning · on Saturdays · at the weekend
+ex: Frequency: always · usually · often · sometimes · hardly ever · never
+ex: Position: I usually get up at 7. / I am always tired on Mondays.
+ex: Longer: once a week · twice a day · every evening
+w: daily routine = kundalik tartib
+w: as a rule = odatda
+w: morning person = erta turishni yoqtiradigan odam
+w: busy schedule = band jadval
+w: commute = qatnamoq
+w: stay up late = kech yotmoq
+w: get enough sleep = yetarlicha uxlamoq
+w: unwind = dam olib charchoqni chiqarmoq
+w: hang out with = …bilan vaqt o‘tkazmoq
+w: do the housework = uy ishlarini qilmoq
+gap: I never ___ on weekdays because I get up early. || stay up late
+gap: After work, I like to ___ with a good book. || unwind
+gap: At the weekend I ___ my friends in the park. || hang out with
+gap: My mum and I ___ together on Sundays. || do the housework
+gap: Students need to ___ – at least eight hours. || get enough sleep
+task_title: Blog post: my weekend
+task: Write a short blog post about your typical weekend.
+b: what time you get up and what you do in the morning
+b: what you do in the afternoon and who with
+b: how you relax in the evening
+b: say why you like or don’t like weekends
+words: 80–100
+check: I used at least four time order words (first, then, after that, finally).
+check: I put always / usually / never in the right place.
+ielts: Do people today have enough free time? Give reasons for your answer.
+idea: people work and study long hours
+idea: many people spend free time on their phones
+idea: technology saves time (online shopping, delivery)
+idea: people are stressed and tired
+model_task: My weekend | I love weekends because I can relax! On Saturdays I usually get up at about nine. First, I have a big breakfast with my family. Then I go to the market with my mum. | In the afternoon, I often hang out with my friends. We sometimes play football in the park or go to a café. | In the evening, I unwind at home. I usually watch a film or read a book. On Sundays I visit my grandparents. | Weekends are the best part of the week – I can finally get enough sleep!
+model_ielts: I don’t think people today have enough free time. | Firstly, many people work or study very long hours. For example, my father often works until eight o’clock in the evening. | Secondly, when people have some free time, they often spend it on their phones, so they don’t really relax. | On the other hand, technology helps us save time. We can shop and pay bills online. | To sum up, I believe most people today are too busy and need more real free time.
+
+### 3
+title: Work
+type: Formal email: job application
+model_title: Application for a part-time job
+model: [[Dear Sir or Madam,]] | [[I am writing to apply for]] the part-time job as a shop assistant which I saw on your website. | I am 20 years old and I am a student at Tashkent State University. I have some work experience: last summer I worked in a café, so I am used to talking to customers. I am friendly, reliable and good at teamwork. | I am free in the evenings and at weekends. I speak Uzbek, Russian and English. | [[I have attached my CV.]] [[I look forward to hearing from you.]] | [[Yours faithfully,]] | Dilshod Karimov
+focus: Formal and informal language
+focus_text: In a formal email, write full forms (I am, not I’m), use polite phrases and don’t use “Hi” or “Thanks!”. Say why you are writing in the first line.
+ex: Start: Dear Sir or Madam, (name unknown) / Dear Mr Brown, (name known)
+ex: Reason: I am writing to apply for … / I am writing to ask about …
+ex: Informal → formal: I want → I would like · get → receive · ask → enquire
+ex: Before the end: I look forward to hearing from you.
+ex: End: Yours faithfully, (Sir or Madam) / Yours sincerely, (Mr Brown)
+w: apply for a job = ishga ariza bermoq
+w: part-time job = yarim kunlik ish
+w: work experience = ish tajribasi
+w: qualifications = malaka
+w: be responsible for = …uchun mas’ul bo‘lmoq
+w: be good at = …ni yaxshi bilmoq
+w: reliable = ishonchli
+w: teamwork = jamoaviy ish
+w: employer = ish beruvchi
+w: well-paid = yaxshi maoshli
+gap: I would like to ___ as a receptionist. || apply for a job
+gap: Many students have a ___ in the evenings. || part-time job
+gap: In my last job I ___ customer emails. || was responsible for
+gap: She is very ___ – she is never late. || reliable
+gap: ___ usually want young people with good communication skills. || Employers
+task_title: Applying for a summer job
+task: You saw this advert: “Summer job at the City Sports Centre. We need friendly young people to help at reception. Evenings and weekends.” Write an email to apply.
+b: say which job you are applying for and where you saw it
+b: give some information about yourself and your studies
+b: describe your skills and any work experience
+b: say when you are free to work
+words: 80–100
+check: I used formal language (no contractions, no “Hi”).
+check: I finished with “I look forward to hearing from you.” and “Yours faithfully,”.
+ielts: Is it better to have an interesting job or a well-paid job? Give your opinion.
+idea: an interesting job makes you happy every day
+idea: you need money for a family, a home and a car
+idea: people with interesting jobs work harder
+idea: a well-paid but boring job can make you stressed
+model_task: Dear Sir or Madam, | I am writing to apply for the summer job at reception which I saw in the City Sports Centre advert. | I am 18 years old and I am in my last year at school. I am friendly and I am good at communicating with people. Last year I helped at a children’s football club, so I have some work experience. | I am free every evening after five o’clock and at weekends. | I look forward to hearing from you. | Yours faithfully, | Malika Saidova
+model_ielts: In my opinion, it is better to have an interesting job than a well-paid job. | Firstly, we spend most of our day at work. If the job is interesting, we feel happy and we want to work hard. | Secondly, a boring job can make people stressed and tired, even if the salary is good. For example, my uncle left a well-paid job in a bank because he was unhappy. | However, money is also important, especially for people with families. | To sum up, I think the best job is an interesting one with a fair salary.
+
+### 4
+title: Places and Things
+type: Description of a place
+model_title: My neighbourhood
+model: I live in a [[quiet residential area]] in the north of Tashkent. [[There are]] lots of tall apartment buildings and [[there is]] a big park [[opposite]] my flat. | The best thing about my neighbourhood is that everything is [[within walking distance]]. [[Next to]] my building there is a small supermarket, and there is a bakery [[at the end of the street]]. My school is only ten minutes away on foot. | In the evening, families walk in the park and children play football. The only problem is the traffic – the main road is very [[crowded]] in the morning. | All in all, it’s a [[safe and friendly]] place to live.
+focus: There is / there are and describing a place
+focus_text: Use there is with one thing and there are with more than one. Use prepositions to say where things are, and adjectives to say what they are like.
+ex: There is a park near my home. / There are two schools.
+ex: There isn’t a cinema. / There aren’t any shops.
+ex: Place: next to · opposite · behind · in front of · between · near
+ex: Adjectives: quiet · noisy · crowded · modern · clean · safe · friendly
+ex: Finish: All in all, … / Overall, it’s a … place to live.
+w: residential area = turar-joy hududi
+w: neighbourhood = mahalla
+w: within walking distance = piyoda masofada
+w: crowded = gavjum
+w: peaceful = osuda
+w: public transport = jamoat transporti
+w: city centre = shahar markazi
+w: cost of living = yashash narxi
+w: spacious = keng
+w: cosy = shinam
+gap: The shops are ___ , so we don’t need a car. || within walking distance
+gap: The metro is always ___ at 8 a.m. || crowded
+gap: Our flat is small but very ___ . || cosy
+gap: The ___ is high in big cities. || cost of living
+gap: I live in a ___ , far from the factories. || residential area
+task_title: Describing my home
+task: Your English teacher asked you to write a description of your home for the class magazine.
+b: say where your home is and what type of home it is
+b: describe the rooms and your favourite room
+b: say what is near your home
+b: say what you like and don’t like about it
+words: 90–110
+check: I used there is / there are correctly.
+check: I used at least three prepositions of place and four adjectives.
+ielts: Is it better to live in a city or in the countryside? Give reasons.
+idea: more jobs, universities and shops in the city
+idea: fresh air and peace in the countryside
+idea: cities are noisy, crowded and expensive
+idea: fewer services (hospitals, transport) in villages
+model_task: My home | I live in a flat on the fifth floor of a modern building near the city centre. There are three bedrooms, a living room, a kitchen and a bathroom. | My favourite room is my bedroom because it is spacious and light. There is a big desk next to the window, so I can see the park when I study. | Near my home there is a metro station and there are some nice cafés. | I like my home because it’s cosy and everything is within walking distance. The only problem is that it’s quite noisy at night.
+model_ielts: I think it is better to live in a city, especially for young people. | Firstly, there are more jobs, universities and shops in the city. For example, most good universities in my country are in the capital. | Secondly, it is easier to get around because there is good public transport. | On the other hand, cities are noisy and crowded, and the cost of living is high. The countryside is peaceful and has fresh air. | To sum up, the city is better for studying and working, but the countryside is better for relaxing.
+
+### 5
+title: Clothes and Shopping
+type: Email of complaint
+model_title: Problem with my order
+model: [[Dear Sir or Madam,]] | [[I am writing to complain about]] a jacket which I ordered from your website on 3 March. My order number is 45219. | When the parcel arrived, the jacket was the wrong size. I ordered a medium, but you sent me a large. [[Also,]] one of the buttons was broken. | [[I would like to]] exchange the jacket for a medium in the same colour. If this is not possible, [[could you please]] give me a full refund? I have kept the receipt. | [[I look forward to hearing from you.]] | [[Yours faithfully,]] | Kamola Rahimova
+focus: Polite requests and complaints
+focus_text: When you complain, explain the problem clearly and calmly, then say what you want the company to do. Polite requests sound better than orders.
+ex: Problem: I am writing to complain about … / Unfortunately, …
+ex: Details: I ordered … , but … / When it arrived, …
+ex: Request: I would like to … / Could you please … ?
+ex: Not: Give me my money back! → Could you please give me a refund?
+ex: End: I look forward to hearing from you.
+w: online order = onlayn buyurtma
+w: try on = kiyib ko‘rmoq
+w: the wrong size = noto‘g‘ri o‘lcham
+w: get a refund = pulni qaytarib olmoq
+w: exchange = almashtirmoq
+w: receipt = chek
+w: make a complaint = shikoyat qilmoq
+w: customer service = mijozlarga xizmat
+w: value for money = narxiga arziydigan
+w: on sale = chegirmada
+gap: These shoes are great ___ – cheap but good quality. || value for money
+gap: The shirt didn’t fit, so I asked to ___ it for a smaller one. || exchange
+gap: You can’t get a refund without the ___ . || receipt
+gap: I bought this coat ___ – it was 50% cheaper. || on sale
+gap: The ___ in this shop is excellent; they always help you. || customer service
+task_title: My order was wrong
+task: You bought a pair of trainers online, but there is a problem. Write an email to the shop.
+b: say what you bought and when
+b: explain the problem (wrong colour, size or damage)
+b: say what you would like the shop to do
+b: say how they can contact you
+words: 80–100
+check: I explained the problem clearly and politely.
+check: I used “I would like …” or “Could you please …?”.
+ielts: Is shopping online better than shopping in shops? Give your opinion.
+idea: online shopping is fast and you can do it at home
+idea: there is more choice and prices are often lower
+idea: in shops you can try clothes on
+idea: online you sometimes get the wrong size or bad quality
+model_task: Dear Sir or Madam, | I am writing to complain about a pair of trainers which I ordered from your website last week. | When the parcel arrived, the trainers were black, but I ordered white ones. Also, the box was damaged. | I would like to exchange them for the white trainers in size 40. If this is not possible, could you please give me a refund? | You can contact me by email or phone me on 90 123 45 67. | I look forward to hearing from you. | Yours faithfully, | Bekzod Aliyev
+model_ielts: In my opinion, online shopping is better for most things, but not for clothes. | Firstly, shopping online is fast and convenient. You can buy things at home, at any time of the day. | Secondly, there is more choice and the prices are often lower. For example, books and electronics are cheaper online. | However, in a shop you can try clothes on and check the quality. When I buy clothes online, they are sometimes the wrong size. | To sum up, I prefer shopping online, but I still buy clothes in shops.
+
+### 6
+title: Past Times
+type: Story: a memorable day
+model_title: An unforgettable day
+model: [[Last summer,]] my family and I went to Chimgan mountains for the day. We [[left home early]] in the morning because it was a long drive. | [[When we arrived,]] the weather was sunny and warm. [[First,]] we walked to a beautiful waterfall. [[Then]] we had a picnic next to the river. My mum made plov and it was delicious. | [[In the afternoon,]] my brother and I went on the cable car. [[At first]] I was scared, but the view from the top was amazing! | [[Suddenly,]] it started to rain, so we ran back to the car. We got very wet, but we laughed all the way home. | [[It was one of the best days of my life.]]
+focus: Telling a story in the past
+focus_text: Use the past simple for the main events. Use time words to show the order, and add feelings to make your story interesting.
+ex: Regular: walk → walked · arrive → arrived · stop → stopped
+ex: Irregular: go → went · see → saw · make → made · eat → ate
+ex: Beginning: Last summer, … / One day, … / A few years ago, …
+ex: Middle: When we arrived, … · At first, … · Suddenly, …
+ex: Ending: In the end, … / It was one of the best days of my life.
+w: memorable = esda qolarli
+w: unforgettable = unutilmas
+w: at first = avvaliga
+w: suddenly = to‘satdan
+w: in the end = oxir-oqibat
+w: be scared = qo‘rqmoq
+w: go wrong = noto‘g‘ri ketmoq
+w: day trip = bir kunlik sayohat
+w: give up = taslim bo‘lmoq
+w: be proud of = …dan faxrlanmoq
+gap: ___ the test was difficult, but then it got easier. || At first
+gap: We were walking home when ___ it started to snow. || suddenly
+gap: Everything ___ – we missed the bus and lost our tickets. || went wrong
+gap: I was tired, but I didn’t ___ and finished the race. || give up
+gap: My parents were very ___ me when I passed the exam. || proud of
+task_title: A day I will never forget
+task: Write a story for a school competition with the title “A day I will never forget”.
+b: say when it was and who you were with
+b: describe what happened, in order
+b: say how you felt
+b: say why this day was special
+words: 100–120
+check: I used the past simple correctly (check irregular verbs!).
+check: I used at least four time words (first, then, suddenly, in the end).
+ielts: Was life better in the past than it is today? Give reasons for your answer.
+idea: today we have better medicine and technology
+idea: in the past people spent more time with family
+idea: life was quieter and less stressful
+idea: today it is easier to travel and study
+model_task: A day I will never forget | Two years ago, I took part in a big chess competition in Samarkand. My father came with me. | At first, I was very nervous because the other players were older than me. I lost my first game and I wanted to give up. My father said, “Don’t give up – try again!” | Then I won three games in a row! In the end, I came second. | I was so proud of myself, and my father was proud of me too. It was an unforgettable day because I learned that hard work is more important than luck.
+model_ielts: I think life today is better than in the past, but we lost some good things. | Firstly, we have much better medicine and technology. For example, people live longer and can talk to their families on video calls. | Secondly, it is easier to travel and study. Many young people study abroad today. | On the other hand, in the past people spent more time with their families and life was less stressful. | To sum up, I believe life is better today, but we should spend more time with the people we love.
+
+### 7
+title: Health and Sport
+type: Message giving advice
+model_title: Re: I can’t sleep!
+model: Hi Laylo, | [[I’m sorry to hear that]] you can’t sleep. Exams are stressful, but don’t worry – [[here are some ideas.]] | [[First of all,]] you [[shouldn’t]] drink coffee or tea in the evening. Have warm milk instead. | [[I think you should]] stop using your phone an hour before bed. The light from the screen keeps you awake. | [[Why don’t you]] go for a walk or do some exercise in the afternoon? It really helps you relax. | [[If I were you,]] I’d also take short breaks when you study. | [[I hope you feel better soon!]] | Love, | Nodira
+focus: Giving advice
+focus_text: Use should / shouldn’t + verb to give advice. Use different phrases to make your message friendly and not repetitive.
+ex: You should + verb: You should get more sleep.
+ex: You shouldn’t + verb: You shouldn’t eat junk food.
+ex: Why don’t you + verb? Why don’t you join a gym?
+ex: If I were you, I’d + verb: If I were you, I’d see a doctor.
+ex: Feelings: I’m sorry to hear that … / I hope you feel better soon!
+w: stay healthy = sog‘lom bo‘lib qolmoq
+w: balanced diet = muvozanatli ovqatlanish
+w: junk food = zararli ovqat
+w: keep fit = jismonan chiniqqan bo‘lmoq
+w: reduce stress = stressni kamaytirmoq
+w: take a break = tanaffus qilmoq
+w: get in shape = qaddi-qomatni tiklamoq
+w: healthy lifestyle = sog‘lom turmush tarzi
+w: catch a cold = shamollamoq
+w: recover = tuzalmoq
+gap: You should eat less ___ like burgers and chips. || junk food
+gap: I go swimming twice a week to ___ . || keep fit
+gap: When you study for a long time, ___ every hour. || take a break
+gap: Wear a warm coat or you’ll ___ . || catch a cold
+gap: A ___ includes fruit, vegetables and protein. || balanced diet
+task_title: Advice for a friend
+task: Your friend wrote: “I feel tired all the time and I want to be healthier. What should I do?” Write a reply.
+b: say you are sorry to hear about the problem
+b: give advice about food
+b: give advice about exercise and sleep
+b: say something kind at the end
+words: 80–100
+check: I used at least four different advice phrases.
+check: I started and finished in a friendly way.
+ielts: Should schools give students more time for sport? Why or why not?
+idea: sport keeps children healthy and fit
+idea: students learn teamwork and discipline
+idea: students need time for important subjects like maths
+idea: sport reduces stress before exams
+model_task: Hi Timur, | I’m sorry to hear that you feel tired all the time. Here is some advice. | First of all, you should have a balanced diet. You shouldn’t eat so much junk food – try to eat more fruit and vegetables. | Why don’t you join a gym or go running in the park? Exercise gives you more energy. | If I were you, I’d also go to bed earlier and stop using my phone at night. | I hope you feel better soon! | Take care, | Sardor
+model_ielts: In my opinion, schools should give students more time for sport. | Firstly, sport keeps children healthy and fit. Nowadays many young people sit for long hours at computers. | Secondly, team sports teach important skills like teamwork and discipline. For example, football players must work together to win. | Some people think students need this time for important subjects like maths. However, exercise also helps students to reduce stress and study better. | To sum up, I believe more sport at school is good for both the body and the mind.
+
+### 8
+title: Travel and Adventure
+type: Travel blog: recommending a place
+model_title: Why you must visit Khiva
+model: If you visit Uzbekistan, [[you must see]] Khiva. It’s a small city in the west of the country and [[it’s definitely worth visiting.]] | The old town, Itchan Kala, is like an open-air museum. There are ancient mosques, palaces and towers. [[The best way to]] see it is on foot, because everything is within walking distance. | [[The best time to visit]] is in spring or autumn, [[because]] summer is boiling hot. You [[should]] stay in a small family hotel – they are cheap and the locals are very friendly. | Don’t forget to try shivit oshi, a green noodle dish. [[I highly recommend]] it!
+focus: Giving reasons and recommending
+focus_text: When you recommend something, give clear reasons. Use because to give a reason and so to give a result.
+ex: Reason: The best time to visit is spring because it isn’t too hot.
+ex: Result: It’s a small city, so you can walk everywhere.
+ex: Recommend: You must see … / It’s definitely worth visiting.
+ex: Advice: You should … / Don’t forget to …
+ex: Strong ending: I highly recommend it! / You won’t regret it!
+w: be worth visiting = borishga arziydi
+w: must-see = albatta ko‘rish kerak bo‘lgan
+w: the best time to visit = borish uchun eng yaxshi vaqt
+w: book in advance = oldindan band qilmoq
+w: go sightseeing = diqqatga sazovor joylarni ko‘rmoq
+w: friendly locals = samimiy mahalliy aholi
+w: accommodation = turar joy
+w: affordable = hamyonbop
+w: off the beaten track = sayyohlar kam boradigan joyda
+w: highly recommend = qat’iy tavsiya qilmoq
+gap: Hotels are busy in summer, so ___ . || book in advance
+gap: The old market is a ___ for every tourist. || must-see
+gap: The hostel is clean and ___ – only $10 a night. || affordable
+gap: We spent the day ___ in the old town. || sightseeing
+gap: This village is ___ – there are almost no tourists. || off the beaten track
+task_title: Recommend a place
+task: A travel website asks: “Which place in your country should every visitor see?” Write a short blog post.
+b: say which place it is and where it is
+b: describe what visitors can see and do there
+b: say when to go and where to stay
+b: give a reason why it is special
+words: 100–120
+check: I gave at least three reasons with because or so.
+check: I used two recommending phrases (you must see, worth visiting).
+ielts: Is it better to travel alone or with friends? Give your opinion.
+idea: friends make the trip more fun and you can share costs
+idea: travelling alone is more flexible
+idea: alone you meet more new people
+idea: travelling with others is safer
+model_task: You must visit Samarkand | If you come to Uzbekistan, you must visit Samarkand. It’s in the centre of the country and it’s easy to get there by fast train from Tashkent. | Samarkand is famous for the Registan, three beautiful old buildings with blue tiles. It’s a must-see, especially at night when the lights are on. | The best time to visit is in April or October because the weather is warm but not too hot. You should stay in a guest house in the old town – it’s affordable and the owners are friendly. | I highly recommend it – you won’t regret it!
+model_ielts: In my opinion, it is better to travel with friends. | Firstly, a trip with friends is more fun. You can share good moments and talk about them later. | Secondly, it is cheaper because you can share the cost of hotels and taxis. It is also safer, especially in a new country. | On the other hand, when you travel alone, you are more flexible and you can meet new people more easily. | To sum up, travelling alone can be exciting, but I prefer to travel with my friends.
+
+### 9
+title: Food and Drink
+type: Restaurant review
+model_title: Review: Silk Road Café ★★★★☆
+model: Last Friday I went to Silk Road Café with two friends. It’s a small restaurant in the city centre, [[within walking distance of]] the metro. | [[The atmosphere was]] cosy and the waiters were very friendly. We [[ordered]] lagman, a fresh salad and some green tea. The lagman was [[absolutely delicious]] and the portions were big. | [[However,]] we waited 40 minutes for our food, [[which was]] too long. The dessert was also a bit too sweet for me. | [[Overall,]] it’s a great place for lunch with friends and the prices are [[reasonable]]. [[I’d recommend it,]] but don’t go if you are in a hurry!
+focus: Writing a review
+focus_text: A good review has four parts: where and when, what was good, what was not so good, and your final opinion. Use however to show the other side.
+ex: 1 Introduction: Last Friday I went to … It’s a … in …
+ex: 2 Good points: The food was delicious. The staff were friendly.
+ex: 3 Bad points: However, … / The only problem was …
+ex: 4 Opinion: Overall, … / I’d recommend it to …
+ex: Strong adjectives: delicious · tasty · fresh · spicy · cosy · overpriced
+w: eat out = tashqarida ovqatlanmoq
+w: book a table = stol band qilmoq
+w: order = buyurtma bermoq
+w: tasty = mazali
+w: spicy = achchiq
+w: portion = porsiya
+w: reasonable prices = maqbul narxlar
+w: overpriced = haddan tashqari qimmat
+w: friendly service = samimiy xizmat
+w: home-cooked meal = uyda tayyorlangan ovqat
+gap: It’s a popular place, so you should ___ . || book a table
+gap: The coffee was nice but ___ – $8 a cup! || overpriced
+gap: The ___ were huge – I couldn’t finish my plate. || portions
+gap: I can’t eat ___ food – it hurts my stomach. || spicy
+gap: Nothing is better than a ___ from my grandmother. || home-cooked meal
+task_title: Review a place to eat
+task: Write a review of a café or restaurant you know for a food website.
+b: say where it is and when you went
+b: describe the food and drinks you had
+b: describe the atmosphere, service and prices
+b: say who you would recommend it to
+words: 100–120
+check: My review has four parts: introduction, good points, bad points, opinion.
+check: I used however and at least four food adjectives.
+ielts: Should children learn to cook at school? Give your opinion.
+idea: cooking is an important life skill
+idea: children learn about healthy food
+idea: parents can teach cooking at home
+idea: schools need time for academic subjects
+model_task: Review: Bahor Restaurant | Last month I went to Bahor Restaurant for my mother’s birthday. It’s in Chilanzar, near the big park. | We ordered plov, shashlik and salads. The plov was absolutely delicious and the meat was tender. The atmosphere was cosy and there was live music. For dessert, we had fresh fruit and green tea, which was a perfect end to the meal. | However, the service was quite slow because the restaurant was very busy. It was also a bit overpriced. | Overall, it’s a great place for family celebrations, but you should book a table in advance. I’d recommend it to anyone who loves traditional Uzbek food.
+model_ielts: In my opinion, children should learn to cook at school. | Firstly, cooking is an important life skill. When young people go to university or start work, they need to make their own meals. | Secondly, cooking lessons teach children about healthy food. This is important because many children eat too much junk food. | Some people say parents can teach cooking at home. However, many parents are too busy. | To sum up, I believe cooking lessons would help children to live healthier lives.
+
+### 10
+title: The Natural World
+type: Description of a natural place
+model_title: My favourite place in nature
+model: My favourite place in nature is Charvak Lake, about 80 km from Tashkent. It’s [[surrounded by]] high mountains and the water is [[bright blue]]. | In summer, it’s [[much cooler than]] the city, so many families go there at the weekend. You can swim, go boating or just sit by the water and [[enjoy the view]]. | [[The most beautiful]] time is early in the morning. It’s [[peaceful]] and you can only hear the birds. The air is fresh and clean. | When I’m there, I feel [[calm and happy.]] I think it’s [[one of the most beautiful]] places in Uzbekistan.
+focus: Comparing and describing
+focus_text: Use comparatives to compare two things and superlatives to say something is number one. Use the five senses to make your description come alive.
+ex: Short adjectives: cool → cooler than → the coolest
+ex: Long adjectives: beautiful → more beautiful than → the most beautiful
+ex: Irregular: good → better → the best · bad → worse → the worst
+ex: Senses: You can see … / hear … / smell … / feel …
+ex: One of the + superlative + plural noun: one of the most beautiful places
+w: scenery = manzara
+w: breathtaking = hayratlanarli
+w: surrounded by = …bilan o‘ralgan
+w: peaceful = osuda
+w: fresh air = toza havo
+w: wildlife = yovvoyi tabiat
+w: national park = milliy bog‘
+w: protect the environment = atrof-muhitni himoya qilmoq
+w: pollution = ifloslanish
+w: climate change = iqlim o‘zgarishi
+gap: The village is ___ fields and orchards. || surrounded by
+gap: The view from the top was ___ – I took 100 photos! || breathtaking
+gap: Cars and factories cause air ___ . || pollution
+gap: We should all ___ – for example, by recycling. || protect the environment
+gap: Many animals live in the ___ , and hunting is not allowed there. || national park
+task_title: A beautiful place in my country
+task: An international student magazine wants articles about beautiful natural places. Write a description of a place in your country.
+b: say where it is and how to get there
+b: describe what you can see, hear and do there
+b: compare it with another place (e.g. the city)
+b: say how you feel there and why people should visit
+words: 100–120
+check: I used at least two comparatives and one superlative.
+check: I described the place with my senses (see, hear, feel).
+ielts: What can people do to protect the environment? Give your ideas.
+idea: use public transport, walk or cycle
+idea: recycle and use less plastic
+idea: save water and electricity at home
+idea: governments should plant more trees and stop pollution
+model_task: The Zaamin Mountains | One of the most beautiful places in my country is Zaamin National Park. It’s in the Jizzakh region, about four hours by car from Tashkent. | The park is surrounded by high mountains and old juniper trees. You can hear rivers and birds, and the air is much fresher than in the city. People go hiking, camping and horse riding there. | In summer it’s cooler than Tashkent, so it’s the best place to escape the heat. At night, the sky is clearer than anywhere else and you can see thousands of stars. | When I’m there, I feel peaceful and free. Everyone should visit Zaamin at least once!
+model_ielts: There are many things that people can do to protect the environment. | Firstly, we can use public transport or walk and cycle instead of driving. This reduces air pollution in big cities. | Secondly, we should recycle and use less plastic. For example, we can take our own bags to the supermarket. | Thirdly, we can save water and electricity at home. Governments should also plant more trees and control factories. | To sum up, if everyone makes small changes, we can protect nature for future generations.
+
+### 11
+title: Communities
+type: Formal letter: making a suggestion
+model_title: A suggestion for our neighbourhood
+model: [[Dear Sir or Madam,]] | [[I am writing to suggest]] an improvement for our neighbourhood, Yunusabad 5. | At the moment, there is nowhere for children to play. They play football in the car park, which is [[dangerous]]. [[In addition,]] there is no place for older people to sit outside. | [[I would like to suggest]] building a small playground and a garden with benches on the empty land next to School No. 112. Local residents [[would be happy to]] help to plant trees and keep the area clean. | [[I believe this would]] bring the community together. | [[Thank you for your time.]] [[I look forward to hearing from you.]] | [[Yours faithfully,]] | Shahlo Nazarova
+focus: Paragraphs in a formal letter
+focus_text: Plan your letter in paragraphs. Each paragraph has one main idea. Use formal linking words to add ideas and to suggest solutions.
+ex: Paragraph 1: why you are writing — I am writing to suggest / complain about …
+ex: Paragraph 2: the situation now — At the moment, … / In addition, …
+ex: Paragraph 3: your suggestion — I would like to suggest + -ing / I believe this would …
+ex: Paragraph 4: polite ending — Thank you for your time. I look forward to hearing from you.
+ex: Formal linkers: In addition · However · Therefore · As a result
+w: community spirit = jamoaviylik ruhi
+w: local residents = mahalliy aholi
+w: volunteer = ko‘ngilli
+w: local council = mahalliy hokimiyat
+w: improve = yaxshilamoq
+w: bring people together = odamlarni birlashtirmoq
+w: facilities = qulayliklar
+w: deal with a problem = muammoni hal qilmoq
+w: support = qo‘llab-quvvatlamoq
+w: make a suggestion = taklif kiritmoq
+gap: I would like to ___ to improve our park. || make a suggestion
+gap: Many ___ are unhappy about the noise from the new road. || local residents
+gap: Festivals ___ and help neighbours meet. || bring people together
+gap: Our town needs better sports ___ , like a swimming pool. || facilities
+gap: I work as a ___ at the animal shelter every Saturday. || volunteer
+task_title: Write to your local council
+task: There is a problem in your area (for example: no bus stop, dirty streets, nothing for teenagers to do). Write a letter to the local council.
+b: say why you are writing
+b: describe the problem and who it affects
+b: suggest a solution
+b: say how the solution will help the community
+words: 100–120
+check: My letter has four paragraphs with one idea each.
+check: I used formal language and at least two formal linkers.
+ielts: Should young people do volunteer work? Give reasons for your opinion.
+idea: young people gain experience for their CV
+idea: they help people in need and feel useful
+idea: they learn teamwork and responsibility
+idea: students are busy with studies and exams
+model_task: Dear Sir or Madam, | I am writing to tell you about a problem in our area, Sergeli 7. | At the moment, there is nothing for teenagers to do in the evenings. As a result, many young people spend hours on their phones or stand in the street. In addition, the old sports ground is broken and dirty. | I would like to suggest repairing the sports ground and opening a small youth club in the empty building near the market. | I believe this would keep young people healthy and bring the community together. | I look forward to hearing from you. | Yours faithfully, | Akmal Tursunov
+model_ielts: In my opinion, young people should do some volunteer work. | Firstly, volunteering helps young people to gain experience. They can learn new skills and put this experience on their CV. | Secondly, they help people in need, for example, elderly neighbours or children in hospital. This makes them feel useful and happy. | Some people say students are too busy with their studies. However, even two hours a month can make a difference. | To sum up, I believe volunteer work is good for young people and for the whole community.
+
+### 12
+title: Arts and Entertainment
+type: Film review and opinion
+model_title: Film review: The Lion King
+model: [[I recently watched]] The Lion King at the cinema with my younger sister. [[It’s an animated film]] about a young lion, Simba, who must become king after his father dies. | [[What I liked most was]] the music – the songs are fantastic and I still sing them! The animation is beautiful too, and some scenes made me cry. | [[On the other hand,]] some parts were a bit scary for small children, and the film is quite long. | [[In my opinion,]] it’s a wonderful family film with an important message about responsibility. [[I’d give it]] four stars out of five, and [[I highly recommend it.]]
+focus: Giving your opinion
+focus_text: Show your opinion clearly, give reasons, and show the other side. Don’t tell the ending (no spoilers!).
+ex: Opinion: In my opinion, … / I think … / For me, …
+ex: What was good: What I liked most was … / The best thing about it is …
+ex: Other side: On the other hand, … / However, …
+ex: Rating: I’d give it … stars out of five.
+ex: Adjectives: exciting · moving · funny · boring · scary · overrated
+w: be based on = …ga asoslangan
+w: plot = syujet
+w: the main character = bosh qahramon
+w: special effects = maxsus effektlar
+w: performance = ijro
+w: moving = ta’sirli
+w: overrated = ortiqcha maqtalgan
+w: well worth watching = ko‘rishga arziydi
+w: spoiler = syujetni oldindan aytish
+w: live music = jonli musiqa
+gap: The film is ___ a true story. || based on
+gap: Everyone loves this series, but I think it’s ___ . || overrated
+gap: The ending was so ___ that the audience cried. || moving
+gap: Don’t tell me the ending – no ___ , please! || spoilers
+gap: The ___ was excellent – the actor really became the character. || performance
+task_title: Review a film or series
+task: Write a review of a film or TV series you watched recently for an English-language website.
+b: give the name and type of film or series
+b: say briefly what it is about (no spoilers!)
+b: say what you liked and didn’t like
+b: give it a rating and say who should watch it
+words: 100–120
+check: I didn’t tell the ending.
+check: I gave my opinion with reasons and showed the other side.
+ielts: Is it better to watch films at home or at the cinema? Give your opinion.
+idea: at the cinema the screen and sound are much better
+idea: watching at home is cheaper and more comfortable
+idea: you can pause the film at home
+idea: going to the cinema is a social activity
+model_task: Review: Spider-Man: No Way Home | I recently watched Spider-Man: No Way Home with my friends. It’s an action film about Peter Parker, who asks a doctor to help him, but everything goes wrong. | What I liked most were the special effects – the fights look amazing on a big screen. The main actor’s performance was also very good and the story was funny and moving. | On the other hand, the film is quite long and some parts were confusing if you haven’t seen the other films. | I’d give it four stars out of five. It’s well worth watching if you like superheroes!
+model_ielts: In my opinion, it is better to watch new films at the cinema, but home is better for everyday watching. | Firstly, at the cinema the screen and sound are much better. Action films and cartoons are more exciting on a big screen. | Secondly, going to the cinema is a social activity. You can go with friends and talk about the film afterwards. | On the other hand, watching at home is cheaper and more comfortable, and you can pause the film. | To sum up, I go to the cinema for big films and watch other films at home.
