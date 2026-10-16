@@ -9,6 +9,7 @@ pages.json (optional) maps unit number -> first page in body.pdf; it is
 written by render.js after a first pass so the contents page can show
 real page numbers.
 """
+import base64
 import html
 import json
 import re
@@ -59,19 +60,18 @@ THEME_ICONS = {
 e = html.escape
 
 
-def logo_svg(size=48, light=False):
-    """Impulse Learning Center logo: white open book with a flame on a blue circle.
+LOGO_URI = "data:image/png;base64," + base64.b64encode(
+    (ROOT / "assets" / "impulse-logo.png").read_bytes()).decode()
 
-    `light` adds a thin white ring so the logo stands out on blue backgrounds.
+
+def logo_svg(size=48, light=False):
+    """Impulse Learning Center logo (cropped from the original artwork).
+
+    `light` adds a white ring so the logo stands out on blue backgrounds.
     """
-    ring = '<circle cx="320" cy="320" r="304" fill="none" stroke="#fff" stroke-width="32"/>' if light else ""
-    return f"""<svg width="{size}" height="{size}" viewBox="0 0 640 640" aria-hidden="true">
-<circle cx="320" cy="320" r="320" fill="#0057FF"/>{ring}
-<g transform="translate(0 14)"><g fill="none" stroke="#fff" stroke-width="22">
-<path d="M320 140 C348 168 352 220 320 250 C288 220 292 168 320 140 Z"/>
-<path d="M203 241 C248 233 290 247 320 280 C350 247 392 233 437 241 V407 C392 404 350 420 320 456 C290 420 248 404 203 407 Z"/>
-</g><path d="M309 280 H331 V364 L320 354 L309 364 Z" fill="#fff"/></g>
-</svg>"""
+    ring = "border:2px solid #fff;" if light else ""
+    return (f'<img src="{LOGO_URI}" width="{size}" height="{size}" alt="" '
+            f'style="display:block;border-radius:50%;{ring}">')
 
 
 ICONS = {
