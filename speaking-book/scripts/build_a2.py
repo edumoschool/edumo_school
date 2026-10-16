@@ -1,8 +1,8 @@
 """Build the Impulse Learning Center A2 Speaking Book (HTML -> dist/a2-speaking-book.html).
 
-A more formal companion to the A1 book: navy and white, serif headings,
-one lesson per page and a full opener page for each unit.
-  cover · how to use · contents · per unit: opener + 5 lesson pages
+Same colours and design as the A1 book (style.css + style_a2.css). A2 lessons
+have ten questions, so each lesson gets a full-width card on its own page:
+  cover · how to use · contents · per unit: 5 lesson pages + review page
 """
 import json
 from pathlib import Path
@@ -12,7 +12,6 @@ from build import ICONS, e, icon, logo
 ROOT = Path(__file__).resolve().parent.parent
 UNITS = json.loads((ROOT / "data" / "a2-questions.json").read_text(encoding="utf-8"))
 SCHOOL = "Impulse Learning Center"
-BOOK = "A2 Speaking Book"
 
 ICONS.update({
     "globe": "M12 3a9 9 0 100 18 9 9 0 000-18zM3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18",
@@ -28,13 +27,11 @@ ICONS.update({
     "users": "M9 11a3 3 0 100-6 3 3 0 000 6zM17 12a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM3 20c0-3 3-5 6-5s6 2 6 5M15.5 15.2c3 0 5.5 1.6 5.5 4.8",
     "film": "M3 5h18v14H3zM7 5v14M17 5v14M3 9h4M3 15h4M17 9h4M17 15h4",
     "abc": "M3 17l3.5-10L10 17M4.3 13.5h4.4M13 7v10h3a2.5 2.5 0 000-5h-3h2.5a2.5 2.5 0 000-5z",
-    "quote": "M7 7h4v4c0 3-1.5 5-4 6M15 7h4v4c0 3-1.5 5-4 6",
-    "flag": "M5 21V4M5 4h11l-2 4 2 4H5",
-    "list": "M9 6h11M9 12h11M9 18h11M4 6h.5M4 12h.5M4 18h.5",
 })
 UNIT_ICONS = ["globe", "sun", "briefcase", "building", "bag", "history",
               "heart", "compass", "cup", "leaf", "users", "film"]
 
+# lesson kind -> (icon, label, speaking tip); the icon name is also the CSS colour class
 KINDS = {
     "speaking": ("chat", "Speaking", "Give a full answer: say what, then add a reason with because or so."),
     "vocabulary": ("abc", "Vocabulary & Skills", "Use each new word in a sentence about your own life."),
@@ -70,135 +67,124 @@ def load_helpers():
 HELPERS = load_helpers()
 
 
-def frame(inner, page_no, unit=None):
-    left = (f'<span class="crumb">UNIT {unit["n"]} <i>·</i> {e(unit["title"].upper())}</span>' if unit
-            else '<span class="crumb">A2 SPEAKING BOOK</span>')
+def frame(inner, page_no):
     return f"""<section class="page">
- <header class="run"><span class="brand">{logo(17)}<b>IMPULSE</b> LEARNING CENTER</span>{left}</header>
+ <header class="run"><span class="brand">{logo(18)}<b>IMPULSE</b><span>LEARNING CENTER</span></span>
+  <span class="tag"><b>A2</b> SPEAKING BOOK</span></header>
  <div class="content">{inner}</div>
- <footer class="run"><span>{SCHOOL} · Navigate A2 Elementary speaking topics</span><span class="pg">{page_no}</span></footer>
+ <footer class="run"><span>© {SCHOOL} · Based on Navigate Elementary A2 speaking topics</span>
+  <span class="pg">Page {page_no}</span></footer>
 </section>"""
 
 
-def lesson_page(unit, lesson, page_no):
+def unit_banner(u):
+    titles = [kind_of(l)[1] for l in u["lessons"] if kind_of(l)[0] in ("speaking", "video")]
+    return f"""<div class="ubanner"><div class="uno"><small>UNIT</small><span>{u["n"]}</span></div>
+ <span class="uico">{icon(UNIT_ICONS[u["n"] - 1])}</span>
+ <div class="ut"><h1>{e(u["title"])}</h1><p>{" · ".join(e(t) for t in titles)}</p></div>
+ <div class="ustat"><b>50</b><small>questions</small></div></div>"""
+
+
+def lesson_card(lesson):
     kind, title = kind_of(lesson)
     ico, label, tip = KINDS[kind]
     h = HELPERS[lesson["id"]]
-    qs = "".join(f'<li><span class="qn">{q["n"]}</span><p>{e(q["q"])}</p></li>' for q in lesson["questions"])
-    words = "".join(f"<tr><td>{e(en)}</td><td>{e(uz)}</td></tr>" for en, uz in h["words"])
+    qs = "".join(f'<li><span class="qn">{q["n"]}</span><div><p>{e(q["q"])}</p><i class="line"></i></div></li>'
+                 for q in lesson["questions"])
+    words = "".join(f'<li><b>{e(en)}</b><span>{e(uz)}</span></li>' for en, uz in h["words"])
     starters = "".join(f"<li>{e(s)}</li>" for s in h["starters"])
-    inner = f"""<div class="lhead kind-{kind}">
-  <div class="lid"><small>LESSON</small><b>{lesson["id"]}</b></div>
-  <div class="ltitle"><span class="kind">{icon(ico)}{label}</span><h2>{e(title)}</h2></div>
-  <div class="lrange">Questions {lesson["questions"][0]["n"]}–{lesson["questions"][-1]["n"]}</div>
- </div>
- <div class="lbody">
+    return f"""<article class="lesson wide kind-{ico}">
+ <div class="lh"><span class="lico">{icon(ico)}</span>
+  <div><small>LESSON {lesson["id"]} · {label.upper()}</small><h3>{e(title)}</h3></div>
+  <span class="qrange">Questions {lesson["questions"][0]["n"]}–{lesson["questions"][-1]["n"]}</span></div>
+ <div class="wbody">
   <ol class="qs">{qs}</ol>
-  <aside>
-   <div class="panel"><h4>{icon("book")}Key vocabulary</h4><table class="vocab">{words}</table></div>
-   <div class="panel"><h4>{icon("quote")}Useful language</h4><ul class="lang">{starters}</ul></div>
-   <div class="tip">{icon("bulb")}<p><b>Speaking tip.</b> {e(tip)}</p></div>
-  </aside>
- </div>"""
-    return frame(inner, page_no, unit)
+  <div class="help">
+   <div class="words"><h4>{icon("book")}Words &amp; phrases</h4><ul>{words}</ul></div>
+   <div class="starters"><h4>{icon("bulb")}Answer starters</h4><ul>{starters}</ul></div>
+   <div class="mynotes"><h4>{icon("pen")}My notes</h4>{'<i class="line"></i>' * 4}</div>
+   <div class="tipbox">{icon("mic")}<p><b>Speaking tip:</b> {e(tip)}</p></div>
+  </div>
+ </div>
+</article>"""
 
 
-def opener_page(unit, page_no, first_lesson_page):
-    rows = []
-    for i, l in enumerate(unit["lessons"]):
-        kind, title = kind_of(l)
-        ico, label, _ = KINDS[kind]
-        rows.append(f"""<tr><td class="oid">{l["id"]}</td><td class="oico kind-{kind}">{icon(ico)}</td>
-   <td><b>{e(title)}</b><small>{label}</small></td>
-   <td class="oq">Q {l["questions"][0]["n"]}–{l["questions"][-1]["n"]}</td><td class="opg">p. {first_lesson_page + i}</td></tr>""")
-    topics = [kind_of(l)[1] for l in unit["lessons"] if kind_of(l)[0] in ("speaking", "video")]
-    goals = "".join(f'<li><i class="cbox"></i>talk about <b>{e(t)}</b></li>' for t in topics)
-    inner = f"""<div class="opener">
-  <div class="oleft">
-   <span class="ounit">UNIT</span><span class="onum">{unit["n"]:02d}</span>
-   <span class="oico-big">{icon(UNIT_ICONS[unit["n"] - 1])}</span>
-   <h1>{e(unit["title"])}</h1>
-   <p>5 lessons · 50 questions</p>
+def review_page(u):
+    checks = "".join(f'<li><i class="cbox"></i>I can talk about: <b>{e(kind_of(l)[1])}</b></li>' for l in u["lessons"])
+    talk = "".join(f"<li>{e(l['questions'][0]['q'])}</li>" for l in u["lessons"] if kind_of(l)[0] != "vocabulary")
+    return f"""<article class="review wide">
+ <div class="lh"><span class="lico">{icon("target")}</span>
+  <div><small>UNIT {u["n"]} · REVIEW</small><h3>Check your speaking</h3></div></div>
+ <div class="rgrid">
+  <div class="rcol">
+   <div class="rbox"><h4>{icon("mic")}Two-minute talk</h4>
+    <p>Choose one question. Prepare for one minute, then speak for two minutes without stopping.</p><ul class="talk">{talk}</ul></div>
+   <div class="rbox"><h4>{icon("check")}Can you do it?</h4><ul class="checks">{checks}</ul></div>
   </div>
-  <div class="oright">
-   <h3>{icon("list")}In this unit</h3>
-   <table class="olist">{''.join(rows)}</table>
-   <div class="ogrid">
-    <div class="obox"><h3>{icon("flag")}Unit goals</h3><p>By the end of this unit I can:</p><ul class="goals">{goals}</ul></div>
-    <div class="obox"><h3>{icon("mic")}Two-minute talk</h3>
-     <p>Choose one topic from this unit. Prepare for one minute, then speak for two minutes without stopping.</p>
-     <ul class="steps"><li>Introduce the topic</li><li>Give two or three details</li><li>Give your opinion and a reason</li><li>Finish with a short conclusion</li></ul></div>
-   </div>
-  </div>
- </div>"""
-    return frame(inner, page_no, unit)
+  <div class="rbox notes"><h4>{icon("pen")}My new words and phrases</h4>{'<i class="line"></i>' * 9}</div>
+ </div>
+</article>"""
 
 
 def cover():
-    return f"""<section class="page cover">
- <div class="stripe"></div><div class="lines"></div>
- <div class="cbrand">{logo(58, ring=True)}<div><b>IMPULSE</b><small>LEARNING CENTER</small></div></div>
- <div class="ctext">
-  <span class="kicker">LEVEL A2 · ELEMENTARY</span>
-  <h1>Speaking<br>Book</h1>
-  <div class="rule"></div>
-  <p>600 discussion questions in 12 units, with key vocabulary,
-  Uzbek translations and useful language for every lesson.</p>
- </div>
- <div class="cstats"><div><b>600</b><span>questions</span></div><div><b>60</b><span>lessons</span></div>
-  <div><b>480</b><span>key words</span></div><div><b>12</b><span>units</span></div></div>
- <div class="cfoot"><span>{SCHOOL}</span><span>Based on Navigate A2 Elementary</span></div>
+    dots = "".join(f"<span>{u['n']}</span>" for u in UNITS)
+    return f"""<section class="page cover"><div class="grid"></div><div class="blob b1"></div><div class="blob b2"></div>
+ <div class="cbrand">{logo(64, ring=True)}<div><b>IMPULSE</b><small>LEARNING CENTER</small></div></div>
+ <div class="main"><span class="kicker">LEVEL A2 · ELEMENTARY</span>
+  <h1>Speaking<br><span>Book</span></h1>
+  <p class="lead">600 speaking questions in 12 units, with useful words &amp; phrases,
+  Uzbek translations and answer starters for every lesson.</p>
+  <div class="feat"><span>600 questions</span><span>60 lessons</span><span>480 words &amp; phrases</span><span>Answer starters</span></div></div>
+ <div class="card"><div class="top">{icon("chat")}<b>LESSON 2.2 · SPEAKING</b></div>
+  <div class="cb"><div class="q"><span class="qn">67</span>Do you prefer to spend time alone or with friends?</div>
+   <div class="chips"><span>spend time</span><span>hang out with friends</span><span>on my own</span></div>
+   <div class="st">{icon("bulb")}<span>I prefer spending time with friends because it’s more fun.</span></div></div></div>
+ <div class="cfoot"><div><b>{SCHOOL}</b> · Based on Navigate Elementary A2 speaking topics</div>
+  <div class="units">{dots}</div></div>
 </section>"""
 
 
 def how_to():
-    kinds = "".join(f"""<div class="krow kind-{k}"><span class="kico">{icon(i)}</span><div><b>{l}</b><p>{e(t)}</p></div></div>"""
-                    for k, (i, l, t) in KINDS.items())
-    return f"""<section class="page plain"><div class="inner">
- <div class="ptitle"><h2>How to use this book</h2><span class="sub">{SCHOOL}</span></div>
- <div class="hcols">
-  <div>
-   <h3 class="sec">Each lesson page</h3>
-   <ol class="anat">
-    <li><b>Ten questions</b> on one topic. Work in pairs: one person asks, the other answers, then swap.</li>
-    <li><b>Key vocabulary</b> with Uzbek translations. Check these words before you start speaking.</li>
-    <li><b>Useful language</b> — sentence frames to start and organise your answers.</li>
-    <li><b>Speaking tip</b> — one strategy to make your answer better.</li>
-   </ol>
-   <h3 class="sec">Four kinds of lessons</h3>
-   <div class="kinds">{kinds}</div>
+    steps = [
+        ("chat", "Ask and answer", "Work in pairs. One student asks the questions, the other answers. Then swap."),
+        ("book", "Check the words", "Look at <b>Words &amp; phrases</b> before you start. Use at least three in your answers."),
+        ("bulb", "Use a starter", "Begin with an <b>answer starter</b>, then add your own ideas."),
+        ("mic", "Say more", "Answer + reason (<i>because…</i>) + example (<i>for example…</i>)."),
+    ]
+    step_html = "".join(f'<div class="step"><span class="sico">{icon(i)}</span><b>{n}. {t}</b><p>{d}</p></div>'
+                        for n, (i, t, d) in enumerate(steps, 1))
+    kinds = "".join(f'<div class="kind kind-{i}"><span class="lico">{icon(i)}</span><div><b>{l}</b><p>{e(t)}</p></div></div>'
+                    for i, l, t in KINDS.values())
+    return f"""<section class="page"><div class="inner">
+ <div class="ptitle">{logo(30)}<h2>How to use this book</h2><div class="bar"></div><small>{SCHOOL.upper()}</small></div>
+ <div class="steps">{step_html}</div>
+ <div class="hgrid">
+  <div class="stack">
+   <div class="box"><h3>Four kinds of lessons</h3>{kinds}</div>
   </div>
-  <div>
-   <h3 class="sec">Build a better answer</h3>
-   <table class="ladder">
-    <tr><td>A1</td><td>I like my city.</td></tr>
+  <div class="stack">
+   <div class="box"><h3>Make your answer longer</h3>
+    <table class="ext"><tr><td>A1</td><td>I like my city.</td></tr>
     <tr><td>A2</td><td>I like my city because it’s friendly and there’s a lot to do.</td></tr>
-    <tr><td>A2+</td><td>I really like my city because it’s friendly and there’s a lot to do. For example, at weekends I often go to the park with my friends. However, the traffic can be terrible.</td></tr>
-   </table>
-   <h3 class="sec">Linking words</h3>
-   <table class="links">
-    <tr><td>Adding</td><td>and · also · as well</td></tr>
-    <tr><td>Contrast</td><td>but · however · although</td></tr>
-    <tr><td>Reason / result</td><td>because · so</td></tr>
-    <tr><td>Example</td><td>for example · such as</td></tr>
-    <tr><td>Opinion</td><td>I think … · In my opinion …</td></tr>
-    <tr><td>Sequence</td><td>first · then · after that · finally</td></tr>
-   </table>
-   <h3 class="sec">When you need time to think</h3>
-   <p class="fill">“That’s a good question.” · “Let me think …” · “Well, I’m not sure, but …”</p>
+    <tr><td>A2+</td><td>I really like my city because it’s friendly and there’s a lot to do. For example, I often go to the park with my friends. However, the traffic can be terrible.</td></tr></table>
+    <h3 style="margin-top:12px">Linking words</h3>
+    <div class="links"><span>and</span><span>also</span><span>but</span><span>however</span><span>because</span><span>so</span><span>for example</span><span>first</span><span>then</span><span>finally</span><span>In my opinion…</span></div></div>
+   <div class="box"><h3>Need time to think?</h3><ul class="checks big">
+    <li>“That’s a good question.”</li><li>“Let me think …”</li><li>“Well, I’m not sure, but I think …”</li></ul></div>
   </div>
  </div>
-</div><div class="pfoot"><span>{SCHOOL} · {BOOK}</span><span>Navigate A2 Elementary</span></div></section>"""
+</div><div class="pfoot"><span><b>{SCHOOL}</b> · A2 Speaking Book</span><span>Navigate Elementary A2</span></div></section>"""
 
 
 def contents(unit_pages):
-    rows = "".join(f"""<a class="tunit"><span class="tn">{u["n"]:02d}</span><span class="ti">{icon(UNIT_ICONS[u["n"] - 1])}</span>
-  <span class="tt"><b>{e(u["title"])}</b><small>{" · ".join(e(kind_of(l)[1]) for l in u["lessons"] if kind_of(l)[0] in ("speaking", "video"))}</small></span>
-  <span class="tp">{unit_pages[u["n"]]}</span></a>""" for u in UNITS)
-    return f"""<section class="page plain"><div class="inner">
- <div class="ptitle"><h2>Contents</h2><span class="sub">12 units · 60 lessons · 600 questions</span></div>
- <div class="toc">{rows}</div>
-</div><div class="pfoot"><span>{SCHOOL} · {BOOK}</span><span>Navigate A2 Elementary</span></div></section>"""
+    cards = "".join(f"""<a><div class="h"><span class="tico">{icon(UNIT_ICONS[u["n"] - 1])}</span><span><small>UNIT</small><b>{u["n"]}</b></span></div>
+  <div class="c"><h4>{e(u["title"])}</h4><ul>{"".join(f"<li>{e(kind_of(l)[1])}</li>" for l in u["lessons"] if kind_of(l)[0] in ("speaking", "video"))}</ul>
+  <div class="meta"><span>Q {u["lessons"][0]["questions"][0]["n"]}–{u["lessons"][-1]["questions"][-1]["n"]}</span><span class="pg">p. {unit_pages[u["n"]]}</span></div></div></a>"""
+                    for u in UNITS)
+    return f"""<section class="page"><div class="inner">
+ <div class="ptitle">{logo(30)}<h2>Contents</h2><div class="bar"></div><small>12 UNITS · 60 LESSONS</small></div>
+ <div class="toc six">{cards}</div>
+</div><div class="pfoot"><span><b>{SCHOOL}</b> · A2 Speaking Book</span><span>Navigate Elementary A2</span></div></section>"""
 
 
 def build():
@@ -207,15 +193,15 @@ def build():
     body, unit_pages = [], {}
     for u in UNITS:
         unit_pages[u["n"]] = p
-        body.append(opener_page(u, p, p + 1))
-        p += 1
-        for l in u["lessons"]:
-            body.append(lesson_page(u, l, p))
+        for i, l in enumerate(u["lessons"]):
+            body.append(frame((unit_banner(u) if i == 0 else "") + lesson_card(l), p))
             p += 1
+        body.append(frame(review_page(u), p))
+        p += 1
     pages = front + [contents(unit_pages)] + body
-    css = (ROOT / "scripts" / "style_a2.css").read_text(encoding="utf-8")
+    css = "".join((ROOT / "scripts" / f).read_text(encoding="utf-8") for f in ("style.css", "style_a2.css"))
     doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
-<title>{SCHOOL} — {BOOK}</title><style>{css}</style></head><body>{''.join(pages)}</body></html>"""
+<title>{SCHOOL} — A2 Speaking Book</title><style>{css}</style></head><body>{''.join(pages)}</body></html>"""
     (ROOT / "dist" / "a2-speaking-book.html").write_text(doc, encoding="utf-8")
     print("pages:", len(pages))
 
