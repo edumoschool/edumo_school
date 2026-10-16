@@ -1,0 +1,651 @@
+# Words & phrases (w: English = Uzbek) and answer starters (s:) for each lesson.
+
+## 1.1
+w: on holiday = ta’tilda
+w: on business = ish yuzasidan
+w: stay at a hotel = mehmonxonada turmoq
+w: for a week = bir haftaga
+w: the first time = birinchi marta
+w: alone = yolg‘iz
+w: with my family = oilam bilan
+w: a few days = bir necha kun
+s: I’m here on … .
+s: I’m staying at … .
+s: Yes, it’s my first time. / No, I was here in … .
+
+## 1.2
+w: I’m from … = men …danman
+w: country = mamlakat
+w: city = shahar
+w: small town = kichik shaharcha
+w: capital = poytaxt
+w: beautiful = chiroyli
+w: friendly people = samimiy odamlar
+w: I want to visit … = …ga borishni xohlayman
+s: I’m from … . It’s in … .
+s: I come from a big city / a small town.
+s: My country is … and the people are … .
+
+## 1.3
+w: first name = ism
+w: surname = familiya
+w: spell = harflab aytmoq
+w: phone number = telefon raqami
+w: email address = elektron pochta manzili
+w: at (@) = et (@ belgisi)
+w: dot (.) = nuqta
+w: double L = ikkita L
+s: My first name is … .
+s: It’s spelt … .
+s: My email address is … at … dot com.
+
+## 1.4
+w: hello / hi = salom
+w: goodbye / bye = xayr
+w: see you later = keyinroq ko‘rishguncha
+w: nice to meet you = tanishganimdan xursandman
+w: good morning = xayrli tong
+w: good afternoon = xayrli kun
+w: How are you? = Qalaysiz?
+w: polite = xushmuomala
+s: I say “… ” to my friends.
+s: When I meet someone new, I say “… ”.
+s: A polite way is “Good morning, teacher.”
+
+## 1.5
+w: reception = qabulxona
+w: room key = xona kaliti
+w: I have a reservation = joy band qilganman
+w: single / double room = bir / ikki kishilik xona
+w: Wi-Fi password = Wi-Fi paroli
+w: breakfast = nonushta
+w: clean = toza
+w: quiet = tinch
+s: I like / don’t like staying in hotels because … .
+s: At reception I ask for … .
+s: For me, … is important in a hotel.
+
+## 2.1
+w: What’s this? = Bu nima?
+w: What are these? = Bular nima?
+w: It’s a … = Bu …
+w: They’re … = Ular …
+w: pen / pencil = ruchka / qalam
+w: notebook = daftar
+w: desk = parta
+w: How many …? = Nechta …?
+s: It’s a … .
+s: They’re … .
+s: There are … books on my desk.
+
+## 2.2
+w: job = ish, kasb
+w: doctor = shifokor
+w: teacher = o‘qituvchi
+w: engineer = muhandis
+w: works in a … = …da ishlaydi
+w: in the future = kelajakda
+w: interesting = qiziqarli
+w: I want to be a … = …bo‘lishni xohlayman
+s: I’m a student. / I’m a … .
+s: My mother is a … . She works in a … .
+s: In the future I want to be a … .
+
+## 2.3
+w: Where is …? = … qayerda?
+w: in / on / under = ichida / ustida / ostida
+w: next to = yonida
+w: near = yaqinida
+w: at home = uyda
+w: in my bag = sumkamda
+w: park = park
+w: best friend = eng yaqin do‘st
+s: My bag is on / under … .
+s: My school is near / next to … .
+s: My best friend is from … .
+
+## 2.4
+w: What time is it? = Soat necha?
+w: o’clock = soat (aniq)
+w: half past = yarim (…dan o‘ttiz daqiqa o‘tdi)
+w: quarter past / to = chorak o‘tdi / kam
+w: wake up = uyg‘onmoq
+w: have lunch = tushlik qilmoq
+w: go to bed = uxlashga yotmoq
+w: at … a.m. / p.m. = ertalab / kechqurun soat …da
+s: It’s … o’clock. / It’s half past … .
+s: I wake up at … .
+s: My school starts at … .
+
+## 2.5
+w: old = eski
+w: antique = antiqa buyum
+w: special = alohida, maxsus
+w: favourite = sevimli
+w: object = buyum
+w: my grandparents’ … = bobo-buvimning …
+w: I prefer … = men …ni afzal ko‘raman
+w: new = yangi
+s: Yes, we have an old … at home.
+s: My favourite object is … because … .
+s: I prefer old / new things because … .
+
+## 3.1
+w: Have you got …? = Sizda … bormi?
+w: I’ve got … = Menda … bor
+w: I haven’t got … = Menda … yo‘q
+w: garden = bog‘
+w: pet = uy hayvoni
+w: neighbour = qo‘shni
+w: bedroom = yotoqxona
+w: favourite book = sevimli kitob
+s: Yes, I’ve got a … . / No, I haven’t.
+s: In my bedroom I’ve got a … and a … .
+s: My neighbour has got / hasn’t got a car.
+
+## 3.2
+w: laptop = noutbuk
+w: bicycle = velosiped
+w: smartphone = smartfon
+w: possessions = shaxsiy buyumlar
+w: I want … = men … xohlayman
+w: special = maxsus
+w: in my bag = sumkamda
+w: expensive / cheap = qimmat / arzon
+s: Yes, I’ve got a … . / No, I haven’t got a … .
+s: I haven’t got a …, but I want one.
+s: Today in my bag I’ve got … .
+
+## 3.3
+w: family = oila
+w: parents = ota-ona
+w: brother / sister = aka-uka / opa-singil
+w: grandmother / grandfather = buvi / bobo
+w: only child = yolg‘iz farzand
+w: older / younger = katta / kichik
+w: He works as a … = U … bo‘lib ishlaydi
+w: kind = mehribon
+s: There are … people in my family.
+s: I’ve got … brother(s) and … sister(s).
+s: My grandmother is … years old. She is very … .
+
+## 3.4
+w: Thank you (very much) = Katta rahmat
+w: You’re welcome = Arzimaydi
+w: Sorry = Kechirasiz
+w: Excuse me = Kechirasiz (e’tibor uchun)
+w: Pardon? = Nima dedingiz?
+w: Can you repeat that? = Takrorlay olasizmi?
+w: I don’t understand = Tushunmadim
+w: No problem = Muammo yo‘q
+s: When someone helps me, I say “… ”.
+s: When I don’t understand, I say “… ”.
+s: To get attention, I say “Excuse me, … ”.
+
+## 3.5
+w: gadget = gadjet, qurilma
+w: tablet = planshet
+w: headphones = quloqchinlar
+w: use = foydalanmoq
+w: every day = har kuni
+w: live without = …siz yashamoq
+w: good for = …uchun foydali
+w: bad for = …uchun zararli
+s: I’ve got … gadgets at home.
+s: Yes, I can. / No, I can’t live without my phone because … .
+s: I think gadgets are good / bad for children because … .
+
+## 4.1
+w: live in = …da yashamoq
+w: work / study = ishlamoq / o‘qimoq
+w: speak = gapirmoq
+w: language = til
+w: in the morning = ertalab
+w: get up = turmoq
+w: have breakfast = nonushta qilmoq
+w: daily routine = kundalik tartib
+s: I live in … with my … .
+s: I study at … . / I work at … .
+s: In the morning I get up, … and … .
+
+## 4.2
+w: by bus / car / train = avtobusda / mashinada / poyezdda
+w: on foot = piyoda
+w: walk = piyoda yurmoq
+w: journey = yo‘l, safar
+w: it takes … minutes = … daqiqa vaqt oladi
+w: travel = sayohat qilmoq
+w: transport = transport
+w: usually = odatda
+s: I come to school by … / on foot.
+s: My journey takes about … minutes.
+s: I usually use … because it’s … .
+
+## 4.3
+w: after school = maktabdan keyin
+w: do homework = uy vazifasini bajarmoq
+w: help at home = uyda yordam bermoq
+w: wash the dishes = idish yuvmoq
+w: eat = yemoq
+w: do exercise = mashq qilmoq
+w: every day = har kuni
+w: favourite time = sevimli vaqt
+s: After school I … .
+s: For breakfast I usually eat … .
+s: My favourite time of day is … because … .
+
+## 4.4
+w: go shopping = xarid qilishga bormoq
+w: shop / market = do‘kon / bozor
+w: shopping centre = savdo markazi
+w: buy = sotib olmoq
+w: spend money = pul sarflamoq
+w: How much is it? = Bu qancha turadi?
+w: Can I help you? = Yordam bera olamanmi?
+w: Can I try this on? = Buni kiyib ko‘rsam bo‘ladimi?
+s: I like / don’t like shopping because … .
+s: I usually shop at … .
+s: I say: “Excuse me, can you help me?”
+
+## 4.5
+w: start my day = kunimni boshlamoq
+w: busy = band
+w: relaxed = xotirjam
+w: part of the day = kunning qismi
+w: read the news = yangiliklarni o‘qimoq
+w: journalist = jurnalist
+w: online = onlayn
+w: I think … = menimcha …
+s: I start my day at … .
+s: I usually have a busy / relaxed day.
+s: I think a … has a very busy job.
+
+## 5.1
+w: wear = kiymoq
+w: colour = rang
+w: uniform = forma
+w: jeans = jinsi shim
+w: T-shirt = futbolka
+w: dress = ko‘ylak
+w: casual = oddiy, kundalik
+w: at the weekend = dam olish kunlari
+s: I usually wear … colours.
+s: My favourite piece of clothing is my … .
+s: At the weekend I wear … .
+
+## 5.2
+w: famous building = mashhur bino
+w: modern = zamonaviy
+w: old = eski, qadimiy
+w: tower = minora
+w: mosque = masjid
+w: museum = muzey
+w: beautiful = chiroyli
+w: I want to visit … = …ga borishni xohlayman
+s: A famous building in my city is … .
+s: I like old / modern buildings because … .
+s: One day I want to visit … .
+
+## 5.3
+w: traditional clothes = milliy kiyim
+w: culture = madaniyat
+w: wedding = to‘y
+w: holiday / festival = bayram
+w: popular = mashhur, ommabop
+w: fashion = moda
+w: style = uslub
+w: young people = yoshlar
+s: Yes, people wear traditional clothes at … .
+s: Popular colours in my country are … .
+s: Young people in my country usually wear … .
+
+## 5.4
+w: city centre = shahar markazi
+w: timetable = jadval
+w: ticket = chipta
+w: single / return ticket = bir tomonlama / borib-kelish chiptasi
+w: platform = platforma
+w: What time does it leave? = Qachon jo‘naydi?
+w: How much is a ticket? = Chipta qancha turadi?
+w: It costs … = U … turadi
+s: I get to the city centre by … .
+s: At the station I ask: “What time … ?”
+s: A bus ticket costs about … .
+
+## 5.5
+w: canal = kanal
+w: bridge = ko‘prik
+w: architecture = me’morchilik
+w: special = o‘ziga xos
+w: near the water = suv yaqinida
+w: river = daryo
+w: kind of city = shahar turi
+w: quiet / busy = tinch / gavjum
+s: Yes, I visited … . / No, I haven’t.
+s: My city’s architecture is special because … .
+s: I want to live in a … city because … .
+
+## 6.1
+w: There is … = … bor
+w: There are … = …lar bor
+w: park = park
+w: supermarket = supermarket
+w: hospital = kasalxona
+w: bank = bank
+w: big / small = katta / kichik
+w: I like … = menga … yoqadi
+s: Yes, there is a … near my home.
+s: In my town there are … and … .
+s: I like my town because … .
+
+## 6.2
+w: Is there …? = … bormi?
+w: Wi-Fi = Wi-Fi
+w: gym = sport zali
+w: swimming pool = suzish havzasi
+w: restaurant = restoran
+w: in my area = mening hududimda
+w: facilities = qulayliklar
+w: free = bepul
+s: Yes, there is. / No, there isn’t.
+s: There are some good restaurants in my area, for example … .
+s: In a hotel, … is important for me.
+
+## 6.3
+w: room = xona
+w: living room = mehmonxona
+w: kitchen = oshxona
+w: bathroom = hammom
+w: furniture = mebel
+w: bed / wardrobe = karavot / shkaf
+w: balcony = balkon
+w: favourite room = sevimli xona
+s: There are … rooms in my home.
+s: My favourite room is the … because … .
+s: In my bedroom there is a … and a … .
+
+## 6.4
+w: stay in a hotel = mehmonxonada qolmoq
+w: comfortable = qulay
+w: clean / dirty = toza / iflos
+w: friendly staff = samimiy xodimlar
+w: view = manzara
+w: expensive = qimmat
+w: recommend = tavsiya qilmoq
+w: It was … = U … edi
+s: Yes, I stayed in a hotel in … .
+s: The room was … and the staff were … .
+s: I would / wouldn’t recommend it because … .
+
+## 6.5
+w: ideal home = ideal uy
+w: house / flat = hovli uy / kvartira
+w: bedroom = yotoqxona
+w: location = joylashuv
+w: near the centre = markazga yaqin
+w: quiet street = tinch ko‘cha
+w: big garden = katta bog‘
+w: important = muhim
+s: My ideal home is … .
+s: I prefer a house / flat because … .
+s: For me, the most important thing is … .
+
+## 7.1
+w: can / can’t = qila olaman / qila olmayman
+w: well = yaxshi
+w: play the piano / guitar = pianino / gitara chalmoq
+w: cook = ovqat pishirmoq
+w: draw = rasm chizmoq
+w: swim = suzmoq
+w: learn = o‘rganmoq
+w: speak a language = tilda gapirmoq
+s: I can … well.
+s: I can’t …, but I want to learn.
+s: I can speak … and a little … .
+
+## 7.2
+w: Can you help me? = Yordam bera olasizmi?
+w: Could you …? = …olarmidingiz?
+w: exercise = mashq
+w: quickly / slowly = tez / sekin
+w: write = yozmoq
+w: ask for help = yordam so‘ramoq
+w: politely = xushmuomalalik bilan
+w: ask the teacher = o‘qituvchidan so‘ramoq
+s: Yes, of course. / Sorry, I can’t.
+s: I can / can’t speak English quickly.
+s: When I don’t understand, I ask … .
+
+## 7.3
+w: like / love + -ing = …ni yoqtirmoq / sevmoq
+w: don’t like / hate + -ing = yoqtirmaslik / yomon ko‘rmoq
+w: go out = ko‘chaga chiqmoq
+w: stay at home = uyda qolmoq
+w: hobby = sevimli mashg‘ulot
+w: read books = kitob o‘qimoq
+w: watch films = film ko‘rmoq
+w: play football = futbol o‘ynamoq
+s: At the weekend I like … -ing.
+s: I prefer going out / staying at home because … .
+s: My hobbies are … and … .
+
+## 7.4
+w: social media = ijtimoiy tarmoqlar
+w: post = joylamoq, post
+w: follow = kuzatmoq
+w: photo / video = rasm / video
+w: share = ulashmoq
+w: comment = izoh
+w: Instagram / Telegram = Instagram / Telegram
+w: hours a day = kuniga soat
+s: Yes, I use … .
+s: I usually post about … .
+s: I spend about … hours a day on social media.
+
+## 7.5
+w: hobby = sevimli mashg‘ulot
+w: unusual = g‘ayrioddiy
+w: common = oddiy, keng tarqalgan
+w: for … years = … yildan beri
+w: the same as = …bilan bir xil
+w: try = sinab ko‘rmoq
+w: collect = yig‘moq
+w: interesting = qiziqarli
+s: My hobby is … .
+s: I’ve had this hobby for … years.
+s: I want to try … because … .
+
+## 8.1
+w: was / were born = tug‘ilgan
+w: I was born in … = …da tug‘ilganman
+w: child = bola
+w: happy = baxtli
+w: yesterday = kecha
+w: last Monday = o‘tgan dushanba
+w: toy = o‘yinchoq
+w: when I was young = yoshligimda
+s: I was born in … .
+s: Yesterday I was at … .
+s: My favourite toy was a … .
+
+## 8.2
+w: lived = yashagan
+w: liked = yoqtirgan
+w: studied = o‘qigan
+w: worked as = …bo‘lib ishlagan
+w: primary school = boshlang‘ich maktab
+w: in the past = o‘tmishda
+w: last year = o‘tgan yili
+w: grandparents = bobo-buvi
+s: When I was a child, I lived in … .
+s: Last year I studied … .
+s: My grandfather worked as a … .
+
+## 8.3
+w: special moment = alohida lahza
+w: birthday = tug‘ilgan kun
+w: celebrate = nishonlamoq
+w: occasion = voqea, marosim
+w: gift / present = sovg‘a
+w: give / receive = bermoq / olmoq
+w: spent = o‘tkazdi
+w: recently = yaqinda
+s: A special moment in my life was … .
+s: On my last birthday I … .
+s: I gave / received a … .
+
+## 8.4
+w: born in (year) = (yil)da tug‘ilgan
+w: went to school = maktabga borgan
+w: as a child = bolaligida
+w: important person = muhim inson
+w: because = chunki
+w: happened = sodir bo‘ldi
+w: moved to = …ga ko‘chib o‘tdi
+w: started = boshladi
+s: I was born in … in … .
+s: I went to primary school in … .
+s: An important person in my life is … because … .
+
+## 8.5
+w: inventor = ixtirochi
+w: invent = ixtiro qilmoq
+w: make = yasamoq
+w: science = fan
+w: project = loyiha
+w: plane = samolyot
+w: history = tarix
+w: amazing = ajoyib
+s: I know … . He / She invented … .
+s: As a child I made a … .
+s: I was / wasn’t good at science.
+
+## 9.1
+w: memory = xotira
+w: childhood = bolalik
+w: went on holiday = ta’tilga bordi
+w: last summer = o‘tgan yoz
+w: ate = yedi
+w: saw = ko‘rdi
+w: made = yasadi
+w: last weekend = o‘tgan dam olish kunlari
+s: A happy memory from my childhood is … .
+s: Last summer I went to … .
+s: Last weekend I saw … .
+
+## 9.2
+w: late = kech qolgan
+w: forgot = unutdi
+w: homework = uy vazifasi
+w: excuse = bahona
+w: missed = qoldirdi
+w: I’m sorry I’m late = Kechikkanim uchun uzr
+w: the bus was late = avtobus kechikdi
+w: funny = kulgili
+s: Yes, I was late once because … .
+s: When I’m late, I say “… ”.
+s: A funny excuse I heard was … .
+
+## 9.3
+w: weather = ob-havo
+w: sunny / rainy = quyoshli / yomg‘irli
+w: happened = sodir bo‘ldi
+w: news = yangiliklar
+w: recently = yaqinda
+w: two days ago = ikki kun oldin
+w: surprising = kutilmagan
+w: in my town = shahrimda
+s: Yesterday it was … .
+s: Recently in my town … .
+s: Two days ago I … .
+
+## 9.4
+w: event = tadbir
+w: concert = konsert
+w: show = shou
+w: film = film
+w: It was great / boring = Zo‘r / zerikarli edi
+w: the best = eng yaxshi
+w: fun = qiziqarli, maroqli
+w: went to = …ga bordi
+s: Recently I went to … .
+s: The last film I watched was … . It was … .
+s: Last weekend I … . It was fun / boring.
+
+## 9.5
+w: hot / cold = issiq / sovuq
+w: warm = iliq
+w: sunny = quyoshli
+w: rainy = yomg‘irli
+w: snowy = qorli
+w: windy = shamolli
+w: cloudy = bulutli
+w: temperature = harorat
+s: In summer it’s very … in my country.
+s: Today it’s … .
+s: On cold days I usually … .
+
+## 10.1
+w: be going to = …moqchi
+w: this weekend = shu dam olish kunlari
+w: next year = kelasi yili
+w: soon = tez orada
+w: travel = sayohat qilmoq
+w: project = loyiha
+w: raise money = pul yig‘moq
+w: something special = alohida narsa
+s: This weekend I’m going to … .
+s: Next year I’m going to … .
+s: My family is going to … .
+
+## 10.2
+w: change = o‘zgartirmoq
+w: move to = …ga ko‘chmoq
+w: new place = yangi joy
+w: learn = o‘rganmoq
+w: new job = yangi ish
+w: in the future = kelajakda
+w: one day = bir kun kelib
+w: big change = katta o‘zgarish
+s: I’m going to change … .
+s: One day I’m going to move to … .
+s: I want to learn … .
+
+## 10.3
+w: café = kafe
+w: order = buyurtma bermoq
+w: coffee / tea = qahva / choy
+w: hot chocolate = issiq shokolad
+w: cake = tort
+w: I’d like … = … xohlardim
+w: Would you like …? = … xohlaysizmi?
+w: favourite drink = sevimli ichimlik
+s: Yes, I like going to cafés. / No, I don’t.
+s: I usually order a … .
+s: I’d like / wouldn’t like to work in a café because … .
+
+## 10.4
+w: invite = taklif qilmoq
+w: invitation = taklifnoma
+w: party = ziyofat
+w: Would you like to come …? = …kelishni xohlaysizmi?
+w: thank-you note = minnatdorchilik xati
+w: Thank you for … = … uchun rahmat
+w: gift = sovg‘a
+w: It’s lovely! = Juda ajoyib!
+s: I invite a friend: “Would you like to come to … ?”
+s: When I get a gift, I say “… ”.
+s: Thank you for helping me with … .
+
+## 10.5
+w: Would you like to …? = …ni xohlarmidingiz?
+w: I’d like to visit … = …ga borishni xohlardim
+w: big city = katta shahar
+w: skyscraper = osmono‘par bino
+w: famous = mashhur
+w: dream place = orzudagi joy
+w: because = chunki
+w: one day = bir kun kelib
+s: Yes, I’d like to visit New York because … .
+s: I know that New York is … .
+s: My dream place to visit is … because … .
