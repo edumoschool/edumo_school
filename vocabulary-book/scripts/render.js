@@ -1,11 +1,11 @@
-// Render dist/front.html and dist/body.html to PDF and merge them.
-// Usage: node render.js            -> dist/body.pdf, dist/front.pdf, unit page map
+// Render dist/<level>/front.html and body.html to PDF and write the unit page map.
+// Usage: node render.js LEVEL      -> dist/<level>/body.pdf, front.pdf, pages.json
 const { chromium } = require('playwright');
 const fs = require('fs');
 const path = require('path');
 const { execFileSync } = require('child_process');
 
-const dist = path.resolve(__dirname, '..', 'dist');
+const dist = path.resolve(__dirname, '..', 'dist', (process.argv[2] || 'A1').toLowerCase());
 
 (async () => {
   const exe = fs.existsSync('/opt/pw-browsers/chromium') ? '/opt/pw-browsers/chromium' : undefined;

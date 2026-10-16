@@ -8,7 +8,7 @@ ENTRY = re.compile(r'^(.+?)\s+(?:('+POS+r')\s+)?(/[^/]+/)\s*(.*)$')
 for line in txt.split('\n'):
     line=re.sub(r'\s+',' ',line).strip()
     if not line: continue
-    m = re.match(r'A1 Wordlist Unit (\d+)$', line)
+    m = re.match(r'A\d Wordlist Unit (\d+)$', line)
     if m:
         u=int(m.group(1))
         if u!=cur: cur=u; section=None; last=None; units.setdefault(u, [])

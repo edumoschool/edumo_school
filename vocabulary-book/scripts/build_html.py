@@ -1,10 +1,10 @@
-"""Build the Impulse Learning Center A1 vocabulary book as HTML.
+"""Build an Impulse Learning Center vocabulary book (A1 or A2) as HTML.
 
-Produces two documents in dist/:
+Produces two documents in dist/<level>/:
   front.html  – cover, how-to-use page and contents (no running header)
   body.html   – unit-by-unit vocabulary tables (rendered with header/footer)
 
-Usage: python3 build_html.py [pages.json]
+Usage: python3 build_html.py LEVEL [pages.json]
 pages.json (optional) maps unit number -> first page in body.pdf; it is
 written by render.js after a first pass so the contents page can show
 real page numbers.
@@ -17,25 +17,54 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-DATA = json.loads((ROOT / "data" / "navigate-a1-words.json").read_text(encoding="utf-8"))
-DIST = ROOT / "dist"
-PAGES = json.loads(Path(sys.argv[1]).read_text()) if len(sys.argv) > 1 else {}
+LEVELS = {
+    "A1": {
+        "kicker": "LEVEL A1 · BEGINNER",
+        "cover_word": ("1", "holiday"),
+        "sample_word": ("4", "get up"),
+        "topics": {
+            "1": ("Hello!", "Greetings, names, numbers 1–10 and countries"),
+            "2": ("People and places", "Jobs, objects, places in town and numbers 11–100"),
+            "3": ("Family and friends", "Family, possessions and describing people"),
+            "4": ("Daily life", "Routines, transport, free time and days of the week"),
+            "5": ("Clothes and colours", "Clothes, the body, colours and frequency"),
+            "6": ("Places to stay", "Hotels, homes, rooms and facilities"),
+            "7": ("Abilities and free time", "Skills, hobbies and animals"),
+            "8": ("Famous lives", "People from history, ordinal numbers and months"),
+            "9": ("Life stories", "Past events, the weather and seasons"),
+            "10": ("Food and future plans", "Food, drink and plans for the future"),
+        },
+    },
+    "A2": {
+        "kicker": "LEVEL A2 · ELEMENTARY",
+        "cover_word": ("1", "neighbour"),
+        "sample_word": ("2", "get up"),
+        "topics": {
+            "1": ("Family and nationalities", "Family members, nationalities and languages"),
+            "2": ("Daily routines", "Routines, telling the time and life in unusual places"),
+            "3": ("Jobs and work", "Jobs, workplaces and talking about work"),
+            "4": ("Homes and towns", "Rooms, furniture, places in town and prepositions"),
+            "5": ("Shopping and clothes", "Shops, clothes, value and adverbs"),
+            "6": ("Stories from the past", "Past events, success stories and art"),
+            "7": ("Health and sport", "Sport, fitness, habits and healthy living"),
+            "8": ("Travel and transport", "Holidays, getting around and tickets"),
+            "9": ("Food and cooking", "Kitchen equipment, cooking and eating out"),
+            "10": ("Weather and places", "Weather, geography and survival"),
+            "11": ("Community and teamwork", "Helping others, teams and strong adjectives"),
+            "12": ("Arts and experiences", "Films, music, shows and irregular verbs"),
+        },
+    },
+}
+LEVEL = sys.argv[1].upper() if len(sys.argv) > 1 else "A1"
+CFG = LEVELS[LEVEL]
+DATA = json.loads((ROOT / "data" / f"navigate-{LEVEL.lower()}-words.json").read_text(encoding="utf-8"))
+DIST = ROOT / "dist" / LEVEL.lower()
+PAGES = json.loads(Path(sys.argv[2]).read_text()) if len(sys.argv) > 2 else {}
 
 SCHOOL = "Impulse Learning Center"
-TITLE = "A1 Vocabulary Book"
-
-UNIT_TOPICS = {
-    "1": ("Hello!", "Greetings, names, numbers 1–10 and countries"),
-    "2": ("People and places", "Jobs, objects, places in town and numbers 11–100"),
-    "3": ("Family and friends", "Family, possessions and describing people"),
-    "4": ("Daily life", "Routines, transport, free time and days of the week"),
-    "5": ("Clothes and colours", "Clothes, the body, colours and frequency"),
-    "6": ("Places to stay", "Hotels, homes, rooms and facilities"),
-    "7": ("Abilities and free time", "Skills, hobbies and animals"),
-    "8": ("Famous lives", "People from history, ordinal numbers and months"),
-    "9": ("Life stories", "Past events, the weather and seasons"),
-    "10": ("Food and future plans", "Food, drink and plans for the future"),
-}
+TITLE = f"{LEVEL} Vocabulary Book"
+UNIT_TOPICS = CFG["topics"]
+UNITS_LABEL = f"Navigate {LEVEL} · Units 1–{len(DATA)}"
 
 GROUPS = [
     ("Nouns", {"n", "n pl"}),
@@ -146,11 +175,14 @@ def unit_table(u, words):
 
 def word_row(n, w):
     pos = POS_LABEL.get(w["pos"], w["pos"])
+    m = re.match(r"(.+?)\s*(\((?:past|plural)[^)]*\))$", w["word"])
+    head, note = (m.group(1), m.group(2)) if m else (w["word"], "")
     ex = highlight(w["ex"], w["word"]) if w["ex"] else '<span class="muted">—</span>'
     return ("<tr>"
             f'<td class="num">{n}</td>'
-            f'<td class="word"><strong>{e(w["word"])}</strong>'
-            f'{f" <i>{e(pos)}</i>" if pos else ""}</td>'
+            f'<td class="word"><strong>{e(head)}</strong>'
+            f'{f" <i>{e(pos)}</i>" if pos else ""}'
+            f'{f"<small>{e(note)}</small>" if note else ""}</td>'
             f'<td class="ipa">{e(w["ipa"])}</td>'
             f'<td class="def">{e(w["def"])}</td>'
             f'<td class="ex">{ex}</td>'
@@ -208,6 +240,7 @@ tr.grp .ico{width:13px;height:13px;margin-right:6px;position:relative;top:-1px}
 tr.grp em{font-style:normal;font-weight:600;color:var(--muted);font-size:7.4pt;margin-left:8px}
 td.num{text-align:center;color:var(--muted);font-size:7.4pt;font-variant-numeric:tabular-nums}
 td.word strong{color:var(--navy);font-weight:700;font-size:8.8pt}
+td.word small{display:block;color:var(--muted);font-size:7pt;font-weight:500;margin-top:1px}
 td.word i{color:var(--blue);font-style:italic;font-size:7.6pt;font-weight:600}
 td.ipa{font-family:"DejaVu Sans",sans-serif;color:#33476B;font-size:7.9pt}
 td.ex b{color:var(--blue-d);font-weight:700}
@@ -322,28 +355,31 @@ def html_doc(title, css, body):
 def build_front():
     total = sum(len(ws) for ws in DATA.values())
     units_dots = "".join(f"<span>{u}</span>" for u in DATA)
+    cu, cword = CFG["cover_word"]
+    cw = next(w for w in DATA[cu] if w["word"] == cword)
     cover = f"""
 <div class="page cover"><div class="grid"></div><div class="blob b1"></div><div class="blob b2"></div>
  <div class="brand">{logo_svg(64, light=True)}<div><b>IMPULSE</b><small>LEARNING CENTER</small></div></div>
  <div class="main">
-  <span class="kicker">LEVEL A1 · BEGINNER</span>
+  <span class="kicker">{CFG["kicker"]}</span>
   <h1>Vocabulary<br><span>Book</span></h1>
   <p class="lead">Unit-by-unit word lists with transcription, simple English definitions,
   example sentences and Russian &amp; Uzbek translations.</p>
-  <div class="feat"><span>{total} words</span><span>10 units</span><span>Transcription</span>
+  <div class="feat"><span>{total} words</span><span>{len(DATA)} units</span><span>Transcription</span>
    <span>Russian</span><span>Uzbek</span></div>
  </div>
  <div class="card"><div class="top"><b>WORD OF THE BOOK</b></div>
-  <div class="body"><div class="w">holiday <i>n</i></div><div class="ipa">/ˈhɒlədeɪ/</div>
-   <div class="row"><small>MEANING</small><span>a period of time when you do not go to work or school</span></div>
-   <div class="row"><small>EXAMPLE</small><span>I’m here on <b>holiday</b>.</span></div>
-   <div class="row"><small>RUSSIAN</small><span>отпуск, каникулы</span></div>
-   <div class="row"><small>UZBEK</small><span>ta’til</span></div></div></div>
- <div class="foot"><div><b>{SCHOOL}</b> · Based on the Navigate A1 coursebook word lists</div>
+  <div class="body"><div class="w">{e(cw["word"])} <i>{POS_LABEL.get(cw["pos"], cw["pos"])}</i></div><div class="ipa">{e(cw["ipa"])}</div>
+   <div class="row"><small>MEANING</small><span>{e(cw["def"])}</span></div>
+   <div class="row"><small>EXAMPLE</small><span>{highlight(cw["ex"], cw["word"])}</span></div>
+   <div class="row"><small>RUSSIAN</small><span>{e(cw["ru"])}</span></div>
+   <div class="row"><small>UZBEK</small><span>{e(cw["uz"])}</span></div></div></div>
+ <div class="foot"><div><b>{SCHOOL}</b> · Based on the Navigate {LEVEL} coursebook word lists</div>
   <div class="units">{units_dots}</div></div>
 </div>"""
 
-    sample_word = next(w for w in DATA["4"] if w["word"] == "get up")
+    su, sword = CFG["sample_word"]
+    sample_word = next(w for w in DATA[su] if w["word"] == sword)
     sample = f"""<table class="vocab"><colgroup><col class="w-num"><col class="w-word">
       <col class="w-ipa"><col class="w-def"><col class="w-ex"><col class="w-ru"><col class="w-uz"></colgroup>
       <thead><tr><th>№</th><th>WORDS</th><th>TRANSCRIPTION</th><th>DEFINITION</th>
@@ -375,7 +411,7 @@ def build_front():
   </div>
  </div>
  <div class="sample"><h3>Sample entry</h3>{sample}</div>
-</div><div class="pfoot"><span><b>{SCHOOL}</b> · {TITLE}</span><span>Navigate A1 · Units 1–10</span></div></div>"""
+</div><div class="pfoot"><span><b>{SCHOOL}</b> · {TITLE}</span><span>{UNITS_LABEL}</span></div></div>"""
 
     cards = []
     for u, ws in DATA.items():
@@ -386,12 +422,12 @@ def build_front():
   <div class="meta"><span><b>{len(ws)}</b> words</span>{f'<span class="pg">p. {pg}</span>' if pg else ''}</div></div></a>""")
     toc = f"""
 <div class="page"><div class="inner">
- <div class="ptitle">{logo_svg(30)}<h2>Contents</h2><div class="bar"></div><small>10 UNITS</small></div>
- <div class="toc">{''.join(cards)}</div>
+ <div class="ptitle">{logo_svg(30)}<h2>Contents</h2><div class="bar"></div><small>{len(DATA)} UNITS</small></div>
+ <div class="toc" style="grid-template-columns:repeat({(len(DATA) + 1) // 2},1fr)">{''.join(cards)}</div>
  <div class="summary"><div><b>{total}</b><small>words and phrases</small></div>
-  <div><b>10</b><small>units</small></div>
+  <div><b>{len(DATA)}</b><small>units</small></div>
   <div><b>2</b><small>translations: Russian &amp; Uzbek</small></div></div>
-</div><div class="pfoot"><span><b>{SCHOOL}</b> · {TITLE}</span><span>Navigate A1 · Units 1–10</span></div></div>"""
+</div><div class="pfoot"><span><b>{SCHOOL}</b> · {TITLE}</span><span>{UNITS_LABEL}</span></div></div>"""
     return html_doc(f"{SCHOOL} — {TITLE}", FRONT_CSS, cover + how + toc)
 
 
@@ -406,16 +442,16 @@ display:flex;justify-content:space-between;align-items:center;font-family:Inter,
 -webkit-print-color-adjust:exact">
 <span style="display:flex;align-items:center;gap:6px">{logo_svg(14)}<b style="letter-spacing:.12em">IMPULSE</b>
 <span style="letter-spacing:.12em;color:#6B7A90">LEARNING CENTER</span></span>
-<span style="letter-spacing:.14em"><b style="color:#1E90FF">A1</b> VOCABULARY BOOK</span></div>"""
+<span style="letter-spacing:.14em"><b style="color:#1E90FF">{LEVEL}</b> VOCABULARY BOOK</span></div>"""
     footer = f"""<div style="width:100%;margin:0 10mm;display:flex;justify-content:space-between;align-items:center;
 font-family:Inter,sans-serif;font-size:7.5px;color:#6B7A90;-webkit-print-color-adjust:exact">
-<span>© {SCHOOL} · Based on the Navigate A1 coursebook word lists</span>
+<span>© {SCHOOL} · Based on the Navigate {LEVEL} coursebook word lists</span>
 <span style="background:#1E90FF;color:#fff;border-radius:4px;padding:2px 7px;font-weight:700">Page <span class="pageNumber"></span> of <span class="totalPages"></span></span></div>"""
     return {"header": header, "footer": footer}
 
 
 if __name__ == "__main__":
-    DIST.mkdir(exist_ok=True)
+    DIST.mkdir(parents=True, exist_ok=True)
     (DIST / "front.html").write_text(build_front(), encoding="utf-8")
     (DIST / "body.html").write_text(build_body(), encoding="utf-8")
     (DIST / "unit_titles.json").write_text(

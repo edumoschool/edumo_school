@@ -1,26 +1,32 @@
-# Impulse Learning Center — A1 Vocabulary Book
+# Impulse Learning Center — Vocabulary Books (A1 & A2)
 
-A unit-by-unit vocabulary book (Navigate A1, Units 1–10, 775 words) in the
-style of the *Vocabulary for IELTS* book, re-themed in dodger blue for
-Impulse Learning Center.
+Unit-by-unit vocabulary books based on the Navigate word lists, in the style
+of the *Vocabulary for IELTS* book, themed in dodger blue for Impulse
+Learning Center.
 
-Each entry has: word + part of speech · IPA transcription ·
-simple English definition · example sentence (headword highlighted) ·
-Russian · Uzbek. Words are grouped by part of speech inside every unit,
-followed by themed lists (numbers, countries, days, months).
+| Book | Units | Words |
+|------|-------|-------|
+| `dist/Impulse_A1_Vocabulary_Book.pdf` | 10 | 775 |
+| `dist/Impulse_A2_Vocabulary_Book.pdf` | 12 | 705 |
+
+Each entry has: word + part of speech · IPA transcription · simple English
+definition · example sentence (headword highlighted) · Russian · Uzbek.
+Words are grouped by part of speech inside every unit, followed by themed
+lists (numbers, countries, days, months).
 
 ## Files
 
-- `dist/Impulse_A1_Vocabulary_Book.pdf` — the finished book (A4 landscape)
-- `dist/front.html`, `dist/body.html` — the HTML source pages
-- `data/navigate-a1-words.json` — all word data (edit here to fix a translation)
-- `scripts/parse_wordlist.py` — extracts words from the Navigate wordlist PDF text
-- `scripts/build_html.py` — generates the HTML; `scripts/render.js` prints it to PDF
+- `data/navigate-a1-words.json`, `data/navigate-a2-words.json` — all word data (edit here to fix a translation)
+- `dist/a1/`, `dist/a2/` — generated HTML pages
+- `assets/impulse-logo.png` — the school logo
+- `scripts/parse_wordlist.py` — extracts words from a Navigate wordlist PDF (`pdftotext -raw` output)
+- `scripts/build_html.py LEVEL` — generates the HTML; `scripts/render.js LEVEL` prints it to PDF
 
 ## Rebuild
 
 Requires Python 3, Node with Playwright (Chromium) and poppler-utils.
 
 ```bash
-./build.sh
+./build.sh          # both books
+./build.sh A2       # one book
 ```
