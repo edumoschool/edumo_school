@@ -4,7 +4,7 @@ A unit-by-unit vocabulary book (Navigate A1, Units 1–10, 775 words) in the
 style of the *Vocabulary for IELTS* book, re-themed in dodger blue for
 Impulse Learning Center.
 
-Each entry has: CEFR level · word + part of speech · IPA transcription ·
+Each entry has: word + part of speech · IPA transcription ·
 simple English definition · example sentence (headword highlighted) ·
 Russian · Uzbek. Words are grouped by part of speech inside every unit,
 followed by themed lists (numbers, countries, days, months).

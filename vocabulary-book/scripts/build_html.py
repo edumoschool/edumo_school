@@ -111,10 +111,6 @@ def highlight(example, word):
     return ex
 
 
-def level_badge(level):
-    return f'<span class="lvl lvl-{level.lower()}">{level}</span>'
-
-
 def group_words(words):
     groups = []
     themed = {}
@@ -135,7 +131,7 @@ def unit_table(u, words):
     rows = []
     n = 0
     for name, ico, items in group_words(words):
-        rows.append(f'<tr class="grp"><td colspan="8">{icon(ico)}<span>{e(name)}</span>'
+        rows.append(f'<tr class="grp"><td colspan="7">{icon(ico)}<span>{e(name)}</span>'
                     f'<em>{len(items)} words</em></td></tr>')
         for w in items:
             n += 1
@@ -148,7 +144,6 @@ def word_row(n, w):
     ex = highlight(w["ex"], w["word"]) if w["ex"] else '<span class="muted">—</span>'
     return ("<tr>"
             f'<td class="num">{n}</td>'
-            f'<td class="c-lvl">{level_badge(w["level"])}</td>'
             f'<td class="word"><strong>{e(w["word"])}</strong>'
             f'{f" <i>{e(pos)}</i>" if pos else ""}</td>'
             f'<td class="ipa">{e(w["ipa"])}</td>'
@@ -159,29 +154,19 @@ def word_row(n, w):
             "</tr>")
 
 
-def level_counts(words):
-    counts = {}
-    for w in words:
-        counts[w["level"]] = counts.get(w["level"], 0) + 1
-    return counts
-
-
 def unit_section(u, words):
     title, sub = UNIT_TOPICS[u]
-    counts = level_counts(words)
-    chips = "".join(f'<span class="chip">{level_badge(k)} {v}</span>' for k, v in sorted(counts.items()))
     return f"""
 <section class="unit" id="unit-{u}">
   <header class="unit-head">
     <div class="unit-no"><small>UNIT</small><span>{u}</span></div>
     <div class="unit-title"><h1>{e(title)}</h1><p>{e(sub)}</p></div>
-    <div class="unit-stats"><div class="total"><b>{len(words)}</b><small>words</small></div>
-      <div class="chips">{chips}</div></div>
+    <div class="unit-stats"><div class="total"><b>{len(words)}</b><small>words</small></div></div>
   </header>
   <table class="vocab">
-    <colgroup><col class="w-num"><col class="w-lvl"><col class="w-word"><col class="w-ipa">
+    <colgroup><col class="w-num"><col class="w-word"><col class="w-ipa">
       <col class="w-def"><col class="w-ex"><col class="w-ru"><col class="w-uz"></colgroup>
-    <thead><tr><th>№</th><th>LEVEL</th><th>WORDS</th><th>TRANSCRIPTION</th><th>DEFINITION</th>
+    <thead><tr><th>№</th><th>WORDS</th><th>TRANSCRIPTION</th><th>DEFINITION</th>
       <th>EXAMPLE</th><th>RUSSIAN</th><th>UZBEK</th></tr></thead>
     <tbody>
 {unit_table(u, words)}
@@ -192,23 +177,19 @@ def unit_section(u, words):
 
 CSS = """
 :root{--blue:#1E90FF;--blue-d:#0B63CE;--navy:#0A2A5E;--tint:#EAF4FF;--tint2:#F5FAFF;
- --line:#CFE3FB;--ink:#14213D;--muted:#6B7A90;
- --a1:#1E90FF;--a2:#14B8A6;--b1:#6366F1;--b2:#F59E0B}
+ --line:#CFE3FB;--ink:#14213D;--muted:#6B7A90;}
 *{box-sizing:border-box;margin:0;padding:0}
 html{-webkit-print-color-adjust:exact;print-color-adjust:exact}
 body{font-family:Inter,"DejaVu Sans",sans-serif;color:var(--ink);font-size:8.4pt;line-height:1.32;background:#fff}
 .ico{width:12px;height:12px;flex:none}
-.lvl{display:inline-block;min-width:24px;padding:1.5px 0;border-radius:4px;color:#fff;font-weight:700;
- font-size:7.4pt;text-align:center;letter-spacing:.02em}
-.lvl-a1{background:var(--a1)}.lvl-a2{background:var(--a2)}.lvl-b1{background:var(--b1)}.lvl-b2{background:var(--b2)}
 .muted{color:var(--muted)}
 table.vocab{width:100%;border-collapse:separate;border-spacing:0;table-layout:fixed;border:1px solid var(--line);border-radius:8px}
-col.w-num{width:3%}col.w-lvl{width:4.6%}col.w-word{width:12.4%}col.w-ipa{width:11%}
-col.w-def{width:21%}col.w-ex{width:22.5%}col.w-ru{width:12.7%}col.w-uz{width:12.8%}
+col.w-num{width:3%}col.w-word{width:15%}col.w-ipa{width:11%}
+col.w-def{width:21%}col.w-ex{width:24.5%}col.w-ru{width:12.7%}col.w-uz{width:12.8%}
 thead{display:table-header-group}
 thead th{background:var(--blue);color:#fff;font-size:7.3pt;font-weight:700;letter-spacing:.06em;
  padding:5px 6px;text-align:left;border-right:1px solid rgba(255,255,255,.25)}
-thead th:first-child,thead th:nth-child(2){text-align:center}
+thead th:first-child{text-align:center}
 thead th:last-child{border-right:0}
 tr{break-inside:avoid}
 td{padding:3.6px 6px;border-top:1px solid var(--line);border-right:1px solid var(--line);vertical-align:top}
@@ -221,7 +202,6 @@ tr.grp td>*{vertical-align:middle}
 tr.grp .ico{width:13px;height:13px;margin-right:6px;position:relative;top:-1px}
 tr.grp em{font-style:normal;font-weight:600;color:var(--muted);font-size:7.4pt;margin-left:8px}
 td.num{text-align:center;color:var(--muted);font-size:7.4pt;font-variant-numeric:tabular-nums}
-td.c-lvl{text-align:center}
 td.word strong{color:var(--navy);font-weight:700;font-size:8.8pt}
 td.word i{color:var(--blue);font-style:italic;font-size:7.6pt;font-weight:600}
 td.ipa{font-family:"DejaVu Sans",sans-serif;color:#33476B;font-size:7.9pt}
@@ -246,8 +226,6 @@ BODY_CSS = CSS + """
 .unit-stats .total{text-align:center;line-height:1}
 .unit-stats .total b{display:block;font-size:20pt;font-weight:800}
 .unit-stats .total small{font-size:7pt;letter-spacing:.12em;text-transform:uppercase;opacity:.85}
-.chips{display:grid;grid-template-columns:auto auto;gap:4px 8px}
-.chip{background:rgba(255,255,255,.14);border-radius:6px;padding:2px 6px 2px 2px;font-weight:700;font-size:7.6pt;white-space:nowrap}
 
 """
 
@@ -302,9 +280,6 @@ FRONT_CSS = CSS + """
 .anat td{padding:8px 6px;border-top:1px solid var(--line);vertical-align:top}
 .anat td:first-child{width:30mm;font-weight:800;color:var(--navy)}
 .anat tr:first-child td{border-top:0}
-.levels{display:grid;grid-template-columns:repeat(4,1fr);gap:6px}
-.levels div{border-radius:8px;padding:7px 8px;background:var(--tint2);border:1px solid var(--line);font-size:7.8pt}
-.levels div .lvl{margin-bottom:4px}
 .abbr{display:grid;grid-template-columns:repeat(3,1fr);gap:6px 10px;font-size:9pt}
 .abbr b{color:var(--blue);display:inline-block;min-width:13mm}
 .tips{list-style:none;font-size:9pt}
@@ -319,8 +294,6 @@ FRONT_CSS = CSS + """
 .toc .c{padding:10px 12px 12px;flex:1;display:flex;flex-direction:column}
 .toc .c h4{font-size:12pt;color:var(--navy);font-weight:800;line-height:1.15}
 .toc .c p{font-size:8.2pt;color:var(--muted);margin-top:4px;flex:1}
-.toc .bar{display:flex;height:6px;border-radius:3px;overflow:hidden;margin-top:8px;background:var(--tint)}
-.toc .bar i{display:block}
 .toc .meta{display:flex;justify-content:space-between;align-items:center;margin-top:7px;padding-top:6px;border-top:1px dashed var(--line);font-size:7.8pt}
 .toc .meta b{color:var(--blue-d)}
 .toc .pg{background:var(--tint);color:var(--blue-d);font-weight:800;border-radius:5px;padding:1px 6px}
@@ -341,16 +314,8 @@ def html_doc(title, css, body):
 <title>{e(title)}</title><style>{css}</style></head><body>{body}</body></html>"""
 
 
-def level_bar(words):
-    counts = level_counts(words)
-    parts = "".join(f'<i style="width:{100 * counts[k] / len(words):.1f}%;background:var(--{k.lower()})"></i>'
-                    for k in sorted(counts))
-    return f'<div class="bar">{parts}</div>'
-
-
 def build_front():
     total = sum(len(ws) for ws in DATA.values())
-    all_counts = level_counts([w for ws in DATA.values() for w in ws])
     units_dots = "".join(f"<span>{u}</span>" for u in DATA)
     cover = f"""
 <div class="page cover"><div class="grid"></div><div class="blob b1"></div><div class="blob b2"></div>
@@ -360,10 +325,10 @@ def build_front():
   <h1>Vocabulary<br><span>Book</span></h1>
   <p class="lead">Unit-by-unit word lists with transcription, simple English definitions,
   example sentences and Russian &amp; Uzbek translations.</p>
-  <div class="feat"><span>{total} words</span><span>10 units</span><span>CEFR levels</span>
+  <div class="feat"><span>{total} words</span><span>10 units</span><span>Transcription</span>
    <span>Russian</span><span>Uzbek</span></div>
  </div>
- <div class="card"><div class="top"><b>WORD OF THE BOOK</b>{level_badge("A1")}</div>
+ <div class="card"><div class="top"><b>WORD OF THE BOOK</b></div>
   <div class="body"><div class="w">holiday <i>n</i></div><div class="ipa">/ˈhɒlədeɪ/</div>
    <div class="row"><small>MEANING</small><span>a period of time when you do not go to work or school</span></div>
    <div class="row"><small>EXAMPLE</small><span>I’m here on <b>holiday</b>.</span></div>
@@ -373,18 +338,10 @@ def build_front():
   <div class="units">{units_dots}</div></div>
 </div>"""
 
-    levels = "".join(
-        f'<div>{level_badge(l)}<br><b>{n}</b> words · {d}</div>'
-        for l, n, d in [
-            ("A1", all_counts.get("A1", 0), "first words"),
-            ("A2", all_counts.get("A2", 0), "elementary"),
-            ("B1", all_counts.get("B1", 0), "intermediate"),
-            ("B2", all_counts.get("B2", 0), "upper-int."),
-        ])
     sample_word = next(w for w in DATA["4"] if w["word"] == "get up")
-    sample = f"""<table class="vocab"><colgroup><col class="w-num"><col class="w-lvl"><col class="w-word">
+    sample = f"""<table class="vocab"><colgroup><col class="w-num"><col class="w-word">
       <col class="w-ipa"><col class="w-def"><col class="w-ex"><col class="w-ru"><col class="w-uz"></colgroup>
-      <thead><tr><th>№</th><th>LEVEL</th><th>WORDS</th><th>TRANSCRIPTION</th><th>DEFINITION</th>
+      <thead><tr><th>№</th><th>WORDS</th><th>TRANSCRIPTION</th><th>DEFINITION</th>
       <th>EXAMPLE</th><th>RUSSIAN</th><th>UZBEK</th></tr></thead><tbody>{word_row(1, sample_word)}</tbody></table>"""
     how = f"""
 <div class="page"><div class="inner">
@@ -392,13 +349,11 @@ def build_front():
  <div class="cols">
   <div class="stack">
    <div class="box"><h3>What each column shows</h3><table class="anat">
-    <tr><td>LEVEL</td><td>The CEFR level of the word, from A1 (beginner) to B2.</td></tr>
     <tr><td>WORDS</td><td>The word or phrase with its part of speech in <i style="color:var(--blue)">blue italics</i>.</td></tr>
     <tr><td>TRANSCRIPTION</td><td>How to say the word (British English IPA). <b>ˈ</b> shows the main stress.</td></tr>
     <tr><td>DEFINITION</td><td>A short, simple meaning in English.</td></tr>
     <tr><td>EXAMPLE</td><td>The word in a real sentence from the unit — the word is in <b style="color:var(--blue-d)">bold blue</b>.</td></tr>
     <tr><td>RUSSIAN · UZBEK</td><td>Translations to check your understanding.</td></tr></table></div>
-   <div class="box"><h3>Word levels</h3><div class="levels">{levels}</div></div>
   </div>
   <div class="stack">
    <div class="box"><h3>Abbreviations</h3><div class="abbr">
@@ -422,7 +377,7 @@ def build_front():
         t, sub = UNIT_TOPICS[u]
         pg = PAGES.get(u)
         cards.append(f"""<a href="#unit-{u}"><div class="h"><small>UNIT</small><b>{u}</b></div>
-  <div class="c"><h4>{e(t)}</h4><p>{e(sub)}</p>{level_bar(ws)}
+  <div class="c"><h4>{e(t)}</h4><p>{e(sub)}</p>
   <div class="meta"><span><b>{len(ws)}</b> words</span>{f'<span class="pg">p. {pg}</span>' if pg else ''}</div></div></a>""")
     toc = f"""
 <div class="page"><div class="inner">
@@ -430,7 +385,6 @@ def build_front():
  <div class="toc">{''.join(cards)}</div>
  <div class="summary"><div><b>{total}</b><small>words and phrases</small></div>
   <div><b>10</b><small>units</small></div>
-  <div><b>{all_counts.get("A1", 0)}</b><small>A1 core words</small></div>
   <div><b>2</b><small>translations: Russian &amp; Uzbek</small></div></div>
 </div><div class="pfoot"><span><b>{SCHOOL}</b> · {TITLE}</span><span>Navigate A1 · Units 1–10</span></div></div>"""
     return html_doc(f"{SCHOOL} — {TITLE}", FRONT_CSS, cover + how + toc)
