@@ -2,7 +2,8 @@
 
 IELTS-style: every topic has Part 1 questions, a Part 2 cue card and Part 3
 discussion questions, plus words & phrases (Uzbek), useful language and notes.
-Part 1 + Part 2 come from data/b1-questions.json (the B1_Speaking.docx);
+Part 1 + Part 2 come from data/b1-questions.json (B1_Speaking.docx for units 1–6,
+Speaking_pre_inter.docx for units 7–12);
 Part 3, vocabulary and useful language from data/b1-content.txt.
 Same design as the A1/A2 books (style.css + style_a2.css + style_b1.css).
   cover · how to use · contents · per unit: 5 topic pages + mock-test page
@@ -25,6 +26,12 @@ UNIT_INFO = [  # title, icon
     ("Changes and the Future", "send"),
     ("Possessions and Money", "bag"),
     ("Health and Wellbeing", "heart"),
+    ("Travel and Tourism", "compass"),
+    ("Education and Learning", "book"),
+    ("Health and Sport", "star"),
+    ("Food and Eating Out", "cup"),
+    ("The World Around Us", "globe"),
+    ("The World of Work", "briefcase"),
 ]
 # Part 1 questions replaced because they only make sense in a classroom
 PART1_FIX = {
@@ -142,9 +149,9 @@ def cover():
  <div class="cbrand">{logo(64, ring=True)}<div><b>IMPULSE</b><small>LEARNING CENTER</small></div></div>
  <div class="main"><span class="kicker">LEVEL B1 · INTERMEDIATE · IELTS STYLE</span>
   <h1>Speaking<br><span>Book</span></h1>
-  <p class="lead">30 IELTS-style speaking topics with Part 1 questions, Part 2 cue cards and Part 3
+  <p class="lead">60 IELTS-style speaking topics with Part 1 questions, Part 2 cue cards and Part 3
   discussions, plus useful vocabulary with Uzbek translations.</p>
-  <div class="feat"><span>30 topics</span><span>30 cue cards</span><span>240 questions</span><span>240 words &amp; phrases</span><span>6 mock tests</span></div></div>
+  <div class="feat"><span>12 units</span><span>60 topics</span><span>60 cue cards</span><span>480 questions</span><span>480 words &amp; phrases</span><span>12 mock tests</span></div></div>
  <div class="card"><div class="top">{icon("mic")}<b>PART 2 · CUE CARD</b></div>
   <div class="cb"><div class="q">{e(t["cue"])}</div><p class="csay">You should say:</p><ul class="csl">{say}</ul>
    <div class="st">{icon("bulb")}<span>{e(t["explain"])}</span></div></div></div>
@@ -189,11 +196,11 @@ def how_to():
 
 def contents(unit_pages):
     cards = "".join(f"""<a><div class="h"><span class="tico">{icon(u["icon"])}</span><span><small>UNIT</small><b>{u["n"]}</b></span></div>
-  <div class="c"><h4>{e(u["title"])}</h4><ul>{"".join(f"<li>{t['id']} {e(t['title'])}</li>" for t in u["topics"])}<li><b>Mock speaking test</b></li></ul>
-  <div class="meta"><span>5 topics</span><span class="pg">p. {unit_pages[u["n"]]}</span></div></div></a>""" for u in UNITS)
+  <div class="c"><h4>{e(u["title"])}</h4><ul>{"".join(f"<li>{e(t['title'])}</li>" for t in u["topics"])}</ul>
+  <div class="meta"><span>5 topics + mock test</span><span class="pg">p. {unit_pages[u["n"]]}</span></div></div></a>""" for u in UNITS)
     return f"""<section class="page"><div class="inner">
- <div class="ptitle">{logo(30)}<h2>Contents</h2><div class="bar"></div><small>6 UNITS · 30 TOPICS</small></div>
- <div class="toc three">{cards}</div>
+ <div class="ptitle">{logo(30)}<h2>Contents</h2><div class="bar"></div><small>12 UNITS · 60 TOPICS</small></div>
+ <div class="toc six">{cards}</div>
 </div><div class="pfoot"><span><b>{SCHOOL}</b> · {BOOK}</span><span>IELTS Speaking format</span></div></section>"""
 
 

@@ -540,3 +540,543 @@ s: The place I go to relax is … , which is … .
 s: It’s quiet and … , with … .
 s: When I’m there, I usually … .
 s: It helps me feel peaceful because … .
+
+## 7.1
+p3: How has transport in cities changed in the last twenty years?
+p3: Should the government make public transport cheaper?
+p3: Will people still drive their own cars in the future?
+p3: Is air travel too cheap today? Why or why not?
+w: take the metro / a ferry = metro / paromda yurmoq
+w: for the first time = birinchi marta
+w: book a ticket = chipta band qilmoq
+w: departure / arrival = jo‘nash / yetib kelish
+w: a smooth journey = bemalol yo‘l
+w: feel nervous / excited = hayajonlanmoq
+w: get lost = adashib qolmoq
+w: the rush hour = tirbandlik vaqti
+s: I’m going to talk about the first time I travelled by … .
+s: I was going to … with … .
+s: At first I felt … because … .
+s: Looking back, it was a great experience because … .
+
+## 7.2
+p3: Why do some people prefer package holidays?
+p3: Is it better to stay in a hotel or rent an apartment?
+p3: How have websites and apps changed the way people book holidays?
+p3: Do people need holidays more now than in the past?
+w: accommodation = turar joy
+w: self-catering apartment = o‘zi ovqat tayyorlanadigan kvartira
+w: book in advance = oldindan band qilmoq
+w: at the last minute = so‘nggi daqiqada
+w: go sightseeing = diqqatga sazovor joylarni ko‘rmoq
+w: a package holiday = to‘liq paketli sayohat
+w: value for money = narxiga arziydigan
+w: unwind = dam olib charchoqni chiqarmoq
+s: The holiday I’d like to describe was in … .
+s: We stayed in a … , which was … .
+s: Every day we … , and one day we … .
+s: I enjoyed it so much because … .
+
+## 7.3
+p3: Why do people take so many photos when they travel?
+p3: Do souvenirs help us remember places?
+p3: Does tourism change places for the better or worse?
+p3: Why are some places very different from what people expect?
+w: exceed my expectations = kutganimdan ham yaxshi chiqmoq
+w: be disappointed = hafsalasi pir bo‘lmoq
+w: hidden gem = yashirin go‘zal joy
+w: breathtaking view = hayratlanarli manzara
+w: to my surprise = hayratimga
+w: crowded with tourists = sayyohlarga to‘la
+w: take photos = surat olmoq
+w: pick up a souvenir = esdalik sovg‘a olmoq
+s: The place that surprised me was … .
+s: Before I went, I thought it would be … .
+s: But when I arrived, I saw that … .
+s: It was surprising because … .
+
+## 7.4
+p3: What are the most common problems people have when they travel?
+p3: Should people always buy travel insurance?
+p3: How can tourists avoid problems in a new city?
+p3: Do problems make a trip more memorable?
+w: miss a flight / train = reysga / poyezdga kechikmoq
+w: lose your luggage = yukni yo‘qotmoq
+w: be delayed / cancelled = kechikmoq / bekor qilinmoq
+w: travel insurance = sayohat sug‘urtasi
+w: sort out a problem = muammoni hal qilmoq
+w: ask for help = yordam so‘ramoq
+w: stay calm = xotirjam bo‘lmoq
+w: turn out fine = yaxshi tugamoq
+s: The problem happened when I was travelling to … .
+s: What went wrong was that … .
+s: To solve it, I … .
+s: In the end, it affected my trip because … .
+
+## 7.5
+p3: Why is it important to learn about other cultures?
+p3: Does the internet help us understand other countries?
+p3: Are traditional cultures disappearing because of globalization?
+p3: Should schools teach more about world cultures?
+w: cultural traditions = madaniy an’analar
+w: way of life = turmush tarzi
+w: be fascinated by = …dan maftun bo‘lmoq
+w: ancient history = qadimiy tarix
+w: local customs = mahalliy urf-odatlar
+w: broaden your horizons = dunyoqarashni kengaytirmoq
+w: documentary = hujjatli film
+w: explore = o‘rganmoq, kashf qilmoq
+s: The culture I’d like to learn more about is … .
+s: I first heard about it when I … .
+s: What interests me most is … .
+s: I want to find out more because … .
+
+## 8.1
+p3: Which school subjects are the most useful in real life?
+p3: Should students choose their subjects at a young age?
+p3: What makes a good teacher?
+p3: Is a university degree necessary for a good career?
+w: be good at = …ni yaxshi bilmoq
+w: favourite subject = sevimli fan
+w: an inspiring teacher = ilhomlantiruvchi o‘qituvchi
+w: get good grades = yaxshi baholar olmoq
+w: take a course in = …bo‘yicha kurs o‘qimoq
+w: degree / diploma = daraja / diplom
+w: qualifications = malaka
+w: career path = kasbiy yo‘l
+s: The subject I found most interesting was … .
+s: It was taught by … , who … .
+s: In this class we learned … .
+s: I found it interesting because … .
+
+## 8.2
+p3: What skills should children learn before they start school?
+p3: Is good spelling still important in the age of computers?
+p3: Do children learn better from parents or teachers?
+p3: How has technology changed the way children learn?
+w: learning skills = o‘rganish ko‘nikmalari
+w: learn by heart = yod olmoq
+w: practise regularly = muntazam mashq qilmoq
+w: make progress = yutuqqa erishmoq
+w: look up a word = so‘zni lug‘atdan qidirmoq
+w: be patient = sabrli bo‘lmoq
+w: practical skills = amaliy ko‘nikmalar
+w: still useful today = hozir ham foydali
+s: An important skill I learned as a child was … .
+s: My … helped me learn it by … .
+s: I practised it every … .
+s: It’s still useful today because … .
+
+## 8.3
+p3: Why do some people find it difficult to follow instructions?
+p3: Is it better to learn by doing or by reading instructions?
+p3: Do people rely too much on navigation apps?
+p3: How can people improve their memory?
+w: follow instructions = ko‘rsatmalarga amal qilmoq
+w: step by step = bosqichma-bosqich
+w: make a mistake = xato qilmoq
+w: get confused = chalkashib ketmoq
+w: figure out = tushunib olmoq
+w: by trial and error = sinov va xato orqali
+w: pay attention = diqqat qilmoq
+w: in the end = oxir-oqibat
+s: I had to learn how to … .
+s: The instructions were given by … , but they were … .
+s: At first I felt … and I … .
+s: In the end, I finished it by … .
+
+## 8.4
+p3: Why are many people afraid of speaking in public?
+p3: Is teamwork more useful than working alone at school?
+p3: Are exams the best way to test students?
+p3: What can teachers do to help nervous students?
+w: give a presentation = taqdimot qilmoq
+w: speak in public = omma oldida gapirmoq
+w: prepare thoroughly = puxta tayyorlanmoq
+w: get nervous = hayajonlanmoq
+w: make eye contact = ko‘zga qarab gapirmoq
+w: work in a team = jamoada ishlamoq
+w: revise for an exam = imtihonga takrorlamoq
+w: be relieved = yengil tortmoq
+s: My presentation was about … .
+s: I gave it to … in front of … people.
+s: To prepare, I … .
+s: When I finished, I felt … because … .
+
+## 8.5
+p3: Will computers ever replace teachers?
+p3: Is it better to study in your own country or abroad?
+p3: Are online courses as good as face-to-face classes?
+p3: What is more important: qualifications or experience?
+w: educational programme = ta’limiy dastur
+w: online course = onlayn kurs
+w: study abroad = chet elda o‘qimoq
+w: face-to-face = yuzma-yuz
+w: work experience = ish tajribasi
+w: academic qualifications = ilmiy malaka
+w: widen your knowledge = bilimni kengaytirmoq
+w: in the future = kelajakda
+s: The programme I watched was about … .
+s: I watched it on … when … .
+s: I learned that … .
+s: It’s useful for students because … .
+
+## 9.1
+p3: Why is it so difficult for people to change their habits?
+p3: Should governments make unhealthy food more expensive?
+p3: Are people today healthier than their grandparents?
+p3: What can schools do to teach healthy habits?
+w: a healthy habit = sog‘lom odat
+w: stick to = …ga amal qilmoq
+w: cut down on = …ni kamaytirmoq
+w: drink plenty of water = ko‘p suv ichmoq
+w: get into the habit of = …ni odat qilmoq
+w: feel more energetic = o‘zini baquvvatroq his qilmoq
+w: a balanced diet = muvozanatli ovqatlanish
+w: make a difference = sezilarli o‘zgarish qilmoq
+s: A healthy habit I have is … .
+s: I do it every … .
+s: At first it was hard to start because … .
+s: It helps me feel better because … .
+
+## 9.2
+p3: Why is fast food so popular?
+p3: Should schools serve only healthy food?
+p3: Is it more expensive to eat healthily?
+p3: How has the food people eat changed in your country?
+w: traditional dish = milliy taom
+w: ingredients = masalliqlar
+w: spicy / savoury = achchiq / sho‘r
+w: home-cooked = uyda pishirilgan
+w: mouth-watering = og‘izning suvi keladigan
+w: be served with = …bilan tortiladi
+w: on special occasions = maxsus kunlarda
+w: fresh produce = yangi mahsulotlar
+s: A traditional dish I really like is … .
+s: It’s made with … , … and … .
+s: People usually eat it … .
+s: I like it because … .
+
+## 9.3
+p3: Do people work too much nowadays?
+p3: Why is sleep important for young people?
+p3: Should companies give workers more time to rest?
+p3: How does technology affect our sleep?
+w: be exhausted = juda charchagan bo‘lmoq
+w: meet a deadline = muddatga ulgurmoq
+w: stay up late = kech yotmoq
+w: pull an all-nighter = tun bo‘yi uxlamay ishlamoq
+w: keep going = davom etmoq
+w: work-life balance = ish va hayot muvozanati
+w: get enough sleep = yetarlicha uxlamoq
+w: feel relieved = yengil tortmoq
+s: This happened when I had to finish … .
+s: I was really tired because … .
+s: To stay awake, I … .
+s: When I finally finished, I felt … .
+
+## 9.4
+p3: Why do some people not enjoy exercise?
+p3: Is it necessary to go to a gym to keep fit?
+p3: Should children spend more time playing outside?
+p3: Which is more important for health: diet or exercise?
+w: national sport = milliy sport
+w: equipment = jihozlar
+w: keep fit = sog‘lom bo‘lmoq
+w: work out at home = uyda mashq qilmoq
+w: team spirit = jamoaviy ruh
+w: be good for your health = sog‘liq uchun foydali
+w: take up a sport = sport bilan shug‘ullana boshlamoq
+w: kurash = kurash (milliy kurash)
+s: A popular sport in my country is … .
+s: To play it, you need … .
+s: People usually do it in … .
+s: It’s so popular because … .
+
+## 9.5
+p3: Why do people enjoy watching sport?
+p3: Are professional athletes paid too much?
+p3: Should sports classes be compulsory at school?
+p3: Why do some people do extreme sports?
+w: match / tournament = o‘yin / turnir
+w: cheer for = …ni olqishlamoq
+w: score a goal = gol urmoq
+w: the final score = yakuniy hisob
+w: a nail-biting match = hayajonli o‘yin
+w: support a team = jamoaga muxlislik qilmoq
+w: athlete = sportchi
+w: extreme sports = ekstremal sport turlari
+s: The event I’d like to talk about was … .
+s: I watched it with … at … .
+s: During the game, … .
+s: It was so exciting because … .
+
+## 10.1
+p3: Do people waste too much food? Why?
+p3: Should supermarkets use less plastic packaging?
+p3: Why do people choose famous brands of food?
+p3: Is it important to know where your food comes from?
+w: sweet / sour / spicy = shirin / nordon / achchiq
+w: packaged in = …ga qadoqlangan
+w: a carton / jar / tin of = bir paket / banka / konserva …
+w: check the ingredients = tarkibini tekshirmoq
+w: best before date = yaroqlilik muddati
+w: food waste = oziq-ovqat isrofi
+w: brand = brend
+w: good value = arzon va sifatli
+s: Something I buy regularly is … .
+s: It usually comes in a … .
+s: I buy it at … because … .
+s: I prefer this brand because … .
+
+## 10.2
+p3: Why do people celebrate special events with food?
+p3: Is the presentation of food important?
+p3: Do people eat out more now than in the past?
+p3: Should restaurants offer smaller portions?
+w: a memorable meal = esda qolarli ovqat
+w: be served = tortilmoq
+w: starter / main course / dessert = birinchi / asosiy taom / shirinlik
+w: share a meal = birga ovqatlanmoq
+w: delicious / tasty = mazali
+w: beautifully presented = chiroyli bezatilgan
+w: the atmosphere = muhit
+w: special occasion = maxsus voqea
+s: The meal I remember best was at … .
+s: We had … , followed by … .
+s: I shared it with … .
+s: It was memorable because … .
+
+## 10.3
+p3: Should young people learn to cook?
+p3: Is cooking a hobby or a necessary skill?
+p3: Do men and women share the cooking in your country?
+p3: Why are cooking shows so popular?
+w: a good cook = yaxshi oshpaz
+w: bake = pishirmoq (pechda)
+w: follow a recipe = retseptga amal qilmoq
+w: experiment with = …bilan tajriba qilmoq
+w: from scratch = noldan
+w: a secret ingredient = maxfiy masalliq
+w: be famous for = …bilan mashhur bo‘lmoq
+w: family recipe = oilaviy retsept
+s: The person I’d like to describe is my … .
+s: I know them because … .
+s: They usually cook … .
+s: Their food is special because … .
+
+## 10.4
+p3: What makes a good restaurant?
+p3: Is eating out a waste of money?
+p3: Why are cafés popular with young people?
+p3: Should restaurants be allowed to play loud music?
+w: eat out = tashqarida ovqatlanmoq
+w: cosy atmosphere = shinam muhit
+w: friendly staff = samimiy xodimlar
+w: reasonable prices = maqbul narxlar
+w: the menu = menyu
+w: book a table = stol band qilmoq
+w: a regular customer = doimiy mijoz
+w: crowded and noisy = gavjum va shovqinli
+s: A café I often go to is … , which is in … .
+s: Inside, it’s … and … .
+s: My favourite thing on the menu is … .
+s: I like spending time there because … .
+
+## 10.5
+p3: Do cooking videos make people cook more?
+p3: Is fast food a problem for children?
+p3: How has social media changed the way people eat?
+p3: Would you like to run a restaurant? Why or why not?
+w: street food = ko‘cha taomlari
+w: cooking show = pazandachilik ko‘rsatuvi
+w: food blogger = ovqat bloggeri
+w: go viral = tez tarqalmoq
+w: a healthy alternative = foydali muqobil
+w: open a restaurant = restoran ochmoq
+w: run a business = biznes yuritmoq
+w: snack = yengil tamaddi
+s: The video I watched was about … .
+s: I saw it on … .
+s: I learned that … .
+s: After watching it, I felt … .
+
+## 11.1
+p3: Who should do more to protect the environment: governments or individuals?
+p3: Is global warming the biggest problem in the world today?
+p3: Why don’t more people change their habits to help the environment?
+p3: Will future generations live in a cleaner world?
+w: global warming = global isish
+w: climate change = iqlim o‘zgarishi
+w: air pollution = havo ifloslanishi
+w: greenhouse gases = issiqxona gazlari
+w: natural disaster = tabiiy ofat
+w: reduce pollution = ifloslanishni kamaytirmoq
+w: take action = chora ko‘rmoq
+w: future generations = kelajak avlodlar
+s: A problem I worry about is … .
+s: It’s mainly caused by … .
+s: It affects people’s lives because … .
+s: To solve it, we should … .
+
+## 11.2
+p3: Where do young people get their news today?
+p3: Can we always trust news on social media?
+p3: Why is bad news reported more than good news?
+p3: Will newspapers disappear completely?
+w: current events = joriy voqealar
+w: headline = sarlavha
+w: news report = yangiliklar xabari
+w: fake news = soxta yangiliklar
+w: keep up to date = xabardor bo‘lib turmoq
+w: spread quickly = tez tarqalmoq
+w: reliable source = ishonchli manba
+w: go online = internetga kirmoq
+s: The news story was about … .
+s: I first found out about it on … .
+s: The people involved were … .
+s: It was important because … .
+
+## 11.3
+p3: Should cities spend money on public art?
+p3: Is art made from recycled materials real art?
+p3: Why should natural places be protected by law?
+p3: Do monuments help people remember history?
+w: monument = yodgorlik
+w: sculpture / statue = haykal
+w: be located in = …da joylashgan
+w: represent = ifodalamoq
+w: be made of = …dan yasalgan
+w: impressive = ta’sirli
+w: protected area = qo‘riqlanadigan hudud
+w: national heritage = milliy meros
+s: The monument I’d like to describe is … , in … .
+s: It’s made of … and it looks … .
+s: It represents … .
+s: When I looked at it, I felt … .
+
+## 11.4
+p3: Is it safe to share personal information online?
+p3: Should children be taught about online safety at school?
+p3: Why do people fall for online scams?
+p3: Do we share too much of our lives on social media?
+w: personal details = shaxsiy ma’lumotlar
+w: password = parol
+w: online scam = onlayn firibgarlik
+w: suspicious message = shubhali xabar
+w: click on a link = havolani bosmoq
+w: protect your data = ma’lumotlarni himoya qilmoq
+w: block / report = bloklamoq / xabar bermoq
+w: privacy = shaxsiy daxlsizlik
+s: I received a strange message about … ago.
+s: It asked me to … .
+s: I felt suspicious, so I … .
+s: Since then, I always … .
+
+## 11.5
+p3: Why is cooperation between countries important?
+p3: Do international events bring people together?
+p3: What are the benefits of working in an international company?
+p3: Is the world becoming more connected or more divided?
+w: international organization = xalqaro tashkilot
+w: cooperation = hamkorlik
+w: trade partnership = savdo hamkorligi
+w: humanitarian aid = insonparvarlik yordami
+w: bring people together = odamlarni birlashtirmoq
+w: global community = global hamjamiyat
+w: cultural exchange = madaniy almashinuv
+w: the United Nations = Birlashgan Millatlar Tashkiloti
+s: The organization I’d like to talk about is … .
+s: Its main purpose is to … .
+s: I first learned about it when … .
+s: It helps people around the world by … .
+
+## 12.1
+p3: Are open-plan offices a good idea?
+p3: Will more people work from home in the future?
+p3: What makes a workplace pleasant?
+p3: Is it better to work alone or in a team?
+w: open-plan office = ochiq ofis
+w: work from home = uydan ishlamoq
+w: background noise = fon shovqini
+w: focus on = …ga diqqatni qaratmoq
+w: colleague = hamkasb
+w: working environment = ish muhiti
+w: a quiet space = tinch joy
+w: be productive = samarali ishlamoq
+s: The workplace I know is … , in … .
+s: The space is … , with … .
+s: The people who work there are … .
+s: I would / wouldn’t like to work there because … .
+
+## 12.2
+p3: What makes a good manager?
+p3: Should everyone learn some technical skills, like coding?
+p3: Why is customer service important for a business?
+p3: Is it better to have a lot of responsibility at work?
+w: responsibility = mas’uliyat
+w: be in charge of = …ga mas’ul bo‘lmoq
+w: manage a team = jamoani boshqarmoq
+w: technical skills = texnik ko‘nikmalar
+w: deal with customers = mijozlar bilan ishlamoq
+w: meet deadlines = muddatlarga ulgurmoq
+w: problem-solving = muammolarni hal qilish
+w: run smoothly = silliq ishlamoq
+s: A job task I find interesting is … .
+s: To do it well, you need … .
+s: A person can prepare by … .
+s: It’s important for a business because … .
+
+## 12.3
+p3: Is it better to make decisions quickly or slowly?
+p3: Should parents help their children choose a career?
+p3: Do people judge others by their clothes at work?
+p3: How do advertisements influence our decisions?
+w: make a decision = qaror qabul qilmoq
+w: weigh up the options = variantlarni taroziga solmoq
+w: pros and cons = afzallik va kamchiliklar
+w: take advice = maslahat olmoq
+w: change your mind = fikringizni o‘zgartirmoq
+w: a difficult choice = qiyin tanlov
+w: do research = izlanish qilmoq
+w: regret = afsuslanmoq
+s: An important decision I had to make was … .
+s: I could choose between … and … .
+s: My … helped me decide by … .
+s: After I made the decision, I felt … .
+
+## 12.4
+p3: What do employers look for in young people?
+p3: Is speaking English important for getting a good job in your country?
+p3: Why do many people feel nervous in job interviews?
+p3: Should schools teach students how to write a CV?
+w: job interview = ish suhbati
+w: CV = rezyume
+w: strengths and weaknesses = kuchli va zaif tomonlar
+w: work experience = ish tajribasi
+w: make a good impression = yaxshi taassurot qoldirmoq
+w: be well prepared = yaxshi tayyorlangan bo‘lmoq
+w: apply for a job = ishga ariza bermoq
+w: formal letter = rasmiy xat
+s: The interview took place at … .
+s: Before I went, I prepared by … .
+s: They asked me questions about … .
+s: I think it was successful because … .
+
+## 12.5
+p3: Why do people feel more stressed at work today?
+p3: Is it important to keep work and personal life separate?
+p3: Should people plan their day carefully?
+p3: What can companies do to help stressed workers?
+w: a hectic day = juda band kun
+w: prioritize = birinchi o‘ringa qo‘ymoq
+w: manage my time = vaqtimni boshqarmoq
+w: be under pressure = bosim ostida bo‘lmoq
+w: a to-do list = qilinadigan ishlar ro‘yxati
+w: take a short break = qisqa tanaffus qilmoq
+w: get everything done = hammasini bajarib ulgurmoq
+w: work-life balance = ish va hayot muvozanati
+s: A really busy day I had recently was … .
+s: I had to … , … and … .
+s: I organized my time by … .
+s: At the end of the day, I felt … .

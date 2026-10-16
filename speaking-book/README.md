@@ -7,7 +7,7 @@ Impulse vocabulary books.
 |------|-------|---------|-----------|-------|
 | `dist/Impulse_A1_Speaking_Book.pdf` | 10 | 50 | 250 | 33 |
 | `dist/Impulse_A2_Speaking_Book.pdf` | 12 | 60 | 600 | 75 |
-| `dist/Impulse_B1_Speaking_Book.pdf` | 6 | 30 topics | 240 + 30 cue cards | 39 |
+| `dist/Impulse_B1_Speaking_Book.pdf` | 12 | 60 topics | 480 + 60 cue cards | 75 |
 
 Both books share the same bright blue design (`scripts/style.css`).
 
@@ -32,7 +32,7 @@ ends with a mock speaking test.
 - `data/a2-content.txt` — A2 lessons: real-life, IELTS-style questions (`q:`), words & phrases (`w: English = Uzbek`) and starters (`s:`)
 - `data/a2-questions.json`, `data/a2-questions-source.txt` — the original A2 question list (unit titles are read from here)
 - `scripts/build.py` + `style.css` (A1), `scripts/build_a2.py` + `style_a2.css` (A2 additions on top of `style.css`)
-- `data/b1-questions.json` (from `b1-questions-source.txt`) — B1 Part 1 + Part 2; `data/b1-content.txt` — Part 3, words & phrases, useful language
+- `data/b1-questions.json` (from `b1-questions-source.txt` for units 1–6 and `b1-questions-source-2.txt` for units 7–12) — B1 Part 1 + Part 2; `data/b1-content.txt` — Part 3, words & phrases, useful language
 - `scripts/build_b1.py` + `style_b1.css` (B1, on top of `style.css` + `style_a2.css`)
 - `scripts/render.js` — prints a book's HTML to PDF and warns about overflowing pages
 

@@ -508,5 +508,515 @@
    "What you usually do when you are there"
   ],
   "explain": "And explain why this place helps you feel peaceful and stress-free."
+ },
+ {
+  "id": "7.1",
+  "title": "Getting around",
+  "part1": [
+   "How has transport in your city changed in recent years?",
+   "Do you prefer public transport, like buses and trains, or driving a car? Why?",
+   "What is the biggest traffic problem in your city or town?",
+   "Do you think people should use bicycles more often for short journeys?"
+  ],
+  "cue": "Describe a time you used a form of transport for the first time.",
+  "say": [
+   "What kind of transport it was (for example a plane, the metro or a ferry)",
+   "Where you were going",
+   "Who you were with"
+  ],
+  "explain": "And explain how you felt about this experience."
+ },
+ {
+  "id": "7.2",
+  "title": "Holidays and accommodation",
+  "part1": [
+   "What kind of accommodation do you prefer to stay in when you go on holiday?",
+   "Do you like booking your holidays far in advance or at the last minute? Why?",
+   "Have you ever stayed in a self-catering apartment?",
+   "Is it important to learn a few words of the local language before you visit a new country?"
+  ],
+  "cue": "Describe a memorable holiday you went on in the past.",
+  "say": [
+   "Where you went for your holiday",
+   "Where you stayed during the trip",
+   "What activities you did there"
+  ],
+  "explain": "And explain why you enjoyed this holiday so much."
+ },
+ {
+  "id": "7.3",
+  "title": "Surprising places",
+  "part1": [
+   "Do you prefer to buy local souvenirs or take photos to remember your trips?",
+   "Have you ever missed a flight, train, or bus? What happened?",
+   "Do you find packing your bags for a trip exciting or stressful?",
+   "What is the most beautiful natural place you have ever visited while traveling?"
+  ],
+  "cue": "Describe a place you visited that surprised you.",
+  "say": [
+   "Where this place was",
+   "When you went there",
+   "What you expected to see before you arrived"
+  ],
+  "explain": "And explain why you found this place surprising."
+ },
+ {
+  "id": "7.4",
+  "title": "Travel problems",
+  "part1": [
+   "Do you prefer active holidays with lots of walking, or relaxing on a beach?",
+   "Is it useful to read online guidebooks and reviews before choosing a hotel?",
+   "What do you think is the most challenging thing about traveling to a new city?",
+   "Do you enjoy planning holidays for yourself, or do you prefer someone else to plan them?"
+  ],
+  "cue": "Describe a problem you experienced while you were traveling.",
+  "say": [
+   "Where you were traveling when it happened",
+   "What the specific problem was",
+   "How you tried to solve the problem"
+  ],
+  "explain": "And explain how this problem affected the rest of your trip."
+ },
+ {
+  "id": "7.5",
+  "title": "Cultures of the world",
+  "part1": [
+   "Do you enjoy watching television programs or videos about different cultures and countries?",
+   "Which country in the world would you most like to explore in the future?",
+   "Do you think international tourism helps people understand other countries better?",
+   "Would you prefer to visit a modern, busy city or an ancient historical site?"
+  ],
+  "cue": "Describe an interesting culture or country you would like to learn more about.",
+  "say": [
+   "Which culture or country it is",
+   "How you first heard or learned about it",
+   "What specific things interest you most about it"
+  ],
+  "explain": "And explain why you want to find out more about this culture or country."
+ },
+ {
+  "id": "8.1",
+  "title": "School subjects",
+  "part1": [
+   "Do you prefer to study subjects like science and history, or language and art?",
+   "Why did you choose your current area of study or career?",
+   "What is the most important skill or qualification you hope to get in the future?",
+   "Do you remember any of your teachers from your primary school?"
+  ],
+  "cue": "Describe a subject you studied at school or university that you found interesting.",
+  "say": [
+   "What subject it was",
+   "Who taught this subject to you",
+   "What specific things you learned in this class"
+  ],
+  "explain": "And explain why you found this subject so interesting."
+ },
+ {
+  "id": "8.2",
+  "title": "Learning skills",
+  "part1": [
+   "Do you think it is important for children to learn how to spell words correctly?",
+   "Do you prefer to use a computer or a notebook when you study?",
+   "How often do you use a dictionary to check the meaning of a word?",
+   "Is your school or university a good place to study?"
+  ],
+  "cue": "Describe an important educational skill you learned when you were a child.",
+  "say": [
+   "What skill it was",
+   "Who helped you to learn this skill",
+   "How you practiced this skill"
+  ],
+  "explain": "And explain why this skill is still useful to you today."
+ },
+ {
+  "id": "8.3",
+  "title": "Following instructions",
+  "part1": [
+   "Do you like to use maps or a smartphone navigation app when you visit a new place?",
+   "Have you ever made a mistake because you did not listen to instructions carefully?",
+   "Do you find it easy to remember people's names or do you forget them?",
+   "What do you usually do if you do not understand a difficult word in English?"
+  ],
+  "cue": "Describe a time when you had to learn something new or follow difficult instructions.",
+  "say": [
+   "What you were trying to learn or do",
+   "Who gave you the instructions",
+   "How you felt while you were doing it"
+  ],
+  "explain": "And explain how you successfully finished this task."
+ },
+ {
+  "id": "8.4",
+  "title": "Presentations and exams",
+  "part1": [
+   "Do you enjoy working in a team with other students during class time?",
+   "Is it easy for you to give a presentation or speak in front of a large group of people?",
+   "Do you prefer to ask your teacher for help or find the answer by yourself?",
+   "What do you think is the best way to prepare for a difficult exam?"
+  ],
+  "cue": "Describe a presentation or a talk you gave at school or university.",
+  "say": [
+   "What the topic of your presentation was",
+   "Who you gave the presentation to",
+   "How you prepared for this presentation"
+  ],
+  "explain": "And explain how you felt after you finished speaking."
+ },
+ {
+  "id": "8.5",
+  "title": "The future of education",
+  "part1": [
+   "Do you think schools should spend more money on science labs or sports equipment?",
+   "Would you like to study at a foreign university in another country in the future?",
+   "Do you believe that computers will replace human teachers one day?",
+   "Is it more important to have good academic qualifications or practical work experience?"
+  ],
+  "cue": "Describe an educational program or video about science or history that you watched.",
+  "say": [
+   "What the program or video was about",
+   "Where or when you watched it",
+   "What new information you learned from it"
+  ],
+  "explain": "And explain why you think this program or video is useful for students."
+ },
+ {
+  "id": "9.1",
+  "title": "Healthy habits",
+  "part1": [
+   "What do you think are the most important rules for staying healthy?",
+   "Do you prefer to exercise alone or play sports with a team of people?",
+   "How often do you walk or ride a bicycle to get to different places?",
+   "Do you believe that simple daily habits can change a person's life?"
+  ],
+  "cue": "Describe a healthy habit that you practice regularly.",
+  "say": [
+   "What the habit is",
+   "How often you do it",
+   "How easy or difficult it was to start this habit"
+  ],
+  "explain": "And explain how this habit helps you feel better."
+ },
+ {
+  "id": "9.2",
+  "title": "Food and diet",
+  "part1": [
+   "Do you enjoy trying new foods from different countries or do you prefer local dishes?",
+   "How often do you eat fast food or snacks like chocolate and crisps?",
+   "Do you prefer to cook your own meals at home or eat at a restaurant?",
+   "Is it easy to find fresh fruits and vegetables in your city or town?"
+  ],
+  "cue": "Describe a traditional dish from your country that you like.",
+  "say": [
+   "What the dish is called",
+   "What ingredients are used to make it",
+   "When people usually eat this dish"
+  ],
+  "explain": "And explain why you like this dish so much."
+ },
+ {
+  "id": "9.3",
+  "title": "Sleep and rest",
+  "part1": [
+   "Do you find it easy to sleep well when you are stressed about work or study?",
+   "What do you usually do to relax after a long and busy day?",
+   "Do you think people in your country spend too much time working and not enough time resting?",
+   "How many hours of sleep do you think an adult needs every night?"
+  ],
+  "cue": "Describe a time when you felt very tired but had to finish an important task.",
+  "say": [
+   "When this happened",
+   "What task you were working on",
+   "How you managed to stay awake and finish it"
+  ],
+  "explain": "And explain how you felt after the task was finally completed."
+ },
+ {
+  "id": "9.4",
+  "title": "Sport and fitness",
+  "part1": [
+   "What is your favorite sport to watch or play?",
+   "Do you think it is necessary to go to a gym to stay fit, or can you exercise at home?",
+   "Did you play a lot of physical games outside when you were a child?",
+   "Why do you think some people do not enjoy doing any physical exercise?"
+  ],
+  "cue": "Describe a popular sport or physical activity in your country.",
+  "say": [
+   "What the sport or activity is",
+   "What equipment people need to play it",
+   "Where people usually do this activity"
+  ],
+  "explain": "And explain why this sport or activity is so popular among people."
+ },
+ {
+  "id": "9.5",
+  "title": "Sports events",
+  "part1": [
+   "Do you like watching sports competitions on television or at a stadium?",
+   "Who is a famous athlete or sports person that you know about?",
+   "Do you think schools should make sports classes mandatory for all students?",
+   "Would you like to try a dangerous or extreme sport in the future?"
+  ],
+  "cue": "Describe a sports event or match that you watched and remember well.",
+  "say": [
+   "What event or match it was",
+   "Who you watched it with",
+   "What happened during the game"
+  ],
+  "explain": "And explain why this event was so exciting or memorable for you."
+ },
+ {
+  "id": "10.1",
+  "title": "Tastes and food shopping",
+  "part1": [
+   "Do you prefer eating food that is sweet, sour, or spicy?",
+   "How often do you buy food products that are packaged in plastic or glass bottles?",
+   "What is your favorite dessert or sweet treat to eat after a meal?",
+   "Do you think it is important to check the ingredients on food packages before you buy them?"
+  ],
+  "cue": "Describe a type of food or drink that you buy regularly from a market or supermarket.",
+  "say": [
+   "What the food or drink is",
+   "How it is packaged or containers it uses",
+   "Where you usually buy it"
+  ],
+  "explain": "And explain why you prefer this specific brand or product over others."
+ },
+ {
+  "id": "10.2",
+  "title": "Memorable meals",
+  "part1": [
+   "Do you prefer to eat at a restaurant that serves traditional dishes or modern food?",
+   "What is the most unusual or interesting dish you have ever tried?",
+   "Do you care about the presentation and look of a dish when it is served to you?",
+   "Is there a specific ingredient that you do not like to have in your meals?"
+  ],
+  "cue": "Describe a memorable meal you had at a restaurant or special event.",
+  "say": [
+   "When and where you had this meal",
+   "What specific dishes were served to you",
+   "Who you shared this meal with"
+  ],
+  "explain": "And explain what made this particular meal so memorable for you."
+ },
+ {
+  "id": "10.3",
+  "title": "Cooking at home",
+  "part1": [
+   "How often do you help with preparing or cooking food in your home?",
+   "What is a simple dish that you know how to cook quickly and easily?",
+   "Do you prefer to follow exact recipes from a cookbook or do you like to experiment?",
+   "Who is the best cook in your family or circle of friends?"
+  ],
+  "cue": "Describe a person you know who is very good at cooking or baking.",
+  "say": [
+   "Who this person is",
+   "How you know them",
+   "What kind of food or dishes they usually prepare"
+  ],
+  "explain": "And explain why you think their food is so special or delicious."
+ },
+ {
+  "id": "10.4",
+  "title": "Restaurants and cafés",
+  "part1": [
+   "What do you think makes a restaurant a good place to visit with family?",
+   "Do you prefer fast service or do you like waiting for freshly made dishes?",
+   "What is the most important thing for you when choosing a place to eat out?",
+   "How do you feel when a restaurant is very crowded and noisy?"
+  ],
+  "cue": "Describe a restaurant or café that you enjoy visiting regularly.",
+  "say": [
+   "Where this restaurant or café is located",
+   "What the interior design and atmosphere are like",
+   "What your favorite item on the menu is"
+  ],
+  "explain": "And explain why you like to spend your time at this specific place."
+ },
+ {
+  "id": "10.5",
+  "title": "Food in the media",
+  "part1": [
+   "Do you enjoy watching cooking shows or videos about food on social media?",
+   "What is a popular street food or snack that people eat in your city?",
+   "Do you think fast food is becoming too popular among young children today?",
+   "Would you like to open your own restaurant or food business in the future?"
+  ],
+  "cue": "Describe an interesting television program, video, or article about food that you saw.",
+  "say": [
+   "What the program, video, or article was about",
+   "Where or when you saw it",
+   "What new or interesting facts you learned from it"
+  ],
+  "explain": "And explain how you felt after watching or reading it."
+ },
+ {
+  "id": "11.1",
+  "title": "The environment",
+  "part1": [
+   "Do you think that global warming and climate change are serious problems today?",
+   "How often do you read or watch news stories about the environment?",
+   "What can ordinary people do to reduce pollution in their local neighborhood?",
+   "Is it important for international companies to protect the natural world?"
+  ],
+  "cue": "Describe a global or environmental problem that you worry about.",
+  "say": [
+   "What the problem is",
+   "What causes this problem",
+   "How this problem affects people's daily lives"
+  ],
+  "explain": "And explain what actions can be taken to help solve this problem."
+ },
+ {
+  "id": "11.2",
+  "title": "News and media",
+  "part1": [
+   "Do you prefer to get your daily news from television, radio, or internet websites?",
+   "How do you feel when you read negative or sad stories in the news media?",
+   "Do you think newspapers will completely disappear in the near future?",
+   "How often do you talk about current events or news stories with your friends?"
+  ],
+  "cue": "Describe an important news story that you read or heard about recently.",
+  "say": [
+   "What the news story was about",
+   "Where or how you first found out about it",
+   "Who was involved in this story"
+  ],
+  "explain": "And explain why you think this news story was important to follow."
+ },
+ {
+  "id": "11.3",
+  "title": "Art and monuments",
+  "part1": [
+   "Do you enjoy looking at modern art pieces, like statues and public sculptures?",
+   "Have you ever tried scuba diving or swimming in the deep ocean?",
+   "Do you think it is a good idea to create art objects using recycled materials?",
+   "Is there a beautiful natural place near your town that is protected by law?"
+  ],
+  "cue": "Describe an interesting public monument, statue, or piece of art that you saw.",
+  "say": [
+   "Where this piece of art or monument is located",
+   "What it looks like",
+   "Who created it or what it represents"
+  ],
+  "explain": "And explain how you felt when you looked at it."
+ },
+ {
+  "id": "11.4",
+  "title": "Online safety",
+  "part1": [
+   "Is keeping your personal details private on internet websites important to you?",
+   "Do you mind sharing photos of your daily life with other people online?",
+   "What should a person do to protect their data when using a public computer?",
+   "Do you always read the security rules before you type your password on a website?"
+  ],
+  "cue": "Describe a time when you received a strange or unsafe email or message on the internet.",
+  "say": [
+   "When you received this message or email",
+   "What the message or email asked you to do",
+   "How you reacted to it"
+  ],
+  "explain": "And explain what you did to protect your personal information."
+ },
+ {
+  "id": "11.5",
+  "title": "International connections",
+  "part1": [
+   "Do you enjoy traveling to other countries to see how people live there?",
+   "Is it important for neighboring countries to have a strong partnership and trade?",
+   "What do you know about international organizations like the European Union?",
+   "Would you like to study or work in an international environment in the future?"
+  ],
+  "cue": "Describe an international organization, event, or community that you know about.",
+  "say": [
+   "What the name of the organization or event is",
+   "What its main purpose or activity is",
+   "How you first learned about it"
+  ],
+  "explain": "And explain how this organization or event helps people around the world."
+ },
+ {
+  "id": "12.1",
+  "title": "Workplaces",
+  "part1": [
+   "Do you prefer working or studying in an open-plan office or a private room?",
+   "What kind of job or profession do you want to have in the future?",
+   "Is it easy for you to focus on your work when there is background noise?",
+   "Do you prefer to work alone on a project or as part of a team?"
+  ],
+  "cue": "Describe a workplace or an office environment that you know about.",
+  "say": [
+   "Where this workplace or office is located",
+   "What the design and layout of the space look like",
+   "What kind of people work there"
+  ],
+  "explain": "And explain whether you would like to work in this type of environment or not."
+ },
+ {
+  "id": "12.2",
+  "title": "Job responsibilities",
+  "part1": [
+   "What do you think are the most important responsibilities of a manager at work?",
+   "Do you enjoy learning new technical skills, like coding or using database systems?",
+   "Is it important for a business to have a creative website or a helpful customer service team?",
+   "Would you like to manage a large project with many workers in the future?"
+  ],
+  "cue": "Describe a job responsibility or a task that you think is very interesting.",
+  "say": [
+   "What the responsibility or task is",
+   "What skills a person needs to do it well",
+   "How a person can prepare for this task"
+  ],
+  "explain": "And explain why you think this specific job responsibility is so important for a business."
+ },
+ {
+  "id": "12.3",
+  "title": "Making decisions",
+  "part1": [
+   "Do you prefer to wear serious, formal clothes or comfortable, casual clothes when you study or work?",
+   "Have you ever bought a product immediately because you saw an interesting video or advertisement?",
+   "Do you find it easy to make a decision quickly or do you need a lot of time to think?",
+   "Is it a good idea to research a company before you go to a job interview?"
+  ],
+  "cue": "Describe an important decision you had to make about your studies or work.",
+  "say": [
+   "What the decision was about",
+   "What options you had to choose from",
+   "Who helped you to make this choice"
+  ],
+  "explain": "And explain how you felt after you made this decision."
+ },
+ {
+  "id": "12.4",
+  "title": "CVs and interviews",
+  "part1": [
+   "What information is the most important to include on a professional CV or resume?",
+   "Do you think it is useful to speak more than one language for your career?",
+   "How do you feel when you have to talk about your personal strengths during an interview?",
+   "Is it easy for you to write formal letters or professional messages in English?"
+  ],
+  "cue": "Describe a job interview or an important meeting you had in the past.",
+  "say": [
+   "When and where the interview or meeting happened",
+   "How you prepared for it before you went",
+   "What questions the interviewer or person asked you"
+  ],
+  "explain": "And explain whether you think the interview or meeting was successful or not."
+ },
+ {
+  "id": "12.5",
+  "title": "Managing a busy day",
+  "part1": [
+   "Do you prefer to plan your daily schedule carefully or do you like to change your plans easily?",
+   "What do you think is the best way to handle a stressful situation at work or school?",
+   "Do you enjoy organizing events, like birthday parties or meetings, for your friends?",
+   "Is it important to separate your personal life from your professional work?"
+  ],
+  "cue": "Describe a busy or challenging day you experienced recently at work or school.",
+  "say": [
+   "When this day happened",
+   "What specific tasks or events you had to manage",
+   "How you organized your time to finish everything"
+  ],
+  "explain": "And explain how you felt at the end of that day."
  }
 ]
