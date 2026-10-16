@@ -54,6 +54,25 @@ LEVELS = {
             "12": ("Arts and experiences", "Films, music, shows and irregular verbs"),
         },
     },
+    "B1": {
+        "kicker": "LEVEL B1 · INTERMEDIATE",
+        "cover_word": ("6", "sociable"),
+        "sample_word": ("4", "take up"),
+        "topics": {
+            "1": ("Free time", "Leisure activities, routines, weather and plans"),
+            "2": ("City life", "Streets, public places and things in a home"),
+            "3": ("Feelings and actions", "Emotions, adverbs of manner and movement"),
+            "4": ("Life events", "Stages of life, ages and life online"),
+            "5": ("Money and possessions", "Money, banking and describing objects"),
+            "6": ("Relationships", "Family, personality and good manners"),
+            "7": ("Travel and transport", "Holidays, transport and -ed / -ing adjectives"),
+            "8": ("Education and skills", "School subjects, qualifications and abilities"),
+            "9": ("Health and greetings", "Healthy living, the body and greetings"),
+            "10": ("Food", "Flavours, cooking, containers and food waste"),
+            "11": ("News and the world", "News, global issues and phrasal verbs"),
+            "12": ("The world of work", "Jobs, workplaces and expressions with in"),
+        },
+    },
 }
 LEVEL = sys.argv[1].upper() if len(sys.argv) > 1 else "A1"
 CFG = LEVELS[LEVEL]

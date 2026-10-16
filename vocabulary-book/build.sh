@@ -5,7 +5,7 @@
 # second writes those page numbers into the contents page.
 set -euo pipefail
 cd "$(dirname "$0")"
-levels=("$@"); [ ${#levels[@]} -eq 0 ] && levels=(A1 A2)
+levels=("$@"); [ ${#levels[@]} -eq 0 ] && levels=(A1 A2 B1)
 for L in "${levels[@]}"; do
   d="dist/${L,,}"
   python3 scripts/build_html.py "$L"
