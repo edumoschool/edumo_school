@@ -1,0 +1,324 @@
+{
+ "skill": "reading",
+ "mock": 2,
+ "parts": [
+  {
+   "part": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text."
+    },
+    {
+     "type": "text",
+     "paragraphs": [
+      "Uzbekistan has introduced a new system to better support poor families. Starting from May 15, 2023, families on the Register of Poor Families and those at risk of being added will be divided into three categories: red, yellow, and green.",
+      "The new Q1__________ are based on how much money families who earn each month and their individual needs. Families in the red group are those who Q2__________ less than the minimum amount needed to live and also having a disabled member, a single elderly person in need, or losing the main breadwinner. Families in the yellow group also earn less than the Q3__________ amount, but all their members are able to work. Q4__________ in the green group earn a little more—between one and one-and-a-half times the minimum amount. From June 1, 2025, these families will receive benefits based on their category. Families in the yellow group will get a fifty percent discount on government service fees, while those in the red group will get a seventy-five Q5__________. If a family moves from red or Q6__________ to green, they will still receive support for another 12 months. The goal of this system is to give the right help to the right families, so that support is fair and focused. It also includes programs to help families in the red category earn more money and become more stable. This new approach is expected to improve the lives of many poor families in Uzbekistan."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "statements",
+     "items": [
+      "A) This modern language course is organized by a renowned institute.",
+      "B) You want to learn a language on your own time.",
+      "C) This language course also teaches how to prepare a dish.",
+      "D) You can not only visit the city but its countryside.",
+      "E) This language course also teaches the culture, dress, and lifestyle.",
+      "F) You can communicate with people who speak this language in a club.",
+      "G) This study can last for two years.",
+      "H) You can visit the sets where popular blockbusters were made.",
+      "I) You can learn a language and filming within this course.",
+      "J) You can learn a language and have a good time."
+     ]
+    },
+    {
+     "type": "cards",
+     "items": [
+      {
+       "title": "7. ENGLISH PLUS FILM STUDIES – LOS ANGELES",
+       "body": "• Improve your English while studying filmmaking techniques\n• Includes workshops on scriptwriting, acting, and editing\n• Field trips to Hollywood studios and local film festivals\n• 4- to 12-week course options\nPhone: +1 213 555 7788\nEmail: admissions@laenglishfilm.org\nWebsite: www.laenglishfilm.org"
+      },
+      {
+       "title": "8. CHINESE LANGUAGE SCHOOL – BEIJING",
+       "body": "• Immersive Mandarin courses with flexible start dates\n• Learn Chinese characters, pronunciation, and speaking skills\n• Weekend excursions to the Great Wall and Forbidden City\n• Dormitories and homestay options available\nPhone: +86 10 6552 3344\nEmail: learn@beijingmandarin.cn\nWebsite: www.beijingmandarin.cn"
+      },
+      {
+       "title": "9. RUSSIAN LANGUAGE PROGRAM IN ST. PETERSBURG",
+       "body": "• Year-round Russian language training for all levels\n• Special modules: Russian literature, politics, and media\n• Student visa support and accommodation assistance\n• Organized trips to Moscow and nearby historical towns\nPhone: +7 812 987 6543\nEmail: info@russianstudies.spb.ru"
+      },
+      {
+       "title": "10. PORTUGUESE & CULTURE IN LISBON",
+       "body": "• Learn Portuguese while exploring Lisbon’s history and cuisine\n• Courses available from 2 to 8 weeks\n• Afternoon options: surfing, fado nights, museum visits\n• Small classes with experienced native teachers\nPhone: +351 213 456 789\nEmail: contact@lisbonlanguage.pt\nWebsite: www.lisbonlanguage.pt"
+      },
+      {
+       "title": "11. ARABIC FOR BEGINNERS – CAIRO LANGUAGE CENTER",
+       "body": "• Learn Modern Standard Arabic and Egyptian dialect\n• Guided visits to historical sites like the Pyramids and Islamic Cairo\n• Evening conversation clubs with locals\n• Affordable tuition and accommodation options\nPhone: +20 2 2795 6432\nEmail: info@cairoarabiccenter.com"
+      },
+      {
+       "title": "12. JAPANESE LANGUAGE & CULTURE PROGRAM IN KYOTO",
+       "body": "• Japanese language courses from beginner to advanced\n• Optional cultural workshops: tea ceremony, calligraphy, kimono experience\n• Summer, winter, and year-long courses\n• On-campus dormitories and cultural exchange events\nInquiries: kyoto@nihongo-ac.jp\nWebsite: www.nihongo-ac.jp"
+      },
+      {
+       "title": "13. GERMAN FOR PROFESSIONALS IN BERLIN",
+       "body": "*Offered by the Goethe Language Institute*\n• Focus on business German, communication skills, and intercultural training\n• Small group and individual lessons available\n• Weekend workshops and networking events\n• Centrally located with modern facilities\nContact us: +49 30 6789 1234 / pro@gli-berlin.de"
+      },
+      {
+       "title": "14. SPANISH IMMERSION IN VALENCIA",
+       "body": "• Intensive Spanish classes for all levels\n• Cultural activities: cooking classes, flamenco dancing, guided city tours\n• Courses available year-round (1–12 weeks)\n• Accommodation with host families or in student apartments\n• Price includes materials and certificates\nPhone: +34 961 23 45 67\nEmail: info@valenciaspanishschool.es\nWebsite: www.valenciaspanishschool.es"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text and choose the correct heading for each paragraph from the list of headings below.\nThere are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once."
+    },
+    {
+     "type": "headings",
+     "title": "List of Headings:",
+     "items": [
+      "A) The trend catches on",
+      "B) To keep shoes clean",
+      "C) Long history",
+      "D) An ambitious plan",
+      "E) For stage plays",
+      "F) An unexpected way out",
+      "G) Are they toys?",
+      "H) A European royal trend"
+     ],
+     "right": [
+      "15. Paragraph I",
+      "16. Paragraph II",
+      "17. Paragraph III",
+      "18. Paragraph IV",
+      "19. Paragraph V",
+      "20. Paragraph VI"
+     ]
+    },
+    {
+     "type": "article",
+     "title": "THE PILLOW",
+     "paragraphs": [
+      "I. The pillow was invented so that bugs would not crawl into the noses, ears, and mouths of people while they were sleeping. The pillow was first used in what is present-day Iraq over 9,000 years ago. Back then, it was carved from stone. Ancient Egyptians also used pillows because they wanted to protect their heads. Ancient Chinese used hard pillows (although they knew how to make softer ones) because of the belief that soft pillows depleted the body’s energy.",
+      "II. The idea of a high heel or platform shoe is actually a seriously ancient one. One of the first traced high-level pieces of footwear in history belonged to actors in Ancient Greece. However, these weren't necessarily worn off stage; they were actually meant as a kind of shorthand about the social class of various characters in Greek drama and comedy. The higher the heel, the more \"elevated\" the character. There's also evidence that ancient Egyptians used heels, though not for everyday use.",
+      "III. Many noblemen of the medieval Persian empire wore heels as riding shoes, often in decadent materials and bright colours, to enable them to get a better grip on their stirrups. The European royals really perked up and took notice when a Persian monarch, Shah Abbas, came to tour European courts and make noble friends in the 1500s. The diplomatic gesture turned into a fashionable one, too: people saw the beautiful heeled shoes worn by the Shah and his entourage, and decided to make them their own.",
+      "IV. It feels like a common sense thing to say, but along with the collapse of society, the loss of power, and the lawlessness that will inevitably accompany the end of the world, your chances of using email, telephone, or Facebook to communicate will be practically zilch. Luckily, China has the answer—the carrier pigeon. According to reports, the People’s Liberation Army recently trained a “pigeon army” to carry messages between military and political facilities should there be a major collapse in the country’s communication network.",
+      "V. The idea of the heel actually being a \"female\" notion took a very long time to develop. One of the places where it took hold, however, was in Venice in the 1400s. But these weren't heels that you'd like to wear clubbing these days. Chopines, as they're called, were staggeringly high, slightly-tilted shoes with as many as 24 inches of narrowed platform underneath. They were originally designed to keep the mud off the more delicate \"real\" shoes of ladies walking in the street.",
+      "VI. Ethiopia is an important trading hub, which makes effective border control difficult to maintain. As a result of limited resources for border enforcement staff, serious organised crime – such as wildlife trafficking – often goes undetected. Wildlife crime is the world’s fourth most prevalent form of criminal activity. Animals often die in transit when exported over borders. Cheetahs and other big cats are regularly exported to the Middle East as ‘exotic pets’. To a rich elite these animals are just another status symbol, like a sports car or an expensive watch"
+     ]
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for question 21-29."
+    },
+    {
+     "type": "article",
+     "title": "THE KOKAND KHANATE",
+     "paragraphs": [
+      "The Kokand Khanate was one of the most influential states in Central Asia during the 18th and 19th centuries. Situated in the fertile Fergana Valley, the khanate became a center of trade, politics, and culture until it was absorbed into the Russian Empire in the late 19th century. Its history reflects the struggles, ambitions, and transformations of the region during a time of shifting powers.",
+      "The Kokand Khanate emerged in the early 1700s after the weakening of the Shaybanid and Ashtarkhanid dynasties in Bukhara. The founder, Shahrukh Biy, was a tribal leader from the Ming clan of the Uzbek people. He established control over parts of the Fergana Valley and chose Kokand as the capital. This location was strategic: the valley was fertile for agriculture and located along important trade routes linking Central Asia with China, India, and Persia.",
+      "Over time, Kokand’s rulers expanded their influence beyond the valley, bringing under their control regions that today belong to Uzbekistan, Kyrgyzstan, Tajikistan, and southern Kazakhstan. The khanate’s expansion often brought it into conflict with its neighbors, especially the Khanate of Khiva and the Emirate of Bukhara.",
+      "The ruler of the khanate, known as the khan, held absolute authority, though his power was supported by a network of tribal leaders, military commanders, and religious scholars. Islam played a central role in governance, with Islamic law (sharia) forming the basis of the legal system. Judges, called qadis, were responsible for applying these laws in local disputes.",
+      "Society in Kokand was diverse. Uzbeks formed the majority, but the population also included Tajiks, Kyrgyz, and other ethnic groups. Many people lived in rural areas, farming crops such as wheat, barley, rice, and cotton. Urban centers, especially Kokand city, were bustling with markets, craft workshops, and caravanserais (inns for travelers).",
+      "The Kokand Khanate benefited greatly from its position on the Silk Road trade network. Merchants traded silk, cotton textiles, dried fruits, and handicrafts in exchange for goods like tea, porcelain, and spices from the east, as well as firearms and manufactured goods from the west. The khanate also levied taxes on caravans passing through its territory, providing a significant source of income.",
+      "Agriculture formed the backbone of the economy. The Fergana Valley’s rich soil and extensive irrigation canals allowed for high crop yields. Cotton, in particular, became a valuable commodity, both for domestic use and for export.",
+      "The Kokand Khanate was known for its vibrant cultural life. Poetry, calligraphy, and music flourished under the patronage of the khans. The rulers also commissioned grand architectural projects, many of which still stand today. The Palace of Khudayar Khan in Kokand is a prime example, with its ornate tilework and grand halls reflecting the artistic style of the time.",
+      "Mosques and madrasas (Islamic schools) were built across the khanate, emphasizing the importance of education and religion. Many of these institutions attracted scholars and students from surrounding regions.",
+      "By the mid-19th century, the Kokand Khanate faced growing internal and external pressures. Rivalry between tribal factions weakened the central authority, while economic challenges strained the state’s resources. At the same time, the expanding Russian Empire began moving into Central Asia, aiming to control its trade routes and resources.",
+      "In 1876, after a series of military campaigns, Russian forces annexed the Kokand Khanate. It became part of the Russian-controlled Fergana Oblast, marking the end of Kokand’s independence. While this brought new administrative systems and economic links to the Russian Empire, it also ended centuries of local rule.",
+      "Today, the history of the Kokand Khanate remains an important chapter in the heritage of Uzbekistan and Central Asia. Its contributions to trade, architecture, and culture continue to be celebrated, and its surviving monuments stand as reminders of a time when Kokand was a powerful and prosperous state in the heart of the Silk Road."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 21-24, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 21,
+       "q": "Why was Kokand chosen as the capital of the khanate?",
+       "options": [
+        "A) It was the largest trade city in Central Asia.",
+        "B) It had an important strategic fort.",
+        "C) It was fertile and located on important trade routes.",
+        "D) It linked Central Asia with Russia."
+       ]
+      },
+      {
+       "n": 22,
+       "q": "The khan…",
+       "options": [
+        "A) had to share his rule with the qadis.",
+        "B) was the most powerful figure.",
+        "C) had to be a military commander.",
+        "D) was weak and had to depend on his network."
+       ]
+      },
+      {
+       "n": 23,
+       "q": "What was one cultural achievement of the Kokand Khanate mentioned in the text?",
+       "options": [
+        "A) The invention of a new style of metalwork, handicrafts and firearms.",
+        "B) The establishment of the cotton industry and other industries",
+        "C) The translation of Kyrgyz and Tajik texts into Uzbek.",
+        "D) The construction of notable palaces, mosques, and madrasas."
+       ]
+      },
+      {
+       "n": 24,
+       "q": "By the mid-19th century, the Kokand Khanate weakened because",
+       "options": [
+        "A) the central authority was eroded.",
+        "B) tribal factions began to fight each other.",
+        "C) the economy fully collapsed.",
+        "D) Russia stopped trading with them."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 25-29, decide if the following statements agree with the information given in the text. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 25,
+       "q": "The Kokand Khanate controlled parts of present-day Afghanistan.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 26,
+       "q": "The population of the Kokand Khanate consisted of many different nations.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 27,
+       "q": "Russian annexation of Kokand were complete after a military conquest.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 28,
+       "q": "The judges in the khanate mainly served as spiritual scholars.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 29,
+       "q": "The Khanate benefited greatly from the revenue from trade taxes.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 30-35."
+    },
+    {
+     "type": "article",
+     "title": "MUSIC AND THE EMOTIONS",
+     "paragraphs": [
+      "Why does music make us feel? One the one hand, music is a purely abstract art form, devoid of language or explicit ideas. And yet, even though music says little, it still manages to touch us deeply. When listening to our favourite songs, our body betrays all the symptoms of emotional arousal. The pupils in our eyes dilate, our pulse and blood pressure rise, the electrical conductance of our skin is lowered, and the cerebellum, a brain region associated with bodily movement, becomes strangely active. Blood is even re-directed to the muscles in our legs. In other words, sound stirs us at our biological roots.",
+      "A recent paper in Nature Neuroscience by a research team in Montreal, Canada, marks an important step in revealing the precise underpinnings of the potent pleasurable stimulus’ that is music. Although the study involves plenty of fancy technology, including functional magnetic resonance imaging (fMRI) and ligand-based positron emission tomography (PET) scanning, the experiment itself was rather straightforward. After screening 217 individuals who responded to advertisements requesting people who experience ‘chills’ to instrumental music, the scientists narrowed down the subject pool to ten. They then asked the subjects to bring in their playlist of favourite songs – virtually every genre was represented, from techno to tango – and played them the music while their brain activity was monitored. Because the scientists were combining methodologies (PET and fMRI), they were able to obtain an impressively exact and detailed portrait of music in the brain. The first thing they discovered is that music triggers the production of dopamine – a chemical with a key role in setting people’s moods – by the neurons (nerve cells) in both the dorsal and ventral regions of the brain. As these two regions have long been linked with the experience of pleasure, this finding isn’t particularly surprising.",
+      "What is rather more significant is the finding that the dopamine neurons in the caudate – a region of the brain involved in learning stimulus-response associations, and in anticipating food and other ‘reward’ stimuli – were at their most active around 15 seconds before the participants’ favourite moments in the music. The researchers call this the ‘anticipatory phase’ and argue that the purpose of this activity is to help us predict the arrival of our favourite part. The question, of course, is what all these dopamine neurons are up to. Why are they so active in the period preceding the acoustic climax? After all, we typically associate surges of dopamine with pleasure, with the processing of actual rewards. And yet, this cluster of cells is most active when the ‘chills’ have yet to arrive, when the melodic pattern is still unresolved.",
+      "One way to answer the question is to look at the music and not the neurons. While music can often seem (at least to the outsider) like a labyrinth of intricate patterns, it turns out that the most important part of every song or symphony is when the patterns break down, when the sound becomes unpredictable. If the music is too obvious, it is annoyingly boring, like an alarm clock. Numerous studies, after all, have demonstrated that dopamine neurons quickly adapt to predictable rewards. If we know what’s going to happen next, then we don’t get excited. This is why composers often introduce a key note in the beginning of a song, spend most of the rest of the piece in the studious avoidance of the pattern, and then finally repeat it only at the end. The longer we are denied the pattern we expect, the greater the emotional release when the pattern returns, safe and sound. To demonstrate this psychological principle, the musicologist Leonard Meyer, in his classic book *Emotion and Meaning in Music* (1956), analysed the 5th movement of Beethoven’s String Quartet in C-sharp minor, Op. 131. Meyer wanted to show how music is defined by its flirtation with – but not submission to – our expectations of order. Meyer dissected 50 measures (bars) of the masterpiece, showing how Beethoven begins with the clear statement of a rhythmic and harmonic pattern and then, in an ingenious tonal dance, carefully holds off repeating it. What Beethoven does instead is suggest variations of the pattern. He wants to preserve an element of uncertainty in his music, making our brains beg for the one chord he refuses to give us. Beethoven saves that chord for the end.",
+      "According to Meyer, it is the suspenseful tension of music, arising out of our unfulfilled expectations, that is the source of the music’s feeling. While earlier theories of music focused on the way a sound can refer to the real world of images and experiences – its ‘connotative’ meaning – Meyer argued that the emotions we find in music come from the unfolding events of the music itself. This ‘embodied meaning’ arises from the patterns the symphony invokes and then ignores. It is this uncertainty that triggers the surge of dopamine in the caudate, as we struggle to figure out what will happen next. We can predict some of the notes, but we can’t predict them all, and that is what keeps us listening, waiting expectantly for our reward, for the pattern to be completed."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question."
+    },
+    {
+     "type": "notes",
+     "title": "The Montreal Study",
+     "lines": [
+      "Participants, who were recruited for the study through advertisements, had their brain activity monitored while listening to their favourite music. It was noted that the music stimulated the brain’s neurons to release a substance called 30…………………………. in two of the parts of the brain which are associated with feeling 31…………………………..",
+      "Researchers also observed that the neurons in the area of the brain called the 32……………………………. were particularly active just before the participants’ favourite moments in the music – the period known as the anticipatory 33…………………………."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 34,
+       "q": "Why does the writer refer to Meyer’s work on music and emotion?",
+       "options": [
+        "A) to propose an original theory about the subject",
+        "B) to offer support for the findings of the Montreal study",
+        "C) to recommend the need for further research into the subject",
+        "D) to present a view which opposes that of the Montreal researchers"
+       ]
+      },
+      {
+       "n": 35,
+       "q": "According to Leonard Meyer, what causes the listener’s emotional response to music?",
+       "options": [
+        "A) the way that the music evokes poignant memories in the listener",
+        "B) the association of certain musical chords with certain feelings",
+        "C) the listener’s sympathy with the composer’s intentions",
+        "D) the internal structure of the musical composition"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "key": {
+  "1": "1 categories  2 earn  3 minimum  4 Families  5 percent  6 yellow",
+  "2": "7 I  8 B  9 D  10 J  11 F  12 E  13 A  14 C",
+  "3": "15 C  16 E  17 H  18 F  19 B  20 G",
+  "4": "21 C  22 B  23 D  24 A  25 C  26 A  27 A  28 B  29 A",
+  "5": "30 dopamine  31 pleasure  32 caudate  33 phase  34 B  35 D"
+ }
+}

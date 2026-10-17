@@ -1,0 +1,291 @@
+{
+ "skill": "listening",
+ "mock": 2,
+ "parts": [
+  {
+   "part": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet.",
+     "audio": true
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 1,
+       "q": "",
+       "options": [
+        "A) It’s a pleasure to meet you too.",
+        "B) I don’t think she has met him.",
+        "C) It wasn’t."
+       ]
+      },
+      {
+       "n": 2,
+       "q": "",
+       "options": [
+        "A) That’s okay.",
+        "B) I hope not.",
+        "C) Don’t mention it."
+       ]
+      },
+      {
+       "n": 3,
+       "q": "",
+       "options": [
+        "A) I’ll see you later.",
+        "B) To the library.",
+        "C) We can catch up later."
+       ]
+      },
+      {
+       "n": 4,
+       "q": "",
+       "options": [
+        "A) Was it interesting?",
+        "B) Haven’t you?",
+        "C) Could you do it for me?"
+       ]
+      },
+      {
+       "n": 5,
+       "q": "",
+       "options": [
+        "A) How’s he?",
+        "B) How do you know?",
+        "C) What’s the matter with you?"
+       ]
+      },
+      {
+       "n": 6,
+       "q": "",
+       "options": [
+        "A) No, I wasn’t at the party.",
+        "B) He looks nice.",
+        "C) Yes, I remember Steve."
+       ]
+      },
+      {
+       "n": 7,
+       "q": "",
+       "options": [
+        "A) Sure!",
+        "B) Calm down!",
+        "C) That’s good!"
+       ]
+      },
+      {
+       "n": 8,
+       "q": "",
+       "options": [
+        "A) Sure, I can!",
+        "B) Sure, you do!",
+        "C) Sure, we will!"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer.",
+     "audio": true
+    },
+    {
+     "type": "notes",
+     "title": "JOINING THE LEISURE CLUB",
+     "lines": [
+      "**Personal Assessment**",
+      "● New members should describe any health problems.",
+      "● The 9……………… rules will be explained to you before you use the equipment.",
+      "● You will be given a six-week 10…………….. .",
+      "**Types of membership**",
+      "● There is a compulsory £90 11……………… fee for members.",
+      "● Gold members are given free entry to all the LP clubs.",
+      "● Premier members are given priority during 12………………. hours.",
+      "● Premier members can bring some 13………………. every month.",
+      "● Members should always take their photo 14……………… with them."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "You will hear people speaking in different situations. Match each speaker (15-18) to the description which they give about their accomodation. (A-F). There are TWO EXTRA options which you do not need to use. Mark your answers on the answer sheet.",
+     "audio": true
+    },
+    {
+     "type": "matching",
+     "left": [
+      "15. Speaker 1 ….",
+      "16. Speaker 2 ….",
+      "17. Speaker 3 ….",
+      "18. Speaker 4 …."
+     ],
+     "right": [
+      "A) I made a mistake there at first.",
+      "B) I was able to settle into a new area.",
+      "C) I had no choice in the matter.",
+      "D) I have recommended it to others.",
+      "E) There are more benefits than disadvantages.",
+      "F) I would prefer to have more freedom."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There are THREE extra options which you do not need to use. Mark your answers on the answer sheet.",
+     "audio": true
+    },
+    {
+     "type": "subtitle",
+     "text": "GROUND FLOOR OF KINNEY HOTEL"
+    },
+    {
+     "type": "image",
+     "src": "m2-map.png"
+    },
+    {
+     "type": "lines",
+     "items": [
+      "19. Art Gallery ……",
+      "20. Fountain ……",
+      "21. Restaurant ……",
+      "22. Bakery ……",
+      "23. Bar ……"
+     ]
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract. Mark your answers on the answer sheet.",
+     "audio": true
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract One\n*You hear two students, Nick and Gemma, talking about a student house.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 24,
+       "q": "What is Gemma’s main hesitation about moving into the house?",
+       "options": [
+        "A) She won’t have a good social life.",
+        "B) She won’t get on with her housemates.",
+        "C) She might be distracted from her studies."
+       ]
+      },
+      {
+       "n": 25,
+       "q": "How does Nick address Gemma’s main concern?",
+       "options": [
+        "A) He informs her of an agreement within the house.",
+        "B) He promises to set up a study group in the house.",
+        "C) He reassures her that guests are always welcome."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Two\n*You hear a mature student talking to a student finance advisor about a student loan.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 26,
+       "q": "The student has reservations about her ability to …",
+       "options": [
+        "A) secure a part-time job.",
+        "B) find a suitable bank account.",
+        "C) cover her living costs."
+       ]
+      },
+      {
+       "n": 27,
+       "q": "The student was previously aware that she would …",
+       "options": [
+        "A) need a letter of proof from her university.",
+        "B) only have to start repaying her loan once she graduated.",
+        "C) be required to pay interest from the date she received the loan."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Three\n*You hear a student talking to a member of the university Drama Club.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 28,
+       "q": "Why is Darren hesitating to join the Drama Club?",
+       "options": [
+        "A) He’s worried he might get nervous on stage.",
+        "B) He doesn’t want to over-commit himself.",
+        "C) He dislikes certain types of performances."
+       ]
+      },
+      {
+       "n": 29,
+       "q": "How does Nina persuade Darren to join the club?",
+       "options": [
+        "A) She points out a less obvious benefit.",
+        "B) She claims it will boost his confidence.",
+        "C) She says it's stressful but also challenging."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 6,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than one word for each answer.",
+     "audio": true
+    },
+    {
+     "type": "notes",
+     "title": "CAVERS",
+     "lines": [
+      "Cavers explore underground places such as mines and tunnels as well as caves.",
+      "When cavers camp underground, they choose places which have (30) ……………… and fresh air available.",
+      "In the UK, the place Mike likes best for caving is Wales.",
+      "As a physical activity, Mike compares caving to (31) ……………………..",
+      "Cavers can pay as much as £20 for a suitable hard (32) …………………",
+      "Cavers can pay as much as £50 for the right kind of lamp, which is worn on the head.",
+      "Mike recommends buying expensive (33) ……………………………… to avoid having accidents.",
+      "Caving is a sport for people of all ages and backgrounds.",
+      "Some caves in Britain are called ‘places of special (34) …………………’",
+      "The need for safety explains why people don’t organise caving (35) ………………………"
+     ]
+    }
+   ]
+  }
+ ]
+}

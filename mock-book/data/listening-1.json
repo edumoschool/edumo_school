@@ -1,0 +1,73 @@
+{
+  "skill": "listening",
+  "mock": 1,
+  "parts": [
+    {"part": 1, "blocks": [
+      {"type": "instruction", "audio": true, "text": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C).\nMark your answers on the answer sheet."},
+      {"type": "mcq", "items": [
+        {"n": 1, "q": "", "options": ["A) This is the plan.", "B) That sounds lovely.", "C) That’s looks awful."]},
+        {"n": 2, "q": "", "options": ["A) Yes, you can!", "B) No, I don’t!", "C) Of course!"]},
+        {"n": 3, "q": "", "options": ["A) Well, that’s unfortunate.", "B) I bought a new wallet last week.", "C) I don’t like going to malls."]},
+        {"n": 4, "q": "", "options": ["A) No, I don’t forecast.", "B) Yes, it says it might rain.", "C) I usually go for a walk."]},
+        {"n": 5, "q": "", "options": ["A) Don’t do it!", "B) Really?", "C) What’s the matter?"]},
+        {"n": 6, "q": "", "options": ["A) No, they shouldn’t.", "B) Get out!", "C) Good idea."]},
+        {"n": 7, "q": "", "options": ["A) Congratulations!", "B) What a pity!", "C) Poor thing!"]},
+        {"n": 8, "q": "", "options": ["A) It’s next to the pharmacy.", "B) Well, you can bring me some new clothes.", "C) Yes, can you get me biscuits"]}
+      ]}
+    ]},
+    {"part": 2, "blocks": [
+      {"type": "instruction", "audio": true, "text": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space.\nWrite ONE WORD and / or A NUMBER for each answer."},
+      {"type": "notes", "title": "ADVENTURE HOLIDAYS", "lines": [
+        "The Netherlands tour: You can see fields, villages as well as 9…………… while riding a park along paths. In Amsterdam, you can rise a boat on the canals.",
+        "Iceland: It lasts 10……………\nThe trip only runs until mid-autumn.",
+        "Florence and Milan: You can visit popular 11…………… .\nYou can participate in a design workshop.",
+        "Kenya: You can get to stay in 12…………… .\nYou can look after animals like elephants and rhinos",
+        "French Baking Experience: You can try 13…………… a goat.",
+        "Website: www. 14…………… com"
+      ]}
+    ]},
+    {"part": 3, "blocks": [
+      {"type": "instruction", "audio": true, "text": "You will hear people speaking in different situations. Match each speaker (15-18) to their opinion about their best friend(A-F). There are TWO EXTRA options which you do not need to use.\nMark your answers on the answer sheet."},
+      {"type": "matching",
+        "left": ["15. Speaker 1 ….", "16. Speaker 2 ….", "17. Speaker 3 ….", "18. Speaker 4 …."],
+        "right": ["A) She liked to be the centre of attention.", "B) She had unpredictable changes of mood.", "C) She often used to get into trouble with the teachers.", "D) She used to do well without really trying.", "E) She didn’t take much interest in her schoolwork.", "F) She was always ready to help other people"]}
+    ]},
+    {"part": 4, "blocks": [
+      {"type": "instruction", "audio": true, "text": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There are THREE extra options which you do not need to use.\nMark your answers on the answer sheet."},
+      {"type": "image", "src": "m1-map.png"}
+    ]},
+    {"part": 5, "blocks": [
+      {"type": "instruction", "audio": true, "text": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract.\nMark your answers on the answer sheet."},
+      {"type": "subtitle", "text": "Extract One\n*You hear a university tutor talking to a student called Neil.*"},
+      {"type": "mcq", "items": [
+        {"n": 24, "q": "What does the tutor want to achieve by speaking to Neil?", "options": ["A) To reassure Neil about something.", "B) To make Neil aware of his many spelling mistakes.", "C) To ask Neil to be more enthusiastic about his project."]},
+        {"n": 25, "q": "Neil acknowledges that", "options": ["A) he should double-check his work before he hands it in.", "B) he may not use the most reliable sources when researching the topic.", "C) he spends too much time on less relevant details."]}
+      ]},
+      {"type": "subtitle", "text": "Extract Two\n*You hear a student talking to a university accommodation officer.*"},
+      {"type": "mcq", "items": [
+        {"n": 26, "q": "According to the woman, what’s the primary reason for offering campus accommodation to all first-year students?", "options": ["A) It is easier for them to meet other students socially.", "B) It removes any concerns about independent living.", "C) It means they are close to all university facilities."]},
+        {"n": 27, "q": "The student decides on campus accommodation because …", "options": ["A) the rooms are usually quiet.", "B) there is a sense of community with other students.", "C) he doesn’t want the distractions of everyday life."]}
+      ]},
+      {"type": "subtitle", "text": "Extract Three\n*You hear two psychology students talking about their repetition of a well-known research study.*"},
+      {"type": "mcq", "items": [
+        {"n": 28, "q": "What are the students doing?", "options": ["A) querying some of the data", "B) expressing surprise at their research results", "C) criticizing the experiment which they reproduced"]},
+        {"n": 29, "q": "The main conclusion the students come to is that …", "options": ["A) the majority of people do what a group expects.", "B) results will vary greatly with different participants.", "C) conformity is a relatively new feature of modern life"]}
+      ]}
+    ]},
+    {"part": 6, "blocks": [
+      {"type": "instruction", "audio": true, "text": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space.\nWrite no more than one word for each answer."},
+      {"type": "notes", "title": "THE GREAT CHEESE FESTIVAL, WISCONSIN, USA", "lines": [
+        "Bradley says the festival takes place during what’s known locally as ‘Dairy Month’.",
+        "The festival started because a cheese (30) ………………….. opened in another region of the USA.",
+        "Every year the three-day festival starts with a special (31) ………………",
+        "Bradley’s favourite part of the festival is the display of cheese sculptures.",
+        "This year there will be a cheese (32) ………… competition for all visitors.",
+        "Bradley particularly recommends the (33) …………………………… show for younger children.",
+        "It is essential to get advance tickets for the festival.",
+        "It’s possible to do (34) ……………………… tours in the mornings only.",
+        "The people from the community who organise the festival are all volunteers.",
+        "Money raised at this year’s festival will finance a (35) …………………… park in the town"
+      ]}
+    ]}
+  ]
+}
