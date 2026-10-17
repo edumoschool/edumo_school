@@ -16,7 +16,8 @@ try { ({ chromium } = require('playwright')); } catch { ({ chromium } = require(
   await page.evaluate(() => document.fonts.ready);
   await page.waitForTimeout(500);
 
-  const report = await page.evaluate(() => {
+  const startPage = parseInt(process.env.START_PAGE || '1', 10);
+  const report = await page.evaluate((startPage) => {
     const over = (c) => c.scrollHeight > c.clientHeight + 1;
     const movable = (el) => [...el.children].filter((c) => !c.classList.contains('lbl'));
     const splittable = (el) => el.classList.contains('split') || el.classList.contains('blk');
@@ -61,11 +62,11 @@ try { ({ chromium } = require('playwright')); } catch { ({ chromium } = require(
       }
     }
     const pages = [...document.querySelectorAll('.page')];
-    pages.forEach((p, i) => { const f = p.querySelector('.pno'); if (f) f.textContent = i + 1; });
+    pages.forEach((p, i) => { const f = p.querySelector('.pno'); if (f) f.textContent = i + startPage; });
     const still = pages.map((p, i) => [i + 1, p.querySelector('.content')])
       .filter(([, c]) => c && over(c)).map(([i, c]) => `page ${i}: +${c.scrollHeight - c.clientHeight}px`);
     return { pages: pages.length, still };
-  });
+  }, startPage);
   console.log(`pages: ${report.pages}`);
   if (report.still.length) console.warn('OVERFLOW\n' + report.still.join('\n'));
   fs.writeFileSync(path.join(dist, 'units.paginated.html'), await page.content());

@@ -22,4 +22,4 @@ node scripts/render.js            # paginates and prints dist/Unlock5_Units_4-10
 ```
 - `SCHEMA.md` — the unit data format.
 - `src/*.txt` — text extracted from the exam question papers and the original Units 2–3.
-- `assets/covers/uNN.png` — cover illustrations; `assets/u08-map.png` — Listening Part 4 map.
+- `assets/covers/uNN.jpg` — cover illustrations; `assets/u08-map.png` — Listening Part 4 map.

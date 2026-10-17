@@ -77,7 +77,7 @@ def section(tab, body, cls="", first_strip="sl"):
 
 
 def cover(u):
-    img = ASSETS / "covers" / f"u{u['n']:02d}.png"
+    img = ASSETS / "covers" / f"u{u['n']:02d}.jpg"
     bg = f'<img class="cimg" src="{data_uri(img)}" alt="">' if img.exists() else ""
     dark, light = u["cover_color"], lighten(u["cover_color"], .45)
     qs = "".join(f"<li><b>{i}.</b> {md(q)}</li>" for i, q in enumerate(u["warmup"], 1))
@@ -301,6 +301,10 @@ KEY_LABELS = [("article1_vocab", "Article 1 vocabulary"), ("word_forms", "Word f
 
 def answer_key(units):
     body = ""
+    for f in sorted((ROOT / "data" / "keys").glob("*.json")):     # keys for the original Units 1-3
+        k = json.loads(f.read_text(encoding="utf-8"))
+        rows = "".join(f"<tr><th>{md(lab)}</th><td>{md(ans)}</td></tr>" for lab, ans in k["rows"])
+        body += f'<div class="kunit"><h3>Unit {k["n"]} · {md(k["title"])}</h3><table>{rows}</table></div>'
     for u in units:
         k = u.get("key", {})
         rows = "".join(f"<tr><th>{lab}</th><td>{md(k[f])}</td></tr>" for f, lab in KEY_LABELS if k.get(f))
