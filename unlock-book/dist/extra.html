@@ -1,0 +1,177 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Extra pages</title>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;0,700;0,800;0,900;1,400;1,600&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Arimo:wght@400;700&display=block" rel="stylesheet">
+<style>@page{size:297mm 420mm;margin:0}
+*{box-sizing:border-box;margin:0;padding:0}
+:root{--strip:#BFD9FC;--tab:#5274F7;--tab2:#BCC8FD;--red:#E0111B;--teal:#1C8C86;--tealdk:#1F6F6B;--orange:#FF8A00;
+  --navy:#16397A;--ink:#111;--serif:"Tinos","Times New Roman",serif;--sans:"Open Sans","Calibri",Arial,sans-serif}
+html,body{background:#fff}
+body{font-family:var(--serif);color:var(--ink);-webkit-print-color-adjust:exact;print-color-adjust:exact}
+.page{width:297mm;height:420mm;position:relative;overflow:hidden;page-break-after:always;break-after:page;background:#fff}
+.strip{position:absolute;top:0;bottom:0;width:52mm;background:var(--strip)}
+.sl .strip{left:0}.sr .strip{right:0}
+.content{position:absolute;top:24mm;bottom:20mm;left:66mm;right:20mm;overflow:visible}
+.sr .content{left:22mm;right:64mm}
+.hastab .content{top:40mm}
+.pno{position:absolute;bottom:8mm;font:600 9pt var(--sans);color:#6B7A99}
+.sl .pno{left:20mm}.sr .pno{right:20mm}
+/* blue tab */
+.tab{position:absolute;left:0;top:0;width:182mm;height:24mm}
+.tab i{position:absolute;inset:0 0 -3mm 0;background:var(--tab2);clip-path:polygon(0 0,100% 0,82% 100%,0 100%)}
+.tab span{position:absolute;inset:0 6mm 0 0;background:var(--tab);clip-path:polygon(0 0,100% 0,82% 100%,0 100%);
+  font:900 21pt "Montserrat";color:#fff;letter-spacing:.01em;display:flex;align-items:center;padding-left:34mm;
+  text-shadow:0 1.2mm 1.4mm rgba(0,0,40,.35)}
+.sr .tab{left:0}
+/* side label */
+.blk{position:relative}
+.lbl{position:absolute;top:0;width:52mm;background:#EEF4FE;font:900 7.6pt "Montserrat";letter-spacing:.02em;
+  padding:3.2mm 4mm;line-height:1.3;color:#111;text-transform:uppercase}
+.sl .lbl{left:-66mm}.sr .lbl{right:-64mm}
+.gap-top{margin-top:12mm}
+.ins{font:700 14pt var(--serif);margin:3mm 0 6mm}
+.kw{color:var(--red);font-weight:700}
+/* ---------- cover ---------- */
+.cover{background:#111}
+.cimg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.cband{position:absolute;left:0;right:0;top:0;height:60mm;display:flex}
+.ctitle{background:var(--cdark);flex:0 0 205mm;clip-path:polygon(0 0,100% 0,88% 100%,0 100%);display:flex;flex-direction:column;
+  align-items:flex-end;justify-content:center;padding-right:38mm;color:#fff}
+.ctitle h1{font:900 54pt/1 "Montserrat";letter-spacing:.01em}
+.ctitle small{font:400 15pt "Montserrat";letter-spacing:.06em;margin-top:2mm}
+.cunit{position:absolute;right:0;top:0;bottom:0;width:120mm;background:var(--clight);clip-path:polygon(22% 0,100% 0,100% 100%,0 100%);
+  font:900 36pt "Montserrat";color:#fff;display:flex;align-items:center;justify-content:center;padding-left:14mm;margin-right:0}
+.ctitle{position:relative;z-index:2}
+.warm{position:absolute;left:32mm;right:32mm;top:236mm;border-radius:1mm;overflow:hidden;color:#fff}
+.whead{background:color-mix(in srgb,var(--cdark) 82%,transparent);padding:4mm 6mm}
+.whead h2{font:800 17pt "Montserrat";letter-spacing:.02em}
+.whead p{font:italic 400 9pt "Montserrat";opacity:.85;margin-top:1mm}
+.warm ol{list-style:none;background:color-mix(in srgb,var(--clight) 62%,transparent);padding:8mm 8mm 12mm;min-height:95mm;
+  backdrop-filter:blur(1.5mm)}
+.warm li{font:500 13pt/1.35 "Montserrat";margin-bottom:5mm;text-shadow:0 .3mm 1mm rgba(0,0,0,.35)}
+/* ---------- vocab pages ---------- */
+.art{font:900 20pt "Montserrat";color:#7C8CE8;-webkit-text-stroke:.25mm #5468D8;margin-bottom:2mm}
+.vsent,.defs,.wforms,.heads{list-style:none}
+.vsent li{font-size:15pt;line-height:1.75}
+.vsent span,.defs span{margin-right:1.5mm}
+.defs{margin-top:8mm}.defs li{font-size:14pt;line-height:1.65}
+.wforms li{font-size:14.5pt;line-height:1.75;margin-bottom:3mm}
+.heads li{font-size:15pt;line-height:1.95}.heads span{margin-right:2mm}
+.ld{font:700 15.5pt "Arimo",Arial;color:#1F4FB8;margin:4mm 0 5mm}
+.skill{border:.35mm solid #222;border-left:2.2mm solid var(--teal);padding:2.5mm 4mm;margin-bottom:6mm;font-family:var(--sans)}
+.skill small{display:block;font:700 6.5pt var(--sans);color:var(--teal);letter-spacing:.02em}
+.skill>b{display:block;font:600 11pt var(--sans);color:var(--teal);margin-bottom:1mm}
+.skill p{font-size:12pt;line-height:1.7}
+.coll{border-collapse:collapse;width:100%;font-family:var(--sans);font-size:12pt;margin-bottom:10mm}
+.coll th,.coll td{border:.35mm solid #222;padding:1.8mm 3mm;text-align:left}
+.coll th{width:28%;font-weight:700}
+.a2v{list-style:none;column-count:2;column-gap:12mm}
+.a2v>li{break-inside:avoid;margin-bottom:7mm;font-size:14pt;line-height:1.6}
+.abc{list-style:none;margin-top:1.5mm}.abc li{line-height:1.7}.abc span{margin-right:2mm}
+/* ---------- articles ---------- */
+.artpage .content{top:16mm;bottom:16mm;left:14mm;right:14mm}
+.green{background:#EFFBE6;min-height:100%}
+.green h2{background:#3BE55A;color:#fff;font:900 25pt "Montserrat";letter-spacing:.02em;padding:9mm 7mm;margin-bottom:6mm}
+.cols2{column-count:2;column-gap:9mm;padding:0 7mm 6mm}
+.green .cols2 p,.card .cols2>p{font-size:14.3pt;line-height:1.38;margin-bottom:4.2mm;hyphens:auto}
+.pn{margin-right:1mm}
+.card{background:#fff;border-radius:6mm;box-shadow:0 .6mm 3mm rgba(0,0,0,.18);padding:6mm 3mm 6mm;min-height:100%}
+.card h2{font:900 23pt "Montserrat";color:#222;margin:2mm 7mm 8mm;padding-bottom:2mm;
+  background:linear-gradient(90deg,#222 0,#222 88%,transparent 100%) bottom/100% .5mm no-repeat}
+.disc{break-inside:avoid;margin-top:8mm}
+.disc h4{font:700 14pt var(--serif);color:#18A558;margin-bottom:3mm;letter-spacing:.02em}
+.disc h5{font:700 14pt var(--serif);margin-bottom:3mm}
+.disc p{font-size:14pt;line-height:1.3;margin-bottom:2mm}
+/* ---------- grammar / academic ---------- */
+.sans{font-family:var(--sans)}
+.obar{background:var(--orange);color:#fff;padding:2.5mm 4mm;margin-bottom:4mm}
+.obar b{display:block;font:700 12pt var(--sans)}
+.obar small{font-size:10pt}
+.gintro{font-style:italic;font-size:11.5pt;line-height:1.55;margin-bottom:4mm}
+.rules{border:.35mm solid #222;border-left:2.2mm solid #E6A817;padding:3mm 4mm;margin-bottom:5mm;font-size:11pt;line-height:1.5}
+.rules>p:first-child{margin-bottom:2mm}
+.rule{margin-top:2.4mm}
+.ex{color:#1A26D8;font-style:italic;font-weight:600;margin-top:1.2mm}
+.exbox{border:.4mm solid #58C7C2;padding:5mm 6mm;font-size:11.5pt;line-height:1.55}
+.exh{font-weight:700;margin-bottom:3mm}
+.extext{line-height:1.85}
+.exb{list-style:none}.exb li{margin-bottom:2.4mm}
+.pe{margin-bottom:3mm;font-size:12.5pt}
+.pe .orig{color:var(--red)}.pe .para{color:#18A558}
+.para-items{list-style:none}.para-items li{margin-bottom:4mm}
+.wl{display:block;border-bottom:.3mm solid #444;height:9mm}
+.wt{color:#18A558;font-size:11pt;margin:6mm 0 2mm}
+.wbox{border:.3mm solid #888;height:62mm;margin:3mm 0 5mm}
+.wbox.short{height:70mm}.wbox.tall{height:120mm}.wbox.xtall{height:150mm}
+/* ---------- exam pages ---------- */
+.exam-page .content{font-family:var(--sans)}
+.exam{font-size:11.5pt;line-height:1.55}
+.xins{display:flex;gap:3mm;align-items:flex-start;font-weight:700;margin:1mm 0 5mm}
+.audio{width:6.5mm;height:6.5mm;flex:none;margin-top:.5mm}
+.xtitle{text-align:center;font:700 13pt var(--sans);margin:3mm 0 3mm}
+.xtitle.red{color:var(--red)}
+.xart{column-count:2;column-gap:7mm;text-align:justify}
+.xart.one{column-count:1}
+.xart p{margin-bottom:3mm}
+.xheads{display:grid;grid-template-columns:1.6fr 1fr;border:.35mm solid var(--teal);padding:3mm 4mm;margin-bottom:6mm;width:85%}
+.xheads ol{list-style:none}.xheads li{margin:1.6mm 0}
+.xstate{list-style:none;margin-bottom:5mm}.xstate li{margin-bottom:1.2mm}
+.xcard{break-inside:avoid;margin-bottom:4mm}.xcard b{display:block}
+.xcards{column-count:2;column-gap:8mm}
+.xmcq .q{break-inside:avoid;margin-bottom:3.5mm}
+.xmcq.two{column-count:2;column-gap:8mm}
+.xsub{font-size:11pt;margin:3mm 0}
+.xnotes{border:.35mm solid #BBB;padding:4mm 6mm;margin:3mm 0 6mm;line-height:2}
+.xmatch{display:grid;grid-template-columns:1fr 1.5fr;gap:6mm;margin-bottom:6mm}
+.xmatch ol{list-style:none}.xmatch li{margin-bottom:1.6mm}
+.ximg{text-align:center;margin:3mm 0 5mm}
+.xlines{list-style:none;font-weight:600;line-height:1.9}
+.wordlist{margin-top:10mm;font-family:var(--sans)}
+.wordlist h4{font:600 13pt var(--sans);margin-bottom:3mm}
+.wordlist ol{list-style:none;column-count:2;column-gap:10mm;font-size:11pt;line-height:2.05}
+.chk{display:inline-block;width:3.6mm;height:3mm;border:.35mm solid var(--teal);border-radius:1.2mm;vertical-align:middle;margin-left:1mm}
+.idioms{font-family:var(--sans);font-size:11.5pt;line-height:1.5;margin-top:8mm}
+.idioms p{margin-bottom:2.8mm}
+.idh{font:600 13pt var(--sans);margin-bottom:4mm}
+/* ---------- writing ---------- */
+.teal{font:700 13pt var(--sans);color:var(--teal);margin:2mm 0 3mm}
+.useful{width:100%;border-collapse:collapse;font-size:9.6pt;margin-bottom:6mm}
+.useful th,.useful td{border:.3mm solid #222;padding:1.2mm 2mm;text-align:left;vertical-align:top}
+.useful th{width:25%;font-weight:700}
+.useful td{font-style:italic}
+.useful tr:first-child th,.useful tr:first-child td{background:var(--tealdk);color:#fff;font-style:normal;font-weight:600}
+.plan td{font-style:normal}
+.tsm{font:700 10pt var(--sans);color:var(--teal);margin:5mm 0 1.5mm}
+.sit{font-style:italic;font-size:9.8pt;margin-bottom:3mm}
+.email{background:#EDEDED;padding:4mm 5mm;font-size:9.8pt;line-height:1.5;margin-bottom:4mm;width:92%}
+.email p{margin-bottom:1.5mm}
+.task{font-weight:700;font-size:9.8pt;margin:2mm 0}
+.chkl{font-size:9.8pt;margin-bottom:2.4mm;line-height:1.5}
+.sample{border:.35mm solid #222;border-left:2mm solid var(--teal);padding:3mm 4mm;font-size:9.8pt;line-height:1.5;margin:6mm 0}
+.sample h5{color:var(--teal);font-size:9.6pt;margin-bottom:1.5mm}
+.sample p{margin-bottom:1.6mm}
+.wflow>*{break-inside:avoid}
+/* ---------- speaking ---------- */
+.qbox{display:flex;background:var(--orange);color:#fff;margin:2mm 0 8mm;width:92%}
+.qv{background:#fff;color:var(--orange);writing-mode:vertical-rl;transform:rotate(180deg);font:700 10pt var(--sans);
+  letter-spacing:.06em;padding:4mm 2.5mm;display:flex;align-items:center;justify-content:center}
+.qbox>div{padding:5mm 6mm;font-size:11.5pt;line-height:1.85}
+.qt{font-weight:700;font-size:12pt}
+.fa{width:92%;border-collapse:collapse;font-size:10.6pt;margin-bottom:8mm}
+.fa th{background:var(--navy);color:#fff;padding:2mm;font-size:10pt}
+.fa td{border:.3mm solid #9DB3DB;padding:2.2mm 3mm;vertical-align:top;width:50%;background:#F4F8FF}
+.ssample{border:.35mm solid #222;border-left:1.6mm solid #D62F2F;padding:3mm 4mm;width:92%;margin-bottom:8mm}
+.ssample h5{font:700 9.5pt var(--sans);margin-bottom:2mm}
+.ssample p{font-style:italic;font-size:10.4pt;line-height:1.5;margin-bottom:3mm}
+.ssample .sq{font-style:normal;font-weight:700;color:var(--navy);margin:3mm 0 1mm}
+.sul{width:92%;background:#E3ECFD}
+.sul h5{background:var(--navy);color:#fff;text-align:center;font:600 9.5pt var(--sans);padding:2mm;letter-spacing:.02em}
+.sul table{width:100%;border-collapse:collapse;font-size:9.6pt}
+.sul th{text-align:left;padding:2.2mm 4mm;width:30%;font-weight:700;vertical-align:top}
+.sul td{padding:2.2mm 4mm;font-style:italic}
+/* ---------- answer key ---------- */
+.kunit{break-inside:avoid;margin-bottom:7mm}
+.kunit h3{font:800 14pt "Montserrat";color:var(--navy);margin-bottom:2mm}
+.kunit table{width:100%;border-collapse:collapse;font-size:10pt;line-height:1.5}
+.kunit th{text-align:left;width:26%;padding:1.5mm 2mm;vertical-align:top;background:#EEF4FE;border:.3mm solid #C9D7F3}
+.kunit td{padding:1.5mm 2mm;border:.3mm solid #C9D7F3}
+.contd>h3:first-child{display:none}
+</style></head><body><section class="page sl hastab sans"><div class="strip"></div><div class="tab"><i></i><span>WRITING PART 2</span></div><div class="content"><div class="split wflow" data-split="s1"><h3 class="teal">USEFUL LANGUAGE — Opinion essay</h3><table class="useful"><tr><th>Function</th><td>Useful phrases</td></tr><tr><th>Introducing the topic</th><td>In recent years, … has become a widely debated issue. / It is often argued that …</td></tr><tr><th>Stating your position</th><td>I would argue that … / In my view, the benefits clearly outweigh …</td></tr><tr><th>Supporting a point</th><td>This is largely because … / A clear example of this is … / Research suggests that …</td></tr><tr><th>Presenting the other side</th><td>Admittedly, … / Critics point out that … / It cannot be denied that …</td></tr><tr><th>Refuting</th><td>However, this overlooks the fact that … / While this may be true, …</td></tr><tr><th>Concluding</th><td>On balance, … / All things considered, I firmly believe that …</td></tr></table><h4 class="tsm">THE TASK</h4><p class="sit">You are writing an essay for an academic audience. Write 180–200 words.</p><div class="email"><p><b>Some people believe that social media users should be required to use their real names online, while others think anonymity should be protected. Discuss both views and give your own opinion.</b></p></div><h4 class="tsm">PARAGRAPH PLAN</h4><table class="useful plan"><tr><th>Introduction</th><td>paraphrase the question + state your position</td></tr><tr><th>Body paragraph 1</th><td>arguments for real names: accountability, less harassment, trust + example</td></tr><tr><th>Body paragraph 2</th><td>arguments for anonymity: whistle-blowers, safety, free speech + example</td></tr><tr><th>Conclusion</th><td>summarise both sides and restate your opinion clearly</td></tr></table><h4 class="tsm">RULES for Part 2 (essay)</h4><p class="chkl">☐&nbsp; Answer ALL parts of the question — both views AND your own opinion.</p><p class="chkl">☐&nbsp; Write 180–200 words in four clear paragraphs.</p><p class="chkl">☐&nbsp; Use a formal, academic register: no contractions, slang or direct questions to the reader.</p><p class="chkl">☐&nbsp; Begin each body paragraph with a clear topic sentence.</p><p class="chkl">☐&nbsp; Support each point with a reason and an example; use hedging (may, tend to, it could be argued).</p><p class="chkl">☐&nbsp; Make sure your conclusion matches the position in your introduction.</p><div class="sample"><h5>SAMPLE ANSWER</h5><p>In recent years, the question of whether people should be allowed to remain anonymous online has become a widely debated issue. While real-name policies may reduce some abusive behaviour, I would argue that anonymity is too valuable to remove completely.</p><p>Those in favour of real names argue that people tend to behave more responsibly when their identity is visible. A user who knows that an insulting comment can be traced back to them is far less likely to post it. Furthermore, platforms where users are identified are often seen as more trustworthy, since fake accounts are harder to create.</p><p>However, this overlooks the fact that anonymity protects many vulnerable people. Whistle-blowers, victims of abuse and activists living under strict governments may depend on hidden identities to speak safely. Moreover, research suggests that a large share of online harassment comes from people who already use their real names, so removing anonymity would not solve the problem on its own.</p><p>On balance, I firmly believe that anonymity should be protected. Rather than forcing everyone to reveal their identity, platforms should invest in better moderation and faster responses to abuse.</p></div><h4 class="tsm">PART 2 PRACTICE — now you try</h4><div class="email"><p><b>Some people think that children under 16 should not be allowed to use smartphones at school. To what extent do you agree or disagree?</b></p></div><div class="wbox xtall"></div></div></div><footer class="pno"></footer></section><section class="page sl hastab sans"><div class="strip"></div><div class="tab"><i></i><span>SPEAKING PART 3</span></div><div class="content"><div class="qbox"><span class="qv">STATEMENT</span><div><p class="qt">People should share less of their personal life online.</p><p>Discuss both sides of the statement and give your own opinion. Use the points below to help you.</p></div></div><table class="fa"><tr><th>FOR</th><th>AGAINST</th></tr><tr><td>protects privacy and personal data from companies and criminals</td><td>sharing helps people stay in touch with family and friends abroad</td></tr><tr><td>reduces the risk of online harassment and identity theft</td><td>useful for building a personal brand, a business or a career</td></tr><tr><td>less pressure to show a perfect life; better mental health</td><td>people should be free to decide what they post</td></tr></table><div class="ssample"><h5>SAMPLE ANSWER</h5><p><b>There is no doubt that</b> this is a topic that affects almost everyone today. <b>On the one hand</b>, sharing less online would clearly <b>protect our privacy</b>. Every photo or check-in we post can be collected by companies and, in the worst cases, used by criminals for <b>identity theft</b>. <b>What is more</b>, constantly showing a perfect life puts a lot of pressure on young people, and I think it can <b>damage their self-esteem</b>.</p><p><b>On the other hand</b>, social media is not only negative. My cousin lives in Korea, and thanks to her posts our whole family <b>feels connected</b> to her every day. <b>In addition</b>, many people in Uzbekistan now <b>build their careers</b> and small businesses through Instagram and Telegram, so sharing is part of their work.</p><p><b>Overall, I would say that</b> the answer is not to stop sharing, but to <b>share more wisely</b>. People should think twice before posting their location, their children's photos or personal problems, and they should check their privacy settings regularly. <b>In my view</b>, it is about balance rather than silence.</p></div><div class="sul"><h5>USEFUL LANGUAGE</h5><table><tr><th>Introducing the topic:</th><td>There is no doubt that … / This is a topic that affects …</td></tr><tr><th>Arguments for:</th><td>On the one hand, … / One clear advantage is that …</td></tr><tr><th>Adding a point:</th><td>What is more, … / In addition, … / Not only that, but …</td></tr><tr><th>Arguments against:</th><td>On the other hand, … / Critics would say that …</td></tr><tr><th>Giving an example:</th><td>Take my cousin, for example … / A good example of this is …</td></tr><tr><th>Concluding:</th><td>Overall, I would say that … / In my view, it is about balance …</td></tr></table></div></div><footer class="pno"></footer></section></body></html>

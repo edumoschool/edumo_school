@@ -1,380 +1,629 @@
 {
-  "n": 9,
-  "title": "MEDICINE",
-  "subtitle": "HEALTH & SCIENCE",
-  "cover_color": "#0E5E6F",
-  "image_prompt": "A clean, modern illustrated scene split in two: on the left a scientist in a laboratory examining a petri dish of glowing bacteria under a microscope, on the right a doctor on a tablet video call with a patient at home, with soft holographic medical scan graphics floating between them; teal, white and soft orange palette, flat editorial illustration style, no text, no letters, no logos.",
-  "warmup": [
-    "When you feel ill, do you go to a doctor straight away, or wait to see if you get better on your own? Why?",
-    "Have you ever had a medical appointment by phone or video? How did it compare with seeing a doctor in person?",
-    "Why do you think some people expect to be given antibiotics every time they have a cold?",
-    "Would you trust a computer program to diagnose an illness? Why / Why not?"
+ "n": 9,
+ "title": "MEDICINE",
+ "subtitle": "HEALTH & SCIENCE",
+ "cover_color": "#0E5E6F",
+ "image_prompt": "A clean, modern illustrated scene split in two: on the left a scientist in a laboratory examining a petri dish of glowing bacteria under a microscope, on the right a doctor on a tablet video call with a patient at home, with soft holographic medical scan graphics floating between them; teal, white and soft orange palette, flat editorial illustration style, no text, no letters, no logos.",
+ "warmup": [
+  "When you feel ill, do you go to a doctor straight away, or wait to see if you get better on your own? Why?",
+  "Have you ever had a medical appointment by phone or video? How did it compare with seeing a doctor in person?",
+  "Why do you think some people expect to be given antibiotics every time they have a cold?",
+  "Would you trust a computer program to diagnose an illness? Why / Why not?"
+ ],
+ "article1": {
+  "title": "THE RACE AGAINST RESISTANT BACTERIA",
+  "vocab": [
+   "Several new varieties of the virus have [[emerged]] since the first cases were reported last winter.",
+   "Elderly people and young children are particularly [[susceptible]] to infections during the winter months.",
+   "A single [[mutation]] in a gene can be enough to change the way a cell responds to a drug.",
+   "Doctors are advised not to [[prescribe]] strong painkillers unless other treatments have already failed.",
+   "The laboratory tested more than 2,000 chemical [[compounds]] before finding one that killed the bacteria.",
+   "The plan to build a second hospital was abandoned because it was not financially [[viable]].",
+   "All new vaccines must pass [[rigorous]] safety checks before they can be given to the public.",
+   "Tax breaks were introduced as an [[incentive]] for companies to invest in medical research."
   ],
-
-  "article1": {
-    "title": "THE RACE AGAINST RESISTANT BACTERIA",
-    "vocab": [
-      "Several new varieties of the virus have [[emerged]] since the first cases were reported last winter.",
-      "Elderly people and young children are particularly [[susceptible]] to infections during the winter months.",
-      "A single [[mutation]] in a gene can be enough to change the way a cell responds to a drug.",
-      "Doctors are advised not to [[prescribe]] strong painkillers unless other treatments have already failed.",
-      "The laboratory tested more than 2,000 chemical [[compounds]] before finding one that killed the bacteria.",
-      "The plan to build a second hospital was abandoned because it was not financially [[viable]].",
-      "All new vaccines must pass [[rigorous]] safety checks before they can be given to the public.",
-      "Tax breaks were introduced as an [[incentive]] for companies to invest in medical research."
-    ],
-    "definitions": [
-      "(adj) able to work successfully; practical and realistic",
-      "(n) a substance formed from two or more chemical elements combined",
-      "(v) to appear or become noticeable, especially for the first time",
-      "(n) something that encourages a person or organisation to do something",
-      "(adj) easily affected, harmed or infected by something",
-      "(adj) extremely careful and thorough, following strict rules",
-      "(v) to officially tell someone to take a particular medicine or treatment",
-      "(n) a permanent change in the genetic material of a living thing"
-    ],
-    "paragraphs": [
-      "When penicillin entered hospitals in the 1940s, infections that had routinely killed patients suddenly became treatable within days. For several decades afterwards, it seemed that bacterial disease had been more or less defeated. Today, however, that confidence looks badly misplaced. Strains of bacteria that no longer respond to common antibiotics have [[emerged]] on every continent, and infections once considered minor — a scratch that turns septic, a urinary infection, a case of pneumonia — are becoming harder, and in some cases impossible, to treat.",
-      "The process behind this is, in principle, simple natural selection. Every time an antibiotic is used, the bacteria most [[susceptible]] to it die first, while any that happen to carry a protective [[mutation]] survive and multiply. Because bacteria reproduce so quickly, a resistant population can build up in a matter of weeks. Worse still, many bacteria can pass resistance genes directly to one another, so a defence that appears in one species may eventually spread to others that have never been exposed to the drug at all.",
-      "Human behaviour has accelerated this process considerably. In many countries, doctors under pressure from anxious patients [[prescribe]] antibiotics for colds and flu, even though these are viral illnesses that antibiotics cannot touch. Patients, in turn, often stop taking their tablets as soon as they feel better, leaving the toughest bacteria alive. Meanwhile, vast quantities of antibiotics are given to healthy farm animals simply to speed up their growth, creating ideal conditions for resistance to develop far away from any hospital ward.",
-      "The obvious answer would be to invent new drugs, yet this has proved remarkably difficult. Most antibiotics in use today belong to families discovered more than half a century ago. Researchers screening thousands of natural and synthetic [[compounds]] frequently find that promising candidates are either too toxic for humans or simply variations on drugs that bacteria have already learnt to resist. As one microbiologist put it, the easy discoveries were made long ago; what remains is slow, expensive and often disappointing work.",
-      "Even when a candidate looks [[viable]], the road to the pharmacy is long. A new medicine must pass through laboratory testing, followed by several phases of clinical trials involving progressively larger groups of volunteers. Each stage is designed to answer a specific question — whether the drug is safe, what dose works, and whether it performs better than existing treatments — and the whole process typically takes ten years or more. This [[rigorous]] approach protects patients, but it also means that only a small fraction of the compounds that enter testing ever reach the market.",
-      "Here lies the central economic problem. A company that spends a decade developing a cancer drug or a medicine for a long-term condition can expect patients to buy it for years. A new antibiotic, by contrast, is likely to be held in reserve by doctors and used only as a last resort, precisely to slow the development of resistance. Low sales mean that pharmaceutical firms have little financial [[incentive]] to invest, and several large companies have withdrawn from antibiotic research altogether.",
-      "Governments and health organisations are now experimenting with alternative models, such as paying companies a fixed annual fee for access to a new antibiotic regardless of how often it is used. Scientists, meanwhile, are exploring options ranging from viruses that attack specific bacteria to artificial intelligence that can scan millions of molecules in days. None of these is a quick fix, but experts broadly agree on one point: unless prescribing habits change alongside the science, any new drug will eventually meet the same fate as the old ones."
-    ],
-    "headings": [
-      "Why companies are walking away",
-      "Survival of the toughest",
-      "A long and costly journey to the pharmacy",
-      "A miracle cure that is losing its power",
-      "Vaccines: the complete answer",
-      "Habits that speed up the problem",
-      "Fresh approaches, but an old lesson",
-      "The search for new candidates"
-    ]
-  },
-
-  "word_forms": [
-    ["Patients who fail to complete a course of antibiotics may contribute to the growing ________ of bacteria.", "resistant"],
-    ["Video calls have made it far more ________ for people in rural areas to get medical advice.", "convenience"],
-    ["The ________ of the new scanning software was tested on more than 10,000 images.", "accurate"],
-    ["The rapid ________ of bacteria means that a resistant strain can spread within weeks.", "reproduce"],
-    ["Genetic factors may increase a person's ________ to certain infections.", "susceptible"]
+  "definitions": [
+   "(adj) able to work successfully; practical and realistic",
+   "(n) a substance formed from two or more chemical elements combined",
+   "(v) to appear or become noticeable, especially for the first time",
+   "(n) something that encourages a person or organisation to do something",
+   "(adj) easily affected, harmed or infected by something",
+   "(adj) extremely careful and thorough, following strict rules",
+   "(v) to officially tell someone to take a particular medicine or treatment",
+   "(n) a permanent change in the genetic material of a living thing"
   ],
-
-  "language_dev": {
-    "title": "Talking about research and treatment",
-    "skill_name": "Verb + noun collocations",
-    "skill_text": "Medical and scientific writing relies heavily on fixed verb + noun combinations — for example [[conduct a trial]] or [[pose a threat]]. Choosing the wrong verb (*do a trial*, *make a threat*) is one of the most common errors at advanced level, so it is worth learning these combinations as complete chunks rather than word by word.",
-    "table": [
-      ["conduct", "research, a study, a clinical trial"],
-      ["undergo", "surgery, treatment, tests"],
-      ["develop", "a vaccine, a drug, resistance"],
-      ["make", "a diagnosis, a full recovery, progress"],
-      ["raise", "concerns, awareness, questions"],
-      ["pose", "a threat, a risk, a challenge"]
-    ],
-    "instruction": "Complete the sentences with the correct verb from the table above. Use the correct form.",
-    "sentences": [
-      "The research team plans to ________ a large clinical trial involving 3,000 volunteers next year.",
-      "Despite the seriousness of her injuries, she is expected to ________ a full recovery.",
-      "The overuse of antibiotics in farming continues to ________ a serious threat to public health.",
-      "Before the operation, all patients must ________ a series of blood tests.",
-      "Several doctors have ________ concerns about the reliability of the new diagnostic app.",
-      "Some bacteria can ________ resistance to a new drug within just a few years."
-    ]
-  },
-
-  "article2": {
-    "title": "THE DOCTOR WILL SEE YOU NOW — ON SCREEN",
-    "intro": "The sentences below are about technology in health care. Choose the correct meaning (a, b or c) for the word in bold.",
-    "vocab": [
-      {"q": "Most of the clinic's [[consultations]] now take place by phone, so patients rarely need to visit in person.",
-       "options": ["meetings with a doctor to get advice or treatment", "written reports about a patient's health", "payments made for medical care"]},
-      {"q": "For most patients, the benefits of the new medicine far [[outweigh]] its minor side effects.",
-       "options": ["are equal to", "are greater or more important than", "are hidden by"]},
-      {"q": "The hospital [[deployed]] extra staff to the emergency department during the flu season.",
-       "options": ["dismissed", "trained", "moved into position so they could be used"]},
-      {"q": "The company's safety record has come under close [[scrutiny]] after several complaints from patients.",
-       "options": ["careful and detailed examination", "public praise", "legal protection"]},
-      {"q": "The survey was criticised for its [[bias]], since it only asked people who already supported the plan.",
-       "options": ["a lack of clear questions", "an unusually large sample", "an unfair preference that distorts the results"]},
-      {"q": "Hospital managers must be held [[accountable]] for decisions that put patients at risk.",
-       "options": ["praised publicly", "responsible and expected to explain their actions", "protected from criticism"]},
-      {"q": "Experienced nurses often rely on [[intuition]] to sense when a patient's condition is getting worse.",
-       "options": ["written guidelines", "advice from colleagues", "a feeling based on experience rather than conscious reasoning"]},
-      {"q": "The surgeon's calm explanation gave the family some [[reassurance]] before the operation.",
-       "options": ["detailed technical information", "comfort that reduces worry or doubt", "official permission"]}
-    ],
-    "paragraphs": [
-      "For most of medical history, seeing a doctor meant being in the same room. That assumption changed almost overnight during the COVID-19 pandemic, when clinics around the world switched to video and telephone [[consultations]] to keep patients and staff apart. Many expected the change to be temporary. Instead, remote care has become a permanent feature of many health systems, and it is now being joined by a second, potentially more disruptive technology: artificial intelligence that can help identify disease from scans, photographs and test results.",
-      "The benefits of telemedicine are easy to see, particularly for people who live far from a hospital or find travelling difficult. A farmer in a remote village can show a rash to a specialist hundreds of kilometres away; a parent can get advice about a feverish child without spending half a day in a crowded waiting room. For routine follow-up appointments and repeat prescriptions, supporters argue, the convenience and savings clearly [[outweigh]] the drawbacks of not meeting face to face.",
-      "AI diagnostic tools promise something different: speed and consistency. Systems trained on millions of medical images can now spot signs of certain eye diseases, skin cancers and lung conditions, in some studies matching the performance of experienced specialists. Unlike humans, they do not get tired or distracted at the end of a long shift. In countries with too few radiologists, hospitals have [[deployed]] such software to sort scans so that the most urgent cases are seen first, cutting potentially dangerous delays.",
-      "Yet these tools have come under increasing [[scrutiny]]. An algorithm is only as good as the data it learns from, and if that data comes mainly from one population, the system may perform poorly for others. Researchers have found evidence of [[bias]] in some programs designed to detect skin conditions, which were far less accurate on darker skin because few such images had been included in their training. Errors of this kind could deepen existing inequalities in health care rather than reduce them.",
-      "There are also difficult questions of responsibility. If an AI system misses a tumour, who should be held [[accountable]] — the doctor who relied on it, the hospital that bought it, or the company that built it? Current regulations were largely written for human professionals and conventional medical devices, and lawmakers in many countries are still debating how to adapt them. Patients, too, have concerns about privacy, since both video calls and AI systems depend on large amounts of sensitive personal data being stored and shared.",
-      "Most doctors see the future as a partnership rather than a replacement. Software may be better at detecting patterns in images, but a clinician's [[intuition]], built over years of examining patients, can pick up on details that never appear in a scan — a hesitation in someone's voice, or a symptom the patient forgot to mention. And for many people, especially those facing a serious diagnosis, the [[reassurance]] of a calm conversation with another human being remains an essential part of being cared for."
-    ],
-    "discussion": [
-      "Would you be happy for your first appointment with a doctor to take place by video call? Why / Why not?",
-      "If an AI system makes a wrong diagnosis, who do you think should be responsible, and why?"
-    ]
-  },
-
-  "grammar": {
-    "title": "Reporting verbs & reported speech in academic writing",
-    "intro": "Academic writers constantly report what other researchers have said, found or argued. The reporting verb you choose shows not only what a source says but also how strong the evidence is and how far you agree with it. Impersonal structures such as *it has been found that* allow you to report findings without naming a specific person.",
-    "rules_intro": "The rules below show the main groups of reporting verbs, the patterns that follow them, and how the choice of verb changes the meaning of a sentence.",
-    "rules": [
-      {"rule": "Neutral verbs — **state, report, note, explain, observe** + *that* — simply present what a source says without judging it.",
-       "example": "The authors note that resistance rates have risen sharply over the last decade."},
-      {"rule": "Tentative verbs — **suggest, indicate, propose, imply** — show that the evidence points towards something but is not conclusive.",
-       "example": "The data suggest that shorter courses of antibiotics may be just as effective."},
-      {"rule": "Strong verbs — **argue, claim, maintain, insist** — present a position the source is defending. **Claim** often signals that the writer has doubts about it.",
-       "example": "The manufacturer claims that its app can detect skin cancer as accurately as a specialist."},
-      {"rule": "**Acknowledge, admit, concede** show that a source accepts a point, often one that weakens its own argument.",
-       "example": "Supporters of telemedicine acknowledge that video calls are unsuitable for some examinations."},
-      {"rule": "Some verbs take different patterns: **warn** (sb) **against** + *-ing*, **urge** sb **to** + infinitive, **recommend / suggest** + *-ing* or *that* + (should) + base form.",
-       "example": "Experts urge doctors to prescribe antibiotics only when absolutely necessary."},
-      {"rule": "Impersonal passives — **It has been found / shown / suggested that…** or **X is thought / believed to…** — report findings without naming a source. In academic writing, tenses do not usually move back if the finding is still true.",
-       "example": "It has been shown that AI tools perform less well on groups that are under-represented in their training data."}
-    ],
-    "exA": {
-      "instruction": "Exercise A — Complete the paragraph with the correct form of the reporting verbs in the box: acknowledge, argue, claim, conclude, find, point out, suggest, warn.",
-      "text": "A recent review of AI diagnostic tools (1) ___________ that, in controlled studies, several systems performed as well as experienced specialists. However, the authors (2) ___________ that most of these studies used high-quality images that rarely reflect real hospital conditions. One technology company (3) ___________ that its software 'will make radiologists unnecessary within ten years', a view that most doctors reject. Critics (4) ___________ that replacing human judgement entirely would be both unsafe and unethical. Even enthusiastic developers (5) ___________ that their systems sometimes make errors that no human would make. Patient groups have (6) ___________ hospitals against introducing such tools without proper testing. Overall, the evidence (7) ___________ that the technology works best as a second opinion rather than a replacement, and the review (8) ___________ that further research in real clinical settings is urgently needed."
-    },
-    "exB": {
-      "instruction": "Exercise B — Rewrite each sentence using the impersonal structure in brackets, as shown in rule 6.",
-      "items": [
-        "Researchers have found that resistant infections lengthen hospital stays. (It has been found that…)",
-        "Experts believe that overuse in farming is a major cause of resistance. (Overuse in farming is believed…)",
-        "Many studies have shown that video consultations save patients time and money. (It has been shown that…)",
-        "Doctors think that the new drug is safer than older treatments. (The new drug is thought…)",
-        "Some researchers have suggested that hospitals should share patient data more openly. (It has been suggested that…)"
-      ]
-    }
-  },
-
-  "academic": {
-    "subtitle": "Referring to sources — reporting research findings accurately",
-    "skill_name": "Referring to sources",
-    "skill_text": "In academic writing you must show clearly where information comes from, using phrases such as *According to…*, *X found that…* or *As X points out,…*. Reporting a finding accurately — without exaggerating it, changing its meaning or presenting it as your own idea — is the most effective way to avoid plagiarism.",
-    "example": [
-      ["SOURCE", "Smith & Patel (2021): Of 400 patients surveyed, 72% said that a video consultation had fully met their needs."],
-      ["REPORTED", "According to Smith and Patel (2021), almost three-quarters of the patients they surveyed felt that a video consultation had been sufficient."]
-    ],
-    "instruction": "Rewrite each piece of information as one sentence that refers to its source. Use a different reporting phrase each time (According to…, X found that…, X claims that…, As X points out,…).",
-    "items": [
-      "Lee (2020): Patients who stop taking antibiotics early are more likely to need a second course of treatment.",
-      "A hospital report (2023): Waiting times for scan results fell by 30% after an AI system began sorting scans.",
-      "Professor Okafor (interview, 2022): 'Without new business models, the supply of new antibiotics will simply dry up.'",
-      "Garcia et al. (2019): Most skin-cancer algorithms were trained mainly on images of lighter skin.",
-      "A technology company's website: 'Our app is just as accurate as a qualified dermatologist.'",
-      "A national survey of family doctors (2024): Most doctors support video calls for follow-up appointments, but not for first visits."
-    ],
-    "task": "Write a short paragraph (80–100 words) on whether AI should be used to diagnose illness. Refer to at least two sources from this unit — the articles or the sentences above — using a range of reporting verbs, and make it clear which ideas belong to others and which are your own."
-  },
-
-  "reading": {
-    "part": 5,
-    "test": 2,
-    "blocks": [
-      {"type": "instruction", "text": "Read the following text for questions 30-35."},
-      {"type": "article", "title": "IS GRAFFITI ART OR CRIME?", "cols": 2, "paragraphs": [
-        "The term graffiti derives from the Italian graffito meaning ‘scratching’ and can be defined as uninvited marking or writing scratched or applied to objects, built structures and natural features. It is not a new phenomenon: examples can be found on ancient structures around the world, in some cases predating the Greeks and Romans. In such circumstances it has acquired invaluable historical and archaeological significance, providing a social history of life and events at that time. Graffiti is now a problem that has become pervasive, as a result of the availability of cheap and quick means of mark-making.",
-        "It is usually considered a priority to remove graffiti as quickly as possible after it appears. This is for several reasons. The first is to prevent ‘copy-cat’ emulation which can occur rapidly once a clean surface is defaced. It may also be of a racist or otherwise offensive nature and many companies and councils have a policy of removing this type of graffiti within an hour or two of it being reported. Also, as paints, glues and inks dry out over time they can become increasingly difficult to remove and are usually best dealt with as soon as possible after the incident. Graffiti can also lead to more serious forms of vandalism and, ultimately, the deterioration of an area, contributing to social decline.",
-        "Although graffiti may be regarded as an eyesore, any proposal to remove it from sensitive historic surfaces should be carefully considered: techniques designed for more robust or utilitarian surfaces may result in considerable damage. In the event of graffiti incidents, it is important that the owners of buildings or other structures and their consultants are aware of the approach they should take in dealing with the problem. The police should be informed as there may be other related attacks occurring locally. An incidence pattern can identify possible culprits, as can stylised signatures or nicknames, known as ‘tags’, which may already be familiar to local police. Photographs are useful to record graffiti incidents and may assist the police in bringing a prosecution. Such images are also required for insurance claims and can be helpful in cleaning operatives, allowing them to see the problem area before arriving on site.",
-        "There are a variety of methods that are used to remove graffiti. Broadly these divide between chemical and mechanical systems. Chemical preparations are based on dissolving the media; these solvents can range from water to potentially hazardous chemical ‘cocktails’. Mechanical systems such as wire-brushing and grit-blasting attempt to abrade or chip the media from the surface. Care should be taken to comply with health and safety legislation with regard to the protection of both passers-by and any person carrying out the cleaning. Operatives should follow product guidelines in terms of application and removal, and wear the appropriate protective equipment. Measures must be taken to ensure that run-off, aerial mists, drips and splashes do not threaten unprotected members of the public. When examining a graffiti incident it is important to assess the ability of the substrate to withstand the prescribed treatment. If there is any doubt regarding this, then small trial areas should be undertaken to assess the impact of more extensive treatment.",
-        "A variety of preventive strategies can be adopted to combat a recurring problem of graffiti at a given site. As no two sites are the same, no one set of protection measures will be suitable for all situations. Each site must be looked at individually. Surveillance systems such as closed-circuit television may also help. In cities and towns around the country, prominently placed cameras have been shown to reduce anti-social behavior of all types including graffiti. Security patrols will also act as a deterrent to prevent recurring attacks. However, the cost of this may be too high for most situations. A physical barriers such as a wall, railings, doors or gates can be introduced to discourage unauthorized access to a vulnerable site. However, consideration has to be given to the impact measures have on the structure being protected. In the worst cases, they can be almost as damaging to the quality of the environment as the graffiti they prevent. In others, they might simply provide a new surface for graffiti.",
-        "One of the most significant problems associated with graffiti removal is the need to remove it from surfaces that are repeatedly attacked. Under these circumstances, the repeated removal of graffiti using even the most gentle methods will ultimately cause damage to the surface material. There may be situations where the preventive strategies mentioned above do not work or are not a viable proposition at a given site. Anti-graffiti coatings are usually applied by brush or spray leaving a thin veneer that essentially serves to isolate the graffiti from the surface.",
-        "Removal of graffiti from a surface that has been treated in this way is much easier, usually using low-pressure water which reduces the possibility of damage. Depending on the type of barrier selected it may be necessary to reapply the coating after each graffiti removal exercise."
-      ]},
-      {"type": "instruction", "text": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question."},
-      {"type": "notes", "title": "", "lines": [
-        "Ancient graffiti is of significance and records the (30)___________ history of details life for that period. The police can recognize newly committed incidents of graffiti by the signature which is called (31)_____________ that they are familiar with. Operatives ought to comply with relevant rules during the operation, and put on the suitable protective (32)_________________. Removal of graffiti from a new type of coating surface can be much convenient of using (33)____________."
-      ]},
-      {"type": "instruction", "text": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."},
-      {"type": "mcq", "items": [
-        {"n": 34, "q": "Which statement is true concerning the removal of graffiti?", "options": [
-          "A) cocktail removal can be safer than water treatment",
-          "B) small patch trial before applying large scale of removing",
-          "C) Chemical treatments are the most expensive way of removing",
-          "D) mechanical removals are much more applicable than Chemical treatments."
-        ]},
-        {"n": 35, "q": "Which of the following preventive measures against graffiti are mentioned effectively in the passage?", "options": [
-          "A) organise more anti-graffiti movement in the city communities",
-          "B) Build a new building with material repelling to water",
-          "C) installing more visible security cameras",
-          "D) Provide a whole new surface with a chemical coat"
-        ]}
-      ]}
-    ]
-  },
-
-  "wordlist": [
-    "derive from",
-    "uninvited",
-    "phenomenon",
-    "predate",
-    "acquire",
-    "invaluable",
-    "archaeological significance",
-    "pervasive",
-    "a priority",
-    "emulation",
-    "deface",
-    "offensive",
-    "deterioration",
-    "social decline",
-    "eyesore",
-    "robust",
-    "utilitarian",
-    "culprit",
-    "bring a prosecution",
-    "insurance claim",
-    "dissolve",
-    "hazardous",
-    "abrade",
-    "comply with",
-    "legislation",
-    "withstand",
-    "deterrent",
-    "unauthorised access",
-    "viable proposition",
-    "veneer"
+  "paragraphs": [
+   "When penicillin entered hospitals in the 1940s, infections that had routinely killed patients suddenly became treatable within days. For several decades afterwards, it seemed that bacterial disease had been more or less defeated. Today, however, that confidence looks badly misplaced. Strains of bacteria that no longer respond to common antibiotics have [[emerged]] on every continent, and infections once considered minor — a scratch that turns septic, a urinary infection, a case of pneumonia — are becoming harder, and in some cases impossible, to treat.",
+   "The process behind this is, in principle, simple natural selection. Every time an antibiotic is used, the bacteria most [[susceptible]] to it die first, while any that happen to carry a protective [[mutation]] survive and multiply. Because bacteria reproduce so quickly, a resistant population can build up in a matter of weeks. Worse still, many bacteria can pass resistance genes directly to one another, so a defence that appears in one species may eventually spread to others that have never been exposed to the drug at all.",
+   "Human behaviour has accelerated this process considerably. In many countries, doctors under pressure from anxious patients [[prescribe]] antibiotics for colds and flu, even though these are viral illnesses that antibiotics cannot touch. Patients, in turn, often stop taking their tablets as soon as they feel better, leaving the toughest bacteria alive. Meanwhile, vast quantities of antibiotics are given to healthy farm animals simply to speed up their growth, creating ideal conditions for resistance to develop far away from any hospital ward.",
+   "The obvious answer would be to invent new drugs, yet this has proved remarkably difficult. Most antibiotics in use today belong to families discovered more than half a century ago. Researchers screening thousands of natural and synthetic [[compounds]] frequently find that promising candidates are either too toxic for humans or simply variations on drugs that bacteria have already learnt to resist. As one microbiologist put it, the easy discoveries were made long ago; what remains is slow, expensive and often disappointing work.",
+   "Even when a candidate looks [[viable]], the road to the pharmacy is long. A new medicine must pass through laboratory testing, followed by several phases of clinical trials involving progressively larger groups of volunteers. Each stage is designed to answer a specific question — whether the drug is safe, what dose works, and whether it performs better than existing treatments — and the whole process typically takes ten years or more. This [[rigorous]] approach protects patients, but it also means that only a small fraction of the compounds that enter testing ever reach the market.",
+   "Here lies the central economic problem. A company that spends a decade developing a cancer drug or a medicine for a long-term condition can expect patients to buy it for years. A new antibiotic, by contrast, is likely to be held in reserve by doctors and used only as a last resort, precisely to slow the development of resistance. Low sales mean that pharmaceutical firms have little financial [[incentive]] to invest, and several large companies have withdrawn from antibiotic research altogether.",
+   "Governments and health organisations are now experimenting with alternative models, such as paying companies a fixed annual fee for access to a new antibiotic regardless of how often it is used. Scientists, meanwhile, are exploring options ranging from viruses that attack specific bacteria to artificial intelligence that can scan millions of molecules in days. None of these is a quick fix, but experts broadly agree on one point: unless prescribing habits change alongside the science, any new drug will eventually meet the same fate as the old ones."
   ],
-
-  "listening": {
-    "part": 5,
-    "test": 2,
-    "blocks": [
-      {"type": "instruction", "audio": true, "text": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract.\nMark your answers on the answer sheet."},
-      {"type": "instruction", "text": "Extract One"},
-      {"type": "mcq", "items": [
-        {"n": 24, "q": "What do we learn about the writer of the play?", "options": [
-          "A) He died.",
-          "B) He is dying.",
-          "C) He nearly died."
-        ]},
-        {"n": 25, "q": "What do the speakers agree on?", "options": [
-          "A) The writer is quite predictable.",
-          "B) The writer’s style has changed direction.",
-          "C) The play wasn’t as funny as some of the writer’s earlier plays."
-        ]}
-      ]},
-      {"type": "instruction", "text": "Extract Two"},
-      {"type": "mcq", "items": [
-        {"n": 26, "q": "According to Pablo Jenson", "options": [
-          "A) a variety of different shops tends to boost sales.",
-          "B) traders that have something in common can boost each other’s sales.",
-          "C) butchers are the most successful traders."
-        ]},
-        {"n": 27, "q": "Jenson’s theory", "options": [
-          "A) advertised for similar retailers to open shops in one particular area.",
-          "B) works better for bakers and butchers than for other kinds of retailers.",
-          "C) seems to have been proved to be credible."
-        ]}
-      ]},
-      {"type": "instruction", "text": "Extract Three"},
-      {"type": "mcq", "items": [
-        {"n": 28, "q": "The Costa de la Cruz", "options": [
-          "A) is being spoiled by developers.",
-          "B) is the cheapest area of Spain in which you can buy a holiday home.",
-          "C) is close to Portugal."
-        ]},
-        {"n": 29, "q": "According to Chris Mercer", "options": [
-          "A) there is a danger that the Costa de la Cruz will lose its appeal.",
-          "B) the Costa de la Cruz can be developed without the area being damaged.",
-          "C) the government has put a stop to the Costa de la Cruz being developed further."
-        ]}
-      ]}
-    ]
-  },
-
-  "idioms": [
-    ["Under the weather", "Feeling slightly ill or not as well as usual."],
-    ["On the mend", "Recovering after an illness or injury."],
-    ["A clean bill of health", "An official statement that someone is healthy, or that something is in good condition."],
-    ["Back on one's feet", "Healthy and active again after being ill or having problems."],
-    ["As fit as a fiddle", "In excellent physical health."],
-    ["Run down", "Tired, weak and more likely to become ill, usually because of overwork or stress."],
-    ["Take a turn for the worse", "To suddenly become more ill or a situation becoming much worse."],
-    ["Out of the woods", "No longer in danger or serious difficulty, especially after an illness."],
-    ["A bitter pill to swallow", "An unpleasant fact or situation that is difficult to accept."],
-    ["Kill or cure", "Describing a risky treatment or action that will either solve a problem completely or make it much worse."],
-    ["Prevention is better than cure", "It is easier and wiser to stop a problem happening than to deal with it afterwards."],
-    ["Just what the doctor ordered", "Exactly what is needed to make someone feel better or improve a situation."],
-    ["Go under the knife", "To have a surgical operation."],
-    ["Burn the candle at both ends", "To work or stay active from early morning until late at night, so that you become exhausted."],
-    ["Have a frog in one's throat", "To have difficulty speaking clearly because your throat feels rough or blocked."]
+  "headings": [
+   "Why companies are walking away",
+   "Survival of the toughest",
+   "A long and costly journey to the pharmacy",
+   "A miracle cure that is losing its power",
+   "Vaccines: the complete answer",
+   "Habits that speed up the problem",
+   "Fresh approaches, but an old lesson",
+   "The search for new candidates"
+  ]
+ },
+ "word_forms": [
+  [
+   "Patients who fail to complete a course of antibiotics may contribute to the growing ________ of bacteria.",
+   "resistant"
   ],
-
-  "writing": {
-    "kind": "letter",
-    "title": "WRITING PART 1.2",
-    "useful_title": "USEFUL LANGUAGE — Formal letter",
-    "useful": [
-      ["Opening", "Dear Sir/Madam, / Dear Dr [Surname], / I am writing in response to your recent email regarding…"],
-      ["Reacting / feelings", "I was pleased to learn that… / While I welcome…, I must admit I have some concerns about…"],
-      ["Giving a suggestion", "I would suggest that… / It would be beneficial to… / It might be worth considering…"],
-      ["Requesting a reply", "I would be grateful if you could… / I would appreciate further information about…"],
-      ["Closing", "Thank you for taking the time to consider students' views. / Yours faithfully, / Yours sincerely,"]
-    ],
-    "practice_title": "PART 1.1 PRACTICE",
-    "situation": "You are a student at a university. You received this email from the head of the university's Student Health Centre.",
-    "email": "Dear Student,\nI'm writing to let you know about an important change to our service. From next month, the Health Centre will no longer offer walk-in appointments. Instead, all students will need to book through our new online system, and most first appointments will take place as video consultations with a nurse or doctor. Face-to-face appointments will still be available whenever a physical examination is needed. We believe this will reduce waiting times considerably. We would welcome your views on the change and any suggestions for making the new system work well.\nBest wishes,\nDr A. Karimova\nHead of the Student Health Centre",
-    "task11": "Task 1.1 — Write a letter to your friend, who is also a student at the university. Write about your feelings about the change and what you think the Health Centre should do. Write about 50 words.",
-    "task12": "Task 1.2 — Write a letter to the Head of the Student Health Centre. Write about your feelings about the change and what suggestions you have. Write about 120–150 words.",
-    "rules_title": "RULES for Task 1.2 (formal letter)",
-    "rules": [
-      "Respond to the SAME message as Task 1.1 — cover the same two things (feelings + suggestions), but in more depth.",
-      "Aim for 120–150 words — several short paragraphs, not one block of text.",
-      "Use a formal register throughout: no contractions, polite and impersonal phrasing.",
-      "Structure it clearly: an opening line, your reaction, your suggestion(s) in detail, and a polite closing.",
-      "Open with Dear Sir/Madam (close with Yours faithfully) or Dear Dr Karimova (close with Yours sincerely).",
-      "Use a wider range of grammar than Task 1.1 — reporting verbs, passive forms, and formal linking words (firstly, in addition, given that)."
-    ],
-    "sample_title": "SAMPLE ANSWER",
-    "sample": "Dear Dr Karimova,\nThank you for informing students about the planned changes to the Health Centre's appointment system. I welcome the aim of reducing waiting times, as I have often waited over an hour for a walk-in appointment. However, I must admit that I have some concerns about relying so heavily on video consultations.\nFirstly, not all students have a quiet, private place to discuss health problems, particularly those who share rooms in halls of residence. I would therefore suggest providing a few private booths on campus where students can join video calls confidentially.\nSecondly, it would be beneficial to keep a small number of same-day appointments for urgent cases, since some illnesses cannot wait for an online booking slot. In addition, clear instructions on using the new system should be sent to international students in several languages.\nThank you for taking the time to consider students' views. I look forward to hearing how the new system develops.\nYours sincerely,\nN. Yusupova",
-    "practice2_title": "TASK 1.2 PRACTICE — now you try, with a new message",
-    "situation2": "You are a member of a local sports centre. You received this email from the centre's manager.",
-    "email2": "Dear Member,\nWe are pleased to announce that from 1 March, personal fitness assessments will be carried out by a new AI-powered app rather than by our instructors. The app will analyse your movements through your phone's camera, track your heart rate and create a personalised training plan for you. Instructors will remain available in the gym, but one-to-one sessions will only be offered at an extra cost. Before the change is introduced, we would like to know what you think about it.\nKind regards,\nThe Manager",
-    "task2": "Task 1.2 — Write a letter to the Manager. Write about your feelings about the change and what you think the centre should do. Write about 120–150 words."
-  },
-
-  "speaking": {
-    "part": "1.1",
-    "title": "SPEAKING PART 1.1",
-    "questions": [
-      "How do you usually look after your health?",
-      "Do you prefer to see a doctor in person or online? Why?",
-      "When was the last time you visited a doctor or a clinic?",
-      "Do you think people in your country take too many medicines?",
-      "Would you trust an app to tell you what is wrong with you?",
-      "What do you do when you feel unwell before an important exam or event?"
-    ],
-    "samples": [
-      ["Do you prefer to see a doctor in person or online? Why?", "**On the whole, I'd rather** see a doctor in person. **It's much easier to explain** what's wrong when someone can actually examine you. **That said**, for something simple like renewing a prescription, an online appointment **saves a lot of time**, so I can **see the appeal** for busy people."],
-      ["Do you think people in your country take too many medicines?", "**To some extent, yes.** A lot of people **reach for** painkillers or antibiotics the moment they feel slightly **under the weather**, often without asking a doctor first. **I think it's partly because** medicines are so easy to buy here, but **it would be better if** people tried rest and fluids first."],
-      ["Would you trust an app to tell you what is wrong with you?", "**Only up to a point.** I'd happily use one to **get a rough idea** of what might be wrong, but **I wouldn't rely on it completely**. Apps can't see the whole picture, so **for anything serious** I'd definitely want **a second opinion** from a real doctor."]
-    ],
-    "useful": [
-      ["Giving a preference:", "On the whole, I'd rather… / I tend to prefer… because…"],
-      ["Talking about habits:", "I usually make a point of… / I try to… whenever I can."],
-      ["Partly agreeing:", "To some extent, yes. / Only up to a point. / That depends on…"],
-      ["Giving reasons:", "I think it's partly because… / The main reason is that…"],
-      ["Adding a contrast:", "That said, … / On the other hand, … / Having said that, …"],
-      ["Health vocabulary:", "feel under the weather / get a second opinion / make a full recovery / be on the mend"]
+  [
+   "Video calls have made it far more ________ for people in rural areas to get medical advice.",
+   "convenience"
+  ],
+  [
+   "The ________ of the new scanning software was tested on more than 10,000 images.",
+   "accurate"
+  ],
+  [
+   "The rapid ________ of bacteria means that a resistant strain can spread within weeks.",
+   "reproduce"
+  ],
+  [
+   "Genetic factors may increase a person's ________ to certain infections.",
+   "susceptible"
+  ]
+ ],
+ "language_dev": {
+  "title": "Talking about research and treatment",
+  "skill_name": "Verb + noun collocations",
+  "skill_text": "Medical and scientific writing relies heavily on fixed verb + noun combinations — for example [[conduct a trial]] or [[pose a threat]]. Choosing the wrong verb (*do a trial*, *make a threat*) is one of the most common errors at advanced level, so it is worth learning these combinations as complete chunks rather than word by word.",
+  "table": [
+   [
+    "conduct",
+    "research, a study, a clinical trial"
+   ],
+   [
+    "undergo",
+    "surgery, treatment, tests"
+   ],
+   [
+    "develop",
+    "a vaccine, a drug, resistance"
+   ],
+   [
+    "make",
+    "a diagnosis, a full recovery, progress"
+   ],
+   [
+    "raise",
+    "concerns, awareness, questions"
+   ],
+   [
+    "pose",
+    "a threat, a risk, a challenge"
+   ]
+  ],
+  "instruction": "Complete the sentences with the correct verb from the table above. Use the correct form.",
+  "sentences": [
+   "The research team plans to ________ a large clinical trial involving 3,000 volunteers next year.",
+   "Despite the seriousness of her injuries, she is expected to ________ a full recovery.",
+   "The overuse of antibiotics in farming continues to ________ a serious threat to public health.",
+   "Before the operation, all patients must ________ a series of blood tests.",
+   "Several doctors have ________ concerns about the reliability of the new diagnostic app.",
+   "Some bacteria can ________ resistance to a new drug within just a few years."
+  ]
+ },
+ "article2": {
+  "title": "THE DOCTOR WILL SEE YOU NOW — ON SCREEN",
+  "intro": "The sentences below are about technology in health care. Choose the correct meaning (a, b or c) for the word in bold.",
+  "vocab": [
+   {
+    "q": "Most of the clinic's [[consultations]] now take place by phone, so patients rarely need to visit in person.",
+    "options": [
+     "meetings with a doctor to get advice or treatment",
+     "written reports about a patient's health",
+     "payments made for medical care"
     ]
+   },
+   {
+    "q": "For most patients, the benefits of the new medicine far [[outweigh]] its minor side effects.",
+    "options": [
+     "are equal to",
+     "are greater or more important than",
+     "are hidden by"
+    ]
+   },
+   {
+    "q": "The hospital [[deployed]] extra staff to the emergency department during the flu season.",
+    "options": [
+     "dismissed",
+     "trained",
+     "moved into position so they could be used"
+    ]
+   },
+   {
+    "q": "The company's safety record has come under close [[scrutiny]] after several complaints from patients.",
+    "options": [
+     "careful and detailed examination",
+     "public praise",
+     "legal protection"
+    ]
+   },
+   {
+    "q": "The survey was criticised for its [[bias]], since it only asked people who already supported the plan.",
+    "options": [
+     "a lack of clear questions",
+     "an unusually large sample",
+     "an unfair preference that distorts the results"
+    ]
+   },
+   {
+    "q": "Hospital managers must be held [[accountable]] for decisions that put patients at risk.",
+    "options": [
+     "praised publicly",
+     "responsible and expected to explain their actions",
+     "protected from criticism"
+    ]
+   },
+   {
+    "q": "Experienced nurses often rely on [[intuition]] to sense when a patient's condition is getting worse.",
+    "options": [
+     "written guidelines",
+     "advice from colleagues",
+     "a feeling based on experience rather than conscious reasoning"
+    ]
+   },
+   {
+    "q": "The surgeon's calm explanation gave the family some [[reassurance]] before the operation.",
+    "options": [
+     "detailed technical information",
+     "comfort that reduces worry or doubt",
+     "official permission"
+    ]
+   }
+  ],
+  "paragraphs": [
+   "For most of medical history, seeing a doctor meant being in the same room. That assumption changed almost overnight during the COVID-19 pandemic, when clinics around the world switched to video and telephone [[consultations]] to keep patients and staff apart. Many expected the change to be temporary. Instead, remote care has become a permanent feature of many health systems, and it is now being joined by a second, potentially more disruptive technology: artificial intelligence that can help identify disease from scans, photographs and test results.",
+   "The benefits of telemedicine are easy to see, particularly for people who live far from a hospital or find travelling difficult. A farmer in a remote village can show a rash to a specialist hundreds of kilometres away; a parent can get advice about a feverish child without spending half a day in a crowded waiting room. For routine follow-up appointments and repeat prescriptions, supporters argue, the convenience and savings clearly [[outweigh]] the drawbacks of not meeting face to face.",
+   "AI diagnostic tools promise something different: speed and consistency. Systems trained on millions of medical images can now spot signs of certain eye diseases, skin cancers and lung conditions, in some studies matching the performance of experienced specialists. Unlike humans, they do not get tired or distracted at the end of a long shift. In countries with too few radiologists, hospitals have [[deployed]] such software to sort scans so that the most urgent cases are seen first, cutting potentially dangerous delays.",
+   "Yet these tools have come under increasing [[scrutiny]]. An algorithm is only as good as the data it learns from, and if that data comes mainly from one population, the system may perform poorly for others. Researchers have found evidence of [[bias]] in some programs designed to detect skin conditions, which were far less accurate on darker skin because few such images had been included in their training. Errors of this kind could deepen existing inequalities in health care rather than reduce them.",
+   "There are also difficult questions of responsibility. If an AI system misses a tumour, who should be held [[accountable]] — the doctor who relied on it, the hospital that bought it, or the company that built it? Current regulations were largely written for human professionals and conventional medical devices, and lawmakers in many countries are still debating how to adapt them. Patients, too, have concerns about privacy, since both video calls and AI systems depend on large amounts of sensitive personal data being stored and shared.",
+   "Most doctors see the future as a partnership rather than a replacement. Software may be better at detecting patterns in images, but a clinician's [[intuition]], built over years of examining patients, can pick up on details that never appear in a scan — a hesitation in someone's voice, or a symptom the patient forgot to mention. And for many people, especially those facing a serious diagnosis, the [[reassurance]] of a calm conversation with another human being remains an essential part of being cared for."
+  ],
+  "discussion": [
+   "Would you be happy for your first appointment with a doctor to take place by video call? Why / Why not?",
+   "If an AI system makes a wrong diagnosis, who do you think should be responsible, and why?"
+  ]
+ },
+ "grammar": {
+  "title": "Reporting verbs & reported speech in academic writing",
+  "intro": "Academic writers constantly report what other researchers have said, found or argued. The reporting verb you choose shows not only what a source says but also how strong the evidence is and how far you agree with it. Impersonal structures such as *it has been found that* allow you to report findings without naming a specific person.",
+  "rules_intro": "The rules below show the main groups of reporting verbs, the patterns that follow them, and how the choice of verb changes the meaning of a sentence.",
+  "rules": [
+   {
+    "rule": "Neutral verbs — **state, report, note, explain, observe** + *that* — simply present what a source says without judging it.",
+    "example": "The authors note that resistance rates have risen sharply over the last decade."
+   },
+   {
+    "rule": "Tentative verbs — **suggest, indicate, propose, imply** — show that the evidence points towards something but is not conclusive.",
+    "example": "The data suggest that shorter courses of antibiotics may be just as effective."
+   },
+   {
+    "rule": "Strong verbs — **argue, claim, maintain, insist** — present a position the source is defending. **Claim** often signals that the writer has doubts about it.",
+    "example": "The manufacturer claims that its app can detect skin cancer as accurately as a specialist."
+   },
+   {
+    "rule": "**Acknowledge, admit, concede** show that a source accepts a point, often one that weakens its own argument.",
+    "example": "Supporters of telemedicine acknowledge that video calls are unsuitable for some examinations."
+   },
+   {
+    "rule": "Some verbs take different patterns: **warn** (sb) **against** + *-ing*, **urge** sb **to** + infinitive, **recommend / suggest** + *-ing* or *that* + (should) + base form.",
+    "example": "Experts urge doctors to prescribe antibiotics only when absolutely necessary."
+   },
+   {
+    "rule": "Impersonal passives — **It has been found / shown / suggested that…** or **X is thought / believed to…** — report findings without naming a source. In academic writing, tenses do not usually move back if the finding is still true.",
+    "example": "It has been shown that AI tools perform less well on groups that are under-represented in their training data."
+   }
+  ],
+  "exA": {
+   "instruction": "Exercise A — Complete the paragraph with the correct form of the reporting verbs in the box: acknowledge, argue, claim, conclude, find, point out, suggest, warn.",
+   "text": "A recent review of AI diagnostic tools (1) ___________ that, in controlled studies, several systems performed as well as experienced specialists. However, the authors (2) ___________ that most of these studies used high-quality images that rarely reflect real hospital conditions. One technology company (3) ___________ that its software 'will make radiologists unnecessary within ten years', a view that most doctors reject. Critics (4) ___________ that replacing human judgement entirely would be both unsafe and unethical. Even enthusiastic developers (5) ___________ that their systems sometimes make errors that no human would make. Patient groups have (6) ___________ hospitals against introducing such tools without proper testing. Overall, the evidence (7) ___________ that the technology works best as a second opinion rather than a replacement, and the review (8) ___________ that further research in real clinical settings is urgently needed."
   },
-
-  "key": {
-    "article1_vocab": "1 c  2 e  3 h  4 g  5 b  6 a  7 f  8 d",
-    "word_forms": "1 resistance  2 convenient  3 accuracy  4 reproduction  5 susceptibility",
-    "headings": "1 D  2 B  3 F  4 H  5 C  6 A  7 G  (E is not needed)",
-    "language_dev": "1 conduct  2 make  3 pose  4 undergo  5 raised  6 develop",
-    "article2_vocab": "1 a  2 b  3 c  4 a  5 c  6 b  7 c  8 b",
-    "grammar_a": "1 found / has found  2 point out  3 claims / has claimed  4 argue  5 acknowledge  6 warned  7 suggests  8 concludes / concluded",
-    "grammar_b": "1 It has been found that resistant infections lengthen hospital stays.  2 Overuse in farming is believed to be a major cause of resistance.  3 It has been shown that video consultations save patients time and money.  4 The new drug is thought to be safer than older treatments.  5 It has been suggested that hospitals should share patient data more openly.",
-    "reading": "30 social  31 tags  32 equipment  33 water  34 B  35 C"
+  "exB": {
+   "instruction": "Exercise B — Rewrite each sentence using the impersonal structure in brackets, as shown in rule 6.",
+   "items": [
+    "Researchers have found that resistant infections lengthen hospital stays. (It has been found that…)",
+    "Experts believe that overuse in farming is a major cause of resistance. (Overuse in farming is believed…)",
+    "Many studies have shown that video consultations save patients time and money. (It has been shown that…)",
+    "Doctors think that the new drug is safer than older treatments. (The new drug is thought…)",
+    "Some researchers have suggested that hospitals should share patient data more openly. (It has been suggested that…)"
+   ]
   }
+ },
+ "academic": {
+  "subtitle": "Referring to sources — reporting research findings accurately",
+  "skill_name": "Referring to sources",
+  "skill_text": "In academic writing you must show clearly where information comes from, using phrases such as *According to…*, *X found that…* or *As X points out,…*. Reporting a finding accurately — without exaggerating it, changing its meaning or presenting it as your own idea — is the most effective way to avoid plagiarism.",
+  "example": [
+   [
+    "SOURCE",
+    "Smith & Patel (2021): Of 400 patients surveyed, 72% said that a video consultation had fully met their needs."
+   ],
+   [
+    "REPORTED",
+    "According to Smith and Patel (2021), almost three-quarters of the patients they surveyed felt that a video consultation had been sufficient."
+   ]
+  ],
+  "instruction": "Rewrite each piece of information as one sentence that refers to its source. Use a different reporting phrase each time (According to…, X found that…, X claims that…, As X points out,…).",
+  "items": [
+   "Lee (2020): Patients who stop taking antibiotics early are more likely to need a second course of treatment.",
+   "A hospital report (2023): Waiting times for scan results fell by 30% after an AI system began sorting scans.",
+   "Professor Okafor (interview, 2022): 'Without new business models, the supply of new antibiotics will simply dry up.'",
+   "Garcia et al. (2019): Most skin-cancer algorithms were trained mainly on images of lighter skin.",
+   "A technology company's website: 'Our app is just as accurate as a qualified dermatologist.'",
+   "A national survey of family doctors (2024): Most doctors support video calls for follow-up appointments, but not for first visits."
+  ],
+  "task": "Write a short paragraph (80–100 words) on whether AI should be used to diagnose illness. Refer to at least two sources from this unit — the articles or the sentences above — using a range of reporting verbs, and make it clear which ideas belong to others and which are your own."
+ },
+ "reading": {
+  "part": 5,
+  "test": 2,
+  "blocks": [
+   {
+    "type": "instruction",
+    "text": "Read the following text for questions 30-35."
+   },
+   {
+    "type": "article",
+    "title": "IS GRAFFITI ART OR CRIME?",
+    "cols": 2,
+    "paragraphs": [
+     "The term graffiti derives from the Italian graffito meaning ‘scratching’ and can be defined as uninvited marking or writing scratched or applied to objects, built structures and natural features. It is not a new phenomenon: examples can be found on ancient structures around the world, in some cases predating the Greeks and Romans. In such circumstances it has acquired invaluable historical and archaeological significance, providing a social history of life and events at that time. Graffiti is now a problem that has become pervasive, as a result of the availability of cheap and quick means of mark-making.",
+     "It is usually considered a priority to remove graffiti as quickly as possible after it appears. This is for several reasons. The first is to prevent ‘copy-cat’ emulation which can occur rapidly once a clean surface is defaced. It may also be of a racist or otherwise offensive nature and many companies and councils have a policy of removing this type of graffiti within an hour or two of it being reported. Also, as paints, glues and inks dry out over time they can become increasingly difficult to remove and are usually best dealt with as soon as possible after the incident. Graffiti can also lead to more serious forms of vandalism and, ultimately, the deterioration of an area, contributing to social decline.",
+     "Although graffiti may be regarded as an eyesore, any proposal to remove it from sensitive historic surfaces should be carefully considered: techniques designed for more robust or utilitarian surfaces may result in considerable damage. In the event of graffiti incidents, it is important that the owners of buildings or other structures and their consultants are aware of the approach they should take in dealing with the problem. The police should be informed as there may be other related attacks occurring locally. An incidence pattern can identify possible culprits, as can stylised signatures or nicknames, known as ‘tags’, which may already be familiar to local police. Photographs are useful to record graffiti incidents and may assist the police in bringing a prosecution. Such images are also required for insurance claims and can be helpful in cleaning operatives, allowing them to see the problem area before arriving on site.",
+     "There are a variety of methods that are used to remove graffiti. Broadly these divide between chemical and mechanical systems. Chemical preparations are based on dissolving the media; these solvents can range from water to potentially hazardous chemical ‘cocktails’. Mechanical systems such as wire-brushing and grit-blasting attempt to abrade or chip the media from the surface. Care should be taken to comply with health and safety legislation with regard to the protection of both passers-by and any person carrying out the cleaning. Operatives should follow product guidelines in terms of application and removal, and wear the appropriate protective equipment. Measures must be taken to ensure that run-off, aerial mists, drips and splashes do not threaten unprotected members of the public. When examining a graffiti incident it is important to assess the ability of the substrate to withstand the prescribed treatment. If there is any doubt regarding this, then small trial areas should be undertaken to assess the impact of more extensive treatment.",
+     "A variety of preventive strategies can be adopted to combat a recurring problem of graffiti at a given site. As no two sites are the same, no one set of protection measures will be suitable for all situations. Each site must be looked at individually. Surveillance systems such as closed-circuit television may also help. In cities and towns around the country, prominently placed cameras have been shown to reduce anti-social behavior of all types including graffiti. Security patrols will also act as a deterrent to prevent recurring attacks. However, the cost of this may be too high for most situations. A physical barriers such as a wall, railings, doors or gates can be introduced to discourage unauthorized access to a vulnerable site. However, consideration has to be given to the impact measures have on the structure being protected. In the worst cases, they can be almost as damaging to the quality of the environment as the graffiti they prevent. In others, they might simply provide a new surface for graffiti.",
+     "One of the most significant problems associated with graffiti removal is the need to remove it from surfaces that are repeatedly attacked. Under these circumstances, the repeated removal of graffiti using even the most gentle methods will ultimately cause damage to the surface material. There may be situations where the preventive strategies mentioned above do not work or are not a viable proposition at a given site. Anti-graffiti coatings are usually applied by brush or spray leaving a thin veneer that essentially serves to isolate the graffiti from the surface.",
+     "Removal of graffiti from a surface that has been treated in this way is much easier, usually using low-pressure water which reduces the possibility of damage. Depending on the type of barrier selected it may be necessary to reapply the coating after each graffiti removal exercise."
+    ]
+   },
+   {
+    "type": "instruction",
+    "text": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question."
+   },
+   {
+    "type": "notes",
+    "title": "",
+    "lines": [
+     "Ancient graffiti is of significance and records the (30)___________ history of details life for that period. The police can recognize newly committed incidents of graffiti by the signature which is called (31)_____________ that they are familiar with. Operatives ought to comply with relevant rules during the operation, and put on the suitable protective (32)_________________. Removal of graffiti from a new type of coating surface can be much convenient of using (33)____________."
+    ]
+   },
+   {
+    "type": "instruction",
+    "text": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+   },
+   {
+    "type": "mcq",
+    "items": [
+     {
+      "n": 34,
+      "q": "Which statement is true concerning the removal of graffiti?",
+      "options": [
+       "A) cocktail removal can be safer than water treatment",
+       "B) small patch trial before applying large scale of removing",
+       "C) Chemical treatments are the most expensive way of removing",
+       "D) mechanical removals are much more applicable than Chemical treatments."
+      ]
+     },
+     {
+      "n": 35,
+      "q": "Which of the following preventive measures against graffiti are mentioned effectively in the passage?",
+      "options": [
+       "A) organise more anti-graffiti movement in the city communities",
+       "B) Build a new building with material repelling to water",
+       "C) installing more visible security cameras",
+       "D) Provide a whole new surface with a chemical coat"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "wordlist": [
+  "derive from",
+  "uninvited",
+  "phenomenon",
+  "predate",
+  "acquire",
+  "invaluable",
+  "archaeological significance",
+  "pervasive",
+  "a priority",
+  "emulation",
+  "deface",
+  "offensive",
+  "deterioration",
+  "social decline",
+  "eyesore",
+  "robust",
+  "utilitarian",
+  "culprit",
+  "bring a prosecution",
+  "insurance claim",
+  "dissolve",
+  "hazardous",
+  "abrade",
+  "comply with",
+  "legislation",
+  "withstand",
+  "deterrent",
+  "unauthorised access",
+  "viable proposition",
+  "veneer"
+ ],
+ "listening": {
+  "part": 5,
+  "test": 2,
+  "blocks": [
+   {
+    "type": "instruction",
+    "audio": true,
+    "text": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract.\nMark your answers on the answer sheet."
+   },
+   {
+    "type": "instruction",
+    "text": "Extract One"
+   },
+   {
+    "type": "mcq",
+    "items": [
+     {
+      "n": 24,
+      "q": "What do we learn about the writer of the play?",
+      "options": [
+       "A) He died.",
+       "B) He is dying.",
+       "C) He nearly died."
+      ]
+     },
+     {
+      "n": 25,
+      "q": "What do the speakers agree on?",
+      "options": [
+       "A) The writer is quite predictable.",
+       "B) The writer’s style has changed direction.",
+       "C) The play wasn’t as funny as some of the writer’s earlier plays."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "instruction",
+    "text": "Extract Two"
+   },
+   {
+    "type": "mcq",
+    "items": [
+     {
+      "n": 26,
+      "q": "According to Pablo Jenson",
+      "options": [
+       "A) a variety of different shops tends to boost sales.",
+       "B) traders that have something in common can boost each other’s sales.",
+       "C) butchers are the most successful traders."
+      ]
+     },
+     {
+      "n": 27,
+      "q": "Jenson’s theory",
+      "options": [
+       "A) advertised for similar retailers to open shops in one particular area.",
+       "B) works better for bakers and butchers than for other kinds of retailers.",
+       "C) seems to have been proved to be credible."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "instruction",
+    "text": "Extract Three"
+   },
+   {
+    "type": "mcq",
+    "items": [
+     {
+      "n": 28,
+      "q": "The Costa de la Cruz",
+      "options": [
+       "A) is being spoiled by developers.",
+       "B) is the cheapest area of Spain in which you can buy a holiday home.",
+       "C) is close to Portugal."
+      ]
+     },
+     {
+      "n": 29,
+      "q": "According to Chris Mercer",
+      "options": [
+       "A) there is a danger that the Costa de la Cruz will lose its appeal.",
+       "B) the Costa de la Cruz can be developed without the area being damaged.",
+       "C) the government has put a stop to the Costa de la Cruz being developed further."
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "idioms": [
+  [
+   "Under the weather",
+   "Feeling slightly ill or not as well as usual."
+  ],
+  [
+   "On the mend",
+   "Recovering after an illness or injury."
+  ],
+  [
+   "A clean bill of health",
+   "An official statement that someone is healthy, or that something is in good condition."
+  ],
+  [
+   "Back on one's feet",
+   "Healthy and active again after being ill or having problems."
+  ],
+  [
+   "As fit as a fiddle",
+   "In excellent physical health."
+  ],
+  [
+   "Run down",
+   "Tired, weak and more likely to become ill, usually because of overwork or stress."
+  ],
+  [
+   "Take a turn for the worse",
+   "To suddenly become more ill or a situation becoming much worse."
+  ],
+  [
+   "Out of the woods",
+   "No longer in danger or serious difficulty, especially after an illness."
+  ],
+  [
+   "A bitter pill to swallow",
+   "An unpleasant fact or situation that is difficult to accept."
+  ],
+  [
+   "Kill or cure",
+   "Describing a risky treatment or action that will either solve a problem completely or make it much worse."
+  ],
+  [
+   "Prevention is better than cure",
+   "It is easier and wiser to stop a problem happening than to deal with it afterwards."
+  ],
+  [
+   "Just what the doctor ordered",
+   "Exactly what is needed to make someone feel better or improve a situation."
+  ],
+  [
+   "Go under the knife",
+   "To have a surgical operation."
+  ],
+  [
+   "Burn the candle at both ends",
+   "To work or stay active from early morning until late at night, so that you become exhausted."
+  ],
+  [
+   "Have a frog in one's throat",
+   "To have difficulty speaking clearly because your throat feels rough or blocked."
+  ]
+ ],
+ "writing": {
+  "kind": "letter",
+  "title": "WRITING PART 1.2",
+  "useful_title": "USEFUL LANGUAGE — Formal letter",
+  "useful": [
+   [
+    "Opening",
+    "Dear Sir/Madam, / Dear Dr [Surname], / I am writing in response to your recent email regarding…"
+   ],
+   [
+    "Reacting / feelings",
+    "I was pleased to learn that… / While I welcome…, I must admit I have some concerns about…"
+   ],
+   [
+    "Giving a suggestion",
+    "I would suggest that… / It would be beneficial to… / It might be worth considering…"
+   ],
+   [
+    "Requesting a reply",
+    "I would be grateful if you could… / I would appreciate further information about…"
+   ],
+   [
+    "Closing",
+    "Thank you for taking the time to consider students' views. / Yours faithfully, / Yours sincerely,"
+   ]
+  ],
+  "practice_title": "PART 1.1 PRACTICE",
+  "situation": "You are a student at a university. You received this email from the head of the university's Student Health Centre.",
+  "email": "Dear Student,\nI'm writing to let you know about an important change to our service. From next month, the Health Centre will no longer offer walk-in appointments. Instead, all students will need to book through our new online system, and most first appointments will take place as video consultations with a nurse or doctor. Face-to-face appointments will still be available whenever a physical examination is needed. We believe this will reduce waiting times considerably. We would welcome your views on the change and any suggestions for making the new system work well.\nBest wishes,\nDr A. Karimova\nHead of the Student Health Centre",
+  "task11": "Task 1.1 — Write a letter to your friend, who is also a student at the university. Write about your feelings about the change and what you think the Health Centre should do. Write about 50 words.",
+  "task12": "Task 1.2 — Write a letter to the Head of the Student Health Centre. Write about your feelings about the change and what suggestions you have. Write about 120–150 words.",
+  "rules_title": "RULES for Task 1.2 (formal letter)",
+  "rules": [
+   "Respond to the SAME message as Task 1.1 — cover the same two things (feelings + suggestions), but in more depth.",
+   "Aim for 120–150 words — several short paragraphs, not one block of text.",
+   "Use a formal register throughout: no contractions, polite and impersonal phrasing.",
+   "Structure it clearly: an opening line, your reaction, your suggestion(s) in detail, and a polite closing.",
+   "Open with Dear Sir/Madam (close with Yours faithfully) or Dear Dr Karimova (close with Yours sincerely).",
+   "Use a wider range of grammar than Task 1.1 — reporting verbs, passive forms, and formal linking words (firstly, in addition, given that)."
+  ],
+  "sample_title": "SAMPLE ANSWER",
+  "sample": "Dear Dr Karimova,\nThank you for informing students about the planned changes to the Health Centre's appointment system. I welcome the aim of reducing waiting times, as I have often waited over an hour for a walk-in appointment. However, I must admit that I have some concerns about relying so heavily on video consultations.\nFirstly, not all students have a quiet, private place to discuss health problems, particularly those who share rooms in halls of residence. I would therefore suggest providing a few private booths on campus where students can join video calls confidentially.\nSecondly, it would be beneficial to keep a small number of same-day appointments for urgent cases, since some illnesses cannot wait for an online booking slot. In addition, clear instructions on using the new system should be sent to international students in several languages.\nThank you for taking the time to consider students' views. I look forward to hearing how the new system develops.\nYours sincerely,\nN. Yusupova",
+  "practice2_title": "TASK 1.2 PRACTICE — now you try, with a new message",
+  "situation2": "You are a member of a local sports centre. You received this email from the centre's manager.",
+  "email2": "Dear Member,\nWe are pleased to announce that from 1 March, personal fitness assessments will be carried out by a new AI-powered app rather than by our instructors. The app will analyse your movements through your phone's camera, track your heart rate and create a personalised training plan for you. Instructors will remain available in the gym, but one-to-one sessions will only be offered at an extra cost. Before the change is introduced, we would like to know what you think about it.\nKind regards,\nThe Manager",
+  "task2": "Task 1.2 — Write a letter to the Manager. Write about your feelings about the change and what you think the centre should do. Write about 120–150 words."
+ },
+ "speaking": {
+  "part": "1.1",
+  "title": "SPEAKING PART 1.1",
+  "questions": [
+   "How do you usually look after your health?",
+   "Do you prefer to see a doctor in person or online? Why?",
+   "When was the last time you visited a doctor or a clinic?",
+   "Do you think people in your country take too many medicines?",
+   "Would you trust an app to tell you what is wrong with you?",
+   "What do you do when you feel unwell before an important exam or event?"
+  ],
+  "samples": [
+   [
+    "Do you prefer to see a doctor in person or online? Why?",
+    "**On the whole, I'd rather** see a doctor in person. **It's much easier to explain** what's wrong when someone can actually examine you. **That said**, for something simple like renewing a prescription, an online appointment **saves a lot of time**, so I can **see the appeal** for busy people."
+   ],
+   [
+    "Do you think people in your country take too many medicines?",
+    "**To some extent, yes.** A lot of people **reach for** painkillers or antibiotics the moment they feel slightly **under the weather**, often without asking a doctor first. **I think it's partly because** medicines are so easy to buy here, but **it would be better if** people tried rest and fluids first."
+   ],
+   [
+    "Would you trust an app to tell you what is wrong with you?",
+    "**Only up to a point.** I'd happily use one to **get a rough idea** of what might be wrong, but **I wouldn't rely on it completely**. Apps can't see the whole picture, so **for anything serious** I'd definitely want **a second opinion** from a real doctor."
+   ]
+  ],
+  "useful": [
+   [
+    "Giving a preference:",
+    "On the whole, I'd rather… / I tend to prefer… because…"
+   ],
+   [
+    "Talking about habits:",
+    "I usually make a point of… / I try to… whenever I can."
+   ],
+   [
+    "Partly agreeing:",
+    "To some extent, yes. / Only up to a point. / That depends on…"
+   ],
+   [
+    "Giving reasons:",
+    "I think it's partly because… / The main reason is that…"
+   ],
+   [
+    "Adding a contrast:",
+    "That said, … / On the other hand, … / Having said that, …"
+   ],
+   [
+    "Health vocabulary:",
+    "feel under the weather / get a second opinion / make a full recovery / be on the mend"
+   ]
+  ]
+ },
+ "key": {
+  "article1_vocab": "1 c  2 e  3 h  4 g  5 b  6 a  7 f  8 d",
+  "word_forms": "1 resistance  2 convenient  3 accuracy  4 reproduction  5 susceptibility",
+  "headings": "1 D  2 B  3 F  4 H  5 C  6 A  7 G  (E is not needed)",
+  "language_dev": "1 conduct  2 make  3 pose  4 undergo  5 raised  6 develop",
+  "article2_vocab": "1 a  2 b  3 c  4 a  5 c  6 b  7 c  8 b",
+  "grammar_a": "1 found / has found  2 point out  3 claims / has claimed  4 argue  5 acknowledge  6 warned  7 suggests  8 concludes / concluded",
+  "grammar_b": "1 It has been found that resistant infections lengthen hospital stays.  2 Overuse in farming is believed to be a major cause of resistance.  3 It has been shown that video consultations save patients time and money.  4 The new drug is thought to be safer than older treatments.  5 It has been suggested that hospitals should share patient data more openly.",
+  "reading": "30 social  31 tags  32 equipment  33 water  34 B  35 C",
+  "listening": "24 ______  25 ______  26 ______  27 ______  28 ______  29 ______"
+ }
 }

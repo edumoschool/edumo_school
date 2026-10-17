@@ -1,362 +1,537 @@
 {
-  "n": 7,
-  "title": "ARCHITECTURE",
-  "subtitle": "CITIES OF TOMORROW",
-  "cover_color": "#3B2A6B",
-  "image_prompt": "An illustrated panorama of a future city in Central Asia at golden hour: blue-tiled domes and ancient brick minarets in the foreground, tree-lined pedestrian streets with people walking and cycling, and modern green buildings with rooftop gardens and solar panels rising gently in the background; warm, optimistic colours, soft painterly style, no text, no lettering.",
-  "warmup": [
-    "Which building or public space in your town do you enjoy spending time in most? Why?",
-    "Do you think tall glass skyscrapers make a city more attractive, or less?",
-    "Should old buildings always be protected, even if they are no longer useful?",
-    "If you could redesign one street in your city, what would you change first?"
+ "n": 7,
+ "title": "ARCHITECTURE",
+ "subtitle": "CITIES OF TOMORROW",
+ "cover_color": "#3B2A6B",
+ "image_prompt": "An illustrated panorama of a future city in Central Asia at golden hour: blue-tiled domes and ancient brick minarets in the foreground, tree-lined pedestrian streets with people walking and cycling, and modern green buildings with rooftop gardens and solar panels rising gently in the background; warm, optimistic colours, soft painterly style, no text, no lettering.",
+ "warmup": [
+  "Which building or public space in your town do you enjoy spending time in most? Why?",
+  "Do you think tall glass skyscrapers make a city more attractive, or less?",
+  "Should old buildings always be protected, even if they are no longer useful?",
+  "If you could redesign one street in your city, what would you change first?"
+ ],
+ "article1": {
+  "title": "WHAT MAKES A PLACE LIVEABLE?",
+  "vocab": [
+   "Rapid urban [[sprawl]] has swallowed up much of the farmland on the edges of the growing city.",
+   "The new housing estate was criticised for lacking basic [[amenities]] such as shops, clinics and playgrounds.",
+   "Last year the council turned the main shopping street into a [[pedestrian]] zone, closing it to all traffic.",
+   "Rather than knock the office block down, the owners decided to [[retrofit]] it with solar panels and better insulation.",
+   "Poor [[ventilation]] in crowded classrooms can leave pupils tired and unable to concentrate.",
+   "Surrounded by low buildings and old plane trees, the small square has a surprisingly [[intimate]] atmosphere.",
+   "A growing body of research links regular access to green space with improved mental [[well-being]].",
+   "During rush hour, the city's [[congested]] roads can turn a ten-minute journey into an hour-long ordeal."
   ],
-
-  "article1": {
-    "title": "WHAT MAKES A PLACE LIVEABLE?",
-    "vocab": [
-      "Rapid urban [[sprawl]] has swallowed up much of the farmland on the edges of the growing city.",
-      "The new housing estate was criticised for lacking basic [[amenities]] such as shops, clinics and playgrounds.",
-      "Last year the council turned the main shopping street into a [[pedestrian]] zone, closing it to all traffic.",
-      "Rather than knock the office block down, the owners decided to [[retrofit]] it with solar panels and better insulation.",
-      "Poor [[ventilation]] in crowded classrooms can leave pupils tired and unable to concentrate.",
-      "Surrounded by low buildings and old plane trees, the small square has a surprisingly [[intimate]] atmosphere.",
-      "A growing body of research links regular access to green space with improved mental [[well-being]].",
-      "During rush hour, the city's [[congested]] roads can turn a ten-minute journey into an hour-long ordeal."
-    ],
-    "definitions": [
-      "(adj) so full of traffic or people that movement is difficult",
-      "(v) to add new equipment or features to a building that was not originally built with them",
-      "(n) the uncontrolled spread of a city into the countryside around it",
-      "(n) the state of feeling healthy, comfortable and happy",
-      "(adj) for or used by people walking, not vehicles",
-      "(n) the movement of fresh air into and through a room or building",
-      "(n) useful facilities, such as shops or parks, that make a place pleasant or convenient to live in",
-      "(adj) small, quiet and comfortable in a way that feels personal and welcoming"
-    ],
-    "paragraphs": [
-      "Ask people to describe a place they genuinely enjoy spending time in, and very few will mention a record-breaking skyscraper or a vast glass shopping mall. Far more often, they describe a shaded square, a lively street market or a quiet courtyard where neighbours stop to talk. Architects and planners call this quality 'liveability': the extent to which a building or public space supports the everyday lives of the people who use it. It is rarely a matter of size or spectacle. What makes a place liveable is usually the sum of many small, carefully considered details.",
-      "One of the most influential ideas in modern urban design is 'human scale' — the principle that buildings and streets should be measured against the human body rather than the motor car. Someone walking at five kilometres an hour notices doorways, windows, textures and trees; a driver at sixty notices almost nothing. Streets lined with buildings of three to six storeys, with shops and cafés at ground level, tend to feel [[intimate]] and safe, whereas a plaza surrounded by blank forty-storey towers can feel exposed and empty, however impressive it looks on an architect's model.",
-      "For much of the twentieth century, cities were redesigned around traffic. Wide roads were cut through old neighbourhoods, and streets became places to pass through rather than places to be. Today, many cities are reversing that trend. Turning [[congested]] shopping streets into [[pedestrian]] zones was once dismissed as bad for business, yet study after study has found that people on foot linger longer and, over time, spend more than drivers who park, shop and leave. Cleaner air and quieter streets, it turns out, are good for trade as well as for health.",
-      "Liveability also depends on what happens inside buildings. So-called green buildings aim to use as little energy as possible while keeping the people inside them comfortable. Many achieve this by borrowing ideas that traditional builders understood centuries ago: thick walls that store heat during the day, courtyards that draw cool air through rooms, and windows positioned for natural [[ventilation]] instead of relying entirely on air conditioning. Not only do such features cut energy bills, but they also create healthier indoor environments, since stale air and poor light are closely linked to tiredness and headaches.",
-      "Perhaps surprisingly, many architects now argue that the greenest building is the one that already exists. Constructing a new building releases enormous amounts of carbon, from producing cement and steel to transporting materials to the site. Choosing to [[retrofit]] an existing structure — adding insulation, solar panels, efficient heating and better windows — often achieves similar energy savings at a fraction of the environmental cost. As a result, demolition, once seen as the obvious first step in any redevelopment project, is increasingly treated as a last resort.",
-      "Liveability is equally a question of distance. Low-density urban [[sprawl]], with housing estates miles away from shops and workplaces, forces residents to drive for almost every errand and leaves those without a car isolated. In response, planners in cities from Paris to Melbourne have promoted the idea of the 'fifteen-minute city', in which schools, clinics, parks and other everyday [[amenities]] are within a short walk or bike ride of home. The aim is not to stop people travelling further, but to make sure they no longer have to.",
-      "Finally, there is the question of nature. Research consistently shows that access to trees, parks and water improves physical health and mental [[well-being]], lowers stress and even reduces summer temperatures in densely built areas. Yet the most liveable places are rarely designed by experts alone. It is often residents, through years of small adjustments — a bench added here, a vegetable garden there — who turn a well-planned space into a genuinely loved one. A building can win every award going and still fail if nobody wants to spend time there."
-    ],
-    "headings": [
-      "Everything within a short walk",
-      "Buildings that breathe",
-      "Not the tallest, but the most welcoming",
-      "Why skyscrapers are disappearing from city skylines",
-      "Putting people before cars",
-      "Nature as a public health measure",
-      "Design measured by the human body",
-      "The greenest building is the one already standing"
-    ]
-  },
-
-  "word_forms": [
-    ["Low buildings and narrow lanes give the old quarter a sense of ________ that many modern districts lack.", "intimacy"],
-    ["Tourists increasingly look for ________ experiences rather than polished reconstructions of the past.", "authentic"],
-    ["Improving the energy ________ of older homes is one of the cheapest ways for a city to cut its emissions.", "efficiency"],
-    ["The plan to ________ the old cinema was abandoned after a long public campaign to save it.", "demolish"],
-    ["The bazaar street was ________ in 2019 and is now closed to cars, buses and delivery vans during the day.", "pedestrianised"]
+  "definitions": [
+   "(adj) so full of traffic or people that movement is difficult",
+   "(v) to add new equipment or features to a building that was not originally built with them",
+   "(n) the uncontrolled spread of a city into the countryside around it",
+   "(n) the state of feeling healthy, comfortable and happy",
+   "(adj) for or used by people walking, not vehicles",
+   "(n) the movement of fresh air into and through a room or building",
+   "(n) useful facilities, such as shops or parks, that make a place pleasant or convenient to live in",
+   "(adj) small, quiet and comfortable in a way that feels personal and welcoming"
   ],
-
-  "language_dev": {
-    "title": "Describing urban change",
-    "skill_name": "Verb + noun collocations",
-    "skill_text": "When we write about how cities change, certain verbs combine naturally with a small group of nouns — for example [[preserve the character]] of an area, or [[tackle congestion]]. Learning these as fixed chunks, rather than word by word, helps you describe planning and architecture precisely and sound more natural in academic writing.",
-    "table": [
-      ["restore", "a building, a monument, a facade (to its original condition)"],
-      ["preserve", "heritage, the character, the atmosphere (of a place)"],
-      ["demolish", "a building, a tower block, a structure"],
-      ["revitalise", "a neighbourhood, a city centre, a run-down area"],
-      ["tackle", "congestion, pollution, urban sprawl"],
-      ["enhance", "well-being, quality of life, the appeal (of an area)"]
-    ],
-    "instruction": "Complete the sentences with the correct verb from the table above. Use the correct form.",
-    "sentences": [
-      "After years of decline, a new market and cultural centre helped to ________ the run-down neighbourhood.",
-      "Strict planning rules were introduced to ________ the historic character of the old town.",
-      "The city hopes that the new metro line will ________ congestion on its busiest roads.",
-      "Craftsmen spent three years carefully ________ the tiled dome of the madrasa.",
-      "Planting more trees is one of the cheapest ways to ________ residents' quality of life.",
-      "The council decided to ________ the unsafe tower block rather than spend millions repairing it."
-    ]
-  },
-
-  "article2": {
-    "title": "OLD WALLS, NEW CITIES",
-    "intro": "The sentences below are about historic cities. Choose the correct meaning (a, b or c) for the word in bold.",
-    "vocab": [
-      {"q": "Many families moved out of the [[dilapidated]] apartment block after its roof began to leak.",
-       "options": ["modern and expensive", "old and in very poor condition", "small and overcrowded"]},
-      {"q": "Visitors value the [[authenticity]] of the old quarter, where craftsmen still work exactly as their grandparents did.",
-       "options": ["the quality of being real and original", "the high cost of maintaining something", "popularity with tourists"]},
-      {"q": "The [[demolition]] of the old bathhouse angered residents who had campaigned for years to save it.",
-       "options": ["careful repair", "detailed study", "the act of knocking down a building"]},
-      {"q": "Only the original stone [[facade]] was kept; everything behind it was completely rebuilt.",
-       "options": ["the front wall of a building", "the roof of a building", "the foundations of a building"]},
-      {"q": "Rising rents caused by [[gentrification]] forced many long-standing shopkeepers to close.",
-       "options": ["government control of land and housing", "the slow decline of a poor neighbourhood", "wealthier people moving into an area, pushing out poorer residents"]},
-      {"q": "New hotels have begun to [[encroach]] on the protected area around the ancient mosque.",
-       "options": ["protect and support", "gradually move into and take over", "decorate and improve"]},
-      {"q": "Local residents see themselves as the [[custodians]] of a history that belongs to everyone.",
-       "options": ["occasional visitors", "people responsible for looking after something", "harsh critics"]},
-      {"q": "Critics complained that the restored street looked [[sterile]] — more like a museum than a living neighbourhood.",
-       "options": ["lacking life and character", "clean and healthy", "noisy and crowded"]}
-    ],
-    "paragraphs": [
-      "Walk through the old centre of almost any Central Asian city and you are walking through layers of history: mosques and madrasas, covered bazaars, bathhouses and caravanserais that once served merchants travelling the Silk Road. Cities such as Samarkand and Bukhara attract visitors from all over the world precisely because so much of this past is still standing. Yet these same cities are home to growing populations who need housing, roads, schools and jobs. How to balance the protection of the past with the demands of the present is one of the most difficult questions facing planners today.",
-      "Supporters of new construction point out that not every old building is worth saving. Many historic quarters contain [[dilapidated]] houses with crumbling walls, poor sanitation and no proper heating, and the families living in them often want modern homes rather than romantic surroundings. Repairing such buildings can cost far more than replacing them, and in some cases [[demolition]] is the only safe option. A city, they argue, is not a museum; it must be allowed to change if it is to remain a good place in which to live and work.",
-      "Conservationists respond that once a historic building is lost, it is lost for ever. They also warn against restoration that goes too far. When ancient structures are rebuilt with new materials and bright, perfectly uniform tiles, they may look impressive in photographs, but they lose much of their [[authenticity]]. Some developers keep only the historic [[facade]] of a building and replace everything behind it with offices or hotel rooms — a compromise that critics compare to keeping the cover of a book while throwing away all of its pages.",
-      "A further concern is what happens to the people who actually live in historic areas. Successful restoration often attracts tourists, boutique hotels and expensive restaurants, and with them comes [[gentrification]]: property prices rise, long-standing residents sell up or are priced out, and local workshops and corner shops are replaced by souvenir stalls. The result can be an old town that is beautifully preserved but strangely [[sterile]], crowded with visitors during the day and almost empty of residents at night, its streets quiet once the tour groups have gone.",
-      "International bodies such as UNESCO try to manage these pressures by protecting not only individual monuments but also the 'buffer zones' around them. Within these zones, the height and style of new buildings are strictly controlled, so that modern development does not [[encroach]] on the historic skyline. Many experts believe the most effective approach is to concentrate large new projects — business districts, apartment towers, transport hubs — outside the historic core, where they can grow freely without overshadowing the monuments that give the city its identity.",
-      "In the end, preservation and development need not be opposites. Some of the most successful projects give old buildings new purposes: a caravanserai converted into a crafts centre, a former bathhouse reopened as a gallery, a merchant's house turned into a small guesthouse run by the family that owns it. When local communities are treated as the true [[custodians]] of their heritage, rather than as obstacles to tourism, historic centres can remain what they were always meant to be — living places, not open-air museums."
-    ],
-    "discussion": [
-      "Think of an old building in your town or city. Should it be restored, given a new purpose, or replaced? Why?",
-      "Who should decide what happens to a historic city centre — residents, architects, the government or tourists? Why?"
-    ]
-  },
-
-  "grammar": {
-    "title": "Cleft sentences & fronting for emphasis",
-    "intro": "Writers often rearrange a sentence to draw the reader's attention to its most important idea. Cleft sentences split one clause into two parts so that the key information is placed in focus, while fronting moves a word or phrase to the beginning of a sentence, sometimes with inversion of the subject and auxiliary.",
-    "rules_intro": "The rules below show the most common ways to add emphasis in formal and academic writing.",
-    "rules": [
-      {"rule": "**What-clefts:** What + clause + **is/was** + the focus. Use them to highlight an action, a thing or an idea.",
-       "example": "What makes a square feel welcoming is the sense of enclosure created by low buildings."},
-      {"rule": "**It-clefts:** **It is/was** + the focus + **that/who** + the rest of the clause. Use them to emphasise one particular person, thing, time or reason, often in contrast to another.",
-       "example": "It was the residents, not the planners, who saved the old bathhouse from demolition."},
-      {"rule": "**All / The thing / The reason (why) / The place (where)** can replace *What* to give a slightly different emphasis.",
-       "example": "All the old quarter really needs is careful, regular maintenance."},
-      {"rule": "**Negative and limiting adverbials** (Not only, Never, Rarely, Seldom, Little) can be fronted for emphasis. The subject and auxiliary are then inverted.",
-       "example": "Not only do green roofs reduce energy bills, but they also help to prevent flooding."},
-      {"rule": "**Only + time expression** (Only after / Only when / Only then) is followed by inversion in the main clause, not in the time clause.",
-       "example": "Only when the facade was cleaned did its original colours become visible."},
-      {"rule": "**Fronted adjective or prepositional phrase + be/verb + subject** is used in descriptive writing to emphasise a feature.",
-       "example": "Particularly striking is the blue-tiled dome that rises above the market."}
-    ],
-    "exA": {
-      "instruction": "Exercise A — Complete the paragraph with ONE word in each gap.",
-      "text": "(1) ___________ most visitors notice first in the old city is the colour of the domes. However, it is not the size of the monuments (2) ___________ impresses them most, but the narrow, shaded streets around them. Not only (3) ___________ these streets offer protection from the sun, but they (4) ___________ channel cool breezes between the houses. Rarely (5) ___________ modern planners designed a district that works so well in the summer heat. Only after the restoration work had begun (6) ___________ engineers realise how cleverly the original walls had been built. (7) ___________ the residents really want now is more trees and fewer cars. The reason (8) ___________ the area feels so intimate is that no building is taller than the trees around it."
-    },
-    "exB": {
-      "instruction": "Exercise B — Rewrite each sentence for emphasis, beginning with the words in brackets.",
-      "items": [
-        "The narrow streets give the old city its unique character. (What)",
-        "Local volunteers rescued the abandoned caravanserai. (It was)",
-        "The new park reduces traffic noise, and it also attracts wildlife. (Not only)",
-        "We understood the value of the old bazaar only after it had been demolished. (Only after)",
-        "Developers have seldom shown such respect for a historic site. (Seldom)",
-        "I love the way the afternoon light falls across the courtyard. (What)"
-      ]
-    }
-  },
-
-  "academic": {
-    "subtitle": "Comparing and contrasting — showing similarities and differences",
-    "skill_name": "Comparing and contrasting",
-    "skill_text": "When you compare and contrast, you show how two places, ideas or approaches are similar or different. Use expressions such as *similarly*, *likewise* and *in much the same way* to show similarity, and *whereas*, *while*, *by contrast* and *conversely* to show difference. Note that *whereas* and *while* join two clauses in one sentence, while *by contrast*, *conversely* and *similarly* usually begin a new sentence and are followed by a comma.",
-    "example": [
-      ["COMPARING", "Trees cool the streets beneath them. **In much the same way**, green roofs lower the temperature of the buildings they cover."],
-      ["CONTRASTING", "**Whereas** many new districts are designed around the car, historic centres were built for people on foot."]
-    ],
-    "instruction": "Join each pair of ideas into one or two sentences, using the expression in brackets to compare or contrast them.",
-    "items": [
-      "Old city centres were built for walking. / Modern suburbs are designed around the car. (whereas)",
-      "Restoration preserves a building's history. / New construction allows modern standards of comfort and safety. (conversely)",
-      "Parks improve residents' mental health. / Tree-lined streets reduce stress. (in much the same way)",
-      "Glass towers are expensive to cool in summer. / Traditional mud-brick houses stay cool naturally. (by contrast)",
-      "Samarkand depends heavily on tourism to its historic monuments. / Bukhara relies on its heritage to attract visitors. (similarly)",
-      "Some planners favour high-rise housing to save land. / Others argue that low-rise districts are more liveable. (while)"
-    ],
-    "task": "Write a paragraph (100–120 words) comparing and contrasting a historic district and a modern district in a city you know well. Use at least four different expressions for comparing and contrasting."
-  },
-
-  "reading": {
-    "part": 3,
-    "test": 2,
-    "blocks": [
-      {"type": "instruction",
-       "text": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once."},
-      {"type": "headings",
-       "title": "List of Headings:",
-       "items": [
-         "A) An ancient place",
-         "B) Holy water",
-         "C) Famous industry",
-         "D) Ajanta in the modern day",
-         "E) Resisting the heat",
-         "F) Things about Mumbai",
-         "G) City of contrasts",
-         "H) Modern languages’ ancestor"
-       ],
-       "right": [
-         "15. Paragraph I",
-         "16. Paragraph II",
-         "17. Paragraph III",
-         "18. Paragraph IV",
-         "19. Paragraph V",
-         "20. Paragraph VI"
-       ]},
-      {"type": "article",
-       "title": "INDIA",
-       "cols": 2,
-       "paragraphs": [
-         "I. The world’s first university was established in India in 700 BC, where more than 10,500 students from around the world studied more than 60 different subjects. The training was conducted in Sanskrit. Nowadays, Sanskrit is considered to be the mother of all the European languages. Its elements can be traced in most of them.",
-         "II. The most frequently visited place in India is Delhi, the capital city of the country. It seems to be divided into two parts. New Delhi is a modern city with hi-tech architecture, tourist attractions and modern facilities. Old Delhi is several centuries old, with narrow streets, ancient churches and noisy bazaars. Lots of people live in slums without the most essential facilities like toilets and running water.",
-         "III. People all over the world know of India’s greatest river, the Ganges. The river looks extremely beautiful in the morning light. It is the subject of thousands of prayers. It has become a common ritual for pilgrims to gather by the holy river in the mornings. It is believed that bathing in the Ganges helps to cure all kinds of diseases and can improve your life in general.",
-         "IV. Indian climate differs from one part of the country to another. The air is cool and fresh in the mountains, but in the plains it is usually very hot and dry, so even a short trip can be very hard for an inexperienced traveller. That is why tourists are always glad to have a rest at one of the numerous stations in the hills. There they can enjoy a nice cup of real Indian tea, the most refreshing drink in such a climate.",
-         "V. India is not all history. It is also famous for its Bollywood industry, which produces different films. Indian films have always had their own style; they are rich in music and dancing. Though the industry is still developing, many Indian film stars have received Oscar prizes and are known throughout the world. The home of Bollywood is Mumbai, also known as a busy port and the country’s commercial centre.",
-         "VI. There is an unusual treasure hidden in the Indian mountains. These are striking ancient temples cut in the rocks. For example, the Buddhist cave temples at Ajanta were built at least 2,000 years ago. Inside the caves on the walls, tourists can see animal images and pictures of people’s lives. Some researchers believe that the interpretation of the images can help us to learn a lot about people’s lives in ancient times."
-       ]}
-    ]
-  },
-
-  "wordlist": [
-    "establish",
-    "conduct (training)",
-    "be considered to be",
-    "be traced in",
-    "frequently visited",
-    "hi-tech architecture",
-    "tourist attraction",
-    "modern facilities",
-    "bazaar",
-    "slum",
-    "essential facilities",
-    "running water",
-    "be the subject of",
-    "prayer",
-    "ritual",
-    "pilgrim",
-    "holy",
-    "cure (a disease)",
-    "differ from … to …",
-    "plains",
-    "inexperienced",
-    "numerous",
-    "refreshing",
-    "be rich in",
-    "throughout the world",
-    "commercial centre",
-    "treasure",
-    "striking",
-    "cut in the rocks",
-    "interpretation"
+  "paragraphs": [
+   "Ask people to describe a place they genuinely enjoy spending time in, and very few will mention a record-breaking skyscraper or a vast glass shopping mall. Far more often, they describe a shaded square, a lively street market or a quiet courtyard where neighbours stop to talk. Architects and planners call this quality 'liveability': the extent to which a building or public space supports the everyday lives of the people who use it. It is rarely a matter of size or spectacle. What makes a place liveable is usually the sum of many small, carefully considered details.",
+   "One of the most influential ideas in modern urban design is 'human scale' — the principle that buildings and streets should be measured against the human body rather than the motor car. Someone walking at five kilometres an hour notices doorways, windows, textures and trees; a driver at sixty notices almost nothing. Streets lined with buildings of three to six storeys, with shops and cafés at ground level, tend to feel [[intimate]] and safe, whereas a plaza surrounded by blank forty-storey towers can feel exposed and empty, however impressive it looks on an architect's model.",
+   "For much of the twentieth century, cities were redesigned around traffic. Wide roads were cut through old neighbourhoods, and streets became places to pass through rather than places to be. Today, many cities are reversing that trend. Turning [[congested]] shopping streets into [[pedestrian]] zones was once dismissed as bad for business, yet study after study has found that people on foot linger longer and, over time, spend more than drivers who park, shop and leave. Cleaner air and quieter streets, it turns out, are good for trade as well as for health.",
+   "Liveability also depends on what happens inside buildings. So-called green buildings aim to use as little energy as possible while keeping the people inside them comfortable. Many achieve this by borrowing ideas that traditional builders understood centuries ago: thick walls that store heat during the day, courtyards that draw cool air through rooms, and windows positioned for natural [[ventilation]] instead of relying entirely on air conditioning. Not only do such features cut energy bills, but they also create healthier indoor environments, since stale air and poor light are closely linked to tiredness and headaches.",
+   "Perhaps surprisingly, many architects now argue that the greenest building is the one that already exists. Constructing a new building releases enormous amounts of carbon, from producing cement and steel to transporting materials to the site. Choosing to [[retrofit]] an existing structure — adding insulation, solar panels, efficient heating and better windows — often achieves similar energy savings at a fraction of the environmental cost. As a result, demolition, once seen as the obvious first step in any redevelopment project, is increasingly treated as a last resort.",
+   "Liveability is equally a question of distance. Low-density urban [[sprawl]], with housing estates miles away from shops and workplaces, forces residents to drive for almost every errand and leaves those without a car isolated. In response, planners in cities from Paris to Melbourne have promoted the idea of the 'fifteen-minute city', in which schools, clinics, parks and other everyday [[amenities]] are within a short walk or bike ride of home. The aim is not to stop people travelling further, but to make sure they no longer have to.",
+   "Finally, there is the question of nature. Research consistently shows that access to trees, parks and water improves physical health and mental [[well-being]], lowers stress and even reduces summer temperatures in densely built areas. Yet the most liveable places are rarely designed by experts alone. It is often residents, through years of small adjustments — a bench added here, a vegetable garden there — who turn a well-planned space into a genuinely loved one. A building can win every award going and still fail if nobody wants to spend time there."
   ],
-
-  "listening": {
-    "part": 3,
-    "test": 1,
-    "blocks": [
-      {"type": "instruction",
-       "audio": true,
-       "text": "You will hear people speaking in different situations. Match each speaker (15-18) to the description they give about another person (A-F). There are TWO EXTRA options which you do not need to use.\nMark your answers on the answer sheet."},
-      {"type": "matching",
-       "left": [
-         "15. Speaker 1 …",
-         "16. Speaker 2 …",
-         "17. Speaker 3 …",
-         "18. Speaker 4 …"
-       ],
-       "right": [
-         "A) A programmer.",
-         "B) A supermarket assistant.",
-         "C) A nurse.",
-         "D) A fast-food cook.",
-         "E) A business manager.",
-         "F) A restaurant manager."
-       ]}
-    ]
-  },
-
-  "idioms": [
-    ["Lay the foundations (for something)", "To create the basic conditions from which something can develop and succeed."],
-    ["Concrete jungle", "A city area full of large, unattractive buildings, with little greenery or open space."],
-    ["Bricks and mortar", "Buildings, especially seen as property or a physical shop rather than an online business."],
-    ["Hit the roof", "To become suddenly very angry."],
-    ["Go through the roof", "(of prices or numbers) To rise very quickly to a very high level."],
-    ["Under one roof", "All together in the same building or organisation."],
-    ["Built to last", "Made so strongly or well that it will survive for a long time."],
-    ["Hit a brick wall", "To reach a point where you cannot make any further progress."],
-    ["The writing is on the wall", "There are clear signs that something is going to fail or come to an end."],
-    ["Rome wasn't built in a day", "Important or ambitious projects take a long time to complete."],
-    ["A stone's throw (from)", "A very short distance away; very close to."],
-    ["Set in stone", "Fixed and impossible to change."],
-    ["The cornerstone (of something)", "The most important part, on which everything else is based."],
-    ["Off the beaten track", "Far away from the places that most people visit; quiet and little-known."],
-    ["Paint the town red", "To go out in the city and celebrate in a lively, noisy way."]
+  "headings": [
+   "Everything within a short walk",
+   "Buildings that breathe",
+   "Not the tallest, but the most welcoming",
+   "Why skyscrapers are disappearing from city skylines",
+   "Putting people before cars",
+   "Nature as a public health measure",
+   "Design measured by the human body",
+   "The greenest building is the one already standing"
+  ]
+ },
+ "word_forms": [
+  [
+   "Low buildings and narrow lanes give the old quarter a sense of ________ that many modern districts lack.",
+   "intimacy"
   ],
-
-  "writing": {
-    "kind": "letter",
-    "title": "WRITING PART 1.2",
-    "useful_title": "USEFUL LANGUAGE — Formal letter",
-    "useful": [
-      ["Opening", "Dear Sir/Madam, / Dear Chairperson, / I am writing in response to your recent email regarding..."],
-      ["Reacting / feelings", "I was deeply concerned to learn that... / I must admit I was delighted/disappointed to hear that..."],
-      ["Comparing options", "Whereas a car park would only..., a restored square would... / Conversely, ... / In much the same way, ..."],
-      ["Giving a suggestion", "I would strongly suggest that... / What the area really needs is... / It might be worth considering..."],
-      ["Requesting a reply / Closing", "I would be grateful if you could pass on... / I look forward to hearing... / Yours faithfully, / Yours sincerely,"]
-    ],
-    "practice_title": "PART 1.1 PRACTICE",
-    "situation": "You are a member of your neighbourhood's Residents' Association. You received this email from the association's chairperson.",
-    "email": "Dear Member,\nI am writing to inform you that the city council has announced plans to redevelop the old market square in our neighbourhood. According to the proposal, several of the historic trading houses around the square would be demolished to make room for a multi-storey car park and a modern shopping centre. The council has agreed to consider residents' views before making a final decision next month. We would therefore like to hear how you feel about the plans and what you think should happen to the square instead. Please send us your thoughts as soon as possible.\nBest wishes,\nThe Chairperson",
-    "task11": "Task 1.1 — Write a letter to your friend, who also lives in the neighbourhood. Write about your feelings about the plans and what you think should happen to the square. Write about 50 words.",
-    "task12": "Task 1.2 — Write a letter to the Chairperson. Write about your feelings about the plans and what you think should happen to the square instead. Write about 120–150 words.",
-    "rules_title": "RULES for Task 1.2 (formal letter)",
-    "rules": [
-      "Respond to the SAME message as Task 1.1 — cover the same two things (your feelings + your suggestion), but in more depth.",
-      "Aim for 120–150 words — several short paragraphs, not one block of text.",
-      "Use a formal register throughout: no contractions, no slang, polite and impersonal phrasing.",
-      "Structure it clearly: an opening line, your reaction, your suggestion(s) with reasons, and a polite closing.",
-      "Open with Dear Sir/Madam or Dear [Title], and close with Yours faithfully/sincerely.",
-      "Show a wider range of grammar than in Task 1.1 — for example a cleft sentence (What the square needs is...), fronting (Not only would this...) and comparing/contrasting linkers (whereas, conversely)."
-    ],
-    "sample_title": "SAMPLE ANSWER",
-    "sample": "Dear Chairperson,\nThank you for informing members about the council's plans to redevelop the old market square. I must admit that I was deeply disappointed to learn that several of the historic trading houses may be demolished, as they give our neighbourhood much of its character.\nWhile I understand that parking is a genuine problem in the area, I do not believe that a multi-storey car park is the right solution. What the square really needs is careful restoration. I would suggest that the trading houses be repaired and converted into small shops, cafés and workshops for local craftspeople. Not only would this preserve our heritage, but it would also attract visitors and support local businesses.\nFurthermore, it might be worth considering a car park on the edge of the district, connected to the square by a pleasant pedestrian street with trees and benches.\nI would be grateful if you could pass these suggestions on to the council. I look forward to hearing about the outcome.\nYours faithfully,\nD. Rakhimova",
-    "practice2_title": "TASK 1.2 PRACTICE — now you try, with a new message",
-    "situation2": "You live on a new housing estate on the edge of your city. You received this email from the city's Urban Planning Department.",
-    "email2": "Dear Resident,\nWe are pleased to inform you that an area of unused land next to your estate has been set aside for a new public space. Before construction begins in the spring, we would like residents to help us decide how the space should be designed — for example, as a park, a sports area, a children's playground or a community garden. Please let us know your views and any facilities you would like to see included.\nKind regards,\nUrban Planning Department",
-    "task2": "Task 1.2 — Write a letter to the Urban Planning Department. Write about your feelings about the news and what you think the new space should include. Write about 120–150 words."
-  },
-
-  "speaking": {
-    "part": "3",
-    "title": "SPEAKING PART 3",
-    "statement": "Historic buildings should be preserved at all costs, even if this slows down a city's development.",
-    "for": [
-      "Once a historic building is destroyed, it can never be replaced.",
-      "Heritage sites attract tourists and bring income to local people.",
-      "Old buildings give a city its identity and a sense of continuity."
-    ],
-    "against": [
-      "Many old buildings are unsafe, unhealthy or too expensive to repair.",
-      "Growing populations urgently need modern housing, roads and services.",
-      "Over-protection can turn a living city into a sterile museum."
-    ],
-    "sample": "I'd like to begin by saying that I **partly agree** with this statement. **On the one hand**, historic buildings are irreplaceable. **What makes** cities like Samarkand and Bukhara so special **is** that their past is still visible in their streets, and once a madrasa or a caravanserai has been knocked down, no amount of money can bring it back. **On top of that**, heritage is a major source of income, because tourists travel thousands of kilometres to see these places.\n**On the other hand**, I think the phrase 'at all costs' goes too far. **Not every old building is worth saving** — some are genuinely dilapidated and unsafe, and the families living in them deserve proper heating, clean water and modern facilities. **Whereas** a monument of world importance should obviously be protected, an ordinary run-down block from the last century is a very different case. **Besides**, a city that is never allowed to change risks becoming sterile — a beautiful museum where nobody actually lives.\n**On balance**, I believe the best solution is a compromise. **It is** the most important monuments **that** should be protected strictly, while large new projects are built outside the historic core. Old buildings can also be given new purposes, such as galleries or guesthouses, so that they stay alive. **All things considered**, development and preservation can go hand in hand if they are planned carefully.",
-    "useful": [
-      ["Giving your overall view:", "I partly/strongly agree that... / I'm not entirely convinced that..."],
-      ["Presenting one side:", "On the one hand, ... / What makes ... so special is... / One strong argument in favour is..."],
-      ["Presenting the other side:", "On the other hand, ... / Having said that, ... / It could be argued that..."],
-      ["Comparing and contrasting:", "Whereas..., ... / By contrast, ... / In much the same way, ..."],
-      ["Adding a point:", "On top of that, ... / Besides, ... / Not only..., but also..."],
-      ["Concluding:", "On balance, ... / All things considered, ... / The best solution, in my view, is..."]
+  [
+   "Tourists increasingly look for ________ experiences rather than polished reconstructions of the past.",
+   "authentic"
+  ],
+  [
+   "Improving the energy ________ of older homes is one of the cheapest ways for a city to cut its emissions.",
+   "efficiency"
+  ],
+  [
+   "The plan to ________ the old cinema was abandoned after a long public campaign to save it.",
+   "demolish"
+  ],
+  [
+   "The bazaar street was ________ in 2019 and is now closed to cars, buses and delivery vans during the day.",
+   "pedestrianised"
+  ]
+ ],
+ "language_dev": {
+  "title": "Describing urban change",
+  "skill_name": "Verb + noun collocations",
+  "skill_text": "When we write about how cities change, certain verbs combine naturally with a small group of nouns — for example [[preserve the character]] of an area, or [[tackle congestion]]. Learning these as fixed chunks, rather than word by word, helps you describe planning and architecture precisely and sound more natural in academic writing.",
+  "table": [
+   [
+    "restore",
+    "a building, a monument, a facade (to its original condition)"
+   ],
+   [
+    "preserve",
+    "heritage, the character, the atmosphere (of a place)"
+   ],
+   [
+    "demolish",
+    "a building, a tower block, a structure"
+   ],
+   [
+    "revitalise",
+    "a neighbourhood, a city centre, a run-down area"
+   ],
+   [
+    "tackle",
+    "congestion, pollution, urban sprawl"
+   ],
+   [
+    "enhance",
+    "well-being, quality of life, the appeal (of an area)"
+   ]
+  ],
+  "instruction": "Complete the sentences with the correct verb from the table above. Use the correct form.",
+  "sentences": [
+   "After years of decline, a new market and cultural centre helped to ________ the run-down neighbourhood.",
+   "Strict planning rules were introduced to ________ the historic character of the old town.",
+   "The city hopes that the new metro line will ________ congestion on its busiest roads.",
+   "Craftsmen spent three years carefully ________ the tiled dome of the madrasa.",
+   "Planting more trees is one of the cheapest ways to ________ residents' quality of life.",
+   "The council decided to ________ the unsafe tower block rather than spend millions repairing it."
+  ]
+ },
+ "article2": {
+  "title": "OLD WALLS, NEW CITIES",
+  "intro": "The sentences below are about historic cities. Choose the correct meaning (a, b or c) for the word in bold.",
+  "vocab": [
+   {
+    "q": "Many families moved out of the [[dilapidated]] apartment block after its roof began to leak.",
+    "options": [
+     "modern and expensive",
+     "old and in very poor condition",
+     "small and overcrowded"
     ]
+   },
+   {
+    "q": "Visitors value the [[authenticity]] of the old quarter, where craftsmen still work exactly as their grandparents did.",
+    "options": [
+     "the quality of being real and original",
+     "the high cost of maintaining something",
+     "popularity with tourists"
+    ]
+   },
+   {
+    "q": "The [[demolition]] of the old bathhouse angered residents who had campaigned for years to save it.",
+    "options": [
+     "careful repair",
+     "detailed study",
+     "the act of knocking down a building"
+    ]
+   },
+   {
+    "q": "Only the original stone [[facade]] was kept; everything behind it was completely rebuilt.",
+    "options": [
+     "the front wall of a building",
+     "the roof of a building",
+     "the foundations of a building"
+    ]
+   },
+   {
+    "q": "Rising rents caused by [[gentrification]] forced many long-standing shopkeepers to close.",
+    "options": [
+     "government control of land and housing",
+     "the slow decline of a poor neighbourhood",
+     "wealthier people moving into an area, pushing out poorer residents"
+    ]
+   },
+   {
+    "q": "New hotels have begun to [[encroach]] on the protected area around the ancient mosque.",
+    "options": [
+     "protect and support",
+     "gradually move into and take over",
+     "decorate and improve"
+    ]
+   },
+   {
+    "q": "Local residents see themselves as the [[custodians]] of a history that belongs to everyone.",
+    "options": [
+     "occasional visitors",
+     "people responsible for looking after something",
+     "harsh critics"
+    ]
+   },
+   {
+    "q": "Critics complained that the restored street looked [[sterile]] — more like a museum than a living neighbourhood.",
+    "options": [
+     "lacking life and character",
+     "clean and healthy",
+     "noisy and crowded"
+    ]
+   }
+  ],
+  "paragraphs": [
+   "Walk through the old centre of almost any Central Asian city and you are walking through layers of history: mosques and madrasas, covered bazaars, bathhouses and caravanserais that once served merchants travelling the Silk Road. Cities such as Samarkand and Bukhara attract visitors from all over the world precisely because so much of this past is still standing. Yet these same cities are home to growing populations who need housing, roads, schools and jobs. How to balance the protection of the past with the demands of the present is one of the most difficult questions facing planners today.",
+   "Supporters of new construction point out that not every old building is worth saving. Many historic quarters contain [[dilapidated]] houses with crumbling walls, poor sanitation and no proper heating, and the families living in them often want modern homes rather than romantic surroundings. Repairing such buildings can cost far more than replacing them, and in some cases [[demolition]] is the only safe option. A city, they argue, is not a museum; it must be allowed to change if it is to remain a good place in which to live and work.",
+   "Conservationists respond that once a historic building is lost, it is lost for ever. They also warn against restoration that goes too far. When ancient structures are rebuilt with new materials and bright, perfectly uniform tiles, they may look impressive in photographs, but they lose much of their [[authenticity]]. Some developers keep only the historic [[facade]] of a building and replace everything behind it with offices or hotel rooms — a compromise that critics compare to keeping the cover of a book while throwing away all of its pages.",
+   "A further concern is what happens to the people who actually live in historic areas. Successful restoration often attracts tourists, boutique hotels and expensive restaurants, and with them comes [[gentrification]]: property prices rise, long-standing residents sell up or are priced out, and local workshops and corner shops are replaced by souvenir stalls. The result can be an old town that is beautifully preserved but strangely [[sterile]], crowded with visitors during the day and almost empty of residents at night, its streets quiet once the tour groups have gone.",
+   "International bodies such as UNESCO try to manage these pressures by protecting not only individual monuments but also the 'buffer zones' around them. Within these zones, the height and style of new buildings are strictly controlled, so that modern development does not [[encroach]] on the historic skyline. Many experts believe the most effective approach is to concentrate large new projects — business districts, apartment towers, transport hubs — outside the historic core, where they can grow freely without overshadowing the monuments that give the city its identity.",
+   "In the end, preservation and development need not be opposites. Some of the most successful projects give old buildings new purposes: a caravanserai converted into a crafts centre, a former bathhouse reopened as a gallery, a merchant's house turned into a small guesthouse run by the family that owns it. When local communities are treated as the true [[custodians]] of their heritage, rather than as obstacles to tourism, historic centres can remain what they were always meant to be — living places, not open-air museums."
+  ],
+  "discussion": [
+   "Think of an old building in your town or city. Should it be restored, given a new purpose, or replaced? Why?",
+   "Who should decide what happens to a historic city centre — residents, architects, the government or tourists? Why?"
+  ]
+ },
+ "grammar": {
+  "title": "Cleft sentences & fronting for emphasis",
+  "intro": "Writers often rearrange a sentence to draw the reader's attention to its most important idea. Cleft sentences split one clause into two parts so that the key information is placed in focus, while fronting moves a word or phrase to the beginning of a sentence, sometimes with inversion of the subject and auxiliary.",
+  "rules_intro": "The rules below show the most common ways to add emphasis in formal and academic writing.",
+  "rules": [
+   {
+    "rule": "**What-clefts:** What + clause + **is/was** + the focus. Use them to highlight an action, a thing or an idea.",
+    "example": "What makes a square feel welcoming is the sense of enclosure created by low buildings."
+   },
+   {
+    "rule": "**It-clefts:** **It is/was** + the focus + **that/who** + the rest of the clause. Use them to emphasise one particular person, thing, time or reason, often in contrast to another.",
+    "example": "It was the residents, not the planners, who saved the old bathhouse from demolition."
+   },
+   {
+    "rule": "**All / The thing / The reason (why) / The place (where)** can replace *What* to give a slightly different emphasis.",
+    "example": "All the old quarter really needs is careful, regular maintenance."
+   },
+   {
+    "rule": "**Negative and limiting adverbials** (Not only, Never, Rarely, Seldom, Little) can be fronted for emphasis. The subject and auxiliary are then inverted.",
+    "example": "Not only do green roofs reduce energy bills, but they also help to prevent flooding."
+   },
+   {
+    "rule": "**Only + time expression** (Only after / Only when / Only then) is followed by inversion in the main clause, not in the time clause.",
+    "example": "Only when the facade was cleaned did its original colours become visible."
+   },
+   {
+    "rule": "**Fronted adjective or prepositional phrase + be/verb + subject** is used in descriptive writing to emphasise a feature.",
+    "example": "Particularly striking is the blue-tiled dome that rises above the market."
+   }
+  ],
+  "exA": {
+   "instruction": "Exercise A — Complete the paragraph with ONE word in each gap.",
+   "text": "(1) ___________ most visitors notice first in the old city is the colour of the domes. However, it is not the size of the monuments (2) ___________ impresses them most, but the narrow, shaded streets around them. Not only (3) ___________ these streets offer protection from the sun, but they (4) ___________ channel cool breezes between the houses. Rarely (5) ___________ modern planners designed a district that works so well in the summer heat. Only after the restoration work had begun (6) ___________ engineers realise how cleverly the original walls had been built. (7) ___________ the residents really want now is more trees and fewer cars. The reason (8) ___________ the area feels so intimate is that no building is taller than the trees around it."
   },
-
-  "key": {
-    "article1_vocab": "1 c  2 g  3 e  4 b  5 f  6 h  7 d  8 a",
-    "word_forms": "1 intimacy  2 authentic  3 efficiency  4 demolish  5 pedestrianised",
-    "headings": "1 C  2 G  3 E  4 B  5 H  6 A  7 F  (D is not needed)",
-    "language_dev": "1 revitalise  2 preserve  3 tackle  4 restoring  5 enhance  6 demolish",
-    "article2_vocab": "1 b  2 a  3 c  4 a  5 c  6 b  7 b  8 a",
-    "grammar_a": "1 What  2 that/which  3 do  4 also  5 have  6 did  7 What/All  8 why/that",
-    "grammar_b": "1 What gives the old city its unique character is its narrow streets.  2 It was local volunteers who/that rescued the abandoned caravanserai.  3 Not only does the new park reduce traffic noise, but it also attracts wildlife.  4 Only after the old bazaar had been demolished did we understand its value.  5 Seldom have developers shown such respect for a historic site.  6 What I love is the way the afternoon light falls across the courtyard.",
-    "reading": "15 H  16 G  17 B  18 E  19 C  20 A"
+  "exB": {
+   "instruction": "Exercise B — Rewrite each sentence for emphasis, beginning with the words in brackets.",
+   "items": [
+    "The narrow streets give the old city its unique character. (What)",
+    "Local volunteers rescued the abandoned caravanserai. (It was)",
+    "The new park reduces traffic noise, and it also attracts wildlife. (Not only)",
+    "We understood the value of the old bazaar only after it had been demolished. (Only after)",
+    "Developers have seldom shown such respect for a historic site. (Seldom)",
+    "I love the way the afternoon light falls across the courtyard. (What)"
+   ]
   }
+ },
+ "academic": {
+  "subtitle": "Comparing and contrasting — showing similarities and differences",
+  "skill_name": "Comparing and contrasting",
+  "skill_text": "When you compare and contrast, you show how two places, ideas or approaches are similar or different. Use expressions such as *similarly*, *likewise* and *in much the same way* to show similarity, and *whereas*, *while*, *by contrast* and *conversely* to show difference. Note that *whereas* and *while* join two clauses in one sentence, while *by contrast*, *conversely* and *similarly* usually begin a new sentence and are followed by a comma.",
+  "example": [
+   [
+    "COMPARING",
+    "Trees cool the streets beneath them. **In much the same way**, green roofs lower the temperature of the buildings they cover."
+   ],
+   [
+    "CONTRASTING",
+    "**Whereas** many new districts are designed around the car, historic centres were built for people on foot."
+   ]
+  ],
+  "instruction": "Join each pair of ideas into one or two sentences, using the expression in brackets to compare or contrast them.",
+  "items": [
+   "Old city centres were built for walking. / Modern suburbs are designed around the car. (whereas)",
+   "Restoration preserves a building's history. / New construction allows modern standards of comfort and safety. (conversely)",
+   "Parks improve residents' mental health. / Tree-lined streets reduce stress. (in much the same way)",
+   "Glass towers are expensive to cool in summer. / Traditional mud-brick houses stay cool naturally. (by contrast)",
+   "Samarkand depends heavily on tourism to its historic monuments. / Bukhara relies on its heritage to attract visitors. (similarly)",
+   "Some planners favour high-rise housing to save land. / Others argue that low-rise districts are more liveable. (while)"
+  ],
+  "task": "Write a paragraph (100–120 words) comparing and contrasting a historic district and a modern district in a city you know well. Use at least four different expressions for comparing and contrasting."
+ },
+ "reading": {
+  "part": 3,
+  "test": 2,
+  "blocks": [
+   {
+    "type": "instruction",
+    "text": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once."
+   },
+   {
+    "type": "headings",
+    "title": "List of Headings:",
+    "items": [
+     "A) An ancient place",
+     "B) Holy water",
+     "C) Famous industry",
+     "D) Ajanta in the modern day",
+     "E) Resisting the heat",
+     "F) Things about Mumbai",
+     "G) City of contrasts",
+     "H) Modern languages’ ancestor"
+    ],
+    "right": [
+     "15. Paragraph I",
+     "16. Paragraph II",
+     "17. Paragraph III",
+     "18. Paragraph IV",
+     "19. Paragraph V",
+     "20. Paragraph VI"
+    ]
+   },
+   {
+    "type": "article",
+    "title": "INDIA",
+    "cols": 2,
+    "paragraphs": [
+     "I. The world’s first university was established in India in 700 BC, where more than 10,500 students from around the world studied more than 60 different subjects. The training was conducted in Sanskrit. Nowadays, Sanskrit is considered to be the mother of all the European languages. Its elements can be traced in most of them.",
+     "II. The most frequently visited place in India is Delhi, the capital city of the country. It seems to be divided into two parts. New Delhi is a modern city with hi-tech architecture, tourist attractions and modern facilities. Old Delhi is several centuries old, with narrow streets, ancient churches and noisy bazaars. Lots of people live in slums without the most essential facilities like toilets and running water.",
+     "III. People all over the world know of India’s greatest river, the Ganges. The river looks extremely beautiful in the morning light. It is the subject of thousands of prayers. It has become a common ritual for pilgrims to gather by the holy river in the mornings. It is believed that bathing in the Ganges helps to cure all kinds of diseases and can improve your life in general.",
+     "IV. Indian climate differs from one part of the country to another. The air is cool and fresh in the mountains, but in the plains it is usually very hot and dry, so even a short trip can be very hard for an inexperienced traveller. That is why tourists are always glad to have a rest at one of the numerous stations in the hills. There they can enjoy a nice cup of real Indian tea, the most refreshing drink in such a climate.",
+     "V. India is not all history. It is also famous for its Bollywood industry, which produces different films. Indian films have always had their own style; they are rich in music and dancing. Though the industry is still developing, many Indian film stars have received Oscar prizes and are known throughout the world. The home of Bollywood is Mumbai, also known as a busy port and the country’s commercial centre.",
+     "VI. There is an unusual treasure hidden in the Indian mountains. These are striking ancient temples cut in the rocks. For example, the Buddhist cave temples at Ajanta were built at least 2,000 years ago. Inside the caves on the walls, tourists can see animal images and pictures of people’s lives. Some researchers believe that the interpretation of the images can help us to learn a lot about people’s lives in ancient times."
+    ]
+   }
+  ]
+ },
+ "wordlist": [
+  "establish",
+  "conduct (training)",
+  "be considered to be",
+  "be traced in",
+  "frequently visited",
+  "hi-tech architecture",
+  "tourist attraction",
+  "modern facilities",
+  "bazaar",
+  "slum",
+  "essential facilities",
+  "running water",
+  "be the subject of",
+  "prayer",
+  "ritual",
+  "pilgrim",
+  "holy",
+  "cure (a disease)",
+  "differ from … to …",
+  "plains",
+  "inexperienced",
+  "numerous",
+  "refreshing",
+  "be rich in",
+  "throughout the world",
+  "commercial centre",
+  "treasure",
+  "striking",
+  "cut in the rocks",
+  "interpretation"
+ ],
+ "listening": {
+  "part": 3,
+  "test": 1,
+  "blocks": [
+   {
+    "type": "instruction",
+    "audio": true,
+    "text": "You will hear people speaking in different situations. Match each speaker (15-18) to the description they give about another person (A-F). There are TWO EXTRA options which you do not need to use.\nMark your answers on the answer sheet."
+   },
+   {
+    "type": "matching",
+    "left": [
+     "15. Speaker 1 …",
+     "16. Speaker 2 …",
+     "17. Speaker 3 …",
+     "18. Speaker 4 …"
+    ],
+    "right": [
+     "A) A programmer.",
+     "B) A supermarket assistant.",
+     "C) A nurse.",
+     "D) A fast-food cook.",
+     "E) A business manager.",
+     "F) A restaurant manager."
+    ]
+   }
+  ]
+ },
+ "idioms": [
+  [
+   "Lay the foundations (for something)",
+   "To create the basic conditions from which something can develop and succeed."
+  ],
+  [
+   "Concrete jungle",
+   "A city area full of large, unattractive buildings, with little greenery or open space."
+  ],
+  [
+   "Bricks and mortar",
+   "Buildings, especially seen as property or a physical shop rather than an online business."
+  ],
+  [
+   "Hit the roof",
+   "To become suddenly very angry."
+  ],
+  [
+   "Go through the roof",
+   "(of prices or numbers) To rise very quickly to a very high level."
+  ],
+  [
+   "Under one roof",
+   "All together in the same building or organisation."
+  ],
+  [
+   "Built to last",
+   "Made so strongly or well that it will survive for a long time."
+  ],
+  [
+   "Hit a brick wall",
+   "To reach a point where you cannot make any further progress."
+  ],
+  [
+   "The writing is on the wall",
+   "There are clear signs that something is going to fail or come to an end."
+  ],
+  [
+   "Rome wasn't built in a day",
+   "Important or ambitious projects take a long time to complete."
+  ],
+  [
+   "A stone's throw (from)",
+   "A very short distance away; very close to."
+  ],
+  [
+   "Set in stone",
+   "Fixed and impossible to change."
+  ],
+  [
+   "The cornerstone (of something)",
+   "The most important part, on which everything else is based."
+  ],
+  [
+   "Off the beaten track",
+   "Far away from the places that most people visit; quiet and little-known."
+  ],
+  [
+   "Paint the town red",
+   "To go out in the city and celebrate in a lively, noisy way."
+  ]
+ ],
+ "writing": {
+  "kind": "letter",
+  "title": "WRITING PART 1.2",
+  "useful_title": "USEFUL LANGUAGE — Formal letter",
+  "useful": [
+   [
+    "Opening",
+    "Dear Sir/Madam, / Dear Chairperson, / I am writing in response to your recent email regarding..."
+   ],
+   [
+    "Reacting / feelings",
+    "I was deeply concerned to learn that... / I must admit I was delighted/disappointed to hear that..."
+   ],
+   [
+    "Comparing options",
+    "Whereas a car park would only..., a restored square would... / Conversely, ... / In much the same way, ..."
+   ],
+   [
+    "Giving a suggestion",
+    "I would strongly suggest that... / What the area really needs is... / It might be worth considering..."
+   ],
+   [
+    "Requesting a reply / Closing",
+    "I would be grateful if you could pass on... / I look forward to hearing... / Yours faithfully, / Yours sincerely,"
+   ]
+  ],
+  "practice_title": "PART 1.1 PRACTICE",
+  "situation": "You are a member of your neighbourhood's Residents' Association. You received this email from the association's chairperson.",
+  "email": "Dear Member,\nI am writing to inform you that the city council has announced plans to redevelop the old market square in our neighbourhood. According to the proposal, several of the historic trading houses around the square would be demolished to make room for a multi-storey car park and a modern shopping centre. The council has agreed to consider residents' views before making a final decision next month. We would therefore like to hear how you feel about the plans and what you think should happen to the square instead. Please send us your thoughts as soon as possible.\nBest wishes,\nThe Chairperson",
+  "task11": "Task 1.1 — Write a letter to your friend, who also lives in the neighbourhood. Write about your feelings about the plans and what you think should happen to the square. Write about 50 words.",
+  "task12": "Task 1.2 — Write a letter to the Chairperson. Write about your feelings about the plans and what you think should happen to the square instead. Write about 120–150 words.",
+  "rules_title": "RULES for Task 1.2 (formal letter)",
+  "rules": [
+   "Respond to the SAME message as Task 1.1 — cover the same two things (your feelings + your suggestion), but in more depth.",
+   "Aim for 120–150 words — several short paragraphs, not one block of text.",
+   "Use a formal register throughout: no contractions, no slang, polite and impersonal phrasing.",
+   "Structure it clearly: an opening line, your reaction, your suggestion(s) with reasons, and a polite closing.",
+   "Open with Dear Sir/Madam or Dear [Title], and close with Yours faithfully/sincerely.",
+   "Show a wider range of grammar than in Task 1.1 — for example a cleft sentence (What the square needs is...), fronting (Not only would this...) and comparing/contrasting linkers (whereas, conversely)."
+  ],
+  "sample_title": "SAMPLE ANSWER",
+  "sample": "Dear Chairperson,\nThank you for informing members about the council's plans to redevelop the old market square. I must admit that I was deeply disappointed to learn that several of the historic trading houses may be demolished, as they give our neighbourhood much of its character.\nWhile I understand that parking is a genuine problem in the area, I do not believe that a multi-storey car park is the right solution. What the square really needs is careful restoration. I would suggest that the trading houses be repaired and converted into small shops, cafés and workshops for local craftspeople. Not only would this preserve our heritage, but it would also attract visitors and support local businesses.\nFurthermore, it might be worth considering a car park on the edge of the district, connected to the square by a pleasant pedestrian street with trees and benches.\nI would be grateful if you could pass these suggestions on to the council. I look forward to hearing about the outcome.\nYours faithfully,\nD. Rakhimova",
+  "practice2_title": "TASK 1.2 PRACTICE — now you try, with a new message",
+  "situation2": "You live on a new housing estate on the edge of your city. You received this email from the city's Urban Planning Department.",
+  "email2": "Dear Resident,\nWe are pleased to inform you that an area of unused land next to your estate has been set aside for a new public space. Before construction begins in the spring, we would like residents to help us decide how the space should be designed — for example, as a park, a sports area, a children's playground or a community garden. Please let us know your views and any facilities you would like to see included.\nKind regards,\nUrban Planning Department",
+  "task2": "Task 1.2 — Write a letter to the Urban Planning Department. Write about your feelings about the news and what you think the new space should include. Write about 120–150 words."
+ },
+ "speaking": {
+  "part": "3",
+  "title": "SPEAKING PART 3",
+  "statement": "Historic buildings should be preserved at all costs, even if this slows down a city's development.",
+  "for": [
+   "Once a historic building is destroyed, it can never be replaced.",
+   "Heritage sites attract tourists and bring income to local people.",
+   "Old buildings give a city its identity and a sense of continuity."
+  ],
+  "against": [
+   "Many old buildings are unsafe, unhealthy or too expensive to repair.",
+   "Growing populations urgently need modern housing, roads and services.",
+   "Over-protection can turn a living city into a sterile museum."
+  ],
+  "sample": "I'd like to begin by saying that I **partly agree** with this statement. **On the one hand**, historic buildings are irreplaceable. **What makes** cities like Samarkand and Bukhara so special **is** that their past is still visible in their streets, and once a madrasa or a caravanserai has been knocked down, no amount of money can bring it back. **On top of that**, heritage is a major source of income, because tourists travel thousands of kilometres to see these places.\n**On the other hand**, I think the phrase 'at all costs' goes too far. **Not every old building is worth saving** — some are genuinely dilapidated and unsafe, and the families living in them deserve proper heating, clean water and modern facilities. **Whereas** a monument of world importance should obviously be protected, an ordinary run-down block from the last century is a very different case. **Besides**, a city that is never allowed to change risks becoming sterile — a beautiful museum where nobody actually lives.\n**On balance**, I believe the best solution is a compromise. **It is** the most important monuments **that** should be protected strictly, while large new projects are built outside the historic core. Old buildings can also be given new purposes, such as galleries or guesthouses, so that they stay alive. **All things considered**, development and preservation can go hand in hand if they are planned carefully.",
+  "useful": [
+   [
+    "Giving your overall view:",
+    "I partly/strongly agree that... / I'm not entirely convinced that..."
+   ],
+   [
+    "Presenting one side:",
+    "On the one hand, ... / What makes ... so special is... / One strong argument in favour is..."
+   ],
+   [
+    "Presenting the other side:",
+    "On the other hand, ... / Having said that, ... / It could be argued that..."
+   ],
+   [
+    "Comparing and contrasting:",
+    "Whereas..., ... / By contrast, ... / In much the same way, ..."
+   ],
+   [
+    "Adding a point:",
+    "On top of that, ... / Besides, ... / Not only..., but also..."
+   ],
+   [
+    "Concluding:",
+    "On balance, ... / All things considered, ... / The best solution, in my view, is..."
+   ]
+  ]
+ },
+ "key": {
+  "article1_vocab": "1 c  2 g  3 e  4 b  5 f  6 h  7 d  8 a",
+  "word_forms": "1 intimacy  2 authentic  3 efficiency  4 demolish  5 pedestrianised",
+  "headings": "1 C  2 G  3 E  4 B  5 H  6 A  7 F  (D is not needed)",
+  "language_dev": "1 revitalise  2 preserve  3 tackle  4 restoring  5 enhance  6 demolish",
+  "article2_vocab": "1 b  2 a  3 c  4 a  5 c  6 b  7 b  8 a",
+  "grammar_a": "1 What  2 that/which  3 do  4 also  5 have  6 did  7 What/All  8 why/that",
+  "grammar_b": "1 What gives the old city its unique character is its narrow streets.  2 It was local volunteers who/that rescued the abandoned caravanserai.  3 Not only does the new park reduce traffic noise, but it also attracts wildlife.  4 Only after the old bazaar had been demolished did we understand its value.  5 Seldom have developers shown such respect for a historic site.  6 What I love is the way the afternoon light falls across the courtyard.",
+  "reading": "15 H  16 G  17 B  18 E  19 C  20 A",
+  "listening": "15 ______  16 ______  17 ______  18 ______"
+ }
 }

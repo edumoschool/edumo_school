@@ -94,7 +94,8 @@ original units). Match their level (C1), density and length closely.
     "article2_vocab": "1 b  2 a …",
     "grammar_a": "1 who/that  2 –  3 …",
     "grammar_b": "1 The design studio is in the old power station where our designers …",
-    "reading": "15 B  16 D …"                 // solve the exam reading test yourself from the text
+    "reading": "15 B  16 D …",                // solve the exam reading test yourself from the text
+    "listening": "15 ______  16 ______ …"      // blanks to fill in by hand (no audio scripts)
   }
 }
 ```

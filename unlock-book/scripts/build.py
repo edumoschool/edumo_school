@@ -296,7 +296,8 @@ def unit_pages(u):
 
 KEY_LABELS = [("article1_vocab", "Article 1 vocabulary"), ("word_forms", "Word forms"), ("headings", "Match the heading"),
               ("language_dev", "Language development"), ("article2_vocab", "Article 2 vocabulary"),
-              ("grammar_a", "Grammar – Exercise A"), ("grammar_b", "Grammar – Exercise B"), ("reading", "Reading practice")]
+              ("grammar_a", "Grammar – Exercise A"), ("grammar_b", "Grammar – Exercise B"), ("reading", "Reading practice"),
+              ("listening", "Listening practice")]
 
 
 def answer_key(units):

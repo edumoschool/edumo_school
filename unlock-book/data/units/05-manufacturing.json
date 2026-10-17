@@ -532,6 +532,7 @@
   "article2_vocab": "1 b  2 c  3 b  4 a  5 c  6 a  7 c  8 b",
   "grammar_a": "1 must be checked  2 can be corrected  3 can be sent  4 might be split  5 had its printers upgraded  6 should have been avoided  7 must be inspected  8 have/get them delivered",
   "grammar_b": "1 The machines must be cleaned at the end of every shift.  2 We will have our robotic arm repaired (by a technician) tomorrow.  3 The software should have been tested before the new line was launched.  4 Replacement parts can be printed on site in a few hours.  5 We are going to get solar panels installed on our factory roof (by a local company).",
-  "reading": "TEST 3: 1 senses  2 dolphins  3 electricity  4 current  5 detect  6 seventh   TEST 4: 1 itch  2 bacteria  3 skin  4 mice  5 drug  6 eczema"
+  "reading": "TEST 3: 1 senses  2 dolphins  3 electricity  4 current  5 detect  6 seventh   TEST 4: 1 itch  2 bacteria  3 skin  4 mice  5 drug  6 eczema",
+  "listening": "30 ______  31 ______  32 ______  33 ______  34 ______  35 ______"
  }
 }
