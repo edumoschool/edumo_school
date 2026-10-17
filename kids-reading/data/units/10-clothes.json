@@ -1,0 +1,176 @@
+{
+  "n": 10,
+  "title": "What a cool jacket!",
+  "topic": "Clothes and colours",
+  "emoji": "👕",
+  "color": "lime",
+  "text_type": "interview",
+  "before": {
+    "words": [
+      [
+        "jacket",
+        "kurtka",
+        "🧥"
+      ],
+      [
+        "jeans",
+        "jinsi shim",
+        "👖"
+      ],
+      [
+        "T-shirt",
+        "futbolka",
+        "👕"
+      ],
+      [
+        "shoes",
+        "poyabzal",
+        "👟"
+      ],
+      [
+        "cap",
+        "kepka",
+        "🧢"
+      ],
+      [
+        "socks",
+        "paypoq",
+        "🧦"
+      ]
+    ],
+    "predict": "Look at the title. What clothes is Ali wearing today?"
+  },
+  "text": {
+    "title": "Fashion Day at our school",
+    "meta": "School Magazine · Laylo talks to Ali",
+    "paragraphs": [
+      "It’s Fashion Day at School Number 5 in Tashkent! Everybody is wearing colourful clothes. Our reporter Laylo talks to Ali, 12, from Class 6B.",
+      "Laylo: Hi, Ali! I love your clothes. What are you wearing today? Is that a new jacket?",
+      "Ali: Thanks, Laylo! I’m wearing this green **jacket** and these blue **jeans**. This jacket is from my grandma. It’s warm and soft. I’ve got a new **T-shirt**, too. It’s orange, my favourite colour!",
+      "Laylo: Cool! Now look at those **shoes** by the door. Which shoes are yours? The white ones or the black ones?",
+      "Ali: The white ones! The black ones are my brother’s. They’re too big for me. Oh, and look at that red **cap**! That’s Bobur’s. And those purple **socks** are Madina’s. She loves purple. Fashion Day is really fun!"
+    ],
+    "picture": "🎤🧥👖"
+  },
+  "tf": [
+    [
+      "Ali is in Class 6B.",
+      true
+    ],
+    [
+      "Ali’s jacket is from his grandma.",
+      true
+    ],
+    [
+      "Ali’s favourite colour is green.",
+      false
+    ],
+    [
+      "The black shoes are Ali’s.",
+      false
+    ],
+    [
+      "The purple socks are Madina’s.",
+      true
+    ]
+  ],
+  "mcq": [
+    {
+      "q": "What colour are Ali’s jeans?",
+      "options": [
+        "blue",
+        "black",
+        "green"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which shoes are Ali’s?",
+      "options": [
+        "the black ones",
+        "the white ones",
+        "the red ones"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What is wrong with the black shoes?",
+      "options": [
+        "They are too small.",
+        "They are too big.",
+        "They are too old."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Whose is the red cap?",
+      "options": [
+        "Ali’s",
+        "Madina’s",
+        "Bobur’s"
+      ],
+      "answer": 2
+    }
+  ],
+  "match": [
+    [
+      "jacket",
+      "🧥"
+    ],
+    [
+      "jeans",
+      "👖"
+    ],
+    [
+      "cap",
+      "🧢"
+    ],
+    [
+      "socks",
+      "🧦"
+    ],
+    [
+      "orange",
+      "🍊"
+    ]
+  ],
+  "gaps": [
+    [
+      "Ali’s jacket is warm and ___.",
+      "soft"
+    ],
+    [
+      "Ali’s new T-shirt is ___.",
+      "orange"
+    ],
+    [
+      "The black shoes are too ___ for Ali.",
+      "big"
+    ],
+    [
+      "The black shoes are Ali’s ___’s.",
+      "brother"
+    ],
+    [
+      "Madina loves ___.",
+      "purple"
+    ]
+  ],
+  "wordsearch": [
+    "JACKET",
+    "JEANS",
+    "SHOES",
+    "SOCKS",
+    "GREEN",
+    "ORANGE",
+    "PURPLE",
+    "FASHION"
+  ],
+  "about_you": [
+    "What are you wearing today?",
+    "What is your favourite colour?",
+    "What clothes do you wear to school?"
+  ],
+  "draw": "Draw your favourite clothes. Write two sentences: “This is my…” and “These are my…”.",
+  "fun_fact": "Uzbek atlas fabric is famous for its bright colours. People make dresses and jackets from it."
+}

@@ -1,0 +1,176 @@
+{
+  "n": 7,
+  "title": "Welcome to my room!",
+  "topic": "Rooms and furniture",
+  "emoji": "🛏️",
+  "color": "yellow",
+  "text_type": "letter",
+  "before": {
+    "words": [
+      [
+        "room",
+        "xona",
+        "🏠"
+      ],
+      [
+        "bed",
+        "karavot",
+        "🛏️"
+      ],
+      [
+        "desk",
+        "yozuv stoli",
+        "📚"
+      ],
+      [
+        "lamp",
+        "chiroq",
+        "💡"
+      ],
+      [
+        "wardrobe",
+        "kiyim javoni",
+        "👕"
+      ],
+      [
+        "carpet",
+        "gilam",
+        "🧶"
+      ]
+    ],
+    "predict": "Look at the picture. What things are in Ali’s room?"
+  },
+  "text": {
+    "title": "A letter from Ali",
+    "meta": "From: Ali · To: Laylo",
+    "picture": "✉️🛏️🐱",
+    "paragraphs": [
+      "Dear Laylo, How are you? We have a new flat in Tashkent, and I have a new **room**! It is small, but I love it. Here is my room.",
+      "My **bed** is next to the window. There is a blue blanket on it. My **desk** is near the bed. My computer is on the desk, and my school bag is under the desk. There is a big **lamp** between the bed and the desk.",
+      "My clothes are in the **wardrobe**. My cat, Momiq, sleeps on the wardrobe! There is a red Uzbek **carpet** on the floor. It is from Grandma. My books are on a shelf above the bed.",
+      "The kitchen is next to my room. Mom makes plov there every Friday. Come to Tashkent in the summer! Please bring your photos. And don’t forget your football!",
+      "Write soon! Love, Ali"
+    ]
+  },
+  "tf": [
+    [
+      "Ali’s new room is small.",
+      true
+    ],
+    [
+      "Ali’s bed is next to the door.",
+      false
+    ],
+    [
+      "The cat sleeps on the wardrobe.",
+      true
+    ],
+    [
+      "The carpet is from Mom.",
+      false
+    ],
+    [
+      "Ali’s books are on a shelf above the bed.",
+      true
+    ]
+  ],
+  "mcq": [
+    {
+      "q": "Where is Ali’s school bag?",
+      "options": [
+        "on the desk",
+        "under the desk",
+        "on the bed"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What is between the bed and the desk?",
+      "options": [
+        "a lamp",
+        "a carpet",
+        "a cat"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "What color is the carpet?",
+      "options": [
+        "blue",
+        "green",
+        "red"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "What does Mom make every Friday?",
+      "options": [
+        "plov",
+        "cake",
+        "soup"
+      ],
+      "answer": 0
+    }
+  ],
+  "match": [
+    [
+      "cat",
+      "🐱"
+    ],
+    [
+      "computer",
+      "💻"
+    ],
+    [
+      "football",
+      "⚽"
+    ],
+    [
+      "window",
+      "🪟"
+    ],
+    [
+      "photos",
+      "📷"
+    ]
+  ],
+  "gaps": [
+    [
+      "Ali’s ___ is next to the window.",
+      "bed"
+    ],
+    [
+      "There is a blue ___ on the bed.",
+      "blanket"
+    ],
+    [
+      "Ali’s clothes are in the ___.",
+      "wardrobe"
+    ],
+    [
+      "The cat’s name is ___.",
+      "Momiq"
+    ],
+    [
+      "The ___ is next to Ali’s room.",
+      "kitchen"
+    ]
+  ],
+  "wordsearch": [
+    "ROOM",
+    "BED",
+    "DESK",
+    "LAMP",
+    "WARDROBE",
+    "CARPET",
+    "WINDOW",
+    "KITCHEN"
+  ],
+  "about_you": [
+    "What is in your room?",
+    "Where is your bed?",
+    "What is on your desk?"
+  ],
+  "draw": "Draw your room. Write two sentences with on, under or next to.",
+  "fun_fact": "Many Uzbek carpets are made by hand. One carpet can take many months to make!"
+}

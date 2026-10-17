@@ -1,0 +1,176 @@
+{
+  "n": 12,
+  "title": "You should visit Samarkand!",
+  "topic": "Travel advice",
+  "emoji": "🧳",
+  "color": "rose",
+  "text_type": "blog",
+  "before": {
+    "words": [
+      [
+        "beautiful",
+        "chiroyli",
+        "🌸"
+      ],
+      [
+        "visit",
+        "tashrif buyurmoq",
+        "🧳"
+      ],
+      [
+        "tourists",
+        "sayyohlar",
+        "🧑‍🤝‍🧑"
+      ],
+      [
+        "photos",
+        "suratlar",
+        "📸"
+      ],
+      [
+        "weather",
+        "ob-havo",
+        "⛅"
+      ],
+      [
+        "museum",
+        "muzey",
+        "🏛️"
+      ]
+    ],
+    "predict": "Look at the title. Which city is Laylo writing about?"
+  },
+  "text": {
+    "title": "My trip to Samarkand",
+    "meta": "Laylo’s Travel Blog · Monday",
+    "paragraphs": [
+      "Hello, friends! My name is Laylo, and I’m eleven. This summer, my family and I are in Samarkand. It’s a **beautiful** old city. You should **visit** it, too! Here is my advice.",
+      "First, you should go to the Registan. There are three big buildings with blue and gold tiles. Lots of **tourists** take **photos** there. In the evening, there is a light show. It’s amazing!",
+      "Next, you should go to Siyob bazaar. You should try the Samarkand non. It’s big, round and very tasty. My brother Bobur eats two every day!",
+      "Should you go in July? No, you shouldn’t! The **weather** is very hot then. You should go in spring or autumn. You should also see the Afrosiyob **museum**. There are very old wall paintings there.",
+      "What should you bring? You should bring a hat, water and a camera. Write a comment and tell me: Which city should I visit next?"
+    ],
+    "picture": "🕌✨📷"
+  },
+  "tf": [
+    [
+      "Laylo is eleven.",
+      true
+    ],
+    [
+      "There are three big buildings at the Registan.",
+      true
+    ],
+    [
+      "There is a light show in the morning.",
+      false
+    ],
+    [
+      "You should go to Samarkand in July.",
+      false
+    ],
+    [
+      "Laylo says you should bring a hat and water.",
+      true
+    ]
+  ],
+  "mcq": [
+    {
+      "q": "What colours are the tiles at the Registan?",
+      "options": [
+        "red and green",
+        "blue and gold",
+        "white and black"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Which bazaar should you go to in Samarkand?",
+      "options": [
+        "Chorsu",
+        "Siyob",
+        "Alay"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "When should you go to Samarkand?",
+      "options": [
+        "in July",
+        "in spring or autumn",
+        "in winter"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What can you see in the Afrosiyob museum?",
+      "options": [
+        "old wall paintings",
+        "big cars",
+        "wild animals"
+      ],
+      "answer": 0
+    }
+  ],
+  "match": [
+    [
+      "hat",
+      "👒"
+    ],
+    [
+      "water",
+      "💧"
+    ],
+    [
+      "camera",
+      "📷"
+    ],
+    [
+      "hot",
+      "🥵"
+    ],
+    [
+      "family",
+      "👨‍👩‍👧"
+    ]
+  ],
+  "gaps": [
+    [
+      "Samarkand is a beautiful ___ city.",
+      "old"
+    ],
+    [
+      "Lots of tourists take ___ at the Registan.",
+      "photos"
+    ],
+    [
+      "Samarkand non is big, round and very ___.",
+      "tasty"
+    ],
+    [
+      "In July, the weather is very ___.",
+      "hot"
+    ],
+    [
+      "You should bring a hat, water and a ___.",
+      "camera"
+    ]
+  ],
+  "wordsearch": [
+    "VISIT",
+    "MUSEUM",
+    "PHOTOS",
+    "TOURISTS",
+    "WEATHER",
+    "BAZAAR",
+    "CAMERA",
+    "REGISTAN"
+  ],
+  "about_you": [
+    "Which city in Uzbekistan should tourists visit?",
+    "What food should visitors try in your city?",
+    "What should you bring on a trip?"
+  ],
+  "draw": "Draw a famous place in your city. Write two sentences with “You should…”.",
+  "fun_fact": "Samarkand is more than 2,700 years old. It is one of the oldest cities in the world!"
+}

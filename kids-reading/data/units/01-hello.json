@@ -1,0 +1,176 @@
+{
+  "n": 1,
+  "title": "Hi from Samarkand!",
+  "topic": "Greetings",
+  "emoji": "👋",
+  "color": "green",
+  "text_type": "email",
+  "before": {
+    "words": [
+      [
+        "hello",
+        "salom",
+        "👋"
+      ],
+      [
+        "friend",
+        "do‘st",
+        "🤝"
+      ],
+      [
+        "teacher",
+        "o‘qituvchi",
+        "👩‍🏫"
+      ],
+      [
+        "morning",
+        "ertalab",
+        "🌅"
+      ],
+      [
+        "happy",
+        "xursand",
+        "😊"
+      ],
+      [
+        "goodbye",
+        "xayr",
+        "🙋"
+      ]
+    ],
+    "predict": "Look at the title. Who is the email from?"
+  },
+  "text": {
+    "title": "An email from Laylo",
+    "meta": "From: Laylo · To: Emma",
+    "paragraphs": [
+      "**Hello** Emma! Thank you for your email from London. My name is Laylo. I am eleven years old. I am a student at School 15 in Samarkand. Samarkand is a beautiful city in Uzbekistan.",
+      "This is my best **friend**, Madina. She is in my class. She is very funny! Bobur is her brother. He is not in our class. He is twelve. Bobur and Madina are my neighbours.",
+      "Our English **teacher** is Mrs Karimova. She is very nice. Every day she says, “Good **morning**, class!” We say, “Good morning, Mrs Karimova!” English class is my favourite. I am **happy** in English class. It is not difficult.",
+      "In Uzbekistan, we say “Assalomu alaykum!” to say hello. We say “Xayr!” to say **goodbye**. What do you say in England? Are you a student too? Please write soon!",
+      "Bye for now, Laylo"
+    ],
+    "picture": "📧👋"
+  },
+  "tf": [
+    [
+      "Laylo is eleven years old.",
+      true
+    ],
+    [
+      "Laylo is from Tashkent.",
+      false
+    ],
+    [
+      "Madina is Laylo’s best friend.",
+      true
+    ],
+    [
+      "Bobur is in Laylo’s class.",
+      false
+    ],
+    [
+      "English class is difficult for Laylo.",
+      false
+    ]
+  ],
+  "mcq": [
+    {
+      "q": "How old is Bobur?",
+      "options": [
+        "10",
+        "11",
+        "12"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Where is Laylo’s school?",
+      "options": [
+        "in Bukhara",
+        "in Samarkand",
+        "in Tashkent"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Who is the English teacher?",
+      "options": [
+        "Mrs Karimova",
+        "Madina",
+        "Emma"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "How do Uzbek children say goodbye?",
+      "options": [
+        "“Xayr!”",
+        "“Salom!”",
+        "“Rahmat!”"
+      ],
+      "answer": 0
+    }
+  ],
+  "match": [
+    [
+      "hello",
+      "👋"
+    ],
+    [
+      "happy",
+      "😊"
+    ],
+    [
+      "city",
+      "🏙️"
+    ],
+    [
+      "teacher",
+      "👩‍🏫"
+    ],
+    [
+      "morning",
+      "🌅"
+    ]
+  ],
+  "gaps": [
+    [
+      "Laylo’s best ___ is Madina.",
+      "friend"
+    ],
+    [
+      "Madina is very ___.",
+      "funny"
+    ],
+    [
+      "The English ___ is Mrs Karimova.",
+      "teacher"
+    ],
+    [
+      "Laylo is ___ in English class.",
+      "happy"
+    ],
+    [
+      "Samarkand is a beautiful ___.",
+      "city"
+    ]
+  ],
+  "wordsearch": [
+    "HELLO",
+    "FRIEND",
+    "TEACHER",
+    "MORNING",
+    "HAPPY",
+    "GOODBYE",
+    "CLASS",
+    "FUNNY"
+  ],
+  "about_you": [
+    "What is your name?",
+    "How old are you?",
+    "Who is your best friend?"
+  ],
+  "draw": "Draw you and your best friend at school. Write two sentences: “I am … . My friend is … .”",
+  "fun_fact": "The word “goodbye” comes from an old English greeting: “God be with you”."
+}

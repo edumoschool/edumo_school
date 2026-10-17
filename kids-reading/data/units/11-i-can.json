@@ -1,0 +1,175 @@
+{
+  "n": 11,
+  "title": "Are you a super kid?",
+  "topic": "Abilities",
+  "emoji": "🦸",
+  "color": "sky",
+  "text_type": "quiz",
+  "before": {
+    "words": [
+      [
+        "swim",
+        "suzmoq",
+        "🏊"
+      ],
+      [
+        "sing",
+        "qo‘shiq aytmoq",
+        "🎤"
+      ],
+      [
+        "cook",
+        "ovqat pishirmoq",
+        "🍳"
+      ],
+      [
+        "draw",
+        "rasm chizmoq",
+        "🎨"
+      ],
+      [
+        "dance",
+        "raqs tushmoq",
+        "💃"
+      ],
+      [
+        "speak",
+        "gapirmoq",
+        "🗣️"
+      ]
+    ],
+    "predict": "Look at the title. What can a super kid do?"
+  },
+  "text": {
+    "title": "The Super Kid Quiz",
+    "meta": "Fun Kids Magazine · Quiz by Madina",
+    "paragraphs": [
+      "Hi! I’m Madina, and I’m twelve. I live in Khiva. I can **swim** very well, but I can’t **sing**! What can you do? Do my quiz and find out. Count your “a” answers!",
+      "1. Can you swim? a) Yes, very well. b) No, I can’t. 2. Can you **cook** plov? a) Yes, I can. b) No, but I can make tea. 3. Can you sing a song in English? a) Yes, I can. b) No, I can’t.",
+      "4. Can you **draw** animals? a) Yes, I can draw cats and horses. b) Only a little. 5. Can you **dance** the lazgi? a) Yes, I can dance very well. b) No, I can’t. 6. Can you **speak** three languages? a) Yes, Uzbek, Russian and English! b) No, only two.",
+      "RESULTS. 5–6 “a” answers: Wow! You are a super kid. You can do a lot! 3–4 “a” answers: Great! You can do many things. 0–2 “a” answers: That’s OK! Everyone can learn. Ask a friend to help you. My friend Ali can’t swim, but he can draw very well!"
+    ],
+    "picture": "🦸⭐📝"
+  },
+  "tf": [
+    [
+      "Madina lives in Khiva.",
+      true
+    ],
+    [
+      "Madina can sing very well.",
+      false
+    ],
+    [
+      "There are six questions in the quiz.",
+      true
+    ],
+    [
+      "Ali can swim.",
+      false
+    ],
+    [
+      "Question 5 is about the lazgi dance.",
+      true
+    ]
+  ],
+  "mcq": [
+    {
+      "q": "How old is Madina?",
+      "options": [
+        "10",
+        "11",
+        "12"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which food is in question 2?",
+      "options": [
+        "plov",
+        "non",
+        "somsa"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "You have four “a” answers. What is your result?",
+      "options": [
+        "You are a super kid.",
+        "You can do many things.",
+        "Ask a friend to help you."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What can Ali do very well?",
+      "options": [
+        "swim",
+        "draw",
+        "dance"
+      ],
+      "answer": 1
+    }
+  ],
+  "match": [
+    [
+      "swim",
+      "🏊"
+    ],
+    [
+      "cook",
+      "🍳"
+    ],
+    [
+      "horses",
+      "🐴"
+    ],
+    [
+      "tea",
+      "🍵"
+    ],
+    [
+      "song",
+      "🎵"
+    ]
+  ],
+  "gaps": [
+    [
+      "Madina can swim very ___.",
+      "well"
+    ],
+    [
+      "In question 2, answer b) says: “No, but I can make ___.”",
+      "tea"
+    ],
+    [
+      "Question 4 is about cats and ___.",
+      "horses"
+    ],
+    [
+      "Question 6 is about three ___.",
+      "languages"
+    ],
+    [
+      "Ali can’t ___, but he can draw very well.",
+      "swim"
+    ]
+  ],
+  "wordsearch": [
+    "SWIM",
+    "COOK",
+    "DRAW",
+    "DANCE",
+    "SPEAK",
+    "KHIVA",
+    "HORSES",
+    "LAZGI"
+  ],
+  "about_you": [
+    "What can you do very well?",
+    "Can you swim?",
+    "What can’t you do?"
+  ],
+  "draw": "Draw you doing something you can do well. Write two sentences with “can” and “can’t”.",
+  "fun_fact": "Lazgi is a happy dance from Khorezm, near Khiva. It is on UNESCO’s list of world treasures!"
+}

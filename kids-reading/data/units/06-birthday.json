@@ -1,0 +1,175 @@
+{
+  "n": 6,
+  "title": "Come to my party!",
+  "topic": "Birthdays and dates",
+  "emoji": "🎂",
+  "color": "teal",
+  "text_type": "poster",
+  "before": {
+    "words": [
+      [
+        "birthday",
+        "tug‘ilgan kun",
+        "🎂"
+      ],
+      [
+        "May",
+        "may",
+        "🌸"
+      ],
+      [
+        "party",
+        "bayram kechasi",
+        "🎉"
+      ],
+      [
+        "cake",
+        "tort",
+        "🍰"
+      ],
+      [
+        "concert",
+        "konsert",
+        "🎵"
+      ],
+      [
+        "festival",
+        "bayram, festival",
+        "🎪"
+      ]
+    ],
+    "predict": "Look at the poster. Whose birthday is it?"
+  },
+  "text": {
+    "title": "Bobur’s Birthday Party!",
+    "meta": "Party poster · Samarkand",
+    "picture": "🎂🎉🎈",
+    "paragraphs": [
+      "Happy **birthday**, Bobur! How old is Bobur? He is twelve! His birthday is in **May**. It is on Saturday, May 15th. Come to his big **party** at the Bahor Café in Samarkand. The party starts at 4 o’clock.",
+      "What can you do at the party? Eat plov and a big chocolate **cake**. Listen to a small **concert**. Bobur’s sister, Madina, plays the doira. It is an Uzbek drum. Watch a funny magic show with Magic Ali!",
+      "Please bring a game or a book for Bobur. Don’t bring sweets. Bobur’s grandma makes sweets for the party!",
+      "More fun events this year: The school film day is on June 1st. The Navruz **festival** is in March, on the 21st. Bobur’s friend Laylo is eleven. Her birthday is on October 3rd. See you at the party!"
+    ]
+  },
+  "tf": [
+    [
+      "Bobur is twelve years old.",
+      true
+    ],
+    [
+      "Bobur’s birthday is in June.",
+      false
+    ],
+    [
+      "The party starts at 4 o’clock.",
+      true
+    ],
+    [
+      "Madina plays the piano.",
+      false
+    ],
+    [
+      "Laylo’s birthday is on October 3rd.",
+      true
+    ]
+  ],
+  "mcq": [
+    {
+      "q": "When is Bobur’s party?",
+      "options": [
+        "on Saturday, May 15th",
+        "on Sunday, May 5th",
+        "on Saturday, March 21st"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Where is the party?",
+      "options": [
+        "at school",
+        "at the Bahor Café",
+        "at Bobur’s house"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Who makes the sweets?",
+      "options": [
+        "Bobur’s grandma",
+        "Madina",
+        "Magic Ali"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "When is the Navruz festival?",
+      "options": [
+        "on June 1st",
+        "on March 21st",
+        "on October 3rd"
+      ],
+      "answer": 1
+    }
+  ],
+  "match": [
+    [
+      "cake",
+      "🍰"
+    ],
+    [
+      "drum",
+      "🥁"
+    ],
+    [
+      "book",
+      "📖"
+    ],
+    [
+      "game",
+      "🎲"
+    ],
+    [
+      "magic",
+      "🪄"
+    ]
+  ],
+  "gaps": [
+    [
+      "Bobur’s birthday is in ___.",
+      "May"
+    ],
+    [
+      "At the party, you can eat a big chocolate ___.",
+      "cake"
+    ],
+    [
+      "Madina plays the ___.",
+      "doira"
+    ],
+    [
+      "The Navruz ___ is in March.",
+      "festival"
+    ],
+    [
+      "Laylo is ___ years old.",
+      "eleven"
+    ]
+  ],
+  "wordsearch": [
+    "BIRTHDAY",
+    "PARTY",
+    "CAKE",
+    "CONCERT",
+    "MAY",
+    "MARCH",
+    "JUNE",
+    "OCTOBER"
+  ],
+  "about_you": [
+    "When is your birthday?",
+    "How old are you?",
+    "What is your favorite month?"
+  ],
+  "draw": "Make a poster for your birthday party. Write the date and two fun things to do.",
+  "fun_fact": "The song “Happy Birthday to You” is more than 100 years old!"
+}

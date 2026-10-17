@@ -1,0 +1,176 @@
+{
+  "n": 3,
+  "title": "Hello from around the world!",
+  "topic": "Countries",
+  "emoji": "🌍",
+  "color": "blue",
+  "text_type": "chat",
+  "before": {
+    "words": [
+      [
+        "hometown",
+        "tug‘ilgan shahar",
+        "🏡"
+      ],
+      [
+        "city",
+        "shahar",
+        "🏙️"
+      ],
+      [
+        "near",
+        "yaqin",
+        "📍"
+      ],
+      [
+        "capital",
+        "poytaxt",
+        "🏛️"
+      ],
+      [
+        "famous",
+        "mashhur",
+        "⭐"
+      ],
+      [
+        "country",
+        "mamlakat",
+        "🗺️"
+      ]
+    ],
+    "predict": "Look at the picture. Where are the children in the chat from?"
+  },
+  "text": {
+    "title": "Pen Friends Chat",
+    "meta": "Group chat · Madina, Yuki, Ali, Tom",
+    "paragraphs": [
+      "Madina: Hi everyone! Welcome to our new chat. I am Madina. I am eleven. I am from Uzbekistan, so I am Uzbek. My **hometown** is Bukhara. It is very old and beautiful. Where are you from?",
+      "Yuki: Hello, Madina! I am Yuki. I am from Japan. I am Japanese. My hometown is Osaka. It is a big **city**. My school is near my home. Where is Bukhara? Is it **near** Tashkent?",
+      "Madina: No, it isn’t. Bukhara is in the west of Uzbekistan. Tashkent is the **capital**. Ali, where are you? Are you in Tashkent?",
+      "Ali: Hi, girls! I am Ali. I am Uzbek, but I am not in Uzbekistan now. I am in London with my family. London is the capital of England. It is very **famous**. My new friend Tom is here too.",
+      "Tom: Hello! I am Tom. I am from England, so I am English. My favourite **country** is Uzbekistan. Ali’s photos of Samarkand are amazing! Where is the best plov? Is it in Bukhara?"
+    ],
+    "picture": "💬🌍"
+  },
+  "tf": [
+    [
+      "Madina’s hometown is Bukhara.",
+      true
+    ],
+    [
+      "Yuki is Chinese.",
+      false
+    ],
+    [
+      "Bukhara is near Tashkent.",
+      false
+    ],
+    [
+      "Ali is in London now.",
+      true
+    ],
+    [
+      "Tom is from England.",
+      true
+    ]
+  ],
+  "mcq": [
+    {
+      "q": "What is Yuki’s nationality?",
+      "options": [
+        "Japanese",
+        "English",
+        "Uzbek"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "What is Yuki’s hometown?",
+      "options": [
+        "Tokyo",
+        "Osaka",
+        "London"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What is the capital of Uzbekistan?",
+      "options": [
+        "Bukhara",
+        "Samarkand",
+        "Tashkent"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Who is Ali with in London?",
+      "options": [
+        "his family",
+        "Madina",
+        "Yuki"
+      ],
+      "answer": 0
+    }
+  ],
+  "match": [
+    [
+      "city",
+      "🏙️"
+    ],
+    [
+      "photos",
+      "📸"
+    ],
+    [
+      "home",
+      "🏠"
+    ],
+    [
+      "school",
+      "🏫"
+    ],
+    [
+      "plov",
+      "🍛"
+    ]
+  ],
+  "gaps": [
+    [
+      "Madina’s hometown is ___.",
+      "Bukhara"
+    ],
+    [
+      "Yuki is from ___.",
+      "Japan"
+    ],
+    [
+      "Osaka is a big ___.",
+      "city"
+    ],
+    [
+      "Ali is in ___ now.",
+      "London"
+    ],
+    [
+      "Tom’s favourite ___ is Uzbekistan.",
+      "country"
+    ]
+  ],
+  "wordsearch": [
+    "HOMETOWN",
+    "COUNTRY",
+    "CITY",
+    "CAPITAL",
+    "FAMOUS",
+    "JAPAN",
+    "LONDON",
+    "UZBEK"
+  ],
+  "about_you": [
+    "Where are you from?",
+    "What is your hometown?",
+    "What country do you want to visit?"
+  ],
+  "draw": "Draw your hometown. Write two sentences: “My hometown is … . It is in … .”",
+  "fun_fact": "Bukhara is more than 2,000 years old!"
+}

@@ -1,0 +1,183 @@
+{
+  "n": 8,
+  "title": "Sun or rain?",
+  "topic": "Weather and free time",
+  "emoji": "☀️",
+  "color": "red",
+  "text_type": "chat",
+  "before": {
+    "words": [
+      [
+        "sunny",
+        "quyoshli",
+        "☀️"
+      ],
+      [
+        "hot",
+        "issiq",
+        "🔥"
+      ],
+      [
+        "football",
+        "futbol",
+        "⚽"
+      ],
+      [
+        "swimming",
+        "suzish",
+        "🏊"
+      ],
+      [
+        "cloudy",
+        "bulutli",
+        "☁️"
+      ],
+      [
+        "rainy",
+        "yomg‘irli",
+        "🌧️"
+      ]
+    ],
+    "predict": "Look at the picture and the title. What is the weather like?"
+  },
+  "text": {
+    "title": "Weekend Friends",
+    "meta": "Group chat · Saturday",
+    "picture": "☀️🌧️📱",
+    "paragraphs": [
+      "Laylo: Good morning, friends! It’s really **sunny** today in Tashkent!",
+      "Bobur: Yes, and it’s very **hot**. It’s a great day for the park. Let’s play **football**!",
+      "Madina: Oh, let’s not play football. It’s too hot. Let’s go **swimming** at the pool!",
+      "Ali: Good idea! And then let’s ride our bikes in Navoi Park.",
+      "Laylo: OK! Let’s meet at the park gate at 10 o’clock.",
+      "Bobur: Wait! Look at the sky. It’s **cloudy** now, and it’s windy.",
+      "Madina: Is it **rainy** too? Oh no! Yes, it’s raining!",
+      "Ali: Let’s not go to the pool today. Let’s stay at home.",
+      "Laylo: Come to my house! Let’s watch a movie and play games.",
+      "Bobur: Great! My mom makes very good samsa. I can bring some.",
+      "Madina: Yum! I love samsa. And I can bring my new game.",
+      "Ali: See you at Laylo’s house at 11 o’clock!"
+    ]
+  },
+  "tf": [
+    [
+      "It is sunny in the morning.",
+      true
+    ],
+    [
+      "Bobur wants to play football.",
+      true
+    ],
+    [
+      "Madina wants to play football too.",
+      false
+    ],
+    [
+      "At the end, the friends go to the pool.",
+      false
+    ],
+    [
+      "Bobur’s mom makes samsa.",
+      true
+    ]
+  ],
+  "mcq": [
+    {
+      "q": "Where does Madina want to go?",
+      "options": [
+        "to the pool",
+        "to school",
+        "to the shop"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "What time do they want to meet at the park gate?",
+      "options": [
+        "at 9 o’clock",
+        "at 10 o’clock",
+        "at 11 o’clock"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Whose house do the friends go to?",
+      "options": [
+        "Bobur’s",
+        "Ali’s",
+        "Laylo’s"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "What can Madina bring?",
+      "options": [
+        "samsa",
+        "her new game",
+        "a movie"
+      ],
+      "answer": 1
+    }
+  ],
+  "match": [
+    [
+      "bikes",
+      "🚲"
+    ],
+    [
+      "movie",
+      "🎬"
+    ],
+    [
+      "samsa",
+      "🥟"
+    ],
+    [
+      "park",
+      "🌳"
+    ],
+    [
+      "windy",
+      "💨"
+    ]
+  ],
+  "gaps": [
+    [
+      "Madina says, “It’s too ___.”",
+      "hot"
+    ],
+    [
+      "Ali wants to ride ___ in Navoi Park.",
+      "bikes"
+    ],
+    [
+      "Later, it’s cloudy and ___.",
+      "windy"
+    ],
+    [
+      "At Laylo’s house, the friends watch a ___.",
+      "movie"
+    ],
+    [
+      "Bobur’s mom makes very good ___.",
+      "samsa"
+    ]
+  ],
+  "wordsearch": [
+    "SUNNY",
+    "FOOTBALL",
+    "CLOUDY",
+    "RAINY",
+    "WINDY",
+    "MOVIE",
+    "PARK",
+    "SWIMMING"
+  ],
+  "about_you": [
+    "What is the weather like today?",
+    "What do you do on rainy days?",
+    "What is your favorite free-time activity?"
+  ],
+  "draw": "Draw a sunny day and a rainy day. Write one “Let’s …” sentence for each.",
+  "fun_fact": "Uzbekistan has about 300 sunny days every year!"
+}

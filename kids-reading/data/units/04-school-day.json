@@ -1,0 +1,176 @@
+{
+  "n": 4,
+  "title": "A busy Monday!",
+  "topic": "School day",
+  "emoji": "⏰",
+  "color": "pink",
+  "text_type": "diary",
+  "before": {
+    "words": [
+      [
+        "Monday",
+        "dushanba",
+        "📅"
+      ],
+      [
+        "late",
+        "kech",
+        "🏃"
+      ],
+      [
+        "lesson",
+        "dars",
+        "📖"
+      ],
+      [
+        "subject",
+        "fan",
+        "📚"
+      ],
+      [
+        "break",
+        "tanaffus",
+        "🍎"
+      ],
+      [
+        "time",
+        "vaqt",
+        "⏰"
+      ]
+    ],
+    "predict": "Look at the picture. What time do you think Laylo’s school starts?"
+  },
+  "text": {
+    "title": "Laylo’s Diary",
+    "meta": "Monday evening",
+    "paragraphs": [
+      "Dear Diary, today is **Monday**. It is my busy day! I get up at seven o’clock. My school starts at eight o’clock. But today I am at school at ten past eight. I am **late**! Oh no!",
+      "My first **lesson** is Maths at eight o’clock. Our teacher is Mr Rustamov. He is nice, but Maths is difficult for me. At nine o’clock we have English. English is my favourite **subject**!",
+      "At ten o’clock we have a **break**. Madina and I eat apples and talk. Then we have Science and Art. Art is fun! School finishes at one o’clock.",
+      "On Tuesday I have Music and PE. On Sunday there is no school. On Sunday I visit my grandma in Urgut. Her house is near Samarkand.",
+      "Tomorrow I want to be on **time**! My alarm clock is ready. Good night, Diary! Laylo"
+    ],
+    "picture": "📔⏰🏫"
+  },
+  "tf": [
+    [
+      "Laylo gets up at seven o’clock.",
+      true
+    ],
+    [
+      "Laylo is on time for school on Monday.",
+      false
+    ],
+    [
+      "Maths is difficult for Laylo.",
+      true
+    ],
+    [
+      "The break is at eleven o’clock.",
+      false
+    ],
+    [
+      "There is no school on Sunday.",
+      true
+    ]
+  ],
+  "mcq": [
+    {
+      "q": "What time does Laylo’s school start?",
+      "options": [
+        "at seven o’clock",
+        "at eight o’clock",
+        "at nine o’clock"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What is Laylo’s favourite subject?",
+      "options": [
+        "Maths",
+        "Art",
+        "English"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "What time does school finish?",
+      "options": [
+        "at one o’clock",
+        "at two o’clock",
+        "at ten o’clock"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "When does Laylo have Music?",
+      "options": [
+        "on Monday",
+        "on Tuesday",
+        "on Sunday"
+      ],
+      "answer": 1
+    }
+  ],
+  "match": [
+    [
+      "apples",
+      "🍎"
+    ],
+    [
+      "clock",
+      "⏰"
+    ],
+    [
+      "music",
+      "🎵"
+    ],
+    [
+      "art",
+      "🎨"
+    ],
+    [
+      "grandma",
+      "👵"
+    ]
+  ],
+  "gaps": [
+    [
+      "On Monday, Laylo is ___ for school.",
+      "late"
+    ],
+    [
+      "Laylo’s Maths teacher is Mr ___.",
+      "Rustamov"
+    ],
+    [
+      "At ten o’clock the children have a ___.",
+      "break"
+    ],
+    [
+      "Laylo and Madina eat ___ at break.",
+      "apples"
+    ],
+    [
+      "On Sunday, Laylo visits her ___.",
+      "grandma"
+    ]
+  ],
+  "wordsearch": [
+    "MONDAY",
+    "LATE",
+    "LESSON",
+    "SUBJECT",
+    "BREAK",
+    "TIME",
+    "MATHS",
+    "SCIENCE"
+  ],
+  "about_you": [
+    "What time do you get up on school days?",
+    "What is your favourite subject?",
+    "What time does your school start?"
+  ],
+  "draw": "Draw your school day on Monday. Write two sentences: “On Monday I have … . It is at … o’clock.”",
+  "fun_fact": "In English, Sunday is the “Sun’s day” and Monday is the “Moon’s day”."
+}

@@ -1,0 +1,176 @@
+{
+  "n": 2,
+  "title": "Meet my big family!",
+  "topic": "Family",
+  "emoji": "👨‍👩‍👧‍👦",
+  "color": "orange",
+  "text_type": "blog",
+  "before": {
+    "words": [
+      [
+        "family",
+        "oila",
+        "👨‍👩‍👧‍👦"
+      ],
+      [
+        "mother",
+        "ona",
+        "👩"
+      ],
+      [
+        "father",
+        "ota",
+        "👨"
+      ],
+      [
+        "sister",
+        "opa / singil",
+        "👧"
+      ],
+      [
+        "brother",
+        "aka / uka",
+        "👦"
+      ],
+      [
+        "grandmother",
+        "buvi",
+        "👵"
+      ]
+    ],
+    "predict": "Look at the picture. Is Bobur’s family big or small?"
+  },
+  "text": {
+    "title": "Bobur’s Blog: My Family",
+    "meta": "Posted by Bobur · Monday",
+    "paragraphs": [
+      "Hi! I am Bobur and this is my blog. I am twelve and I live in Tashkent. Today my blog is about my **family**. My family is big. There are seven people in our flat!",
+      "This is my **mother**. Her name is Dilnoza. She is a doctor. My **father**’s name is Akmal. He is a taxi driver. He is very busy every day.",
+      "My big **sister** is Zarina. She is fifteen. Her cat is Paxta. It is white and very lazy! My little **brother** is Sardor. He is five. His toys are everywhere!",
+      "My grandparents live with us too. My **grandmother**’s name is Halima. Her plov is the best in Tashkent! My grandfather is Yusuf. His jokes are very funny.",
+      "Who is the funniest person in my family? It is Grandpa Yusuf! What about your family? Who is in it? Write in the comments!"
+    ],
+    "picture": "👨‍👩‍👧‍👦🏠🐱"
+  },
+  "tf": [
+    [
+      "Bobur is twelve.",
+      true
+    ],
+    [
+      "There are five people in Bobur’s family.",
+      false
+    ],
+    [
+      "Bobur’s mother is a doctor.",
+      true
+    ],
+    [
+      "Zarina’s cat is black.",
+      false
+    ],
+    [
+      "Bobur’s grandparents live with his family.",
+      true
+    ]
+  ],
+  "mcq": [
+    {
+      "q": "What is Bobur’s father’s job?",
+      "options": [
+        "doctor",
+        "teacher",
+        "taxi driver"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Who is Zarina?",
+      "options": [
+        "Bobur’s sister",
+        "Bobur’s mother",
+        "Bobur’s cat"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "How old is Sardor?",
+      "options": [
+        "five",
+        "twelve",
+        "fifteen"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Who is the funniest person in Bobur’s family?",
+      "options": [
+        "Sardor",
+        "Grandpa Yusuf",
+        "Paxta"
+      ],
+      "answer": 1
+    }
+  ],
+  "match": [
+    [
+      "cat",
+      "🐱"
+    ],
+    [
+      "doctor",
+      "🧑‍⚕️"
+    ],
+    [
+      "taxi",
+      "🚕"
+    ],
+    [
+      "toys",
+      "🧸"
+    ],
+    [
+      "plov",
+      "🍛"
+    ]
+  ],
+  "gaps": [
+    [
+      "Bobur’s ___ is Dilnoza.",
+      "mother"
+    ],
+    [
+      "Akmal is a taxi ___.",
+      "driver"
+    ],
+    [
+      "Paxta is Zarina’s ___.",
+      "cat"
+    ],
+    [
+      "Sardor is Bobur’s little ___.",
+      "brother"
+    ],
+    [
+      "Halima’s ___ is the best in Tashkent.",
+      "plov"
+    ]
+  ],
+  "wordsearch": [
+    "FAMILY",
+    "MOTHER",
+    "FATHER",
+    "SISTER",
+    "BROTHER",
+    "DOCTOR",
+    "TAXI",
+    "CAT"
+  ],
+  "about_you": [
+    "Who is in your family?",
+    "What is your mother’s name?",
+    "Who is the funniest person in your family?"
+  ],
+  "draw": "Draw your family. Write two sentences: “This is my … . His / Her name is … .”",
+  "fun_fact": "In British English people say “mum”, and in American English they say “mom”."
+}

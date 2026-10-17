@@ -1,0 +1,175 @@
+{
+  "n": 5,
+  "title": "Who is the new girl?",
+  "topic": "Describing people",
+  "emoji": "👧",
+  "color": "purple",
+  "text_type": "story",
+  "before": {
+    "words": [
+      [
+        "tall",
+        "baland bo‘yli",
+        "🦒"
+      ],
+      [
+        "long",
+        "uzun",
+        "📏"
+      ],
+      [
+        "curly",
+        "jingalak",
+        "🌀"
+      ],
+      [
+        "hair",
+        "soch",
+        "💇"
+      ],
+      [
+        "eyes",
+        "ko‘zlar",
+        "👀"
+      ],
+      [
+        "friendly",
+        "samimiy",
+        "🤗"
+      ]
+    ],
+    "predict": "Look at the picture and the title. What does the new girl look like?"
+  },
+  "text": {
+    "title": "The New Girl in 6B",
+    "meta": "A school story",
+    "picture": "👧🏫✨",
+    "paragraphs": [
+      "It is Monday morning at School 21 in Tashkent. The teacher says, “Children, this is Madina. She is new. She is from Bukhara.” Madina is very **tall**. She has **long**, **curly** **hair** and big brown **eyes**. She is very shy.",
+      "Laylo is short. She has straight black hair and green eyes. She is very **friendly**. “Hi, Madina! Is your hair black or brown?” she asks. “It is dark brown,” Madina says, and she smiles.",
+      "At break, Bobur runs to the girls. Bobur is short and very funny. He has short red hair! “What color is your bag, Madina?” he asks. “It is blue,” she says. “My bag is blue too!” Bobur says.",
+      "After school, the three children eat plov at Laylo’s house. Laylo’s grandma is old, but she is very kind. Now Madina is not shy. She is happy. She has two new friends!"
+    ]
+  },
+  "tf": [
+    [
+      "Madina is from Bukhara.",
+      true
+    ],
+    [
+      "Madina has short hair.",
+      false
+    ],
+    [
+      "Laylo has green eyes.",
+      true
+    ],
+    [
+      "Bobur is very tall.",
+      false
+    ],
+    [
+      "Laylo’s grandma is very kind.",
+      true
+    ]
+  ],
+  "mcq": [
+    {
+      "q": "Where is Madina from?",
+      "options": [
+        "Tashkent",
+        "Bukhara",
+        "Samarkand"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What color is Madina’s hair?",
+      "options": [
+        "black",
+        "red",
+        "dark brown"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "What color is Bobur’s bag?",
+      "options": [
+        "blue",
+        "green",
+        "red"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "What do the children eat at Laylo’s house?",
+      "options": [
+        "soup",
+        "plov",
+        "bread"
+      ],
+      "answer": 1
+    }
+  ],
+  "match": [
+    [
+      "eyes",
+      "👀"
+    ],
+    [
+      "bag",
+      "🎒"
+    ],
+    [
+      "school",
+      "🏫"
+    ],
+    [
+      "grandma",
+      "👵"
+    ],
+    [
+      "plov",
+      "🍚"
+    ]
+  ],
+  "gaps": [
+    [
+      "Madina has big brown ___.",
+      "eyes"
+    ],
+    [
+      "Laylo has straight ___ hair.",
+      "black"
+    ],
+    [
+      "Bobur is short and very ___.",
+      "funny"
+    ],
+    [
+      "Madina’s bag is ___.",
+      "blue"
+    ],
+    [
+      "Laylo’s grandma is ___, but she is very kind.",
+      "old"
+    ]
+  ],
+  "wordsearch": [
+    "TALL",
+    "CURLY",
+    "HAIR",
+    "EYES",
+    "FRIENDLY",
+    "FUNNY",
+    "GREEN",
+    "SHY"
+  ],
+  "about_you": [
+    "What color are your eyes?",
+    "Is your hair long or short?",
+    "Who is very funny in your class?"
+  ],
+  "draw": "Draw your best friend. Write two sentences about his or her hair and eyes.",
+  "fun_fact": "Only about 2 in 100 people in the world have green eyes!"
+}

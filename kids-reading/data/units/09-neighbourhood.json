@@ -1,0 +1,175 @@
+{
+  "n": 9,
+  "title": "My street is the best!",
+  "topic": "Neighbourhood",
+  "emoji": "🏘️",
+  "color": "indigo",
+  "text_type": "article",
+  "before": {
+    "words": [
+      [
+        "park",
+        "bog‘",
+        "🌳"
+      ],
+      [
+        "playground",
+        "o‘yin maydonchasi",
+        "🛝"
+      ],
+      [
+        "bakery",
+        "novvoyxona",
+        "🍞"
+      ],
+      [
+        "library",
+        "kutubxona",
+        "📚"
+      ],
+      [
+        "hospital",
+        "kasalxona",
+        "🏥"
+      ],
+      [
+        "bazaar",
+        "bozor",
+        "🛒"
+      ]
+    ],
+    "predict": "Look at the title and the picture. What places are there in Bobur’s neighbourhood?"
+  },
+  "text": {
+    "title": "My neighbourhood in Tashkent",
+    "meta": "Kids’ News · Tashkent · by Bobur, 11",
+    "paragraphs": [
+      "Hi! My name is Bobur. I am eleven, and I live in Tashkent. My neighbourhood is small, but it is great. There is a big **park** next to my house. There are old trees and a lake in it.",
+      "There is a **playground** in the park, too. My little sister Madina loves it. Opposite the park, there is a **bakery**. The bread there is hot and yummy. Every morning my dad buys two big non.",
+      "Near my school, there is a **library**. There are about five thousand books in it! I go there on Saturdays with my friend Ali. There isn’t a cinema in my neighbourhood. We go to the city centre for films.",
+      "How many shops are there? There are four shops and one **hospital**. On Sundays, my family takes the bus to Chorsu **bazaar**. There are lots of fruits, spices and colourful bowls there. I love my neighbourhood!"
+    ],
+    "picture": "🏘️🌳🍞"
+  },
+  "tf": [
+    [
+      "Bobur lives in Samarkand.",
+      false
+    ],
+    [
+      "There is a lake in the park.",
+      true
+    ],
+    [
+      "The bakery is opposite the park.",
+      true
+    ],
+    [
+      "There is a cinema in Bobur’s neighbourhood.",
+      false
+    ],
+    [
+      "Bobur goes to the library on Sundays.",
+      false
+    ]
+  ],
+  "mcq": [
+    {
+      "q": "How old is Bobur?",
+      "options": [
+        "10",
+        "11",
+        "12"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Who loves the playground?",
+      "options": [
+        "Ali",
+        "Madina",
+        "Dad"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "How many shops are there?",
+      "options": [
+        "two",
+        "three",
+        "four"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Where does the family go on Sundays?",
+      "options": [
+        "Chorsu bazaar",
+        "the cinema",
+        "the library"
+      ],
+      "answer": 0
+    }
+  ],
+  "match": [
+    [
+      "park",
+      "🌳"
+    ],
+    [
+      "bread",
+      "🍞"
+    ],
+    [
+      "books",
+      "📚"
+    ],
+    [
+      "bus",
+      "🚌"
+    ],
+    [
+      "lake",
+      "🏞️"
+    ]
+  ],
+  "gaps": [
+    [
+      "There is a big park next to Bobur’s ___.",
+      "house"
+    ],
+    [
+      "The bread in the bakery is hot and ___.",
+      "yummy"
+    ],
+    [
+      "Bobur goes to the library with his friend ___.",
+      "Ali"
+    ],
+    [
+      "There are about five thousand ___ in the library.",
+      "books"
+    ],
+    [
+      "On Sundays, the family takes the ___ to Chorsu bazaar.",
+      "bus"
+    ]
+  ],
+  "wordsearch": [
+    "PARK",
+    "BAKERY",
+    "LIBRARY",
+    "BAZAAR",
+    "BREAD",
+    "SHOPS",
+    "LAKE",
+    "TREES"
+  ],
+  "about_you": [
+    "What places are there in your neighbourhood?",
+    "Is there a park near your house?",
+    "How many shops are there near your school?"
+  ],
+  "draw": "Draw a map of your street. Write two sentences with “There is…” and “There are…”.",
+  "fun_fact": "Chorsu bazaar in Tashkent is very old. Its big blue dome is famous!"
+}
