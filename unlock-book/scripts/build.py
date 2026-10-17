@@ -330,5 +330,21 @@ def build(nums=None):
     print(f"units: {[u['n'] for u in units]} -> dist/units.html")
 
 
+def build_extra():
+    """Writing + speaking pages for the original units that have none (data/extra/NN.json) -> dist/extra.html."""
+    css = (ROOT / "scripts" / "style.css").read_text(encoding="utf-8")
+    extras = [json.loads(f.read_text(encoding="utf-8")) for f in sorted((ROOT / "data" / "extra").glob("*.json"))]
+    pages = "".join(p_writing(u) + p_speaking(u) for u in extras)
+    doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Extra pages</title>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;0,700;0,800;0,900;1,400;1,600&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Arimo:wght@400;700&display=block" rel="stylesheet">
+<style>{css}</style></head><body>{pages}</body></html>"""
+    DIST.mkdir(exist_ok=True)
+    (DIST / "extra.html").write_text(doc, encoding="utf-8")
+    print(f"extra pages for units {[u['n'] for u in extras]} -> dist/extra.html")
+
+
 if __name__ == "__main__":
-    build([int(a) for a in sys.argv[1:]] or None)
+    if sys.argv[1:] == ["--extra"]:
+        build_extra()
+    else:
+        build([int(a) for a in sys.argv[1:]] or None)

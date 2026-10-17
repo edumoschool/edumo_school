@@ -11,7 +11,7 @@ try { ({ chromium } = require('playwright')); } catch { ({ chromium } = require(
   const exe = fs.existsSync('/opt/pw-browsers/chromium') ? '/opt/pw-browsers/chromium' : undefined;
   const browser = await chromium.launch(exe ? { executablePath: exe } : {});
   const page = await browser.newPage({ viewport: { width: 1123, height: 1588 } });
-  await page.goto('file://' + path.join(dist, 'units.html'), { waitUntil: 'networkidle', timeout: 120000 });
+  await page.goto('file://' + path.join(dist, process.env.INPUT || 'units.html'), { waitUntil: 'networkidle', timeout: 120000 });
   await page.emulateMedia({ media: 'print' });
   await page.evaluate(() => document.fonts.ready);
   await page.waitForTimeout(500);
@@ -69,8 +69,7 @@ try { ({ chromium } = require('playwright')); } catch { ({ chromium } = require(
   }, startPage);
   console.log(`pages: ${report.pages}`);
   if (report.still.length) console.warn('OVERFLOW\n' + report.still.join('\n'));
-  fs.writeFileSync(path.join(dist, 'units.paginated.html'), await page.content());
-  await page.pdf({ path: out, width: '297mm', height: '420mm', printBackground: true, preferCSSPageSize: true });
+    await page.pdf({ path: out, width: '297mm', height: '420mm', printBackground: true, preferCSSPageSize: true });
   await browser.close();
   console.log('Done: ' + path.relative(process.cwd(), out));
 })();

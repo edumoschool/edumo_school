@@ -1,0 +1,60 @@
+{
+ "n": 3,
+ "title": "Technology",
+ "writing": {
+  "kind": "essay", "title": "WRITING PART 2",
+  "useful_title": "USEFUL LANGUAGE — Opinion essay",
+  "useful": [
+   ["Introducing the topic", "In recent years, … has become a widely debated issue. / It is often argued that …"],
+   ["Stating your position", "I would argue that … / In my view, the benefits clearly outweigh …"],
+   ["Supporting a point", "This is largely because … / A clear example of this is … / Research suggests that …"],
+   ["Presenting the other side", "Admittedly, … / Critics point out that … / It cannot be denied that …"],
+   ["Refuting", "However, this overlooks the fact that … / While this may be true, …"],
+   ["Concluding", "On balance, … / All things considered, I firmly believe that …"]
+  ],
+  "task_intro": "You are writing an essay for an academic audience. Write 180–200 words.",
+  "task": "Some people believe that social media users should be required to use their real names online, while others think anonymity should be protected. Discuss both views and give your own opinion.",
+  "plan": [
+   ["Introduction", "paraphrase the question + state your position"],
+   ["Body paragraph 1", "arguments for real names: accountability, less harassment, trust + example"],
+   ["Body paragraph 2", "arguments for anonymity: whistle-blowers, safety, free speech + example"],
+   ["Conclusion", "summarise both sides and restate your opinion clearly"]
+  ],
+  "rules_title": "RULES for Part 2 (essay)",
+  "rules": [
+   "Answer ALL parts of the question — both views AND your own opinion.",
+   "Write 180–200 words in four clear paragraphs.",
+   "Use a formal, academic register: no contractions, slang or direct questions to the reader.",
+   "Begin each body paragraph with a clear topic sentence.",
+   "Support each point with a reason and an example; use hedging (may, tend to, it could be argued).",
+   "Make sure your conclusion matches the position in your introduction."
+  ],
+  "sample_title": "SAMPLE ANSWER",
+  "sample": "In recent years, the question of whether people should be allowed to remain anonymous online has become a widely debated issue. While real-name policies may reduce some abusive behaviour, I would argue that anonymity is too valuable to remove completely.\nThose in favour of real names argue that people tend to behave more responsibly when their identity is visible. A user who knows that an insulting comment can be traced back to them is far less likely to post it. Furthermore, platforms where users are identified are often seen as more trustworthy, since fake accounts are harder to create.\nHowever, this overlooks the fact that anonymity protects many vulnerable people. Whistle-blowers, victims of abuse and activists living under strict governments may depend on hidden identities to speak safely. Moreover, research suggests that a large share of online harassment comes from people who already use their real names, so removing anonymity would not solve the problem on its own.\nOn balance, I firmly believe that anonymity should be protected. Rather than forcing everyone to reveal their identity, platforms should invest in better moderation and faster responses to abuse.",
+  "practice_title": "PART 2 PRACTICE — now you try",
+  "practice_task": "Some people think that children under 16 should not be allowed to use smartphones at school. To what extent do you agree or disagree?"
+ },
+ "speaking": {
+  "part": "3", "title": "SPEAKING PART 3",
+  "statement": "People should share less of their personal life online.",
+  "for": [
+   "protects privacy and personal data from companies and criminals",
+   "reduces the risk of online harassment and identity theft",
+   "less pressure to show a perfect life; better mental health"
+  ],
+  "against": [
+   "sharing helps people stay in touch with family and friends abroad",
+   "useful for building a personal brand, a business or a career",
+   "people should be free to decide what they post"
+  ],
+  "sample": "**There is no doubt that** this is a topic that affects almost everyone today. **On the one hand**, sharing less online would clearly **protect our privacy**. Every photo or check-in we post can be collected by companies and, in the worst cases, used by criminals for **identity theft**. **What is more**, constantly showing a perfect life puts a lot of pressure on young people, and I think it can **damage their self-esteem**.\n**On the other hand**, social media is not only negative. My cousin lives in Korea, and thanks to her posts our whole family **feels connected** to her every day. **In addition**, many people in Uzbekistan now **build their careers** and small businesses through Instagram and Telegram, so sharing is part of their work.\n**Overall, I would say that** the answer is not to stop sharing, but to **share more wisely**. People should think twice before posting their location, their children's photos or personal problems, and they should check their privacy settings regularly. **In my view**, it is about balance rather than silence.",
+  "useful": [
+   ["Introducing the topic:", "There is no doubt that … / This is a topic that affects …"],
+   ["Arguments for:", "On the one hand, … / One clear advantage is that …"],
+   ["Adding a point:", "What is more, … / In addition, … / Not only that, but …"],
+   ["Arguments against:", "On the other hand, … / Critics would say that …"],
+   ["Giving an example:", "Take my cousin, for example … / A good example of this is …"],
+   ["Concluding:", "Overall, I would say that … / In my view, it is about balance …"]
+  ]
+ }
+}

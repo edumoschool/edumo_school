@@ -15,6 +15,7 @@ PARTS = [
     (ORIG / "Unit_2.pdf", 1, 15),             # Unit 2 Design (complete, with writing + speaking)
     (ORIG / "Book_Units_1-3.pdf", 26, 26),    # Unit 3 cover: Technology & Digital Life
     (ORIG / "Unit_3.pdf", 2, 11),             # Unit 3 pages
+    (ROOT / "dist" / "Unit3_extra.pdf", 1, None),        # Unit 3 writing + speaking (built)
     (ROOT / "dist" / "Unlock5_Units_4-10.pdf", 1, None),   # Units 4-10 + answer key for Units 1-10
 ]
 
