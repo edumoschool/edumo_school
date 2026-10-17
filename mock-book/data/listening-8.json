@@ -1,0 +1,284 @@
+{
+ "skill": "listening",
+ "mock": 8,
+ "parts": [
+  {
+   "part": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 1,
+       "q": "",
+       "options": [
+        "A) Yes, I’m going tomorrow",
+        "B) I’ll call you later.",
+        "C) Not yet."
+       ]
+      },
+      {
+       "n": 2,
+       "q": "",
+       "options": [
+        "A) It was very expensive.",
+        "B) I have been to the post office.",
+        "C) I’m free this afternoon."
+       ]
+      },
+      {
+       "n": 3,
+       "q": "",
+       "options": [
+        "A) Only on weekends.",
+        "B) Yes, I learnt as a child.",
+        "C) I have no idea."
+       ]
+      },
+      {
+       "n": 4,
+       "q": "",
+       "options": [
+        "A) I’ll have some ice cream.",
+        "B) I already finished my homework.",
+        "C) I don’t have a car."
+       ]
+      },
+      {
+       "n": 5,
+       "q": "",
+       "options": [
+        "A) Yes, it’s mine.",
+        "B) I’m going there.",
+        "C) No, it isn’t hers."
+       ]
+      },
+      {
+       "n": 6,
+       "q": "",
+       "options": [
+        "A) It’s in the kitchen.",
+        "B) I like sauce.",
+        "C) It is tomato-based."
+       ]
+      },
+      {
+       "n": 7,
+       "q": "",
+       "options": [
+        "A) Yes, please.",
+        "B) No, I already bought it.",
+        "C) Yes, add some salt too."
+       ]
+      },
+      {
+       "n": 8,
+       "q": "",
+       "options": [
+        "A) I’ll show his.",
+        "B) Here it is.",
+        "C) I am very pleased."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "DANCE COMPETITION",
+     "lines": [
+      "▪ Speaker full name: Rachel (0) Atkins.",
+      "▪ For (9)__________from: 13-15",
+      "▪ Date to enter by: (10)__________",
+      "▪ Send: (11)__________",
+      "▪ Website address: www. (12)___________.com",
+      "▪ Place: (13)__________",
+      "▪ First prize: (14) £__________"
+     ]
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear people speaking in different situations. Match each speaker (1-4) to their working sector(A-F). There are TWO EXTRA options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "matching",
+     "left": [
+      "15. Speaker 1 …",
+      "16. Speaker 2 …",
+      "17. Speaker 3 …",
+      "18. Speaker 4 …"
+     ],
+     "right": [
+      "A) Education",
+      "B) Marketing",
+      "C) Healthcare",
+      "D) Tourism",
+      "E) Journalism",
+      "F) Information Technology"
+     ]
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There are THREE extra options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "subtitle",
+     "text": "RIVER FARM"
+    },
+    {
+     "type": "image",
+     "src": "m8-map.png"
+    },
+    {
+     "type": "lines",
+     "items": [
+      "19. Corn field …",
+      "20. The Chicken coop …",
+      "21. The Orchard …",
+      "22. The Vegetable Garden …",
+      "23. The Windmill …"
+     ]
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract One\n*You will hear an interview with someone who has started a magazine for children.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 24,
+       "q": "What does Kate say about enthusiasm?",
+       "options": [
+        "A) Children respond positively to it.",
+        "B) Children cannot maintain it for long time.",
+        "C) Children experience it more than adults."
+       ]
+      },
+      {
+       "n": 25,
+       "q": "Kate says that she learnt from her research that children …",
+       "options": [
+        "A) don’t want to feel that they are being considered inferior.",
+        "B) don’t like texts that have too much serious content.",
+        "C) don’t know some words that she had expected them to know."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Two\n*You will hear two faculty directors talking about which person in their university to promote.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 26,
+       "q": "The position needs someone good at …",
+       "options": [
+        "A) Computers.",
+        "B) Dealing with people.",
+        "C) Arts."
+       ]
+      },
+      {
+       "n": 27,
+       "q": "The directors will select someone from the faculty of …",
+       "options": [
+        "A) Arts.",
+        "B) Computing.",
+        "C) Business."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Three"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 28,
+       "q": "When can phone calls from artists be difficult for Rachel?",
+       "options": [
+        "A) when their work doesn’t sell",
+        "B) when they don’t receive payments",
+        "C) when their work is not accepted"
+       ]
+      },
+      {
+       "n": 29,
+       "q": "Why does Rachel include a commentary in the catalogue?",
+       "options": [
+        "A) It gives background information about the artist.",
+        "B) It encourages people to buy paintings over the phone.",
+        "C) It tells people what experts think of the work."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 6,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "MARS EXPLORATION",
+     "lines": [
+      "▪ A mission to Mars could take over a (30)__________ just to reach the planet.",
+      "▪ One major concern for astronauts is exposure to harmful (31)__________ in space.",
+      "▪ Developing the technology for Mars travel is incredibly (32)__________.",
+      "▪ Astronauts may struggle with feelings of (33)__________ due to long periods away from Earth.",
+      "▪ Some critics argue that space funding should be (34)__________ to fight problems on our own planet.",
+      "▪ Scientists worry that Martian soil might contain unidentified (35)__________ that could pose risks."
+     ]
+    }
+   ]
+  }
+ ]
+}

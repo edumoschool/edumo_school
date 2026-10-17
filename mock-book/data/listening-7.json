@@ -1,0 +1,281 @@
+{
+ "skill": "listening",
+ "mock": 7,
+ "parts": [
+  {
+   "part": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 1,
+       "q": "",
+       "options": [
+        "A) I bought it yesterday.",
+        "B) I’m looking for my phone.",
+        "C) It’s outside."
+       ]
+      },
+      {
+       "n": 2,
+       "q": "",
+       "options": [
+        "A) No, I don’t like coffee.",
+        "B) I’ll be in Italy.",
+        "C) I start work at nine."
+       ]
+      },
+      {
+       "n": 3,
+       "q": "",
+       "options": [
+        "A) It’s on the table.",
+        "B) I left them in the shop.",
+        "C) Maybe next weekend."
+       ]
+      },
+      {
+       "n": 4,
+       "q": "",
+       "options": [
+        "A) It’s next to the sofa.",
+        "B) It’s 07 849 700 567.",
+        "C) It’s S25 Pro Max"
+       ]
+      },
+      {
+       "n": 5,
+       "q": "",
+       "options": [
+        "A) Only on my birthday.",
+        "B) I work in the city centre.",
+        "C) Yes, I really enjoy them."
+       ]
+      },
+      {
+       "n": 6,
+       "q": "",
+       "options": [
+        "A) I usually take the bus.",
+        "B) It’s history.",
+        "C) I’m not hungry right now."
+       ]
+      },
+      {
+       "n": 7,
+       "q": "",
+       "options": [
+        "A) Yes, you can pay by credit card.",
+        "B) No, I don’t pay with cash.",
+        "C) It’s very expensive."
+       ]
+      },
+      {
+       "n": 8,
+       "q": "",
+       "options": [
+        "A) No, I didn’t see that movie.",
+        "B) It was great.",
+        "C) I’m meeting my friend later."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "EVENT DETAILS",
+     "lines": [
+      "▪ Name: Daniel",
+      "▪ Go to the library in: (9)__________",
+      "▪ Number of books to bring: (10)__________",
+      "▪ Day to take place the event: (11)__________",
+      "▪ Time: (12)__________",
+      "▪ Charge of the event: (13)__________ pounds.",
+      "▪ Website for more information: www.(14)__________.com"
+     ]
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear people speaking in different situations. Match each speaker (1-4) to their job(A-F). There are TWO EXTRA options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "matching",
+     "left": [
+      "15. Speaker 1 …",
+      "16. Speaker 2 …",
+      "17. Speaker 3 …",
+      "18. Speaker 4 …"
+     ],
+     "right": [
+      "A) A public servant.",
+      "B) The speaker’s an educator.",
+      "C) A job in telecommunications.",
+      "D) The speaker works in sales.",
+      "E) A position in a media company.",
+      "F) The speaker's job involves conservation."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There are THREE extra options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "image",
+     "src": "m7-map.png"
+    },
+    {
+     "type": "lines",
+     "items": [
+      "19. Fruits …",
+      "20. Milk ….",
+      "21. T-Shirt …",
+      "22. Fish …",
+      "23. Vegetables …"
+     ]
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract One\n*You will hear two speakers talking about a new relationship their friend currently has.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 24,
+       "q": "The woman thinks Noel’s ex-girlfriend …",
+       "options": [
+        "A) spent too little time with him.",
+        "B) always agreed with him.",
+        "C) made all the couple’s plans."
+       ]
+      },
+      {
+       "n": 25,
+       "q": "How do the speakers feel about Noel’s new relationship? They’re …",
+       "options": [
+        "A) hopeful.",
+        "B) worried.",
+        "C) excited."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Two\n*You will hear a conversation between two speakers.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 26,
+       "q": "The speakers are discussing the …",
+       "options": [
+        "A) shopping facilities in their local area.",
+        "B) supermarket’s car parking problems.",
+        "C) growing number of High Street shops."
+       ]
+      },
+      {
+       "n": 27,
+       "q": "What’s the man’s reaction when the woman says she has problems parking?",
+       "options": [
+        "A) He’s not interested in her view.",
+        "B) He thinks she has a good point.",
+        "C) He’s surprised by her comment."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Three\n*You will hear a phone conversation between a woman and a police representative.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 28,
+       "q": "The woman is calling because …",
+       "options": [
+        "A) there’s a problem with her map.",
+        "B) she’s run out of other options.",
+        "C) she needs help in an emergency."
+       ]
+      },
+      {
+       "n": 29,
+       "q": "At the end of the conversation, the woman is …",
+       "options": [
+        "A) relieved.",
+        "B) grateful.",
+        "C) embarrassed."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 6,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "MARIANNE GREENE – ROLLER COASTER DESIGNER",
+     "lines": [
+      "▪ Marianne says the first roller coaster that people paid to ride on used tracks which had originally carried coal from the mountains.",
+      "▪ As well as subjects Marianne studied at college, she found a knowledge of (30)__________ useful in her work.",
+      "▪ Marianne says a design for a new ride may be adapted to suit the (31)__________ it will be built in.",
+      "▪ Designers are usually more concerned than theme park owners about the (32)__________ the roller coaster will have to carry.",
+      "▪ Marianne mentions gravity and (33)__________ as examples of different forces people are exposed to on roller coaster rides.",
+      "▪ Marianne says that most of the information she uses has come from observing how airline (34)__________ are affected by the job they do.",
+      "▪ Marianne explains that most customer complaints involve rides that people think are (35)__________."
+     ]
+    }
+   ]
+  }
+ ]
+}

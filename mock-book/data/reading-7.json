@@ -1,0 +1,323 @@
+{
+ "skill": "reading",
+ "mock": 7,
+ "parts": [
+  {
+   "part": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text."
+    },
+    {
+     "type": "article",
+     "title": "THE MYSTERY OF THE MONTANA DINOSAUR",
+     "paragraphs": [
+      "In recent years, scientists have made many fascinating discoveries about dinosaurs that have changed what we know about prehistoric life. In 2005, there was an unusual discovery found in Montana. Twenty-four different kinds of dinosaurs were uncovered in this one place. Most (1)__________ that are discovered are just bones. This dinosaur still had soft tissue in its bones. It had cells and blood vessels. This was not known when the dinosaur was first discovered. A scientist (2)__________ it when she examined it in the lab. Before this discovery, scientists never thought that (3)__________ in bones could survive more than 100,000 years. The scientists tested the bones. They found that they were 68 million (4)__________ old. This was the oldest dinosaur ever discovered with this type of tissue. This type of tissue is found in bones of birds when they are ready to make eggshells. This remarkable finding helped (5)__________ better understand the link between dinosaurs and modern (6)__________, offering new clues about evolution and ancient life."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "statements",
+     "items": [
+      "A. You’re planning to study in another country and want to improve your academic language before the semester starts.",
+      "B. You’d like to stay with a local family to experience everyday life.",
+      "C. You’re a professional who must improve language skills for workplace communication.",
+      "D. This course is dedicated for people who are aged around 50-60 years old.",
+      "E. You’re looking for a short, intensive course that fits during your summer break.",
+      "F. You want to study in a quiet place rather than a big city.",
+      "G. You need help preparing for a language-proficiency exam.",
+      "H. You’re interested in combining language lessons with voluntary or internship experience.",
+      "I. You want a course that lets you to be rich in other country.",
+      "J. You prefer to learn in an English-speaking country where lessons focus on practical communication."
+     ]
+    },
+    {
+     "type": "cards",
+     "items": [
+      {
+       "title": "7. SPANISH AND CULTURE IN SEVILLE",
+       "body": "Learn Spanish under the Andalusian sun!\nMorning classes focus on real communication, while afternoons are for guided cultural tours of the city’s historic quarters and flamenco evenings. Accommodation with Spanish host families allows you to practise conversation daily. Students often join weekend excursions to nearby villages for authentic cultural experiences.\nwww.sevillelanguages.es"
+      },
+      {
+       "title": "8. ENGLISH FOR CAREERS – DUBLIN",
+       "body": "Designed for professionals who already use English at work. This course covers business meetings, email writing, and cross-cultural communication. Participants also visit Irish companies to observe workplace culture. Minimum age 25. The course concludes with a short presentation project based on real-world business situations.\nwww.efc-dublin.ie"
+      },
+      {
+       "title": "9. FRENCH IN THE ALPS",
+       "body": "If you prefer mountains to urban noise, our school in Annecy offers small-group French lessons in a peaceful setting. You’ll enjoy outdoor activities such as hiking and skiing while improving fluency through natural conversation.\nwww.alpinefrench.fr"
+      },
+      {
+       "title": "10. ENGLISH PRE-SESSIONAL PROGRAMME – BATH",
+       "body": "For students beginning a university degree in the UK. The course develops academic writing, note-taking, and seminar participation skills. You’ll also receive support with study techniques and research vocabulary. Participants gain access to the university library and online learning platforms during the course.\nwww.bathuniversityprep.ac.uk"
+      },
+      {
+       "title": "11. FRENCH SUMMER INTENSIVE – NICE",
+       "body": "A fast-paced four-week course focused on grammar, speaking, and listening. Ideal for students with limited time who want quick progress. Afternoon beach activities and film nights included. Accommodation can be arranged in student residences close to the school.\nwww.nicefrancesummer.com"
+      },
+      {
+       "title": "12. ITALIAN + INTERNSHIP – FLORENCE",
+       "body": "Take morning language lessons and spend afternoons gaining work experience in local shops, art studios, or charities. A great way to improve Italian while building your CV. Previous students have completed placements in tourism, fashion, and marketing sectors.\nwww.internitalia.it"
+      },
+      {
+       "title": "13. ENGLISH COMMUNICATION COURSE – VANCOUVER",
+       "body": "Emphasis on fluency, teamwork, and everyday interaction. Includes social clubs and weekend trips to nature parks. Recommended for those seeking a relaxed yet dynamic English-speaking environment. Evening conversation cafés help you practise with local Canadians in informal settings.\nwww.vancouverenglish.ca"
+      },
+      {
+       "title": "14. GERMAN TEST PREPARATION – BERLIN",
+       "body": "Need to pass a language exam? This course focuses on strategies for the Goethe-Institut and TELC tests. Mock exams every week and feedback from experienced examiners ensure strong results. Study materials and exam practice booklets are included in the course fee.\nwww.berlingoethe.de"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once."
+    },
+    {
+     "type": "headings",
+     "title": "LIST OF HEADINGS:",
+     "items": [
+      "A) The ways in which laws preserve order and safeguard society",
+      "B) How new laws are designed and passed into action",
+      "C) Varied structures of global legal frameworks",
+      "D) The earliest emergence of recorded legal codes",
+      "E) Outcomes faced by individuals who violate laws",
+      "F) Reforming laws to uphold justice and equality",
+      "G) Debates over the length of certain punishment periods",
+      "H) The principal divisions within legal systems"
+     ],
+     "right": [
+      "15. Paragraph I",
+      "16. Paragraph II",
+      "17. Paragraph III",
+      "18. Paragraph IV",
+      "19. Paragraph V",
+      "20. Paragraph VI"
+     ]
+    },
+    {
+     "type": "article",
+     "title": "THE ROLE OF LAWS IN MODERN SOCIETY",
+     "paragraphs": [
+      "I. Every society requires a clear set of guidelines to operate smoothly. These guidelines, called laws, direct how individuals should act. Laws define what behavior is acceptable and what is not. Their main purpose is to safeguard people, resolve conflicts, and ensure public security. For instance, traffic regulations help prevent accidents, while criminal laws stop theft and violence. Without laws, citizens might feel unsafe, and communities could quickly fall into chaos and disorder.",
+      "II. The idea of creating laws is not new. Thousands of years ago, ancient civilizations began developing written codes of conduct. One of the earliest known examples is the Code of Hammurabi from Babylon, which detailed specific punishments for various offenses. This reveals that even ancient people valued justice and fairness. Later, Roman law became more advanced and has greatly influenced modern legal systems, especially throughout Europe and other regions shaped by Roman traditions.",
+      "III. In most countries today, new rules start as proposals written by elected lawmakers. These representatives discuss, debate, and often revise them before taking a vote. If a majority supports the proposal, it officially becomes a law. Afterward, courts and judges interpret and apply these laws to actual situations. In democratic nations, ordinary citizens can also participate by signing petitions, joining advocacy groups, or voting for leaders who share their views on justice.",
+      "IV. Laws do not all serve the same function. Criminal laws address crimes such as robbery, fraud, or assault. Civil laws handle disagreements between people, such as property issues or contract breaches. Family laws deal with matters like marriage, divorce, and child custody, while environmental laws aim to protect nature. Traffic laws help maintain safety on the roads. Dividing the law into these categories allows governments to manage society’s complexity more clearly and fairly.",
+      "V. Anyone who breaks the law faces consequences. These can include paying fines, losing a license, doing community service, or, for serious crimes, going to prison. The severity of punishment depends on the seriousness of the offense. Courts are responsible for ensuring that penalties are fair and consistent. Yet, public debates often arise — some argue that certain punishments are too harsh, while others believe they are too lenient.",
+      "VI. For any legal system to function effectively, its laws must be fair, flexible, and adaptable. When rules are unjust, people may lose faith in their government, leading to protests or defiance. Strong laws protect all citizens, especially those who are vulnerable or belong to minority groups, and they must evolve with time. Modern issues such as cybercrime, digital privacy, and climate change demand new and updated legislation. A successful legal system must balance tradition and innovation to keep society both safe and fair for everyone."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 21-29."
+    },
+    {
+     "type": "article",
+     "title": "TINY CREATURES, MIGHTY INFLUENCE",
+     "paragraphs": [
+      "Insects are the most abundant and varied group of animals on Earth. They inhabit nearly every environment imaginable — from humid rainforests and scorching deserts to icy mountaintops and dark underground caves. Some even share our living spaces, feeding on our food and nesting in our homes. Experts estimate that there may be over ten million species of insects worldwide, although only around one million have been formally described. Statistically, for every single person, there could exist over 200 million insects. Their hidden world is vast, intricate, and endlessly fascinating.",
+      "Despite their diversity, all insects share a number of unique physical traits. Each insect’s body consists of three sections — the head, thorax, and abdomen — and features six legs and a pair of antennae. Many insects have wings, which help them to travel, locate mates, or escape predators. Yet not all species can fly; ants and fleas, for instance, lack wings but are still perfectly suited to their environments. Insects belong to the wider animal group known as arthropods, which also includes spiders, crabs, and centipedes. However, unlike their relatives, insects always possess six legs and a three-part body design, setting them apart within the animal kingdom.",
+      "Insects perform indispensable tasks within ecosystems. Bees, for example, pollinate nearly one-third of all the food humans consume. Without their activity — and that of other pollinators — the reproduction of many fruits, vegetables, and flowers would be severely disrupted. Ants contribute by cleaning their habitats, feeding on dead organisms and leftover food, helping to prevent the spread of disease. Butterflies and moths, admired for their elegance, also assist in pollination while enriching natural landscapes with color. Farmers often rely on ladybirds, which feed on pests such as aphids that damage harvests. Because of these small but vital creatures, many plants thrive without excessive dependence on chemical pesticides.",
+      "Life is not easy for insects, and survival demands creativity. Over time, they have developed remarkable defensive mechanisms. Some camouflage themselves to match leaves or bark, while others display bright warning colors like red, orange, or yellow to signal toxicity. Beetles protect themselves with hard shells, whereas flies depend on rapid flight to escape danger. Certain species release unpleasant smells or painful stings as chemical weapons. Communication is also crucial for safety — ants leave chemical trails to guide their nestmates to food, and crickets rub their wings together to produce rhythmic chirps that attract mates or claim territory.",
+      "Perhaps the most intriguing feature of insects is their life cycle. Most undergo metamorphosis, progressing through four stages — egg, larva, pupa, and adult. Take the butterfly as an example: it begins as an egg, transforms into a caterpillar, becomes a chrysalis, and finally emerges as an adult butterfly. This process enables insects to inhabit different environments and functions throughout life. Some species, such as dragonflies, begin their existence underwater before taking flight as adults — a clear demonstration of their extraordinary adaptability.",
+      "Many insects also show impressive levels of social organization. While some live solitary lives, others — including ants, bees, and termites — form highly structured colonies. These societies are divided into distinct castes: workers, soldiers, and queens, each with specialized duties. Workers gather food, soldiers defend, and queens reproduce. Such cooperation allows colonies to survive even under extreme conditions. Scientists often liken these communities to human cities, as both rely heavily on teamwork, communication, and shared purpose.",
+      "Insects are not only vital to nature but also essential to human existence. They recycle nutrients, pollinate crops, and serve as food sources for birds, reptiles, and fish. Without them, entire ecosystems would collapse, and human agriculture would face catastrophic losses. Yet insect populations are rapidly declining due to pollution, habitat destruction, and climate change. Safeguarding these small creatures is therefore critical — not merely for their survival, but for the stability of the planet and humanity itself.",
+      "Although they may seem insignificant, insects are among the most successful species ever to inhabit Earth. Their capacity to adapt, cooperate, and contribute makes them truly exceptional. They remind us that even the tiniest beings can leave the largest mark on our world."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 21-24, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 21,
+       "q": "According to the text, scientists suggest that insects …",
+       "options": [
+        "A) vastly outnumber humans on Earth.",
+        "B) exist in fewer numbers than most animals.",
+        "C) are found only in warm and tropical regions.",
+        "D) have all been officially classified."
+       ]
+      },
+      {
+       "n": 22,
+       "q": "What feature clearly separates insects from other arthropods?",
+       "options": [
+        "A) The ability to fly with a pair of wings.",
+        "B) Having eight legs like spiders and crabs.",
+        "C) A preference for living in organized colonies.",
+        "D) A body divided into three parts and six legs."
+       ]
+      },
+      {
+       "n": 23,
+       "q": "Farmers gain advantages from certain insects because they …",
+       "options": [
+        "A) lessen the need for chemical fertilizers.",
+        "B) naturally control other species that destroy crops.",
+        "C) provide useful substances like honey and wax.",
+        "D) improve soil structure through digging tunnels."
+       ]
+      },
+      {
+       "n": 24,
+       "q": "Which statement does not reflect the way insects protect themselves?",
+       "options": [
+        "A) They employ diverse colors, scents, and behaviors as defense.",
+        "B) They depend mainly on rapid flight for safety.",
+        "C) They can change body size instantly to stay hidden.",
+        "D) They release dangerous gas to frighten predators."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 25-29, decide if the following statements agree with the information given in the text. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 25,
+       "q": "Insects’ wings enable them to fly over a long distance.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) Not Given"
+       ]
+      },
+      {
+       "n": 26,
+       "q": "Insects and spiders belong to the same larger animal group.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) Not Given"
+       ]
+      },
+      {
+       "n": 27,
+       "q": "Crickets use sound created by their wings to communicate.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) Not Given"
+       ]
+      },
+      {
+       "n": 28,
+       "q": "Only aquatic insects experience metamorphosis during their life cycle.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) Not Given"
+       ]
+      },
+      {
+       "n": 29,
+       "q": "The writer argues that protecting insects is equally important for humans.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) Not Given"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 30-35."
+    },
+    {
+     "type": "article",
+     "title": "A NEW GIANT IN THE SKY",
+     "paragraphs": [
+      "In the misty mountains of Guizhou Province, China, a new engineering wonder now stretches across the deep Huajiang Canyon. On Sunday, the Huajiang Grand Canyon Bridge officially opened to the public — instantly becoming the tallest bridge in the world, rising an astonishing 625 metres above the Beipan River. The project represents not only a record-breaking height but also remarkable technological progress. The bridge extends a total of 2,890 metres, with a main span of 1,420 metres, making it the longest bridge ever built in such steep and challenging terrain. It is widely viewed as one of the most advanced constructions of its kind anywhere on Earth.",
+      "For people living in the region, the bridge is far more than just a symbol of progress — it’s a practical lifeline. Before it was built, drivers had to take a winding two-hour journey to cross the river. Now, thanks to the bridge, that same trip takes barely two minutes. This dramatic reduction in travel time allows local people to reach schools, hospitals, and workplaces much more easily. Transporting goods such as food, medicine, and building materials has also become far faster and cheaper. Businesses can grow more efficiently, families can stay connected, and rural areas can integrate better with nearby cities. A government official stated that the bridge would “inject new economic energy into the region” by linking isolated areas with major trade routes.",
+      "China’s achievements in bridge construction are attracting global attention. According to highestbridges.com, the 18 tallest bridges in the world are all located in China — either already completed or still under construction. Experts say this success proves the country’s growing leadership in large-scale infrastructure and engineering innovation.",
+      "Building the Huajiang Grand Canyon Bridge was no simple task. Engineers had to overcome dangerous winds, high altitudes, and extremely steep cliffs. To ensure safety, they equipped the bridge with special wind-resistant systems that allow it to remain stable during storms or bad weather. Advanced technology was used to lift and position materials across the deep canyon, requiring extraordinary precision and teamwork. Engineers around the world now study this bridge as a model of what can be achieved when human skill meets determination.",
+      "However, the bridge’s significance extends far beyond transportation and industrial value. It has evolved into a major destination for tourists, capturing attention with its magnificent scenery. Authorities anticipate that the site will welcome a huge number of tourists annually. To accommodate them, a modern visitor centre has been established, featuring a café, a geological museum that illustrates how the canyon was formed, and even a bungee-jumping platform designed for adventure enthusiasts seeking an adrenaline rush.",
+      "In a broader sense, the bridge represents China’s transformation over the past few decades. Once, many rural regions were isolated with little access to modern transport. Today, the country is home to the tallest bridges, the fastest trains, and some of the world’s most ambitious engineering projects. The Huajiang Grand Canyon Bridge is more than a structure — it’s a symbol of how quickly innovation can reshape a nation."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question."
+    },
+    {
+     "type": "notes",
+     "title": "",
+     "lines": [
+      "This enormous (30)__________ is regarded as one of the most advanced bridges ever created, as well as the tallest.",
+      "Thanks to the new bridge, a long-distance drive has been reduced to just (31)__________.",
+      "Engineers added special technology to make the bridge remain steady during severe (32)__________.",
+      "Besides improving travel, the bridge is expected to draw millions of (33)__________ every year."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 34,
+       "q": "What is the most significant advantage of the Huajiang Grand Canyon Bridge for locals?",
+       "options": [
+        "A) It allows faster movement and stronger relations between communities.",
+        "B) It has become the main source of food and medicine in the region.",
+        "C) It lowers the overall cost of car ownership in China",
+        "D) It replaces older bridges that collapsed in the past."
+       ]
+      },
+      {
+       "n": 35,
+       "q": "Why is this bridge considered a global engineering success?",
+       "options": [
+        "A) It was built in record time using very cheap materials.",
+        "B) It combines height, design innovation, and extreme environmental challenges.",
+        "C) It is the first bridge built entirely by international companies.",
+        "D) It is shorter than other bridges but stronger in design."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "key": {
+  "1": "1 dinosaurs  2 discovered  3 tissue  4 years  5 scientists  6 birds",
+  "2": "7 B  8 C  9 F  10 A  11 E  12 H  13 J  14 G",
+  "3": "15 A  16 D  17 B  18 H  19 E  20 F",
+  "4": "21 A  22 D  23 B  24 C  25 C  26 A  27 A  28 B  29 A",
+  "5": "30 project  31 2 minutes  32 storms  33 tourists  34 A  35 B"
+ }
+}

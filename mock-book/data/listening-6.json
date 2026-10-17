@@ -1,0 +1,285 @@
+{
+ "skill": "listening",
+ "mock": 6,
+ "parts": [
+  {
+   "part": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 1,
+       "q": "",
+       "options": [
+        "A) I usually walk to school.",
+        "B) What a pity.",
+        "C) It starts at 7 p.m."
+       ]
+      },
+      {
+       "n": 2,
+       "q": "",
+       "options": [
+        "A) I think it’s very expensive.",
+        "B) Sure, no problem.",
+        "C) I don’t like coffee."
+       ]
+      },
+      {
+       "n": 3,
+       "q": "",
+       "options": [
+        "A) I take the bus every morning.",
+        "B) Yes, I know her well.",
+        "C) Sorry, I don’t work here."
+       ]
+      },
+      {
+       "n": 4,
+       "q": "",
+       "options": [
+        "A) Quite long years.",
+        "B) I don’t like that color.",
+        "C) I met her at the station."
+       ]
+      },
+      {
+       "n": 5,
+       "q": "",
+       "options": [
+        "A) It’s very cold outside.",
+        "B) I’m looking for the supermarket.",
+        "C) Yes, you can sit there."
+       ]
+      },
+      {
+       "n": 6,
+       "q": "",
+       "options": [
+        "A) I can’t find my phone.",
+        "B) I’d like an orange juice, please.",
+        "C) I’m going to the cinema."
+       ]
+      },
+      {
+       "n": 7,
+       "q": "",
+       "options": [
+        "A) Around half past nine.",
+        "B) No, it’s not my bag.",
+        "C) I usually go by bus."
+       ]
+      },
+      {
+       "n": 8,
+       "q": "",
+       "options": [
+        "A) I don’t drink cola.",
+        "B) It is on Tuesday.",
+        "C) It’s near the bus stop."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "COURSE DETAILS",
+     "lines": [
+      "● The position of speaker (9)__________ in the Writing Club",
+      "● Annual fee (10)__________ pounds",
+      "● Running date: (11)__________",
+      "● Writing class: Every (12)__________",
+      "● The course for children: (13)__________",
+      "● Email: efn. (14)_________.org"
+     ]
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear people speaking in different situations. Match each speaker (1-4) to the place they are at(A-F). There are TWO EXTRA options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "matching",
+     "left": [
+      "15. Speaker 1 …",
+      "16. Speaker 2 …",
+      "17. Speaker 3 …",
+      "18. Speaker 4 …"
+     ],
+     "right": [
+      "A) In drama class",
+      "B) On board a plane",
+      "C) In the cinema",
+      "D) In a swimming pool",
+      "E) In an amusement park",
+      "F) In a cafe"
+     ]
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There are THREE extra options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "subtitle",
+     "text": "PLANNED CHANGES IN NEWSHIRE CITY"
+    },
+    {
+     "type": "image",
+     "src": "m6-map.png"
+    },
+    {
+     "type": "lines",
+     "items": [
+      "19. New Road construction …",
+      "20. Library …",
+      "21. Parking area …",
+      "22. Flower shop …",
+      "23. New bus stop sign …"
+     ]
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract One\n*You will hear two students, Sam and Liz, discussing their university orientation program.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 24,
+       "q": "What is this conversation mainly about?",
+       "options": [
+        "A) Their plans for the first week of university.",
+        "B) The subjects they will study this semester.",
+        "C) The best places to visit near the university."
+       ]
+      },
+      {
+       "n": 25,
+       "q": "In the end, the two students agreed that...?",
+       "options": [
+        "A) Sam will join the ‘Careers Lecture’.",
+        "B) they both attend the ‘Uni Tour’.",
+        "C) they don’t know what to do in the university."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Two\n*You will hear a student, Eric, talking to his lecturer, Ms Harris, about essay writing.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 26,
+       "q": "What is Eric mainly talking to Ms Harris about?",
+       "options": [
+        "A) How to improve his advice on issues.",
+        "B) How to begin writing his thesis.",
+        "C) How to write summaries."
+       ]
+      },
+      {
+       "n": 27,
+       "q": "What advice does Ms Harris give Eric?",
+       "options": [
+        "A) Choose a topic that genuinely interests him",
+        "B) Follow the topic suggested by his supervisor",
+        "C) Start writing before deciding on a topic"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Three\n*You will hear an interview with someone whose daughters are appearing in a show in London.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 28,
+       "q": "When Olivia tried to get a part in Mary Poppins, she",
+       "options": [
+        "A) did not really expect to get the part.",
+        "B) was extremely upset not to get the part.",
+        "C) was immediately rejected for the part."
+       ]
+      },
+      {
+       "n": 29,
+       "q": "What happened at the first auditions for The Sound of Music?",
+       "options": [
+        "A) There were so many people that the family considered leaving.",
+        "B) The family arrived later than they had been told to arrive.",
+        "C) Jackie’s was able to persuade judges to see her children."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 6,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "USES OF NANOTECHNOLOGY",
+     "lines": [
+      "● Nanotechnology could allow the development of stronger (30)__________.",
+      "● Planes would be much lighter in weight.",
+      "● Space (31)__________ travel will be made available to the masses.",
+      "● Computers will be even smaller, faster, and will have a greater (32)__________.",
+      "● (33)__________ energy will become more affordable.",
+      "● Nano-robots could rebuild the (34)_________ layer.",
+      "● Pollutants such as (35)__________ could be cleaned from water more easily.",
+      "● There will be no waste from manufacturing."
+     ]
+    }
+   ]
+  }
+ ]
+}

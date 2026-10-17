@@ -1,0 +1,321 @@
+{
+ "skill": "reading",
+ "mock": 8,
+ "parts": [
+  {
+   "part": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text."
+    },
+    {
+     "type": "article",
+     "title": "DESERT LIFE",
+     "paragraphs": [
+      "Deserts cover a large part of the Earth’s surface, and life there is both rare and remarkable. Many unique plants and animals manage to survive in the (1)_______. In them, small (2)______ such as lizards, jerboas, and beetles feed on seeds, insects, or tiny bits of plants. They hide under rocks during the day to escape the burning sun and come out at night to search for food. Larger animals hunt smaller ones, while some desert creatures (3)__________on cactus fruits, roots, and dry grasses to stay alive.",
+      "Even though most wild animals try to avoid contact with humans, they are never far away — often hiding in burrows or blending perfectly with the sand. There are many types of desert plants as well. Some plants drop their leaves during the (4)__________ season to reduce water loss and survive for months without rain. The ground is made of sand, dust, and the remains of ancient plants and rocks. After animals and (5)__________ die, their bodies rot slowly in the soil because of the heat and lack of moisture. This process helps make the (6)__________ slightly richer, allowing a few hardy plants to grow again when the rains finally come."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "statements",
+     "items": [
+      "A. Learning about how to reuse old materials in creative ways.",
+      "B. Asking questions directly to people who study environmental issues.",
+      "C. Finding out how cities and villages differ in their use of energy.",
+      "D. Getting ideas for small changes that make your house eco-friendlier.",
+      "E. Joining community activities that help protect nature.",
+      "F. Discovering how food choices affect the planet.",
+      "G. Learning about energy sources that don’t rely on fossil fuels.",
+      "H. Comparing the environmental cost of different ways to travel.",
+      "I. Reading about companies that produce eco-friendly clothes.",
+      "J. Taking part in an online course about recycling."
+     ]
+    },
+    {
+     "type": "cards",
+     "items": [
+      {
+       "title": "7. www.greenroute.org",
+       "body": "Planning a trip soon? This site calculates how much fuel or electricity various types of transport use. Assess trains, planes, and cars to see which option leaves the smallest carbon footprint. There’s also a short guide on eco-friendly travel habits. A new feature even lets users analyze routes to see how weather conditions affect energy use."
+      },
+      {
+       "title": "8. www.natureconnect.org",
+       "body": "An online platform where volunteers can find nearby projects such as planting trees, collecting litter, or helping in wildlife reserves. Users can share stories and photos from their experiences to encourage others to take part. Monthly challenges reward the most active members with eco-friendly prizes."
+      },
+      {
+       "title": "9. www.futureenergy.co.uk",
+       "body": "If you want to learn how wind, water, and sunlight can power our homes and cities, this website explains everything clearly. Interactive maps show which countries are switching from oil and gas to renewable energy. It also includes interviews with engineers developing next-generation solar panels."
+      },
+      {
+       "title": "10. www.askascientist.net",
+       "body": "Want to know what experts are discovering about the planet? Here you can read blog posts written by scientists and even send them your own requests. They reply to selected ones each week, making complex topics easy to understand. A podcast series is also available where specialists discuss their latest environmental studies."
+      },
+      {
+       "title": "11. www.homeecoideas.com",
+       "body": "From saving water to reducing waste, this site gives practical advice for anyone who wants to live more sustainably. There are videos about turning off unused devices, growing your own herbs, and choosing energy-efficient lighting. Visitors can download a free checklist to track their weekly progress at home."
+      },
+      {
+       "title": "12. www.rethinkdesign.org",
+       "body": "Discover creative ways to redesign materials that might otherwise be thrown away. You’ll find tutorials on making furniture from cardboard or bags from torn jeans — proof that sustainability can be stylish too! New community challenges invite users to share photos of their own upcycled creations."
+      },
+      {
+       "title": "13. www.cleanplate.org",
+       "body": "Did you know that what we eat influences the earth’s health? Learn about how reducing meat, avoiding food waste, and buying local produce can lower your carbon footprint. Includes recipes from environmentally conscious chefs. A calculator also estimates how much water and land you save with each plant-based meal."
+      },
+      {
+       "title": "14. www.ecostyleworld.com",
+       "body": "Stay up-to-date with fashion that doesn’t harm the planet. This site reviews brands that use recycled fabrics or pay fair wages to their workers. There’s also advice on how to shop responsibly and care for clothes to make them last longer. Its monthly blog highlights new designers creating eco-friendly collections worldwide."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once."
+    },
+    {
+     "type": "headings",
+     "title": "LIST OF HEADINGS:",
+     "items": [
+      "A) Protected viewing: safety through distance",
+      "B) Travelling with a purpose – nature first",
+      "C) The evolution of animal expeditions",
+      "D) Etymology and worldwide expansion of safaris",
+      "E) Top global destinations for wildlife adventures",
+      "F) Pack light, travel smart",
+      "G) From hunting to harmony",
+      "H) Where the wild things truly are"
+     ],
+     "right": [
+      "15. Paragraph I",
+      "16. Paragraph II",
+      "17. Paragraph III",
+      "18. Paragraph IV",
+      "19. Paragraph V",
+      "20. Paragraph VI"
+     ]
+    },
+    {
+     "type": "article",
+     "title": "DISCOVERING THE SAFARI EXPERIENCE",
+     "paragraphs": [
+      "I. A safari traditionally refers to a journey through untamed land — most often in vast grasslands or dense jungles — undertaken to observe or hunt wild animals. Historically, safaris were primarily hunting expeditions organized by wealthy Europeans seeking trophies such as lion skins or elephant tusks. Over the decades, however, this perception has dramatically evolved. Today, most safaris are centred on viewing and photographing animals rather than harming them. The rise of wildlife protection laws and global concern about endangered species has led to a new, ethical approach where the aim is to witness wildlife in its natural state, not to conquer it. Modern safaris therefore represent both an adventure and a conscious act of preservation.",
+      "II. The term safari originates from the Swahili language but can be traced even further back to the Arabic verb safara, meaning to travel. While Africa remains the birthplace and spiritual home of the safari tradition, the concept has expanded across continents. Today, safari adventures can be found not only in the savannas of Kenya or Tanzania but also among the dense jungles of India, the icy landscapes of Antarctica, the arid outback of Australia, or the lush rainforests of the Amazon Basin. In Alaska and Canada, too, guided wildlife tours have become increasingly popular. In essence, any destination where animals roam freely and humans are temporary guests can be described as a safari.",
+      "III. Although the idea of trekking through the wilderness on foot sounds thrilling, it is often safer to observe animals from a secure vehicle or protected viewpoint. Predators such as lions, tigers, or bears may appear calm at a distance, but their unpredictable instincts can make close human encounters life-threatening. Likewise, frequent intrusion by humans may distress animals or disrupt their feeding patterns. For this reason, many safaris rely on jeeps, minibuses, or even specially designed observation trucks. From within these vehicles, visitors can admire wildlife at close range while remaining safely shielded. This approach ensures both the safety of travellers and the wellbeing of the animals, maintaining the delicate balance between curiosity and conservation.",
+      "IV. The duration and style of a safari can vary greatly. Some tours last a mere weekend, while others extend over several weeks, traversing vast regions by plane, jeep, or even hot-air balloon. Many itineraries include camping beneath the stars or staying in eco-lodges near wildlife reserves. Because safaris often involve multiple locations and transport changes, travellers are advised to take only essentials. Overpacking can become a serious inconvenience on budget or mobile safaris, where every kilogram counts. A compact backpack, comfortable clothing, and essential gear such as binoculars and insect repellent are far more valuable than heavy suitcases.",
+      "V. Africa remains the ultimate safari places, with Kenya, Tanzania, South Africa, and Botswana drawing millions of visitors each year. Yet, the allure of safari travel extends well beyond this continent. Australia offers unique outback tours featuring kangaroos and emus, while India’s national parks are home to Bengal tigers and elephants. In South America, the rainforests of Brazil and Peru provide opportunities to observe monkeys, parrots, and river dolphins in their natural habitats. Meanwhile, in Alaska, visitors can witness the raw beauty of grizzly bears fishing for salmon or watch polar bears wandering along icy shores. Many of these excursions combine multiple experiences — such as cruises, treks, or photography workshops — making the modern safari a global and highly diverse phenomenon.",
+      "VI. Closely related to the safari experience is the concept of eco-adventure — a form of travel that emphasizes sustainability, education, and respect for nature. An eco-adventure might involve canoeing along the Amazon River, hiking through tropical rainforests, or joining a conservation-based safari in Africa. These journeys encourage travellers to engage with local communities, learn about fragile ecosystems, and minimize their environmental footprint. Responsible tour operators ensure that participants follow “leave no trace” principles and often contribute financially to local conservation projects. In this way, eco-adventure tourism transforms ordinary sightseeing into a purposeful journey that benefits both people and the planet."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 21-29."
+    },
+    {
+     "type": "article",
+     "title": "THE HIDDEN WORLD BENEATH THE SEA",
+     "paragraphs": [
+      "The ocean covers more than seventy percent of the Earth’s surface, yet much of it remains an untouched mystery. Scientists estimate that over eighty percent of the world’s seas and oceans have never been properly explored or mapped. In other words, most of our planet’s largest ecosystem is still hidden from view. Within this immense, dark, and shifting realm lie countless secrets — from strange life forms and unexplained natural sounds to puzzling underwater structures and phenomena that science has only begun to understand. The deep ocean, in many ways, is like another planet — unfamiliar, dangerous, and full of extraordinary surprises waiting to be revealed.",
+      "One of the most enigmatic areas of the ocean is the deep-sea floor. This vast region exists in total darkness, where the pressure is so immense that humans cannot survive without specially designed equipment. Because of this, exploration relies heavily on advanced submersibles, underwater robots, and remote sensors. Despite decades of research, oceanographers admit that humanity still knows more about the surface of Mars than about our own seabed. What lies beneath the waves includes underwater mountain ranges, enormous trenches deeper than Everest is tall, and even volcanoes that continue to erupt unseen. In some regions, strange shapes and formations resemble man-made buildings or pyramids. Near Japan, for example, lies the Yonaguni Monument, a mysterious underwater structure. Some claim it is the remains of an ancient civilization swallowed by the sea, while others insist it is simply the product of natural erosion.",
+      "The ocean’s mysteries are not only visual but also auditory. The sea is full of sounds, many of which are still unexplained. Perhaps the most famous example is “The Bloop”, a powerful low-frequency noise recorded in 1997. When it was first heard, it sparked speculation that it came from a gigantic, unknown sea creature lurking in the depths. Later studies suggested it might instead have been produced by the fracturing of icebergs, though no one has ever proved this conclusively. Similar strange noises — deep rumbles, eerie clicks, or metallic echoes — continue to puzzle scientists, who are still trying to identify their sources.",
+      "Equally fascinating is the mysterious “milky sea” phenomenon, in which vast sections of the ocean surface suddenly begin to glow with a pale blue or white light. Sailors have reported this event for centuries, describing entire horizons illuminated as if by moonlight. Modern researchers believe that this glow is caused by bioluminescent bacteria that emit light when they gather in huge colonies, although the exact process that allows such vast gatherings to occur remains unclear. Remarkably, some of these glowing seas are so extensive that satellites orbiting the Earth have captured them from space.",
+      "Beneath the waves lies a realm teeming with life — much of it unlike anything found on land. Creatures that dwell thousands of metres below the surface have adapted to an environment of perpetual darkness and crushing pressure. Many possess bizarre shapes, translucent skin, or the ability to generate their own light. Some have no eyes at all, while others display features that seem to belong in science fiction rather than reality. Every deep-sea expedition yields new species, suggesting that our catalog of marine life is far from complete. In fact, the ocean may still hold countless organisms we have yet to encounter — each one revealing something new about the possibilities of life on Earth.",
+      "The ocean has long captured human imagination not only because of what lives in it but also because of what has disappeared within it. The Bermuda Triangle, a region of the Atlantic Ocean between Florida, Bermuda, and Puerto Rico, has become famous for mysterious vanishings of ships and aircraft. Over the years, countless theories have been proposed — from supernatural forces and magnetic disturbances to unpredictable weather patterns and navigational errors. While most scientists agree that ordinary explanations such as storms or human mistakes are the most likely causes, the legend continues to fuel curiosity about what really happens in that enigmatic part of the sea.",
+      "Though science has revealed parts of the ocean, most of it remains unexplored. Its depths may hold clues to Earth’s past, new medicines, energy sources, and the origins of life. As technology improves, researchers aim to explore further — not just out of curiosity, but to understand and protect this vast, mysterious world."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 21-24, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 21,
+       "q": "According to the text, exploring the deep sea remains difficult mainly because …",
+       "options": [
+        "A) its terrain is too solid for vehicles to enter.",
+        "B) people are unable to create machines that survive underwater.",
+        "C) extreme darkness, pressure, and temperature make it hostile to humans.",
+        "D) it shares many features with the Martian landscape."
+       ]
+      },
+      {
+       "n": 22,
+       "q": "The mystery known as “The Bloop” …",
+       "options": [
+        "A) initially startled the scientific community.",
+        "B) has never been fully resolved.",
+        "C) was conclusively linked to an enormous creature.",
+        "D) turned out to be a simple case of breaking ice."
+       ]
+      },
+      {
+       "n": 23,
+       "q": "The “milky sea” phenomenon refers to …",
+       "options": [
+        "A) the reflection of starlight on calm water.",
+        "B) light patterns that are invisible from orbit.",
+        "C) oceanic brightness possibly created by shining microorganisms.",
+        "D) waves that shine because of moonlight."
+       ]
+      },
+      {
+       "n": 24,
+       "q": "The Bermuda Triangle is described as …",
+       "options": [
+        "A) an area notorious for unexplained disappearances.",
+        "B) a geometric barrier built by humans.",
+        "C) a common research site for new marine species.",
+        "D) a zone where bacteria cluster in luminous waters."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 25-29, decide if the following statements agree with the information given in the text. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 25,
+       "q": "Scientists admit that we currently know more about Mars than about the deepest parts of Earth’s oceans.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) Not Given"
+       ]
+      },
+      {
+       "n": 26,
+       "q": "The Yonaguni Monument has been confirmed to be the ruins of a lost city.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) Not Given"
+       ]
+      },
+      {
+       "n": 27,
+       "q": "Some of the mysterious ocean noises, including “The Bloop,” still have no definite explanation.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) Not Given"
+       ]
+      },
+      {
+       "n": 28,
+       "q": "The article mentions that numerous films and documentaries have been produced about the Bermuda Triangle.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) Not Given"
+       ]
+      },
+      {
+       "n": 29,
+       "q": "Scientists have already explored almost all parts of the ocean in detail.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) Not Given"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 30-35."
+    },
+    {
+     "type": "article",
+     "title": "THE FIFTH TASTE",
+     "paragraphs": [
+      "When we were young, many of us learnt that there are four basic tastes: sweet, sour, salty, and bitter. However, scientists now say there is a fifth taste: umami. Unlike the other four, umami is more subtle and complex, often described as a deep, savory, or meaty flavor. While it may not be as immediately recognizable as sweetness or sourness, it plays a crucial role in enhancing the overall taste experience of many dishes. From rich broths and aged cheeses to ripe tomatoes and cured meats, umami is present in a wide range of foods, adding depth and satisfaction to every bite.",
+      "Umami, which has been enjoyed by Eastern countries for centuries, was recently brought to people’s attention in the West by scientists at the University of Miami in the US. The word ‘umami’ is new to many people, but not to the Japanese, who’ve used it since the early 1900s to describe the fifth taste. So, what exactly is the umami taste? Well, there’s no word in English which means the same, and it’s often described as a savory or meaty taste.",
+      "Recognizing the umami taste takes practice; it’s not as obvious as the other tastes. For example, when eating a homemade chicken soup made without salt or pepper, most people would find it too plain. Adding a small amount of something called ‘monosodium glutamate’ to that same soup gives it the umami taste and would probably lead you to say that the soup now tastes more like chicken soup than it did before. It’s not as simple as making something more salty, as salt alone can do that. Instead, the umami taste is one of richness and fullness. Basically, it just makes the food taste more delicious.",
+      "Asian cooks began adding seaweed – a type of plant from the sea – to soups over 1,200 years ago. They’d discovered that foods cooked with seaweed simply tasted better. They didn’t know, however, that the reason for this improved flavor was actually the high levels of glutamate which exist naturally in the seaweed.",
+      "Eventually, in 1908, a Japanese scientist made the connection between glutamate and seaweed. He then studied the various kinds of glutamate, trying to find one that gave the umami taste, and that could also be produced in factories. He found that the sodium salt form, called monosodium glutamate, was exactly what he was looking for. It provided umami, and it was easy for cooks to use and store. Monosodium glutamate, usually called ‘MSG’, was first produced in Japan in 1909. Since then, it has been used by food producers and home cooks to improve the flavor of a wide variety of dishes.",
+      "So, which foods naturally contain glutamate? Well, meats, cheese and other high-protein foods have a lot of glutamate. In some, the amount of glutamate they contain, and their flavor, increases as they get older. For example, old cheese has more glutamate than young cheese and this also happens with some vegetables, like tomatoes. This is why a red tomato tastes much better than a green one. Think about that the next time you make a sandwich or a salad!",
+      "Interestingly, umami is not only about enhancing flavor—it also plays a crucial role in nutrition. Scientists believe that our ability to detect umami evolved as a way to recognize protein-rich foods, which are essential for muscle growth and overall health. When we eat umami-rich foods, they stimulate our appetite and digestion, making us more likely to consume the nutrients our bodies need. Additionally, umami can make low-salt dishes taste more satisfying, which is why it’s often used as a healthier alternative to excessive salt in cooking. This makes umami not just a fascinating taste but also an important part of a balanced diet."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question."
+    },
+    {
+     "type": "notes",
+     "title": "THE UNIQUE FLAVOR OF UMAMI",
+     "lines": [
+      "The (30)_______________ have used the word ‘umami’ to describe the fifth taste for over a hundred years. It’s hard to explain what exactly the umami taste is, but without it many of our foods would not taste quite as (31)_______________. Foods which have a lot of protein, like meat and (32)_______________, usually have a lot of glutamate. In some foods, the amount of glutamate in the product changes when they are (33)_______________."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 34,
+       "q": "What was the main reason early Asian cooks started adding seaweed to their soups?",
+       "options": [
+        "A) They wanted to increase the amount of protein in their meals.",
+        "B) They noticed that it made their food taste better.",
+        "C) They were influenced by Western cooking techniques.",
+        "D) They were following scientific research on glutamate."
+       ]
+      },
+      {
+       "n": 35,
+       "q": "How does umami contribute to a healthier diet?",
+       "options": [
+        "A) It encourages people to eat more carbohydrates.",
+        "B) It makes food taste saltier without increasing salt intake.",
+        "C) It eliminates the need for any seasoning in food.",
+        "D) It reduces the body's need for protein."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "key": {
+  "1": "1 deserts  2 animals  3 feed  4 dry  5 plants  6 soil",
+  "2": "7 H  8 E  9 G  10 B  11 D  12 A  13 F  14 I",
+  "3": "15 G  16 D  17 A  18 F  19 E  20 B",
+  "4": "21 C  22 B  23 C  24 A  25 A  26 B  27 A  28 C  29 B",
+  "5": "30 Japanese  31 delicious  32 cheese  33 older  34 B  35 B"
+ }
+}

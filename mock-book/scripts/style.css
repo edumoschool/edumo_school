@@ -146,3 +146,6 @@ footer{display:flex;justify-content:space-between;align-items:center;font-size:7
 .exb{display:flex}
 .exb i{width:4.4mm;height:5mm;border:1px solid var(--r);margin-left:-1px;font:normal 8pt/4.8mm "Open Sans";text-align:center;color:var(--r)}
 .handle{text-align:center;font:700 10pt "Times New Roman",serif;margin-top:1.5mm}
+
+.kn{font:600 7.4pt "Open Sans";color:#fff;background:#18A558;border-radius:999px;padding:.4mm 2.5mm;margin-left:2mm;vertical-align:middle}
+.kn.alt{background:#E6A817}

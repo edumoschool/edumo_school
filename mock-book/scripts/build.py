@@ -161,28 +161,36 @@ def answer_sheet(n):
             f'<p class="handle">@cefr_impulse</p></section>')
 
 
+OFFICIAL = json.loads((DATA / "keys" / "official.json").read_text(encoding="utf-8"))
+
+
 def answer_key(tests):
     body = ""
     for n in sorted({t["mock"] for t in tests}):
+        off = OFFICIAL.get(str(n))
         rows = ""
         for t in tests:
             if t["mock"] != n:
                 continue
             for p in t["parts"]:
-                if t["skill"] == "reading":
+                if off:
+                    ans = off[t["skill"]].get(str(p["part"]), "")
+                elif t["skill"] == "reading":
                     ans = t.get("key", {}).get(str(p["part"]), "")
                 else:
                     a, b = QRANGE["listening"][p["part"]].split("–")
                     ans = "  ".join(f"{i} ______" for i in range(int(a), int(b) + 1))
                 rows += f'<tr><th>{SKILL[t["skill"]]["title"].title()} · Part {p["part"]}</th><td>{md(ans)}</td></tr>'
-        body += f'<div class="kmock"><h3>Mock Test {n}</h3><table>{rows}</table></div>'
+        note = ('<span class="kn">official answers</span>' if off else
+                '<span class="kn alt">reading: worked out by our teachers · listening: fill in from the audio</span>')
+        body += f'<div class="kmock"><h3>Mock Test {n} {note}</h3><table>{rows}</table></div>'
     return (f'<section class="page flow" data-run="Answer key"><div class="banner small"><div class="girih"></div><div class="bl">'
-            f'<small>ALL TESTS</small><h1>ANSWER KEY</h1></div><div class="br"><span>Listening answers: fill in from the audio</span></div></div>'
+            f'<small>ALL TESTS</small><h1>ANSWER KEY</h1></div><div class="br"><span>Mocks 3–12: official answers</span></div></div>'
             f'<div class="cols one"><div class="col">{split(body, "keys")}</div></div>'
             f'<footer><span>Multilevel Mock Tests · Answer key</span><span class="pno"></span></footer></section>')
 
 
-NUM_WORDS = {5: "five", 6: "six", 7: "seven", 8: "eight", 9: "nine", 10: "ten"}
+NUM_WORDS = {5: "five", 6: "six", 7: "seven", 8: "eight", 9: "nine", 10: "ten", 11: "eleven", 12: "twelve"}
 
 
 def how_page(count=5):

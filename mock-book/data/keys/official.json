@@ -1,0 +1,73 @@
+{
+ "_source": "src/answers.pdf (Multilevel Zone mock exam answers, TEST 1-10). Zone TEST n = Mock n+2 in this book.",
+ "3": {
+  "listening": {"1": "1 C  2 A  3 C  4 B  5 A  6 A  7 C  8 B", "2": "9 coach  10 lake  11 park  12 picnic  13 museum  14 raincoat",
+                "3": "15 A  16 F  17 B  18 D", "4": "19 D  20 C  21 A  22 E  23 H", "5": "24 A  25 B  26 C  27 A  28 B  29 A",
+                "6": "30 market  31 quality  32 feelings  33 happiness  34 cookies  35 sales"},
+  "reading": {"1": "1 wall  2 construction  3 regulate  4 attacks  5 regulate  6 ancient", "2": "7 C  8 F  9 E  10 A  11 G  12 D  13 H  14 B",
+              "3": "15 C  16 D  17 G  18 H  19 B  20 E", "4": "21 C  22 B  23 D  24 A  25 B  26 C  27 B  28 A  29 A",
+              "5": "30 legal  31 40  32 commute  33 isolated  34 B  35 B"}},
+ "4": {
+  "listening": {"1": "1 C  2 B  3 C  4 A  5 A  6 B  7 C  8 A", "2": "9 Foster  10 7  11 second  12 black  13 reception  14 lockers",
+                "3": "15 A  16 D  17 F  18 B", "4": "19 C  20 A  21 D  22 F  23 E", "5": "24 B  25 C  26 C  27 A  28 B  29 A",
+                "6": "30 English  31 city  32 style  33 1175  34 completed  35 group"},
+  "reading": {"1": "1 light  2 gases  3 caused  4 phenomenon  5 particles  6 sun", "2": "7 C  8 F  9 A  10 B  11 J  12 G  13 D  14 E",
+              "3": "15 D  16 G  17 B  18 F  19 C  20 E", "4": "21 B  22 C  23 B  24 D  25 A  26 C  27 B  28 B  29 A",
+              "5": "30 e-commerce  31 efficiency  32 rent  33 immediacy  34 B  35 C"}},
+ "5": {
+  "listening": {"1": "1 B  2 C  3 B  4 C  5 B  6 A  7 B  8 A", "2": "9 Green  10 3 / three  11 free  12 blanket  13 9:30  14 Festy",
+                "3": "15 D  16 B  17 A  18 C", "4": "19 B  20 H  21 C  22 G  23 F", "5": "24 B  25 B  26 C  27 A  28 C  29 A",
+                "6": "30 rules  31 field  32 stand  33 tree  34 view  35 parents"},
+  "reading": {"1": "1 egg  2 caterpillar  3 chrysalis  4 butterfly  5 wings  6 metamorphosis", "2": "7 G  8 D  9 H  10 B  11 C  12 F  13 I  14 A",
+              "3": "15 H  16 E  17 F  18 A  19 C  20 G", "4": "21 B  22 C  23 A  24 B  25 C  26 A  27 B  28 A  29 B",
+              "5": "30 overwhelmed  31 limited  32 context  33 independence  34 B  35 C"}},
+ "6": {
+  "listening": {"1": "1 B  2 B  3 C  4 A  5 C  6 B  7 C  8 B", "2": "9 coordinator  10 30 / thirty  11 3  12 Wednesday  13 junior  14 library",
+                "3": "15 E  16 F  17 B  18 A", "4": "19 C  20 G  21 F  22 D  23 H", "5": "24 A  25 B  26 B  27 A  28 B  29 C",
+                "6": "30 metal / metals  31 travel  32 memory  33 solar  34 ozone  35 oil"},
+  "reading": {"1": "1 planet  2 surface  3 water  4 rovers  5 scientists  6 exploration", "2": "7 D  8 A  9 F  10 B  11 G  12 E  13 I  14 H",
+              "3": "15 C  16 E  17 A  18 D  19 B  20 H", "4": "21 B  22 A  23 C  24 A  25 B  26 A  27 B  28 C  29 A",
+              "5": "30 accomplishments  31 brain  32 gratitude  33 bonds  34 C  35 B"}},
+ "7": {
+  "listening": {"1": "1 C  2 B  3 A  4 B  5 C  6 B  7 A  8 B", "2": "9 August  10 15  11 Saturday  12 3 p.m.  13 50  14 activities",
+                "3": "15 B  16 F  17 D  18 A", "4": "19 C  20 F  21 G  22 D  23 H", "5": "24 A  25 B  26 C  27 A  28 B  29 A",
+                "6": "30 art  31 landscape  32 weight  33 wind  34 pilots  35 painful"},
+  "reading": {"1": "1 dinosaurs  2 discovered  3 tissue  4 years  5 scientists  6 birds", "2": "7 B  8 C  9 F  10 A  11 E  12 H  13 J  14 G",
+              "3": "15 A  16 D  17 B  18 H  19 E  20 F", "4": "21 A  22 D  23 B  24 C  25 C  26 A  27 A  28 B  29 A",
+              "5": "30 bridge  31 two minutes  32 storms  33 tourists  34 A  35 B"}},
+ "8": {
+  "listening": {"1": "1 C  2 B  3 B  4 A  5 A  6 C  7 A  8 B", "2": "9 children  10 12th July  11 video  12 jittersea  13 college  14 175",
+                "3": "15 F  16 A  17 D  18 B", "4": "19 C  20 A  21 B  22 F  23 D", "5": "24 A  25 A  26 B  27 C  28 C  29 A",
+                "6": "30 day  31 radiation  32 isolation  33 expensive  34 redirected  35 microbes"},
+  "reading": {"1": "1 desert(s)  2 animals  3 feed  4 dry  5 plants  6 soil", "2": "7 H  8 E  9 G  10 B  11 D  12 A  13 F  14 I",
+              "3": "15 C  16 D  17 A  18 F  19 E  20 B", "4": "21 C  22 B  23 C  24 A  25 A  26 B  27 A  28 C  29 B",
+              "5": "30 Japanese  31 delicious  32 cheese  33 older  34 B  35 B"}},
+ "9": {
+  "listening": {"1": "1 C  2 B  3 A  4 B  5 C  6 A  7 A  8 C", "2": "9 day  10 8.30  11 6 / six  12 1 / one  13 free  14 photo",
+                "3": "15 B  16 D  17 C  18 A", "4": "19 H  20 D  21 F  22 A  23 G", "5": "24 B  25 B  26 C  27 A  28 B  29 A",
+                "6": "30 activity  31 cover  32 thirties  33 thunderstorms  34 operators  35 drought"},
+  "reading": {"1": "1 inventions  2 China  3 wrist(s)  4 time  5 ancient  6 liquid", "2": "7 B  8 D  9 G  10 F  11 A  12 H  13 J  14 C",
+              "3": "15 D  16 C  17 E  18 B  19 A  20 F", "4": "21 B  22 A  23 C  24 B  25 A  26 C  27 B  28 A  29 A",
+              "5": "30 safety  31 medicine  32 informed  33 misinformation  34 C  35 B"}},
+ "10": {
+  "listening": {"1": "1 C  2 B  3 A  4 A  5 C  6 B  7 A  8 C", "2": "9 Chapman  10 China  11 software  12 6 / six  13 games  14 July",
+                "3": "15 E  16 F  17 C  18 A", "4": "19 G  20 B  21 H  22 F  23 C", "5": "24 B  25 C  26 C  27 A  28 C  29 A",
+                "6": "30 charcoal  31 irrigation  32 women  33 wire(s)  34 seed(s)  35 posts"},
+  "reading": {"1": "1 pictures  2 town  3 studio  4 dog  5 painting  6 time", "2": "7 G  8 A  9 F  10 I  11 D  12 E  13 B  14 H",
+              "3": "15 E  16 D  17 F  18 C  19 B  20 H", "4": "21 C  22 B  23 C  24 A  25 B  26 A  27 B  28 C  29 C",
+              "5": "30 goals  31 feedback  32 frustration  33 dopamine  34 C  35 B"}},
+ "11": {
+  "listening": {"1": "1 A  2 C  3 B  4 A  5 C  6 B  7 B  8 C", "2": "9 real  10 community  11 12 weeks  12 budget  13 maths  14 family",
+                "3": "15 F  16 A  17 E  18 C", "4": "19 D  20 H  21 F  22 A  23 C", "5": "24 A  25 C  26 A  27 B  28 B  29 C",
+                "6": "30 bread  31 tire  32 collar  33 sideways  34 dawn  35 vegetation"},
+  "reading": {"1": "1 Earth  2 temperature  3 greenhouse  4 aviation  5 another  6 fuel", "2": "7 B  8 A  9 E  10 D  11 J  12 H  13 I  14 G",
+              "3": "15 C  16 A  17 D  18 B  19 F  20 G", "4": "21 C  22 A  23 C  24 B  25 B  26 A  27 A  28 B  29 C",
+              "5": "30 healthcare  31 date  32 bias  33 accountability  34 C  35 B"}},
+ "12": {
+  "listening": {"1": "1 B  2 B  3 A  4 A  5 C  6 B  7 C  8 A", "2": "9 1:30  10 castle  11 3.50  12 park  13 market  14 comfortable",
+                "3": "15 B  16 D  17 C  18 A", "4": "19 B  20 E  21 F  22 I  23 H", "5": "24 C  25 B  26 B  27 A  28 C  29 B",
+                "6": "30 human  31 ankles  32 balance  33 nutrition  34 personalities  35 humour"},
+  "reading": {"1": "1 adults  2 brain  3 problem  4 enough  5 phones  6 scientists", "2": "7 F  8 A  9 E  10 I  11 H  12 D  13 G  14 J",
+              "3": "15 B  16 C  17 F  18 G  19 E  20 H", "4": "21 D  22 B  23 A  24 C  25 C  26 A  27 C  28 B  29 B",
+              "5": "30 Poland  31 cancer  32 physicians  33 gender  34 C  35 A"}}
+}

@@ -1,0 +1,323 @@
+{
+ "skill": "reading",
+ "mock": 6,
+ "parts": [
+  {
+   "part": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text."
+    },
+    {
+     "type": "article",
+     "title": "THE PLANET MARS",
+     "paragraphs": [
+      "Mars is the fourth planet from the sun and is often called the red (1)________. This distinct color comes from iron oxide, or rust, on its surface. For years, scientists have been fascinated by Mars, sending robotic rovers to explore its (2)________. These rovers have shown us that Mars has a very thin atmosphere, composed mainly of carbon dioxide. This is one reason why the planet is so cold.",
+      "A primary goal of Mars exploration is the search for signs of ancient water. Evidence suggests that liquid water once flowed on its surface, carving out canyons and deltas. Finding the proof of (3)_______ is crucial because it could indicate that life once existed there. The data sent back by the robotic (4)_______ helps researchers piece together the planet's history. These dedicated scientists analyze every image and measurement. The ongoing exploration of the planet continues to reveal its secrets. Future missions hope to learn more about its thin atmosphere and geology. The work of these (5)_______ may one day answer if we are alone in the universe. This long-term (6)________ is one of humanity's greatest adventures."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "statements",
+     "items": [
+      "A. You hope to take part in projects that help the environment while improving your language.",
+      "B. You need a program that provides a certificate that can help with your university application.",
+      "C. You’d like to live with a local family and experience their traditions closely.",
+      "D. You want a program that focuses mainly on improving your spoken English.",
+      "E. You’re looking for a short summer course that includes cultural excursions",
+      "F. You’d like to prepare for a language exam while studying abroad.",
+      "G. You want to study abroad but don’t have enough money to pay for accommodation.",
+      "H. You hope to meet people from international companies during your stay.",
+      "I. You’d like to do voluntary work related to community development.",
+      "J. You want to gain academic experience that could count toward a university degree."
+     ]
+    },
+    {
+     "type": "cards",
+     "items": [
+      {
+       "title": "7. Cambridge International College (UK)",
+       "body": "This four-week English course emphases on conversation and pronunciation through debates, role plays, and group discussions. Weekend day trips to nearby towns are organized for an extra fee. Homestay is optional.\nstudy@cambridgeintcollege.uk"
+      },
+      {
+       "title": "8. GreenFuture Summer School (Sweden)",
+       "body": "A two-week program combining ecological studies with English communication workshops. Students join recycling projects and visit eco-farms. Accommodation is included.\nwww.greenfuture.eu"
+      },
+      {
+       "title": "9. CasaLingua Madrid (Spain)",
+       "body": "A six-week intensive Spanish course that prepares students for global exams. Classes cover grammar, writing, and test-taking strategies. Students stay with local host families to improve speaking skills naturally.\n+34 914 723 507"
+      },
+      {
+       "title": "10. Global Work & Study Program (Canada)",
+       "body": "Participants attend academic seminars and join internships at local organizations. Students can receive official diplomas recognized by several universities.\nwww.globalworkstudy.ca"
+      },
+      {
+       "title": "11. Oxford Heritage Academy (UK)",
+       "body": "Designed for ambitious learners who plan to study abroad later. The program offers scholarships covering tuition and accommodation. Students learn academic writing and research skills through project-based learning.\ninfo@oxfordheritage.org"
+      },
+      {
+       "title": "12. LinguaWorld Tours (Ireland)",
+       "body": "Short-term English courses that include sightseeing, cultural visits, and guided tours. Suitable for those who want to practice language skills outside the classroom.\ntours@linguaworld.ie"
+      },
+      {
+       "title": "13. HandsOn Volunteers (Ghana)",
+       "body": "Join a one-month volunteering experience in rural villages, helping improve schools and community centers. Participants also attend short cultural workshops. Accommodation is simple but free.\nwww.handsonvolunteers.org"
+      },
+      {
+       "title": "14. BusinessBridge Paris (France)",
+       "body": "A specialized language program for students interested in intercontinental business. It includes company visits, summits with professionals, and seminars on global communication.\ninfo@businessbridge.fr"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "headings",
+     "title": "LIST OF HEADINGS",
+     "items": [
+      "A) A wrong term that never changed",
+      "B) When friendship turned into tragedy",
+      "C) A people who respected nature",
+      "D) The first acts of generosity between cultures",
+      "E) The mystery of where they came from",
+      "F) A culture built on honesty and gratitude",
+      "G) Adopting the customs of strangers",
+      "H) Forced to leave their lands by deception and power"
+     ],
+     "right": [
+      "15. Paragraph I",
+      "16. Paragraph II",
+      "17. Paragraph III",
+      "18. Paragraph IV",
+      "19. Paragraph V",
+      "20. Paragraph VI"
+     ]
+    },
+    {
+     "type": "article",
+     "title": "",
+     "paragraphs": [
+      "I. The Native Americans were the first known inhabitants of the Americas and are often described as the world’s first environmentalists. To them, every part of nature — animal, plant, or stone — possessed a spirit and deserved respect. They took what they needed from the land but never more than necessary, showing deep gratitude for nature’s gifts. Their traditions taught that harming the earth would ultimately harm the people themselves, creating a strong sense of balance and responsibility toward the environment.",
+      "II. Native Americans lived in many different regions, yet the exact origins of their ancestors remain uncertain. Some believe they have always lived on the continent since the beginning of time. Others argue that their ancestors migrated from Asia thousands of years ago, crossing the Bering Strait Land Bridge. Although many theories exist, none have been definitively proven. Modern DNA studies continue to explore these questions, revealing that the genetic history of Native peoples is far more complex than once imagined.",
+      "III. When Christopher Columbus arrived in the Americas, he mistakenly believed he had reached India. As a result, he called the native inhabitants “Indians,” a name that — despite being incorrect — became permanent. In reality, there were numerous independent tribes, each with unique languages, traditions, and beliefs. Nevertheless, the collective term “Indians” persisted for centuries. Even today, the debate continues over which term — “Native American,” “Indigenous,” or “First Nations” — best reflects their true identity and heritage.",
+      "IV. When the Pilgrims arrived on the Mayflower in 1620 seeking religious freedom, they were warmly received by a local tribe in Massachusetts. The Native Americans shared food, farming knowledge, and hunting techniques, teaching the newcomers how to survive in the unfamiliar environment. The holiday of Thanksgiving still commemorates this early act of kindness and cooperation. Without such guidance, the settlers might not have survived their first harsh winter in the New World.",
+      "V. Sadly, this peaceful coexistence did not last long. Native Americans had no immunity to European diseases such as smallpox, measles, and typhus. As settlers spread across the land, these illnesses devastated indigenous populations. It is estimated that in some tribes, up to ninety percent of people died within a century of European contact — a tragedy beyond measure. The loss of so many lives also meant the disappearance of languages, stories, and cultural traditions that could never be recovered.",
+      "VI. As European colonization expanded, the situation for Native Americans worsened. Many were deceived into signing treaties after being given alcohol, or simply forced off their ancestral lands through violence. They were eventually confined to reservations — areas that were often barren and unfit for farming. Through lies and force, much of their territory was taken from them forever. Generations later, the struggle for land rights and cultural recognition continues to shape Native American life and identity."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 21-29."
+    },
+    {
+     "type": "article",
+     "title": "A MAN OF SCIENCE AND IMAGINATION",
+     "paragraphs": [
+      "Sir Christopher Wren was one of the most remarkable figures of 17th-century England — a scientist, mathematician, astronomer, inventor, and ultimately, one of the country’s greatest architects. Born in 1632 into a wealthy and educated family, he was a rather fragile child who received private lessons from tutors and his father at home. Wren’s early education remains somewhat uncertain, as there are no records confirming whether he attended any formal school. However, historical sources show that in 1650 he entered Oxford University, where he studied mathematics and natural philosophy — what we now call science.",
+      "After completing his studies, Wren became a Professor of Astronomy at Gresham College in London. He was responsible for delivering weekly speeches in both Latin and English, which were open to anyone free of charge. His lectures attracted great attention and led to the creation of the Royal Society — the first official scientific organization in England. Later, he also taught at Oxford, where he continued his research in many areas, including optics, mechanics, medicine, and meteorology. Always curious, Wren designed and improved various devices and machines, experimenting with submarine construction, telescope design, and road paving techniques.",
+      "During this period, Wren’s interests gradually expanded from science to architecture. In the 17th century, the job of “architect” was not yet recognized as a formal profession. Important buildings were usually designed according to the patron’s wishes and executed by skilled craftsmen such as carpenters and masons. For well-educated gentlemen like Wren, architecture was considered more of a refined hobby than a career. Nevertheless, his extraordinary talent quickly gained recognition. After the Great Fire of London in 1666 destroyed much of the city, Wren was entrusted with the massive task of rebuilding many of its churches. In total, he designed 51 London churches — including his masterpiece, St Paul’s Cathedral — each one distinctive yet sharing a classical elegance. His attention to detail and insistence on high-quality materials set new standards for English architecture. Wren was knighted in 1673 in recognition of his exceptional contributions.",
+      "The construction of St Paul’s Cathedral began in 1675 when Wren was 43 years old. Blending elements of Medieval, Classical, and Baroque design, it remains a symbol of London’s resilience and beauty. Its enormous dome and breathtaking interior demonstrate both scientific precision and artistic vision. The project took 35 years to complete, and fittingly, the final stone was laid by Wren’s son.",
+      "Today, St Paul’s Cathedral remains an active place of worship as well as a national landmark. Over the centuries, it has hosted numerous significant events — from the funerals of Lord Nelson and Sir Winston Churchill to services marking the end of both World Wars. More recently, it has been the site of royal celebrations, including the Queen’s jubilees and birthdays.",
+      "Sir Christopher Wren passed away on February 25th, 1723, at the age of 90. He was buried in St Paul’s Cathedral, the very building he had created. His gravestone bears a Latin inscription that translates: “If you seek his monument, look around you.” It reminds visitors that his true memorial is not a statue or a plaque — but the magnificent work that still stands above London today."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 21-24, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 21,
+       "q": "What is known about Christopher Wren’s childhood education?",
+       "options": [
+        "A) He attended a famous public school.",
+        "B) He was taught privately due to poor health.",
+        "C) He was educated abroad with other noble families.",
+        "D) He learned mostly through self-study and books."
+       ]
+      },
+      {
+       "n": 22,
+       "q": "As Professor of Astronomy at Gresham College, Wren…",
+       "options": [
+        "A) had to give public lectures in two languages.",
+        "B) was required to teach only to university students.",
+        "C) charged a small fee for his lessons.",
+        "D) focused mainly on architecture and mechanics."
+       ]
+      },
+      {
+       "n": 23,
+       "q": "Which of the following was not part of Wren’s scientific work?",
+       "options": [
+        "A) Telescope design",
+        "B) Weather studies",
+        "C) Plant breeding",
+        "D) Submarine experiments"
+       ]
+      },
+      {
+       "n": 24,
+       "q": "Why was Wren considered unusual for his time as an architect?",
+       "options": [
+        "A) He was not a trained craftsman but a learned scientist.",
+        "B) He mostly built wooden houses instead of stone buildings.",
+        "C) He designed buildings only outside of London.",
+        "D) He refused to work for wealthy patrons."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 25-29, decide if the following statements agree with the information given in the text. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 25,
+       "q": "Wren’s lectures at Gresham College were open only to scientists.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 26,
+       "q": "Christopher Wren became famous only after the Great Fire of London.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 27,
+       "q": "St Paul’s Cathedral was completed entirely during Wren’s lifetime.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 28,
+       "q": "St Paul’s Cathedral was originally built in the 18th century to commemorate the end of the First World War.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 29,
+       "q": "Wren’s gravestone expresses that his architectural work is his real legacy.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 30-35."
+    },
+    {
+     "type": "article",
+     "title": "THE SCIENCE OF HAPPINESS",
+     "paragraphs": [
+      "Happiness is something that every culture values, yet it remains one of life’s biggest mysteries. Around the world, people pursue success, wealth, and love in their search for lasting joy — but scientific research suggests that true happiness depends not only on what we achieve, but also on how we think, behave, and connect with others.",
+      "Scientists describe happiness as a blend of joy, calmness, and life satisfaction. It can originate from simple pleasures — like sharing a meal with friends, watching a sunset, or laughing at a funny story — as well as from greater accomplishments. However, happiness is not just a short-lived feeling; it’s also a state of mind. Some people naturally focus on the positive aspects of life, while others find it harder to maintain that emotional balance.",
+      "Psychologists and neuroscientists have found that our brains play a crucial role in how happy we feel. When people experience positive emotions, their brains unleash chemicals like dopamine and serotonin, which are linked to delight, motivation, and eased pressure. Activities such as exercise, laughter, listening to music, or even spending time in nature can increase these chemicals, improving our overall mood and mental well-being.",
+      "It is fascinating that happiness is not determined solely by external circumstances or the possessions we own. Our mindset and everyday behaviors also play a crucial role in shaping it. Individuals who make gratitude a consistent part of their lives—by acknowledging what they value or noting down the positives—often experience greater overall well-being. Likewise, people who cultivate optimistic thoughts and treat themselves with kindness tend to handle stress more effectively and maintain stronger emotional balance.",
+      "Research indicates that individuals who maintain strong bonds—whether with loved ones, friends, or even animals—tend to enjoy better health, greater life satisfaction, and increased longevity. Kindness also has a remarkable influence. Engaging in helpful acts, volunteering, or showing generosity triggers the release of chemicals in the brain that elevate mood, a reaction often referred to as the helper’s high. Even simple actions, such as a smile or a thoughtful word, can leave a surprisingly positive and lasting effect.",
+      "Money, too, affects happiness — but only to a certain extent. Financial security and the ability to meet basic needs such as food, housing, and safety are essential for peace of mind. However, once those needs are met, earning more money brings only a small increase in long-term satisfaction. In fact, people who focus too much on wealth or possessions often end up feeling less fulfilled. Experiences — like travelling, learning something new, or spending time with loved ones — usually bring deeper and more lasting happiness than material things.",
+      "Finally, happiness doesn’t mean being cheerful every moment of the day. Everyone experiences sadness, anger, or stress from time to time. What matters is how we deal with those emotions. Practices such as mindfulness — paying attention to the present moment — along with good sleep, healthy eating, and regular exercise can all help us maintain a positive outlook and a sense of balance in our lives."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question."
+    },
+    {
+     "type": "notes",
+     "title": "",
+     "lines": [
+      "Happiness can come from both everyday moments and from reaching important (30)__________.",
+      "Dopamine and serotonin are chemicals released in the (31)__________ that help people feel pleasure and reduce stress.",
+      "Practicing (32)__________ by appreciating life’s good things often leads to greater life satisfaction.",
+      "People with close and caring (33)__________ usually enjoy better health, live longer, and feel happier."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 34,
+       "q": "What does the text suggest about the link between money and happiness?",
+       "options": [
+        "A) Earning more money always results in a happier life.",
+        "B) People can only be happy once they are completely wealthy.",
+        "C) Once basic needs are covered, extra income has limited impact on happiness.",
+        "D) Money is the most reliable source of long-term satisfaction."
+       ]
+      },
+      {
+       "n": 35,
+       "q": "Which idea best summarizes the overall message of the passage?",
+       "options": [
+        "A) Happiness means avoiding sadness at all costs.",
+        "B) Emotional health is influenced more by gratitude, positive relationships, and attitude than by financial status.",
+        "C) Happiness comes entirely from chemical reactions in the brain.",
+        "D) Only people who achieve great success can truly be happy."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "key": {
+  "1": "1 planet  2 surface  3 water  4 rovers  5 scientists  6 exploration",
+  "2": "7 D  8 A  9 F  10 J  11 G  12 E  13 I  14 H",
+  "3": "15 C  16 E  17 A  18 D  19 B  20 H",
+  "4": "21 B  22 A  23 C  24 A  25 B  26 B  27 A  28 B  29 A",
+  "5": "30 accomplishments  31 brain  32 gratitude  33 bonds  34 C  35 B"
+ }
+}
