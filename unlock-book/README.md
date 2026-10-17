@@ -19,7 +19,7 @@ An answer key for all units is at the end of the book.
 ```
 ./build.sh     # Units 1-3 originals + Unit 3 extra pages + Units 4-10 -> dist/Unlock5_Units_1-10.pdf
 ```
-The full book is Unit 1 (originals/Book_Units_1-3.pdf p.1-13), Unit 2 (originals/Unit_2.pdf), the Unit 3 cover
+The full book is the "How to use this book" page (with the audio channel QR code), Unit 1 (originals/Book_Units_1-3.pdf p.1-13), Unit 2 (originals/Unit_2.pdf), the Unit 3 cover
 (Book_Units_1-3.pdf p.26) + originals/Unit_3.pdf p.2-11 + Unit 3 writing/speaking pages (data/extra/03.json), then Units 4-10 and the answer key for all ten units.
 `data/keys/0N.json` hold the answer keys for the original Units 1-3.
 - `SCHEMA.md` — the unit data format.

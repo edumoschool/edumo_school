@@ -21,6 +21,7 @@ ROOT = Path(__file__).resolve().parent.parent
 ORIG = ROOT / "originals"
 # (file, first page, last page, stamp numbers?) — 1-based, inclusive
 PARTS = [
+    (ROOT / "dist" / "front.pdf", 1, None, False),               # How to use this book (built, numbered)
     (ORIG / "Book_Units_1-3.pdf", 1, 13, True),     # Unit 1 Conservation
     (ORIG / "Unit_2.pdf", 1, 15, True),             # Unit 2 Design (complete, with writing + speaking)
     (ORIG / "Book_Units_1-3.pdf", 26, 26, True),    # Unit 3 cover: Technology & Digital Life

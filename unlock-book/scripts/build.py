@@ -331,6 +331,69 @@ def build(nums=None):
     print(f"units: {[u['n'] for u in units]} -> dist/units.html")
 
 
+AUDIO_CHANNEL = "https://t.me/multilevel_express"
+HOW_TO = [
+    ("record_voice_over", "#6C4CF5", "Warm-up speaking", "Start each unit on the cover: discuss the four questions with a partner, about 30 seconds each."),
+    ("menu_book", "#5274F7", "Article & Vocabulary", "Match the key words to their meanings first, then read Article 1. Words in red are the unit’s key vocabulary."),
+    ("format_list_bulleted", "#18A558", "Match the heading", "Skim each paragraph of Article 1 and choose its heading. One heading is extra."),
+    ("extension", "#1C8C86", "Language development", "Learn collocations as whole chunks from the table, then use them to complete the sentences."),
+    ("article", "#E0111B", "Article 2 & Discussion", "Choose the meaning of each word in bold, read the second article and discuss the questions."),
+    ("spellcheck", "#FF8A00", "Grammar for writing", "Study the rules and the blue examples, then do Exercises A and B."),
+    ("edit_note", "#E6A817", "Academic writing", "Practise one academic writing skill and finish with a short writing task."),
+    ("chrome_reader_mode", "#16397A", "Reading practice", "A real Multilevel (CEFR) reading part. Time yourself, then learn the 30-word wordlist."),
+    ("headphones", "#7A1F9C", "Listening practice", "A Multilevel listening part — scan the QR code below for the audio. Learn the phrases & idioms."),
+    ("draw", "#0E5E6F", "Writing", "Useful language, rules, a sample answer and your own task: letters (Part 1) or essays (Part 2)."),
+    ("forum", "#D62F2F", "Speaking", "Multilevel speaking task with a sample answer and useful language. Record yourself and compare."),
+    ("key", "#6B7A99", "Answer key", "Check your answers at the back of the book. Listening answers are added by your teacher."),
+]
+MAP = [
+    (1, "Conservation", "Parts 1 + 2", "Parts 1 + 2", "Part 1.1", "Part 1.2"),
+    (2, "Design", "Part 3", "Podcast + Part 3", "Part 1.2", "Part 2"),
+    (3, "Technology", "Part 4", "Part 4", "Part 2", "Part 3"),
+    (4, "Risk", "Part 5", "Part 5", "Part 2", "Part 3"),
+    (5, "Manufacturing", "Part 1", "Part 6", "Parts 1.1 + 1.2", "Part 1.1"),
+    (6, "Environment", "Part 2", "Parts 1 + 2", "Part 2", "Part 2"),
+    (7, "Architecture", "Part 3", "Part 3", "Parts 1.1 + 1.2", "Part 3"),
+    (8, "Energy", "Part 4", "Part 4", "Part 2", "Part 2"),
+    (9, "Medicine", "Part 5", "Part 5", "Parts 1.1 + 1.2", "Part 1.1"),
+    (10, "Ageing", "Part 3", "Part 6", "Part 2", "Part 3"),
+]
+
+
+def qr_svg(url):
+    import qrcode
+    import qrcode.image.svg
+    img = qrcode.make(url, image_factory=qrcode.image.svg.SvgPathImage, box_size=10, border=1)
+    return img.to_string(encoding="unicode")
+
+
+def p_how_to():
+    cards = "".join(f'<div class="hcard"><span class="hic" style="background:{c}"><i class="ms">{ic}</i></span>'
+                    f'<div><b>{t}</b><p>{d}</p></div></div>' for ic, c, t, d in HOW_TO)
+    rows = "".join(f"<tr><th>{n}</th><td>{t}</td><td>{r}</td><td>{l}</td><td>{w}</td><td>{s}</td></tr>"
+                   for n, t, r, l, w, s in MAP)
+    body = (f'<p class="hintro">Every unit follows the same route — from speaking and vocabulary, through two articles, grammar '
+            f'and academic writing, to real <b>Multilevel (CEFR)</b> exam practice in all four skills.</p>'
+            f'<div class="hgrid">{cards}</div>'
+            f'<div class="hbottom"><div class="hmap"><h3>EXAM PRACTICE IN EACH UNIT</h3><table><tr><th>Unit</th><td>Topic</td>'
+            f'<td>Reading</td><td>Listening</td><td>Writing</td><td>Speaking</td></tr>{rows}</table></div>'
+            f'<div class="hqr"><div class="qrimg">{qr_svg(AUDIO_CHANNEL)}</div><b><i class="ms">headphones</i> AUDIO</b>'
+            f'<p>Scan to open our Telegram channel with all the listening audio.</p><a>t.me/multilevel_express</a></div></div>')
+    return section("HOW TO USE THIS BOOK", body, "sans howto")
+
+
+def build_front():
+    """'How to use this book' page -> dist/front.html."""
+    css = (ROOT / "scripts" / "style.css").read_text(encoding="utf-8")
+    doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><title>How to use this book</title>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;0,700;0,800;0,900;1,400;1,600&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Arimo:wght@400;700&display=block" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,500,1,0&display=block" rel="stylesheet">
+<style>{css}</style></head><body>{p_how_to()}</body></html>"""
+    DIST.mkdir(exist_ok=True)
+    (DIST / "front.html").write_text(doc, encoding="utf-8")
+    print("how-to page -> dist/front.html")
+
+
 def build_extra():
     """Writing + speaking pages for the original units that have none (data/extra/NN.json) -> dist/extra.html."""
     css = (ROOT / "scripts" / "style.css").read_text(encoding="utf-8")
@@ -345,7 +408,9 @@ def build_extra():
 
 
 if __name__ == "__main__":
-    if sys.argv[1:] == ["--extra"]:
+    if sys.argv[1:] == ["--front"]:
+        build_front()
+    elif sys.argv[1:] == ["--extra"]:
         build_extra()
     else:
         build([int(a) for a in sys.argv[1:]] or None)
