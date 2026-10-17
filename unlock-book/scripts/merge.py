@@ -21,6 +21,7 @@ ROOT = Path(__file__).resolve().parent.parent
 ORIG = ROOT / "originals"
 # (file, first page, last page, stamp numbers?) — 1-based, inclusive
 PARTS = [
+    (ROOT / "dist" / "Cover_front_back.pdf", 1, 1, False),      # front cover (not counted in page numbers)
     (ROOT / "dist" / "front.pdf", 1, None, False),               # How to use this book (built, numbered)
     (ORIG / "Book_Units_1-3.pdf", 1, 13, True),     # Unit 1 Conservation
     (ORIG / "Unit_2.pdf", 1, 15, True),             # Unit 2 Design (complete, with writing + speaking)
@@ -79,7 +80,8 @@ def main():
         for i in range(a - 1, b or len(r.pages)):
             page = out.add_page(r.pages[i])
             if number and (f.name, i + 1) not in COVERS:
-                stamp(page, len(out.pages), *strip_side(f, i + 1))
+                stamp(page, len(out.pages) - 1, *strip_side(f, i + 1))   # -1: the cover is not counted
+    out.add_page(PdfReader(ROOT / "dist" / "Cover_front_back.pdf").pages[1])   # back cover
     out.compress_identical_objects()
     dest = ROOT / "dist" / "Unlock5_Units_1-10.pdf"
     with open(dest, "wb") as fh:

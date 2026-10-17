@@ -9,4 +9,6 @@ START_PAGE=41 INPUT=extra.html node scripts/render.js dist/Unit3_extra.pdf
 EXTRA=$(python3 -c "from pypdf import PdfReader; print(len(PdfReader('dist/Unit3_extra.pdf').pages))")
 python3 scripts/build.py
 START_PAGE=$((41 + EXTRA)) node scripts/render.js
+python3 scripts/cover.py
+node scripts/cover_render.js
 python3 scripts/merge.py
