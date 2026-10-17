@@ -188,7 +188,7 @@ def answer_key(tests):
                 '<span class="kn alt">reading: worked out by our teachers · listening: fill in from the audio</span>')
         body += f'<div class="kmock"><h3>Mock Test {n} {note}</h3><table>{rows}</table></div>'
     return (f'<section class="page flow" data-run="Answer key"><div class="banner small"><div class="girih"></div><div class="bl">'
-            f'<small>ALL TESTS</small><h1>ANSWER KEY</h1></div><div class="br"><span>Mocks 3–12: official answers</span></div></div>'
+            f'<small>ALL TESTS</small><h1>ANSWER KEY</h1></div><div class="br"><span>Mocks 1, 3–12: official answers</span></div></div>'
             f'<div class="cols"><div class="col">{split(body, "keys")}</div><div class="col"></div></div>'
             f'<footer><span>Multilevel Mock Tests · Answer key</span><span class="pno"></span></footer></section>')
 
