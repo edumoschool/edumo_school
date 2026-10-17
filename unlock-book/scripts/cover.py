@@ -114,19 +114,17 @@ body{font-family:"Manrope",sans-serif;-webkit-print-color-adjust:exact;print-col
 .front,.back{position:absolute;top:0;width:297mm;height:420mm;overflow:hidden;background:linear-gradient(180deg,#F7F8FB,#ECEFF5)}
 /* ----- front ----- */
 .logo{position:absolute;left:24mm;top:24mm;width:78mm}
-.badge{position:absolute;right:24mm;top:24mm;background:var(--navy);color:#fff;font:700 15pt "Unbounded";padding:3.2mm 7mm;
-  border-radius:3mm;box-shadow:0 1.5mm 4mm rgba(13,42,138,.3)}
+.badge{position:absolute;right:24mm;top:24mm;background:linear-gradient(120deg,#3A6BF2,#1F48D6);color:#fff;font:700 15pt "Unbounded";padding:3.2mm 7mm;
+  border-radius:3mm;box-shadow:0 1.5mm 4mm rgba(31,72,214,.3)}
 .band{position:absolute;left:0;right:0;top:66mm;height:190mm;overflow:hidden;
   background:linear-gradient(120deg,#3A6BF2 0%,#1F48D6 45%,#0F2C9C 100%);
-  clip-path:path('M 0 70 C 260 -40, 600 40, 1123 0 L 1123 640 C 760 700, 380 760, 0 718 Z')}
-.hero{position:absolute;right:-6mm;top:14mm;width:230mm;mix-blend-mode:normal;
-  -webkit-mask-image:radial-gradient(ellipse 50% 52% at 52% 50%,#000 40%,transparent 100%);
-  mask-image:radial-gradient(ellipse 50% 52% at 52% 50%,#000 40%,transparent 100%)}
+  clip-path:path('M 0 70 C 260 -40, 600 40, 1123 0 L 1123 718 L 0 718 Z')}
+.hero{position:absolute;right:2mm;top:12mm;width:215mm;filter:drop-shadow(0 4mm 6mm rgba(5,20,90,.35))}
 .ros{position:absolute}
 .r1{width:92mm;left:-26mm;top:58mm}
 .r2{width:46mm;left:62mm;top:20mm}
 .r3{width:150mm;right:-55mm;bottom:-55mm}
-.frieze-wrap{position:absolute;left:0;right:0;bottom:6mm;height:10mm;transform:rotate(-2.3deg);transform-origin:left}
+.frieze-wrap{position:absolute;left:0;right:0;bottom:6mm;height:10mm}
 .frieze-wrap.top{top:5mm;bottom:auto;transform:none}
 .frieze{width:100%;height:100%}
 .ttl{position:absolute;left:24mm;right:24mm;top:268mm}
