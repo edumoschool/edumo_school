@@ -1,0 +1,328 @@
+{
+  "n": 8,
+  "title": "ENERGY",
+  "subtitle": "POWERING THE FUTURE",
+  "cover_color": "#7C4A03",
+  "image_prompt": "A wide illustrated landscape at golden hour: rows of solar panels stretching across a sunny steppe towards distant mountains, tall white wind turbines on the horizon, a small modern town with glowing windows and rooftop panels in the foreground, warm amber and deep blue colour palette, clean editorial illustration style, no text, no logos",
+  "warmup": [
+    "How much do you think about the electricity you use every day? When do you use the most?",
+    "Which sources of energy does your country rely on most at the moment? Do you think this will change?",
+    "Would you install solar panels on your home if you could? Why / Why not?",
+    "What small things could people do to waste less energy at home or at school?"
+  ],
+
+  "article1": {
+    "title": "THE AGE OF SUN AND WIND",
+    "vocab": [
+      "Moving from paper files to a fully digital system was a difficult [[transition]] for many older employees.",
+      "Farmers in the valley have learnt to [[harness]] the fast-flowing river to irrigate their fields.",
+      "The village has only [[intermittent]] internet access, so the connection often drops for hours at a time.",
+      "The new stadium has a seating [[capacity]] of 40,000, making it the largest in the region.",
+      "Investors were unconvinced that the plan was commercially [[viable]] and refused to fund it.",
+      "Without government [[subsidies]], many small farms would be unable to compete with cheap imports.",
+      "Hundreds of electric buses have been [[deployed]] across the capital over the past two years.",
+      "The airline plans to [[phase out]] its oldest aircraft and replace them with more efficient models."
+    ],
+    "definitions": [
+      "(v) to bring something into use or move it into position so that it can be used effectively",
+      "(n) the process of changing from one state, system or situation to another",
+      "(adj) able to work successfully; practical and likely to succeed",
+      "(phr v) to stop using or providing something gradually, in stages",
+      "(n) money paid by a government to help reduce the cost of something",
+      "(adj) stopping and starting repeatedly; not continuous or regular",
+      "(n) the maximum amount that something can contain or produce",
+      "(v) to control a natural force or resource and make use of it"
+    ],
+    "paragraphs": [
+      "For most of the twentieth century, generating electricity meant burning something — coal, oil or gas — and very few people imagined that sunlight and moving air could ever seriously compete. Yet over the past fifteen years, the world has entered a genuine energy [[transition]], and it has happened far faster than even the most optimistic forecasts predicted. In several countries, solar and wind now provide more power than coal on a typical sunny or breezy day, and new records are broken every year, often with surprisingly little public attention.",
+      "The single biggest reason is cost. The price of solar panels has fallen by roughly ninety per cent since 2010, while wind turbines have become larger, more efficient and far cheaper to run. For years, renewable projects depended on generous government [[subsidies]] to attract investors, and critics argued that they would never survive without them. Today, in many markets, a new solar farm is the cheapest way to produce electricity, which means that clean energy has become commercially [[viable]] on its own terms rather than simply a political choice.",
+      "Nowhere is the potential clearer than in sunny, wide-open regions. Countries across Central Asia, the Middle East and North Africa receive intense sunshine for most of the year and have large areas of flat, sparsely populated land. Governments there have begun to [[harness]] this natural advantage with vast solar parks covering thousands of hectares, often built in partnership with foreign investors. Some projects are designed not only to supply domestic cities but, in time, to export electricity to neighbouring states, turning land once dismissed as empty into a valuable economic asset.",
+      "However, sun and wind share a fundamental weakness: they are [[intermittent]]. Panels produce nothing at night, output drops on cloudy days, and even the windiest coastline experiences calm spells that can last for a week. Demand for electricity, by contrast, does not stop when the weather changes; hospitals, factories and homes need a reliable supply around the clock. Grid operators must therefore keep backup power available, and matching an unpredictable supply with constant demand is arguably the central problem of the renewable age.",
+      "Wind power, meanwhile, is moving out to sea. Offshore turbines benefit from stronger and steadier winds than those on land, and because they are far from homes, they can be built on an enormous scale. A single modern turbine can now stand taller than many skyscrapers, with blades longer than a football pitch, and its generating [[capacity]] is many times that of the machines installed twenty years ago. A handful of these giants can power an entire town, although building them in deep, stormy waters remains expensive and technically demanding.",
+      "Producing clean electricity is only half the task; it also has to reach the people who use it. The best solar and wind sites are frequently hundreds of kilometres from major cities, so new high-voltage power lines must be [[deployed]] across mountains, farmland and national borders. Such projects can take a decade to approve, and they sometimes face fierce resistance from residents who object to their visual impact, or from farmers who are reluctant to give up productive land for endless rows of panels.",
+      "Despite these obstacles, many governments have now committed to [[phase out]] coal entirely within the next two decades, and some have set dates to end the sale of new petrol and diesel cars. The shift brings real social challenges, particularly for communities whose jobs have depended on mining for generations. Yet it is also creating entirely new industries, from panel installation to turbine maintenance. The question is no longer whether the world will move to renewable energy, but how quickly — and how fairly — that move can be managed."
+    ],
+    "headings": [
+      "Bigger turbines further out at sea",
+      "A turning point for global energy",
+      "The problem of unreliable weather",
+      "The hidden dangers of nuclear power",
+      "Leaving fossil fuels behind",
+      "Turning empty land into power stations",
+      "When clean power became the cheaper option",
+      "Cables, land and local resistance"
+    ]
+  },
+
+  "word_forms": [
+    ["Several banks questioned the long-term ________ of the project and refused to lend the company any money.", "viability"],
+    ["The ________ of solar power means that it must be combined with other sources or with storage.", "intermittency"],
+    ["Families who ________ their lofts and walls properly can cut their heating bills by up to a third.", "insulate"],
+    ["Sharp ________ in the price of gas made it almost impossible for small businesses to plan ahead.", "fluctuations"],
+    ["In the early years, rooftop solar panels were heavily ________ by the state to encourage people to buy them.", "subsidised"]
+  ],
+
+  "language_dev": {
+    "title": "Talking about energy production and use",
+    "skill_name": "Verb + noun collocations",
+    "skill_text": "Texts about energy rely on a small set of verbs that combine with particular nouns — for example [[generate electricity]], [[meet demand]] or [[cut emissions]]. Learning these as fixed chunks, rather than choosing verbs word by word, will make your writing sound more precise and more academic.",
+    "table": [
+      ["generate", "electricity, power, heat, income"],
+      ["meet", "demand, targets, needs, a deadline"],
+      ["cut / reduce", "emissions, bills, consumption, waste"],
+      ["harness", "the power of the sun / wind / water, energy"],
+      ["store", "energy, electricity, surplus power, heat"],
+      ["phase out", "coal, fossil fuels, petrol cars, old equipment"]
+    ],
+    "instruction": "Complete the sentences with the correct verb from the table above. Use the correct form.",
+    "sentences": [
+      "Once it is finished, the new offshore wind farm will ________ enough electricity for around 400,000 homes.",
+      "Without more batteries, the grid may struggle to ________ demand on cold, still winter evenings.",
+      "Many European countries intend to ________ their remaining coal-fired power stations before 2035.",
+      "Engineers are still looking for affordable ways to ________ the enormous power of ocean waves.",
+      "Simple changes, such as switching off devices left on standby, can help families ________ their energy bills.",
+      "Pumped hydro plants allow operators to ________ surplus power for days or even weeks until it is needed."
+    ]
+  },
+
+  "article2": {
+    "title": "KEEPING THE LIGHTS ON",
+    "intro": "The sentences below are about using and saving energy. Choose the correct meaning (a, b or c) for the word in bold.",
+    "vocab": [
+      {"q": "After an excellent harvest, the farmers sold their [[surplus]] grain to neighbouring regions.", "options": ["an amount that is more than what is needed", "an amount that is less than expected", "an amount kept for emergencies"]},
+      {"q": "Household energy [[consumption]] tends to rise sharply during the coldest months of the year.", "options": ["the production of something", "the amount of something that is used", "the cost of something"]},
+      {"q": "The owners decided to [[retrofit]] their 1970s house with a heat pump and new windows.", "options": ["to sell a property after improving it", "to knock down and rebuild completely", "to add new parts or equipment to something that already exists"]},
+      {"q": "Train tickets are much more expensive at [[peak]] times, when most people travel to work.", "options": ["the busiest or highest", "the quietest or lowest", "the most unpredictable"]},
+      {"q": "Thick [[insulation]] in the roof keeps the house warm in winter and cool in summer.", "options": ["a type of heating system", "material that stops heat passing through", "a design for large windows"]},
+      {"q": "The value of the currency continued to [[fluctuate]] throughout the year, worrying investors.", "options": ["to remain completely stable", "to rise slowly but steadily", "to change frequently and irregularly"]},
+      {"q": "Free public transport for students is a strong [[incentive]] to leave the car at home.", "options": ["something that encourages a person to do something", "something that prevents a person from doing something", "a rule that a person must obey"]},
+      {"q": "The city introduced new parking charges in an attempt to [[curb]] traffic in the centre.", "options": ["to encourage or increase", "to limit or control", "to measure or record"]}
+    ],
+    "paragraphs": [
+      "If the great challenge of renewable energy is that the sun does not always shine, the obvious solution is to save electricity when there is too much and release it when there is too little. On a bright spring afternoon, solar farms can produce such a large [[surplus]] that wholesale prices briefly fall below zero and some users are effectively paid to consume power. A few hours later, as people return home, cook dinner and switch on their televisions, the same grid may be struggling to cope. Storage is the bridge between those two moments.",
+      "The most familiar form of storage is the lithium-ion battery, the same technology found in phones and electric cars. Over the past decade, huge battery installations, some the size of several football pitches, have been connected to grids around the world. They can respond to a sudden drop in supply within a fraction of a second, far faster than any conventional power station. Their main limitation is duration: most can deliver power for only a few hours, which is enough to cover the evening [[peak]] but not a windless week in winter.",
+      "For longer periods, engineers are turning to older and more unusual ideas. Pumped hydro, which uses spare electricity to pump water uphill into a reservoir and then releases it through turbines when needed, still provides the vast majority of the world's stored energy. Other projects store heat in tanks of molten salt, compress air in underground caverns or convert excess power into hydrogen. None of these methods is perfect, and costs vary considerably, but together they could make a grid built on sun and wind as reliable as the fossil-fuel systems it replaces.",
+      "Storage is only one part of the answer; the other is managing demand more intelligently. A so-called smart grid uses digital meters and automated systems to track how much electricity is being used, minute by minute. Because wholesale prices can [[fluctuate]] dramatically during the day, smart meters allow suppliers to charge less when power is plentiful and more when it is scarce. Customers then have a financial [[incentive]] to run washing machines, dishwashers or car chargers overnight or at midday, spreading demand more evenly and reducing the need for expensive backup plants.",
+      "Perhaps the cheapest unit of energy, however, is the one that is never used. In many countries, homes account for around a quarter of total energy [[consumption]], much of it lost through badly sealed windows, thin walls and uninsulated roofs. Improving [[insulation]] can cut heating bills significantly, and governments increasingly offer grants to help owners [[retrofit]] older buildings with double glazing, heat pumps or rooftop panels. Small habits matter too: lowering the thermostat by a single degree, or switching devices off rather than leaving them on standby, makes a noticeable difference over a year.",
+      "None of these changes is dramatic on its own, and that is precisely their strength. The energy system of the future is likely to combine large-scale storage, flexible smart grids and millions of efficient homes, each playing a modest role. Policies that [[curb]] waste while rewarding households for using power at the right time may prove just as important as building new wind farms. In other words, keeping the lights on in a renewable world depends not only on engineers and governments, but also on the everyday choices made in ordinary kitchens and living rooms."
+    ],
+    "discussion": [
+      "Which of the ideas in the article — batteries, smart meters or better insulation — would make the biggest difference in your country? Why?",
+      "Should people pay more for electricity at peak times, or is this unfair to families who cannot change their routines?"
+    ]
+  },
+
+  "grammar": {
+    "title": "Future forms for predictions and degrees of certainty",
+    "intro": "When writers make predictions, they rarely present every future event as equally certain. Academic and journalistic texts use a range of future forms to show how confident the writer is, whether something has already been planned, and whether an action will be in progress or completed at a particular point in the future.",
+    "rules_intro": "The rules below show how to choose the future form that matches your degree of certainty and the timing of the event.",
+    "rules": [
+      {"rule": "Use **will / won't + infinitive** for general predictions based on opinion or knowledge. Add **probably, almost certainly** or **definitely** to show how sure you are (after *will*, before *won't*).", "example": "Solar power will almost certainly become cheaper, but it probably won't replace gas completely in the next decade."},
+      {"rule": "Use **be likely / unlikely to + infinitive** (or **It is likely that …**) to express probability in a more cautious, academic way.", "example": "Electricity demand is likely to double by 2050, and it is unlikely that coal will meet this demand."},
+      {"rule": "Use **be bound to / be certain to + infinitive** when you are very confident that something will happen, often because it is logical or inevitable.", "example": "As battery prices fall, more households are bound to install storage at home."},
+      {"rule": "Use **be set to + infinitive** for something that is planned, arranged or strongly expected to happen soon — very common in news reports.", "example": "The country's largest solar park is set to open next spring."},
+      {"rule": "Use the **future continuous (will be + -ing)** for an action that will be in progress at a particular time in the future.", "example": "By the end of the decade, millions of cars will be charging from the grid every night."},
+      {"rule": "Use the **future perfect (will have + past participle)** for an action that will be completed before a certain point in the future, often with *by* or *by the time*.", "example": "By 2040, most European countries will have closed their last coal-fired power station."}
+    ],
+    "exA": {
+      "instruction": "Exercise A — Complete the paragraph with a suitable future form of the verbs in brackets. Use the word or form given in brackets where there is one.",
+      "text": "Most experts agree that the global energy system (1) ___________ (change / likely) more in the next twenty years than in the last hundred. According to several forecasts, by 2035 solar power (2) ___________ (overtake / future perfect) coal as the world's largest source of electricity. As production increases, the price of batteries (3) ___________ (fall / bound) even further. In our own region, a huge new solar park (4) ___________ (open / set) next year, and this time next year it (5) ___________ (supply / future continuous) power to around half a million homes. However, fossil fuels (6) ___________ (not disappear / will) overnight. In 2040, many countries (7) ___________ (still use / future continuous) gas to heat their homes, and the world as a whole (8) ___________ (reach / unlikely) its climate targets without much faster progress."
+    },
+    "exB": {
+      "instruction": "Exercise B — Rewrite each sentence using the word or form in brackets so that the meaning stays the same.",
+      "items": [
+        "It is almost certain that electricity prices will rise again this winter. (bound)",
+        "The government plans to open three new wind farms next year. (set)",
+        "There is a good chance that more people will buy electric cars in the future. (likely)",
+        "The country will finish closing all its coal plants at some point before 2040. (future perfect — By 2040, …)",
+        "At 7 p.m. tomorrow, the battery will be in the middle of supplying power to the house. (future continuous)"
+      ]
+    }
+  },
+
+  "academic": {
+    "subtitle": "Presenting advantages and disadvantages — writing a balanced argument",
+    "skill_name": "Balanced argument and signposting",
+    "skill_text": "In a balanced argument, the writer presents both the advantages and the disadvantages of an issue fairly before reaching a conclusion. Signposting phrases such as *One major benefit is …*, *On the other hand, …* and *A further drawback is …* guide the reader clearly from one side of the argument to the other.",
+    "example": [
+      ["ADVANTAGE", "One clear benefit of rooftop solar panels is that, once installed, they produce electricity at almost no cost."],
+      ["DISADVANTAGE", "On the other hand, a significant drawback is that their output falls sharply at night and on cloudy days."]
+    ],
+    "instruction": "Each sentence below presents one side of an argument. Write a second sentence that presents the opposite side, using a suitable signposting phrase (e.g. *however*, *on the other hand*, *a major drawback is*, *one advantage is*).",
+    "items": [
+      "Wind farms produce no carbon emissions once they are up and running.",
+      "Large solar parks can bring jobs and investment to rural areas.",
+      "Home batteries are still very expensive for the average family.",
+      "Smart meters give customers detailed information about their energy use.",
+      "Building new high-voltage power lines can take more than ten years.",
+      "Electric cars are much cheaper to run than petrol or diesel cars."
+    ],
+    "task": "Write a balanced paragraph (80–100 words) on the advantages and disadvantages of installing solar panels on homes in your country. Use at least three signposting phrases and finish with a sentence that gives your overall view."
+  },
+
+  "reading": {
+    "part": 4,
+    "test": 2,
+    "blocks": [
+      {"type": "instruction", "text": "Read the following text for question 21-29."},
+      {"type": "article", "title": "PIRATES", "paragraphs": [
+        "There have always been people who robbed ships in the open sea. We know them as pirates or corsairs. Many of them were sailors who lost their jobs, others were just young men and women looking for adventure. Thousands of pirates were active from 1650–1720. These years are sometimes known as the 'Golden Age' of piracy. Probably the most famous pirates of this period are Blackbeard, Henry Morgan, William 'Captain' Kidd, and the Barbarossa brothers.",
+        "The \"Jolly Roger\" is the well-known pirate flag. There are a number of theories about its origin. It is thought that the first pirates used a red flag, which was common in sea attacks. A red flag told other ships that there would be no pity and no prisoners would be taken. This red flag was called Joli Rouge (pretty red) in French. Most probably, English people pronounced it in their own way \"Jolly Roger\". Another theory says that \"old Roger\" was another name for the devil.",
+        "Another popular image from the pirate world is a parrot, sitting on the captain's shoulder. Well, there's no historical proof of that. No doubt, pirates often travelled to faraway exotic lands and brought unusual animals as souvenirs with them. Parrots were particularly popular because they were colourful, could be taught to speak, and were easier to care for than, say, monkeys. However, you can't imagine a pirate fighting with a bird on the shoulder. This image possibly began with the book \"Treasure Island\". In the book, the ever famous Long John Silver carried a parrot as a pet.",
+        "Before joining a ship each pirate signed an agreement called \"Articles\". This explained the rights and laws on board the ship, how much a person was paid, what to do in case of emergency, etc. For example, playing cards for money was not allowed. For breaking the rules a pirate would be shot or left on a desert island with a bottle of water and a gun.",
+        "A pirate ship was organized democratically. After a successful attack they divided the treasures equally, only the captain and the cook got more. They sometimes decided together which ship to attack or where to sail next. Most pirates were paid four times more than they had when they were sailors. But on land they were criminals and lots of money was offered to those who caught them.",
+        "However, for some time the English government supported pirates. There were lots of pirates in the sixteenth century when England was at war with Spain and the Dutch Republic. Queen Elizabeth I ordered them to rob Spanish ships and bring gold, silver and jewels to the country. Sir Francis Drake was one of the most famous pirates. He brought lots of treasures to England and also was the first Englishman to sail all the way around the world. Because of this, he was made a knight by Queen Elizabeth I."
+      ]},
+      {"type": "instruction", "text": "For questions 21-24, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."},
+      {"type": "mcq", "items": [
+        {"n": 21, "q": "“Golden age” of piracy lasted …", "options": ["A) for a century", "B) for 70 years", "C) until XIX century", "D) until James Kidd died"]},
+        {"n": 22, "q": "A red flag symbolizes …", "options": ["A) French pirate ships", "B) the first pirates that used them", "C) no kindness, no prisoners", "D) Jolly Roger - the devil"]},
+        {"n": 23, "q": "Parrots, according to the author …", "options": ["A) sat on captain’s shoulder", "B) were nothing more than souvenirs to them", "C) were taught to train monkeys", "D) has possibly become fashionable after the book - “Treasure Island”"]},
+        {"n": 24, "q": "The pirates who decide whom to attack next were …", "options": ["A) criminals", "B) boardsmen and captains", "C) captains and cooks", "D) sailors"]}
+      ]},
+      {"type": "instruction", "text": "For questions 25-29, decide if the following statements agree with the information given in the text. Mark your answers on the answer sheet."},
+      {"type": "mcq", "items": [
+        {"n": 25, "q": "The flag “Jolly Roger” meant death for ships’ sailors and passengers.", "options": ["A) True", "B) False", "C) No information"]},
+        {"n": 26, "q": "The name for the flag “Jolly Roger” is of English origin.", "options": ["A) True", "B) False", "C) No information"]},
+        {"n": 27, "q": "Parrots brought luck to pirates at sea.", "options": ["A) True", "B) False", "C) No information"]},
+        {"n": 28, "q": "In the past pirates did some jobs for the English queens and kings.", "options": ["A) True", "B) False", "C) No information"]},
+        {"n": 29, "q": "Francis Drake was the richest English pirate.", "options": ["A) True", "B) False", "C) No information"]}
+      ]}
+    ]
+  },
+
+  "wordlist": [
+    "rob",
+    "the open sea",
+    "corsair",
+    "look for adventure",
+    "be active",
+    "Golden Age",
+    "theory",
+    "origin",
+    "pity",
+    "take prisoners",
+    "pronounce",
+    "devil",
+    "historical proof",
+    "faraway",
+    "exotic",
+    "souvenir",
+    "care for",
+    "sign an agreement",
+    "on board",
+    "in case of emergency",
+    "break the rules",
+    "desert island",
+    "democratically",
+    "divide equally",
+    "treasure",
+    "criminal",
+    "support",
+    "be at war with",
+    "jewels",
+    "be made a knight"
+  ],
+
+  "listening": {
+    "part": 4,
+    "test": 2,
+    "blocks": [
+      {"type": "instruction", "audio": true, "text": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There are THREE extra options which you do not need to use.\nMark your answers on the answer sheet."},
+      {"type": "instruction", "text": "PLAN OF LEARNING RESOURCE CENTRE (GROUND FLOOR)"},
+      {"type": "image", "src": "u08-map.png", "width": 150},
+      {"type": "lines", "items": [
+        "19. Newspapers",
+        "20. Computers",
+        "21. Photocopier",
+        "22. Café",
+        "23. Sports books"
+      ]}
+    ]
+  },
+
+  "idioms": [
+    ["Run out of steam", "To lose energy or enthusiasm and be unable to continue with the same effort."],
+    ["Recharge your batteries", "To rest and relax so that you have energy again."],
+    ["Full of beans", "Very lively, cheerful and full of energy."],
+    ["Burn the candle at both ends", "To work or stay active from early morning until late at night, leaving yourself exhausted."],
+    ["Burn out", "To become completely exhausted, physically or mentally, after working too hard for too long."],
+    ["Get a second wind", "To suddenly find new energy to continue after feeling tired."],
+    ["Firing on all cylinders", "Working or performing at full power and as well as possible."],
+    ["Power through (something)", "To continue doing something difficult with determination until it is finished."],
+    ["Running on empty", "Continuing to work or function even though you have no energy or resources left."],
+    ["Pull the plug on (something)", "To stop a project or activity suddenly, usually by stopping its funding."],
+    ["Blow a fuse", "To suddenly become very angry and lose your temper."],
+    ["On the same wavelength", "Having similar ideas and understanding each other well."],
+    ["A live wire", "A very lively, energetic and enthusiastic person."],
+    ["Switch off", "To stop paying attention or stop thinking about something, especially in order to relax."],
+    ["Spark off (something)", "To cause something to start, especially a reaction, argument or series of events."]
+  ],
+
+  "writing": {
+    "kind": "essay",
+    "title": "WRITING PART 2",
+    "useful_title": "USEFUL LANGUAGE — Advantages and disadvantages essay",
+    "useful": [
+      ["Introducing the topic", "In recent years, … / It is widely accepted that … / A growing number of countries have …"],
+      ["Presenting advantages", "One major benefit of … is that … / The most obvious advantage is … / A further point in its favour is …"],
+      ["Presenting disadvantages", "On the other hand, … / However, a significant drawback is … / Critics point out that …"],
+      ["Adding points", "Furthermore, … / In addition, … / What is more, …"],
+      ["Making predictions", "… is likely to … / … is bound to … / By 2040, … will have …"],
+      ["Concluding / giving your view", "On balance, I believe … / Overall, the benefits clearly outweigh the drawbacks … / To sum up, …"]
+    ],
+    "task_intro": "You are writing an essay for an academic audience. Write 180–200 words.",
+    "task": "Many governments are now spending large amounts of money on solar and wind farms instead of traditional power stations. What are the advantages and disadvantages of this trend? Give your own opinion.",
+    "plan": [
+      ["Introduction", "paraphrase the question + say that the trend has both benefits and drawbacks"],
+      ["Body paragraph 1", "advantages: environment, falling costs, energy independence + examples"],
+      ["Body paragraph 2", "disadvantages: intermittent supply, cost of storage and power lines, land use"],
+      ["Conclusion", "weigh up both sides + give your overall opinion clearly"]
+    ],
+    "rules_title": "RULES for Part 2 (essay)",
+    "rules": [
+      "Answer ALL parts of the question — advantages, disadvantages AND your own opinion.",
+      "Write 180–200 words in four clear paragraphs: introduction, two body paragraphs and a conclusion.",
+      "Use a formal, academic register: no contractions, no slang and no direct questions to the reader.",
+      "Begin each body paragraph with a clear topic sentence and use signposting phrases to move between ideas.",
+      "Support each main point with a reason or an example, and use cautious future forms (is likely to, is set to) for predictions.",
+      "Make your conclusion consistent with your argument — do not introduce new ideas at the end."
+    ],
+    "sample_title": "SAMPLE ANSWER",
+    "sample": "In recent years, a growing number of governments have chosen to invest in solar and wind farms rather than power stations that burn coal or gas. While this shift offers clear benefits, it also raises a number of practical concerns.\nThe most obvious advantage is environmental. Renewable sources produce virtually no greenhouse gases once they are operating, so they are bound to play a central role in tackling climate change. Furthermore, the cost of solar panels and turbines has fallen dramatically, which means that clean electricity is now often cheaper than power from fossil fuels. Sunny countries in particular are likely to benefit, as they can generate energy locally instead of importing expensive fuel.\nOn the other hand, there are significant drawbacks. Sun and wind are intermittent, so countries must also invest in batteries and new power lines, which adds considerably to the overall cost. In addition, large projects can occupy huge areas of land and sometimes face strong opposition from local residents.\nOn balance, I believe the advantages clearly outweigh the disadvantages. Although the transition will not be easy, governments that invest wisely in storage as well as generation will have built a cleaner and more secure energy system within a generation.",
+    "practice_title": "PART 2 PRACTICE — now you try",
+    "practice_task": "Some people believe that individuals can do very little to reduce energy use and that only governments and large companies can make a real difference. Discuss both views and give your own opinion."
+  },
+
+  "speaking": {
+    "part": "2",
+    "title": "SPEAKING PART 2",
+    "prompt": "Describe a time when you or your family tried to save energy at home.",
+    "points": [
+      "when and why you decided to save energy",
+      "what changes you made",
+      "how easy or difficult it was to keep to these changes"
+    ],
+    "end": "…and say whether you think individuals can really make a difference to the amount of energy a country uses.",
+    "sample": "I'd like to talk about a winter about two years ago, when my family **made a real effort to cut our energy bills**. The trigger was a particularly cold month when our electricity and gas bill was almost double what we had expected, and my father announced, quite dramatically, that things had to change.\nThe first thing we did was **sort out the insulation** — we sealed the gaps around our old windows and put thick curtains up in the living room. We also **got into the habit of** switching devices off at the wall instead of leaving them on standby, and we replaced every old bulb with LED lights. My younger brother was put in charge of checking that lights were off in empty rooms, and to be honest, he took the job **far more seriously than any of us expected**.\nSome changes were easy, but others were harder to stick to. Turning the heating down by a couple of degrees, for example, led to a few arguments, especially in the mornings! Still, after a couple of months the bills had **dropped noticeably**, which kept everyone motivated.\nAs for whether individuals can make a difference, I'd say **on their own, probably not much**, but millions of households doing the same things certainly can. **At the end of the day**, I think government policy and personal habits have to work together.",
+    "useful": [
+      ["Introducing the topic:", "I'd like to talk about a time when… / One experience that comes to mind is…"],
+      ["Explaining the reason:", "The main reason was… / What really prompted us to change was…"],
+      ["Describing changes:", "The first thing we did was… / We also got into the habit of…"],
+      ["Talking about difficulty:", "Some changes were easy, but… / It was quite hard to stick to…"],
+      ["Describing results:", "After a while, we noticed that… / The bills dropped noticeably…"],
+      ["Giving a wider opinion:", "On their own, individuals… / At the end of the day, I think…"]
+    ]
+  },
+
+  "key": {
+    "article1_vocab": "1 b  2 h  3 f  4 g  5 c  6 e  7 a  8 d",
+    "word_forms": "1 viability  2 intermittency  3 insulate  4 fluctuations  5 subsidised",
+    "headings": "1 B  2 G  3 F  4 C  5 A  6 H  7 E  (D is not needed)",
+    "language_dev": "1 generate  2 meet  3 phase out  4 harness  5 cut / reduce  6 store",
+    "article2_vocab": "1 a  2 b  3 c  4 a  5 b  6 c  7 a  8 b",
+    "grammar_a": "1 is likely to change  2 will have overtaken  3 is bound to fall  4 is set to open  5 will be supplying  6 will not (won't) disappear  7 will still be using  8 is unlikely to reach",
+    "grammar_b": "1 Electricity prices are bound to rise again this winter.  2 Three new wind farms are set to open next year.  3 More people are likely to buy electric cars in the future.  4 By 2040, the country will have closed all its coal plants.  5 At 7 p.m. tomorrow, the battery will be supplying power to the house.",
+    "reading": "21 B  22 C  23 D  24 B  25 A  26 B  27 C  28 A  29 C"
+  }
+}

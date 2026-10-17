@@ -1,0 +1,639 @@
+{
+ "n": 4,
+ "title": "RISK",
+ "subtitle": "TAKING CHANCES",
+ "cover_color": "#7A1F1F",
+ "image_prompt": "A lone rock climber clinging to a sheer red sandstone cliff at sunset, seen from a dramatic low angle, with a vast canyon far below and a faint safety rope catching the light; painterly editorial illustration, deep reds and warm oranges, sense of height and tension, no text, no letters",
+ "warmup": [
+  "What is the most risky thing you have ever done? Would you do it again?",
+  "Which do you think is more dangerous: flying, driving or crossing a busy road? Why?",
+  "Are you a cautious person, or do you enjoy taking chances? Give an example.",
+  "Should parents let children take risks, such as climbing trees or travelling alone? Why / why not?"
+ ],
+ "article1": {
+  "title": "WHY DO WE FEAR THE WRONG THINGS?",
+  "vocab": [
+   "Many tourists [[perceive]] the old city as unsafe at night, although crime there is actually very low.",
+   "Engineers calculated the [[probability]] of the bridge failing in a major earthquake.",
+   "She still has [[vivid]] memories of the storm that destroyed her grandparents’ house.",
+   "For weeks before the operation, he lived with a constant sense of [[dread]].",
+   "Investors often [[overestimate]] their ability to predict how the market will move.",
+   "After ten years without an accident, the factory managers had become [[complacent]] about safety.",
+   "Experienced nurses often make [[intuitive]] decisions that turn out to be remarkably accurate.",
+   "The city built new flood barriers to [[mitigate]] the effects of heavy rain."
+  ],
+  "definitions": [
+   "(adj) too satisfied with a situation, so that you stop paying attention to possible dangers",
+   "(n) how likely it is that something will happen",
+   "(v) to make something less harmful, serious or unpleasant",
+   "(v) to notice or understand something in a particular way",
+   "(adj) producing very clear, powerful images in the mind",
+   "(v) to think that something is larger, more likely or more important than it really is",
+   "(adj) based on feelings or instinct rather than on facts or careful reasoning",
+   "(n) a strong feeling of fear about something that may happen"
+  ],
+  "paragraphs": [
+   "Ask a nervous passenger why they grip the armrest during take-off, and they will rarely mention statistics. Measured by distance travelled, commercial flying is one of the safest ways to get from one place to another — far safer than the car journey to the airport. Yet millions of people [[perceive]] it as more dangerous than driving, and some refuse to fly at all. This gap between the risks we face and the risks we fear is not a sign of stupidity; it reflects the way the human mind evolved to make quick decisions in a world without spreadsheets or safety reports.",
+   "Psychologists have long argued that we judge how likely something is by how easily examples come to mind. A plane crash is reported around the world for days, complete with [[vivid]] images of wreckage and grieving families, while the thousands of people who die on the roads each year rarely make the headlines. Because dramatic events are easy to picture, we tend to [[overestimate]] how often they happen, and to underestimate the slow, quiet dangers that never become news. Shark attacks, lightning strikes and terrorist incidents all loom far larger in the imagination than in the mortality tables.",
+   "Certain kinds of risk seem to trigger a particularly strong reaction. Researchers use the term ‘[[dread]] risk’ to describe low-probability events that could kill many people at once, such as a nuclear accident or a new epidemic. Such risks feel uncontrollable and unfamiliar, and people often demand far greater protection from them than from everyday hazards that, over time, claim many more lives. Control matters too: drivers tend to feel safer than passengers partly because their hands are on the wheel, even though being in charge does little to change the odds of a collision.",
+   "Misjudging risk is not merely an academic curiosity; it can have serious consequences. After the attacks on the United States in September 2001, many Americans chose to drive rather than fly for months afterwards. One widely cited study estimated that the extra traffic may have led to around 1,500 additional road deaths in the following year — far more than the number of people killed on board the hijacked planes themselves. By avoiding a frightening but rare danger, people unknowingly exposed themselves to a familiar and much more common one.",
+   "Familiarity, in fact, is one of the main reasons we underrate everyday hazards. A large share of serious accidents happen at home — on the stairs, in the kitchen or in the bathroom — yet few people think of their own house as a dangerous place. The same is true of habits such as driving while tired, eating badly or never exercising: because the harm builds up slowly and nothing bad happened yesterday, we become [[complacent]]. A risk we have survived a thousand times simply stops feeling like a risk at all.",
+   "Numbers, unfortunately, do not always help. Many people find [[probability]] difficult to interpret, especially when it is expressed as a percentage. A headline announcing that a medicine ‘doubles the risk’ of a side effect sounds alarming, but if the original risk was one in ten thousand, doubling it still leaves the chance extremely small. Without knowing the starting point, readers have no way of judging whether the change matters, and frightening relative figures can lead patients to abandon treatments that would actually do them good.",
+   "None of this means we should ignore our feelings. Our [[intuitive]] sense of danger often serves us well, warning us away from a dark alley or an unstable cliff edge long before we could calculate anything. The challenge is to recognise when instinct is likely to mislead us and to check it against the evidence. Experts suggest that presenting risks in simple terms — ‘three people in a thousand’ rather than ‘0.3%’ — can [[mitigate]] some of these biases, helping people to fear a little less of what is rare and a little more of what is common."
+  ],
+  "headings": [
+   "Lost in the numbers",
+   "A fear that defies the figures",
+   "When the familiar feels safe",
+   "Why experts usually get it wrong",
+   "Catastrophe and control",
+   "Training the gut, not ignoring it",
+   "What sticks in the mind",
+   "The hidden cost of avoiding danger"
+  ]
+ },
+ "word_forms": [
+  [
+   "Many people have an exaggerated ________ of how dangerous air travel really is.",
+   "perception"
+  ],
+  [
+   "Statistically, a fatal fall at home is far more ________ than a shark attack.",
+   "probable"
+  ],
+  [
+   "Pilots are trained to follow checklists rather than trust their ________, which can fail under pressure.",
+   "intuition"
+  ],
+  [
+   "Regular inspections play a key role in the ________ of risks on building sites.",
+   "mitigation"
+  ],
+  [
+   "Experienced climbers warn that ________ is often more dangerous than the mountain itself.",
+   "complacency"
+  ]
+ ],
+ "language_dev": {
+  "title": "Talking about risk",
+  "skill_name": "Verb + noun collocations with risk",
+  "skill_text": "The noun *risk* combines with a fairly fixed set of verbs, and choosing the wrong one immediately sounds unnatural — we [[take a risk]] or [[pose a threat]], but we do not ‘make a risk’ or ‘do a danger’. Learning these collocations as whole chunks will make your writing about safety, health and decision-making far more precise.",
+  "table": [
+   [
+    "take / run",
+    "a risk, a chance (neutral)"
+   ],
+   [
+    "pose",
+    "a risk, a threat, a danger (negative)"
+   ],
+   [
+    "reduce / minimise",
+    "the risk, the danger, the impact (positive)"
+   ],
+   [
+    "weigh up / assess",
+    "the risks, the odds, the options (neutral)"
+   ],
+   [
+    "outweigh",
+    "the risks, the costs, the drawbacks (positive)"
+   ],
+   [
+    "raise / increase",
+    "the risk, the likelihood, concern (negative)"
+   ]
+  ],
+  "instruction": "Complete each sentence with one verb (in the correct form) and one noun from the table above. In some items, more than one answer is possible.",
+  "sentences": [
+   "Before investing their savings, the couple sat down to ________ the ________ carefully.",
+   "The doctors agreed that the benefits of the operation clearly ________ the ________.",
+   "Rising sea levels ________ a serious ________ to low-lying coastal towns.",
+   "Wearing a helmet can significantly ________ the ________ of a serious head injury.",
+   "He knew he was ________ a ________ by leaving a secure job, but he did it anyway.",
+   "Lack of sleep greatly ________ the ________ of making mistakes at work."
+  ]
+ },
+ "article2": {
+  "title": "WHY DO SOME PEOPLE CHASE DANGER?",
+  "intro": "The sentences below are about risk-taking. Choose the correct meaning (a, b or c) for the word in bold.",
+  "vocab": [
+   {
+    "q": "Many climbers describe reaching the summit as the most [[exhilarating]] moment of their lives.",
+    "options": [
+     "extremely exciting and enjoyable",
+     "physically exhausting",
+     "deeply frightening"
+    ]
+   },
+   {
+    "q": "Psychologists link a love of fast cars, travel and loud music to a trait called [[sensation-seeking]].",
+    "options": [
+     "a habit of avoiding strong feelings",
+     "a need for new and intense experiences",
+     "a tendency to care about others’ feelings"
+    ]
+   },
+   {
+    "q": "The judge described the driver’s behaviour as [[reckless]] and irresponsible.",
+    "options": [
+     "carefully planned",
+     "simply unlucky",
+     "showing no thought for danger or consequences"
+    ]
+   },
+   {
+    "q": "Professional free divers take only [[calculated]] risks, after months of training.",
+    "options": [
+     "carefully considered in advance",
+     "very small and unimportant",
+     "completely unnecessary"
+    ]
+   },
+   {
+    "q": "Her [[meticulous]] preparation meant that nothing was left to chance.",
+    "options": [
+     "rushed and last-minute",
+     "very careful and detailed",
+     "unusually expensive"
+    ]
+   },
+   {
+    "q": "After his second business failed, he started a new [[venture]] selling handmade furniture.",
+    "options": [
+     "a hobby done in free time",
+     "a long holiday",
+     "a new business activity that involves risk"
+    ]
+   },
+   {
+    "q": "Losing their biggest client was a serious [[setback]] for the small company.",
+    "options": [
+     "something that delays progress or makes a situation worse",
+     "an unexpected success",
+     "a formal legal agreement"
+    ]
+   },
+   {
+    "q": "Athletes with great [[resilience]] bounce back quickly from injuries and disappointments.",
+    "options": [
+     "physical strength",
+     "the ability to recover quickly from difficulties",
+     "natural talent"
+    ]
+   }
+  ],
+  "paragraphs": [
+   "Every year, thousands of people pay large sums of money to throw themselves out of aeroplanes, climb frozen waterfalls or ski down slopes so steep that a single mistake could be fatal. To many observers, such behaviour looks [[reckless]], even selfish, since rescue teams and hospitals often bear the cost when things go wrong. Yet those who take part in extreme sports rarely describe themselves as careless. Instead, they talk about focus, freedom and the [[exhilarating]] sense of being completely alive — feelings they say they cannot find anywhere else in modern, comfortable life.",
+   "Psychologists have tried for decades to explain why some people actively seek out danger while others avoid it at all costs. One influential idea is [[sensation-seeking]], a personality trait describing the need for new, varied and intense experiences. People who score highly on this trait tend to become bored easily and may be drawn not only to dangerous sports but also to travel, unusual food and loud music. Research suggests that the trait is partly inherited, and that it typically peaks in late adolescence before gradually declining with age.",
+   "However, the stereotype of the adrenaline junkie who cares nothing for safety may be misleading. Interviews with experienced mountaineers, BASE jumpers and big-wave surfers reveal people who are, if anything, obsessed with control. They study weather patterns, check equipment repeatedly and rehearse emergency procedures until they become automatic. Their preparation is [[meticulous]] precisely because they understand how little room for error there is. In their own eyes, they are not gambling with their lives but taking [[calculated]] risks, reducing the danger as far as possible before deciding whether the uncertainty that remains is acceptable.",
+   "Interestingly, very similar language is used by entrepreneurs. Starting a business is rarely life-threatening, but it can put savings, careers and relationships on the line, and a large proportion of new firms close within their first five years. Successful founders often insist that they are not natural gamblers. Before launching a [[venture]], they test their ideas on small groups of customers, keep their costs low and plan what they would do if things went wrong. Like climbers, they try to limit the downside while leaving room for a potentially large reward.",
+   "What both groups seem to share is an unusual relationship with failure. A climber who turns back a few hundred metres from the summit, or a founder whose first company collapses, may treat the experience as useful information rather than as a disgrace. Studies of serial entrepreneurs suggest that an early [[setback]] can prove valuable, provided that people reflect honestly on what went wrong. This kind of [[resilience]] — the capacity to recover, adapt and try again — may matter far more in the long run than raw courage or talent.",
+   "None of this means that risk-taking is always admirable. Overconfidence has killed experienced climbers and bankrupted talented business people, and luck plays a larger role in many success stories than the winners like to admit. Still, the lives of those who deliberately court danger raise an uncomfortable question for the rest of us. In a society that increasingly tries to remove every possible hazard, we may be losing opportunities to discover what we are capable of — and to learn that most fears, once faced, are smaller than they first appeared."
+  ],
+  "discussion": [
+   "Would you ever try an extreme sport such as skydiving or ice climbing? Why / why not?",
+   "Do you think extreme athletes and entrepreneurs really share the same attitude to risk? Give examples."
+  ]
+ },
+ "grammar": {
+  "title": "Mixed and inverted conditionals",
+  "intro": "Conditionals do not always follow the neat ‘first, second, third’ patterns taught at lower levels. Mixed conditionals link a condition in one time frame to a result in another, while inverted conditionals replace *if* with *had*, *should* or *were* to create the more formal, emphatic style typical of academic and official writing.",
+  "rules_intro": "The rules below show how to combine different time frames and how to form inverted conditionals correctly.",
+  "rules": [
+   {
+    "rule": "**Past condition → present result:** *If* + past perfect, *would* + infinitive. Use it when an earlier action (or lack of it) affects the situation now.",
+    "example": "If she had taken out travel insurance, she wouldn’t be paying the hospital bill herself now."
+   },
+   {
+    "rule": "**Present condition → past result:** *If* + past simple, *would have* + past participle. Use it when a permanent quality or situation explains a past event.",
+    "example": "If he were a more cautious person, he would never have invested all his savings in one start-up."
+   },
+   {
+    "rule": "**Had** + subject + past participle replaces *if* + past perfect (third or mixed conditional).",
+    "example": "Had I known the ice was so thin, I would never have walked across the lake."
+   },
+   {
+    "rule": "**Should** + subject + infinitive replaces *if* in the first conditional. It sounds formal and suggests the situation is fairly unlikely — common in instructions and notices.",
+    "example": "Should you experience any chest pain, stop exercising immediately and inform a member of staff."
+   },
+   {
+    "rule": "**Were** + subject + *to* + infinitive (or **Were** + subject + adjective/noun) replaces *if* in the second conditional.",
+    "example": "Were the government to raise the speed limit, the number of accidents would almost certainly increase."
+   },
+   {
+    "rule": "**Were it not for** / **Had it not been for** + noun = ‘if something didn’t exist / hadn’t happened’. In inverted conditionals the negative is never contracted (*Hadn’t I known…* ✗).",
+    "example": "Had it not been for the safety rope, the climber would have fallen more than fifty metres."
+   }
+  ],
+  "exA": {
+   "instruction": "Exercise A — Complete the paragraph with the correct form of the verbs in brackets, or with one word (*had*, *should* or *were*) where there is no verb given.",
+   "text": "Three years ago, Dilnoza left a well-paid job at a bank to open a small bakery. (1) ___________ she known how difficult the first year would be, she might never have taken the risk. If she had stayed at the bank, she (2) ___________ (earn) a comfortable salary now, but she (3) ___________ (not / feel) nearly as proud of her work. (4) ___________ it not been for a loan from her uncle, the business would have closed within months. Today she tells young entrepreneurs: ‘(5) ___________ you decide to start your own business, be ready for setbacks.’ She also believes that if she (6) ___________ (be) a more cautious person by nature, she would never have left her job in the first place. (7) ___________ the economy to slow down next year, she says, she would simply adapt. And (8) ___________ it not for her loyal customers, she admits, the bakery would not exist today."
+  },
+  "exB": {
+   "instruction": "Exercise B — Rewrite each sentence as an inverted conditional, beginning with the word in brackets.",
+   "items": [
+    "If I had known about the storm, I would have cancelled the trip. (Had)",
+    "If you have any problems with your equipment, contact the instructor immediately. (Should)",
+    "If it weren’t for his helmet, he would be in hospital now. (Were)",
+    "If the company invested more in safety, there would be fewer accidents. (Were)",
+    "If they hadn’t checked the weather forecast, they would be stuck on the mountain now. (Had)",
+    "If it hadn’t been for the rescue team, the climbers would have died. (Had)"
+   ]
+  }
+ },
+ "academic": {
+  "subtitle": "Hedging and boosting — showing how certain you are",
+  "skill_name": "Hedging and boosting",
+  "skill_text": "Hedging means using tentative language — *may*, *might*, *tend to*, *appear to*, *is likely to*, *it could be argued that* — so that a claim is not stated more strongly than the evidence allows. Boosting does the opposite: *clearly*, *undoubtedly*, *there is strong evidence that* show confidence when the evidence is solid. Good academic writers balance the two, hedging speculative ideas and boosting well-established facts.",
+  "example": [
+   [
+    "UNHEDGED",
+    "Extreme sports are dangerous, and young people who do them are addicted to adrenaline."
+   ],
+   [
+    "HEDGED",
+    "Some extreme sports may carry a considerably higher risk of injury, and it could be argued that certain participants tend to seek out intense physical sensations."
+   ]
+  ],
+  "instruction": "Rewrite the sentences below, making the claims more tentative (hedging). For sentences marked [B], make the claim more confident (boosting).",
+  "items": [
+   "Social media makes teenagers take dangerous risks.",
+   "People who do extreme sports are addicted to adrenaline.",
+   "Most new businesses fail because their owners are reckless.",
+   "Flying is safer than driving. [B]",
+   "Children who are never allowed to take risks become anxious adults.",
+   "Wearing a seat belt reduces the risk of death in a car crash. [B]"
+  ],
+  "task": "Write a short paragraph (80–100 words) answering the question ‘Are people today more afraid of risk than previous generations?’ Use at least three hedging expressions and one boosting expression."
+ },
+ "reading": {
+  "part": 5,
+  "test": 1,
+  "blocks": [
+   {
+    "type": "instruction",
+    "text": "Read the following text for questions 30-35."
+   },
+   {
+    "type": "article",
+    "title": "Australia’s flying foxes are ‘curious, gentle and intelligent’ – and often misunderstood",
+    "paragraphs": [
+     "*Endangered spectacled flying foxes and vulnerable grey-headed flying foxes are ‘astonishing’ animals but misinformation is rife.*",
+     "One of the most spectacular sights at Adelaide’s Womadelaide music festival is not on the official lineup. As dusk approaches, thousands of grey-headed flying foxes begin chattering and stretching their wings as they prepare to ascend from their roosts in Botanic Park and set out in search of food. “It’s an amazing sight,” says associate professor Wayne Boardman, a wildlife veterinarian and flying fox researcher at the University of Adelaide. At first a few early birds take to the skies, he says, then more and more, “diving, swooping, flapping”. “As the night sky darkens, steadily the full camp take to the air – a mass of circling, squawking bats all eager to start foraging after a day of rest.”",
+     "For many festivalgoers, the nightly fly-out ritual is their first time seeing the animals, also called megabats, up close. Boardman runs a “bat tent” near one of the main stages, kitted out with displays, videos and binoculars to educate visitors and address misconceptions about the flying foxes. “They are just astonishing animals,” he says. “The loveliness of flying foxes, their sheer beauty, astonishing biology, the amazing anatomy – it never ceases to amaze me.” Yet misinformation about the animals is rife, from well-meaning parents telling children they use sound waves to navigate (they don’t), to more sinister notions including that the animals are “pests” that “don’t belong here”. “They came of their own volition,” Boardman says. Grey-headed flying foxes first arrived in Adelaide in 2010, establishing a permanent camp on First Creek, in parklands just north of the CBD, where they have increased in number from 1,000 to about 50,000 today.",
+     "Flying foxes are nomadic, capable of travelling up to 50km at night in search of food resources such as flowering gums, figs and fruit trees. Tim Pearson, a wildlife ecologist who specialises in flying fox behaviour and communication, says the “double whammy” of destroying native forests while providing alternative food sources in farms and residential areas creates the potential for human-bat conflict and harassment, identified as a threat in recovery plans for endangered spectacled flying foxes and vulnerable grey-headed flying foxes. Populations of both species have declined in recent decades, although assessing their current status has become more challenging since the national flying fox monitoring program concluded in 2022. “The Australian attitude towards wildlife has always been positive, providing it doesn’t inconvenience you,” Pearson says. Unfortunately for flying foxes, in their case it often does.",
+     "Things have been getting better, Pearson says, but flare-ups still occur when practical concerns – about noise, the animals’ impact on fruit growers, power outages or potential disease threats – are reported in breathless terms by the media. Efforts to disperse the bats are generally counterproductive and attempts to promote empathy and coexistence have not worked. Scientists now think “normalising” flying foxes might be a way forward, depicting them as a natural part of Australian wildlife in art, photography, books, community events and education. Despite their often visible and audible presence in cities and towns, representations of flying foxes in mainstream media and popular culture remain scarce and largely negative, according to the paper published in Australian Zoologist. Pearson, a co-author of the paper, works with tame education flying foxes at a wildlife park. Once people see these cute, furry animals up close, they realise they are “curious, gentle, intelligent” with individual personalities, he says.",
+     "Doug Gimesy, a wildlife and conservation photojournalist, says bats – flying foxes and microbats – make up nearly 20% of all mammals, but “don’t get 20% of the air time”. “As a group, they’re often ignored, under-appreciated and misunderstood,” he says. “At worst they’re vilified and face a constant battle of disinformation, hate speech and are even persecuted.” Gimesy began photographing flying foxes in 2016 and has since spent more than 160 days in the field, taking thousands of images that document every aspect of their lives. Through his award-winning photographs and children’s book, Life Upside Down, Gimesy is hoping to show people how magnificent the animals are, “to get people to engage and ask questions and understand”. Two images have been important to capture and share, he says. In one, a flying fox pokes its pink tongue into a eucalyptus blossom – because people don’t realise what important pollinators they are, he says.",
+     "In the other, a pup clings to its mum as it breastfeeds in mid-flight, which usually triggers an emotional response. It’s the realization “they carry their young in flight, and they’re flying mammals”. The paper says shifting attitudes towards species such as sharks and crocodiles, once subject to widespread persecution, offer optimism that contentious issues between flying foxes and people can be managed without maligning them as a species. In Fisher reserve, in the inner Melbourne suburb of North Fitzroy, children play on the green grass as an oversized flying fox takes wing with a magpie, a squirrel glider and pink paper planes against a purple sky. The colourful mural, by Alex Sugar, is one of several depicting flying foxes alongside other Australian wildlife and quirky elements. Sugar is fond of the bats, and they became a recurrent feature in his work after their nightly flyout over the Yarra River drew his attention. “We need to highlight them more in everyday culture and the issues that they’re going through as well with their current habitat,” he says."
+    ],
+    "cols": 2
+   },
+   {
+    "type": "instruction",
+    "text": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question."
+   },
+   {
+    "type": "notes",
+    "title": "FLYING FOXES",
+    "lines": [
+     "Flying foxes live by moving from place to place. Their diet usually consists of 30__________, flowering gums and some other fruits.",
+     "They have two 31__________, both of which are endangered.",
+     "Scientists regard that portraying them as a part of local life them might be useful. They use the term 32__________ to emphasize it.",
+     "Although they are indeed encountered in ordinary life, people pay little attention to them, and even when they do, people see them as 33__________."
+    ]
+   },
+   {
+    "type": "instruction",
+    "text": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+   },
+   {
+    "type": "mcq",
+    "items": [
+     {
+      "n": 34,
+      "q": "According to the passage, once people get to know flying foxes closer …",
+      "options": [
+       "A) they start to believe that they don’t belong in Australia.",
+       "B) they become terrified by the sight of them.",
+       "C) they started to become guilty by the fact that they themselves destroyed the species’ natural habitat.",
+       "D) they start to think that flying foxes are smarter than they thought."
+      ]
+     },
+     {
+      "n": 35,
+      "q": "According to the passage, the flying foxes …",
+      "options": [
+       "A) takes care of their offspring even when they are flying.",
+       "B) eat a lot of fruits and pests like mice and rats.",
+       "C) are a favorite among the Australian children.",
+       "D) are seldom photographed as they fly too fast."
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "wordlist": [
+  "ascend",
+  "roost",
+  "set out",
+  "forage",
+  "kitted out with",
+  "misconception",
+  "sheer",
+  "never cease to amaze",
+  "rife",
+  "sinister",
+  "of their own volition",
+  "nomadic",
+  "specialise in",
+  "double whammy",
+  "harassment",
+  "endangered",
+  "vulnerable",
+  "decline",
+  "flare-up",
+  "breathless",
+  "disperse",
+  "counterproductive",
+  "empathy",
+  "coexistence",
+  "scarce",
+  "vilify",
+  "persecute",
+  "pollinator",
+  "contentious",
+  "malign"
+ ],
+ "listening": {
+  "part": 5,
+  "test": 1,
+  "blocks": [
+   {
+    "type": "instruction",
+    "audio": true,
+    "text": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract. Mark your answers on the answer sheet."
+   },
+   {
+    "type": "instruction",
+    "text": "Extract One"
+   },
+   {
+    "type": "mcq",
+    "items": [
+     {
+      "n": 24,
+      "q": "Many parents ...",
+      "options": [
+       "A) don't have the time or knowledge to help with their children's homework.",
+       "B) think that schools should have the knowledge of how to help with their children's homework.",
+       "C) don't want to help with their children's homework."
+      ]
+     },
+     {
+      "n": 25,
+      "q": "The app ...",
+      "options": [
+       "A) is for parents who wants the best tutor for their children.",
+       "B) is for students who want the most expensive and efficient teachers.",
+       "C) is for students who want to find a tutor."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "instruction",
+    "text": "Extract Two"
+   },
+   {
+    "type": "mcq",
+    "items": [
+     {
+      "n": 26,
+      "q": "Chris cannot attend to the study group because …",
+      "options": [
+       "A) he doesn’t want to.",
+       "B) he has other study groups to attend to.",
+       "C) he has a task."
+      ]
+     },
+     {
+      "n": 27,
+      "q": "They agreed to meet …",
+      "options": [
+       "A) in the library",
+       "B) in the study hall",
+       "C) in the cafeteria"
+      ]
+     }
+    ]
+   },
+   {
+    "type": "instruction",
+    "text": "Extract Three"
+   },
+   {
+    "type": "mcq",
+    "items": [
+     {
+      "n": 28,
+      "q": "What has made Clara check on Ben?",
+      "options": [
+       "A) He missed their class that day.",
+       "B) He's missed a few classes.",
+       "C) He has a lot of essays to write."
+      ]
+     },
+     {
+      "n": 29,
+      "q": "What is the main way Ben's anxiety is affecting normal life?",
+      "options": [
+       "A) He feels stupid.",
+       "B) He can't remember what day it is.",
+       "C) He doesn't want to go out."
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "idioms": [
+  [
+   "Play with fire",
+   "To do something dangerous that is likely to cause problems for you."
+  ],
+  [
+   "Push your luck",
+   "To keep taking risks after being successful, so that you may lose what you have gained."
+  ],
+  [
+   "Throw caution to the wind",
+   "To stop being careful and do something bold or risky."
+  ],
+  [
+   "Take the plunge",
+   "To finally decide to do something important or risky after thinking about it for a long time."
+  ],
+  [
+   "Stick your neck out",
+   "To say or do something that others may criticise or that could get you into trouble."
+  ],
+  [
+   "Skate on thin ice",
+   "To be in a risky situation that could easily lead to trouble."
+  ],
+  [
+   "Bite off more than you can chew",
+   "To try to do more than you are able to manage."
+  ],
+  [
+   "Better safe than sorry",
+   "It is wiser to be careful now than to regret taking a risk later."
+  ],
+  [
+   "Nothing ventured, nothing gained",
+   "You cannot achieve anything worthwhile unless you are willing to take a risk."
+  ],
+  [
+   "Put all your eggs in one basket",
+   "To depend completely on one plan or investment, so that you could lose everything."
+  ],
+  [
+   "A leap in the dark",
+   "An action whose results cannot be known in advance."
+  ],
+  [
+   "Hedge your bets",
+   "To protect yourself by supporting more than one option, so that you do not lose everything."
+  ],
+  [
+   "Tempt fate",
+   "To do something that seems to invite bad luck or disaster."
+  ],
+  [
+   "Go out on a limb",
+   "To take a position or action that is risky and that few others support."
+  ],
+  [
+   "Against all odds",
+   "Despite seeming very unlikely to succeed."
+  ]
+ ],
+ "writing": {
+  "kind": "essay",
+  "title": "WRITING PART 2",
+  "useful_title": "USEFUL LANGUAGE — Opinion essay",
+  "useful": [
+   [
+    "Introducing the topic",
+    "It is often argued that… / In recent years, there has been growing concern that…"
+   ],
+   [
+    "Stating your opinion",
+    "I would argue that… / In my view, … / I largely agree that…"
+   ],
+   [
+    "Hedging a claim",
+    "It could be argued that… / This may / tends to… / There is some evidence that…"
+   ],
+   [
+    "Giving examples",
+    "For instance, … / A case in point is… / This is particularly true of…"
+   ],
+   [
+    "Conceding a point",
+    "Admittedly, … / While it is true that…, … / That said, …"
+   ],
+   [
+    "Concluding",
+    "In conclusion, … / On balance, … / Overall, I believe that…"
+   ]
+  ],
+  "task_intro": "You are writing an essay for an academic audience. Write 180–200 words.",
+  "task": "Some people believe that children today are overprotected and should be allowed to take more risks in order to learn and develop. To what extent do you agree or disagree?",
+  "plan": [
+   [
+    "Introduction",
+    "paraphrase the question + state your position clearly"
+   ],
+   [
+    "Body paragraph 1",
+    "main reason(s) for your view + a specific example"
+   ],
+   [
+    "Body paragraph 2",
+    "concede the opposing view — which risks are not acceptable?"
+   ],
+   [
+    "Conclusion",
+    "summarise your position in new words; do not add new ideas"
+   ]
+  ],
+  "rules_title": "RULES for Part 2 (essay)",
+  "rules": [
+   "Answer the question that is actually asked — ‘To what extent…?’ requires a clear position, not just a list of points.",
+   "Aim for 180–200 words in four paragraphs; going far over or under the limit costs marks.",
+   "Paraphrase the question in your introduction instead of copying it word for word.",
+   "Support every main idea with a reason and a concrete example.",
+   "Hedge claims you cannot prove (may, tend to, it could be argued) and boost well-established facts (clearly, there is strong evidence).",
+   "Show a range of grammar — for example, a mixed or inverted conditional — and use formal linking words."
+  ],
+  "sample_title": "SAMPLE ANSWER",
+  "sample": "In recent years, there has been growing concern that children are being raised in an environment so carefully controlled that they rarely face any danger at all. I largely agree that young people should be given more freedom to take sensible risks, as this is likely to make them more confident and capable adults.\nFirstly, it could be argued that children learn to judge danger only by experiencing it. A child who climbs a tree and slips tends to understand height and balance far better than one who has only been warned about them. Were parents to remove every challenge, children might never develop this practical judgement. Moreover, there is strong evidence that independent play builds resilience, since minor failures teach young people that setbacks can be overcome.\nAdmittedly, some risks are simply not worth taking. Busy roads, deep water and the darker corners of the internet present real dangers that children cannot be expected to assess alone, and adults clearly have a duty to protect them.\nIn conclusion, while sensible supervision remains essential, I believe that overprotection may do more harm than good. Had my own parents not let me make small mistakes, I would probably be far more anxious today.",
+  "practice_title": "PART 2 PRACTICE — now you try",
+  "practice_task": "Some people argue that governments should protect people from the consequences of their own risky choices, for example by banning dangerous sports or taxing unhealthy food. Others believe adults should be free to take whatever risks they choose. Discuss both views and give your own opinion."
+ },
+ "speaking": {
+  "part": "3",
+  "title": "SPEAKING PART 3",
+  "statement": "People should take more risks in life.",
+  "for": [
+   "Risk-taking leads to personal growth and new opportunities",
+   "Most innovators and successful entrepreneurs took big chances",
+   "Playing it safe can lead to regret and a narrow, predictable life"
+  ],
+  "against": [
+   "Unnecessary risks can cause injury, debt or harm to others",
+   "Not everyone can afford to fail — the consequences are unequal",
+   "Careful planning often achieves more than bold gambles"
+  ],
+  "sample": "Personally, **I’m largely in favour of** the idea that people should take more risks, although **I’d add an important condition**: the risks need to be thought through.\n**The main argument in favour is that** growth rarely happens inside our comfort zone. Moving to a new city, changing careers or starting a business are all frightening, but they’re also how people discover what they’re capable of. **A good example is** my cousin, who left a stable job to open a small café. Had she stayed where she was, she’d probably still be wondering ‘what if’. **On top of that**, many of the inventions we rely on today exist only because someone was willing to fail in public.\n**On the other hand, it’s worth bearing in mind that** not everyone can afford to take chances. Someone with savings and a supportive family can bounce back from a failed venture, whereas a person supporting three children may lose everything. **There’s also the point that** some risks — like dangerous driving — put other people in danger, not just the risk-taker.\n**All things considered, I’d say that** people should take more calculated risks, not reckless ones. Weighing up the odds, having a back-up plan and knowing when to walk away seem to me just as important as courage.",
+  "useful": [
+   [
+    "Giving your view:",
+    "Personally, I’m largely in favour of… / I’d have to disagree with the idea that…"
+   ],
+   [
+    "Arguments for:",
+    "The main argument in favour is that… / One clear advantage is…"
+   ],
+   [
+    "Arguments against:",
+    "On the other hand, it’s worth bearing in mind that… / A major drawback is…"
+   ],
+   [
+    "Giving examples:",
+    "A good example is… / Take, for instance, …"
+   ],
+   [
+    "Adding a point:",
+    "On top of that, … / There’s also the point that…"
+   ],
+   [
+    "Concluding:",
+    "All things considered, I’d say that… / On balance, …"
+   ]
+  ]
+ },
+ "key": {
+  "article1_vocab": "1 d  2 b  3 e  4 h  5 f  6 a  7 g  8 c",
+  "word_forms": "1 perception  2 probable / likely  3 intuition  4 mitigation  5 complacency",
+  "headings": "1 B  2 G  3 E  4 H  5 C  6 A  7 F  (D is not needed)",
+  "language_dev": "1 weigh up / assess, risks / options / odds  2 outweighed / outweigh, risks / costs / drawbacks  3 pose, threat / risk / danger  4 reduce / minimise, risk  5 taking / running, risk / chance  6 raises / increases, risk / likelihood",
+  "article2_vocab": "1 a  2 b  3 c  4 a  5 b  6 c  7 a  8 b",
+  "grammar_a": "1 Had  2 would be earning  3 wouldn’t / would not feel  4 Had  5 Should  6 were / was  7 Were  8 Were",
+  "grammar_b": "1 Had I known about the storm, I would have cancelled the trip.  2 Should you have any problems with your equipment, contact the instructor immediately.  3 Were it not for his helmet, he would be in hospital now.  4 Were the company to invest more in safety, there would be fewer accidents.  5 Had they not checked the weather forecast, they would be stuck on the mountain now.  6 Had it not been for the rescue team, the climbers would have died.",
+  "reading": "30 figs  31 species  32 normalising  33 negative  34 D  35 A"
+ }
+}

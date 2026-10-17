@@ -1,0 +1,335 @@
+{
+  "n": 10,
+  "title": "AGEING",
+  "subtitle": "LIVING LONGER",
+  "cover_color": "#5B2333",
+  "image_prompt": "Warm illustrated scene of three generations of a family sitting together in a sunny courtyard with a vine trellis: a smiling grandmother and grandfather, their adult son and daughter-in-law, and two children; the grandfather teaches a child to play a board game while the grandmother pours tea from a teapot; soft golden afternoon light, rich burgundy and ochre colour palette, flat editorial illustration style, no text in the image.",
+  "warmup": [
+    "How old are the oldest members of your family? What do they do in a typical day?",
+    "Why do you think people today live longer than people did a hundred years ago?",
+    "What is the best age to retire, in your opinion? Why?",
+    "What can young people learn from older people, and what can older people learn from the young?"
+  ],
+
+  "article1": {
+    "title": "THE SECRETS OF A LONG LIFE",
+    "vocab": [
+      "The giant tortoise is famous for its remarkable [[longevity]], often living for more than 150 years.",
+      "Poor [[sanitation]] in the overcrowded camp led to an outbreak of disease within weeks.",
+      "The doctors explained that the new treatment could [[prolong]] his life by several years.",
+      "The village held a celebration for its three [[centenarians]], the oldest of whom had just turned 104.",
+      "Office workers with a [[sedentary]] lifestyle are advised to stand up and stretch at least once an hour.",
+      "Rice is the [[staple]] food for more than half of the world's population.",
+      "My grandfather loves sweets, but he has always eaten them in [[moderation]].",
+      "Her [[resilience]] after losing her job impressed everyone; within months she had started her own business."
+    ],
+    "definitions": [
+      "(adj) involving a lot of sitting and very little physical activity",
+      "(n) the ability to recover quickly from difficulties, illness or shock",
+      "(n) long life; the fact of living for a long time",
+      "(adj) main or most important; eaten or used regularly",
+      "(n) the quality of avoiding extremes; not having too much of something",
+      "(v) to make something last for a longer time",
+      "(n) people who are a hundred years old or older",
+      "(n) systems that provide clean water and remove waste in order to protect public health"
+    ],
+    "paragraphs": [
+      "In 1900, a baby born in most European countries could expect to live to around fifty. Today, the same child might reasonably hope to reach eighty or beyond, and in Japan average life expectancy now exceeds eighty-four. This dramatic rise in [[longevity]] is one of the great achievements of the modern era, yet it happened so gradually that few people noticed it taking place. Understanding where those extra decades came from tells us a great deal about what we might do to gain a few more.",
+      "Surprisingly, much of the early progress had little to do with hospitals or advanced medicine. Improvements in [[sanitation]] — clean drinking water, proper sewage systems and safer food storage — sharply reduced deaths from infectious diseases such as cholera and typhoid. Because these illnesses killed so many young children, preventing them raised average life expectancy far more than any later treatment for heart disease or cancer. Vaccination programmes and, later, antibiotics continued the trend, turning once-fatal childhood illnesses into rare and manageable events.",
+      "In the second half of the twentieth century, the focus shifted towards older adults. Medical advances made it possible to [[prolong]] the lives of people with conditions that would once have been fatal: blood pressure medication, heart surgery and cancer screening allowed patients to live with illness for years rather than months. Critics point out, however, that adding years to life is not the same as adding life to years. Many people now spend their final decade managing several chronic conditions at once.",
+      "This distinction led researchers to look for places where people not only live long but also stay healthy. In the early 2000s, a team of scientists identified five regions — Okinawa in Japan, Sardinia in Italy, Nicoya in Costa Rica, Ikaria in Greece and Loma Linda in California — where an unusually high proportion of residents become [[centenarians]]. They called these regions 'blue zones', after the blue ink first used to circle them on a map, and began to study what made them different.",
+      "What do these communities have in common? Remarkably, none of them relies on gyms or fashionable diets. Instead, physical activity is built into everyday life: residents garden, walk to visit neighbours and climb hills to reach their fields, so they rarely lead a [[sedentary]] existence. Their diets are largely plant-based, with beans, whole grains and vegetables forming the [[staple]] foods, while meat is eaten only occasionally. Many also eat in [[moderation]]; Okinawans, for instance, traditionally stop eating when they feel about eighty per cent full.",
+      "Just as important, it seems, are the social and emotional sides of life. Older people in blue zones typically live close to their families, remain respected members of their communities and have a clear sense of purpose — a reason to get up in the morning. Strong social networks appear to build [[resilience]], helping people cope with stress, illness and loss. Loneliness, by contrast, has been linked to health risks comparable to those of smoking, which suggests that friendship may be as vital to a long life as diet.",
+      "Not everyone accepts the blue-zone story uncritically. Some researchers argue that birth records in certain regions are unreliable, and that a few supposed centenarians may simply have been younger than they claimed. Others warn that genes play a part that lifestyle cannot fully replace. Even so, the broader lessons — move naturally, eat mostly plants, stay connected — are supported by a large body of evidence. There is no guarantee that these habits will help anyone outlive their parents, but small daily choices may decide how well we spend the years we have."
+    ],
+    "headings": [
+      "The power of belonging",
+      "Clean water before clever medicine",
+      "Why genes are the whole story",
+      "Reasons for caution",
+      "An achievement that went almost unnoticed",
+      "Everyday movement and simple food",
+      "Longer lives, but not always healthier ones",
+      "Mapping the world's longest-lived communities"
+    ]
+  },
+
+  "word_forms": [
+    ["The ________ of the population is one of the biggest challenges facing European governments.", "age"],
+    ["Thanks to improved ________ conditions, cholera has almost disappeared from the city.", "sanitation"],
+    ["Children who grow up with grandparents nearby are often more emotionally ________.", "resilience"],
+    ["After her ________, my grandmother began volunteering at the local library three days a week.", "retirees"],
+    ["Most doctors agree that drinking coffee ________ is unlikely to cause any harm.", "moderation"]
+  ],
+
+  "language_dev": {
+    "title": "Talking about age and later life",
+    "skill_name": "Verb + noun collocations",
+    "skill_text": "Many verbs combine with a fixed set of nouns when we talk about age, work and family responsibilities — for example [[lead an active lifestyle]], [[take early retirement]] or [[shoulder the burden]] of caring for a relative. Learning these combinations as complete chunks makes your speaking and writing sound more natural and precise, and helps you avoid unnatural choices such as *make a pension* or *do a lifestyle*.",
+    "table": [
+      ["lead", "an active / a sedentary lifestyle, a full life"],
+      ["draw", "a pension, benefits"],
+      ["take", "early retirement, responsibility for someone"],
+      ["raise", "the retirement age, a family"],
+      ["bridge", "the generation gap, the divide"],
+      ["shoulder", "the burden, the cost"]
+    ],
+    "instruction": "Complete the sentences with the correct verb from the table above. Use the correct form.",
+    "sentences": [
+      "Although she is eighty, my grandmother still ________ an active lifestyle and swims three times a week.",
+      "After thirty years at the bank, he decided to ________ early retirement at the age of fifty-five.",
+      "The government plans to ________ the retirement age to sixty-seven over the next decade.",
+      "Workplace mentoring schemes can help to ________ the generation gap between younger and older employees.",
+      "She began to ________ a pension when she turned sixty, although she continued working part-time.",
+      "In many families, one daughter ends up having to ________ the burden of caring for both parents."
+    ]
+  },
+
+  "article2": {
+    "title": "WHO WILL CARE FOR AN AGEING WORLD?",
+    "intro": "The sentences below are about ageing societies. Choose the correct meaning (a, b or c) for the word in bold.",
+    "vocab": [
+      {"q": "Falling birth rates are causing a major [[demographic]] shift in many countries.",
+       "options": ["related to the structure of a population", "related to the national economy", "related to political parties"]},
+      {"q": "Rising healthcare costs are putting a serious [[strain]] on the national budget.",
+       "options": ["a type of tax", "pressure that causes difficulties", "a sudden increase"]},
+      {"q": "Many employees have decided to [[postpone]] retirement until they are sixty-eight.",
+       "options": ["look forward to", "cancel completely", "delay until a later time"]},
+      {"q": "Almost a third of the country's [[workforce]] will be over fifty within a decade.",
+       "options": ["all the people who work in a country or organisation", "the managers of a company", "the people who receive pensions"]},
+      {"q": "Caring for elderly relatives can become a heavy [[burden]] for a single family member.",
+       "options": ["a pleasant duty", "a financial reward", "a difficult responsibility"]},
+      {"q": "[[Intergenerational]] programmes bring teenagers and pensioners together to share skills.",
+       "options": ["involving people from different countries", "involving people of different ages", "involving people with the same job"]},
+      {"q": "Shared traditions help to maintain social [[cohesion]] in a rapidly changing city.",
+       "options": ["the state of people being united", "competition between groups", "rules imposed by the government"]},
+      {"q": "The childcare that grandparents provide is often [[undervalued]] because no money changes hands.",
+       "options": ["paid too much", "completely ignored by law", "not given enough recognition"]}
+    ],
+    "paragraphs": [
+      "For most of human history, societies were shaped like pyramids: a broad base of children and young adults supported a narrow peak of older people. That shape is now changing rapidly. As people live longer and families have fewer children, the [[demographic]] pyramid in many countries is turning into something closer to a column. By 2050, according to United Nations estimates, one in six people worldwide will be over sixty-five, and in parts of Europe and East Asia the figure will be closer to one in three. This transformation raises difficult questions about money, work and care.",
+      "The most immediate concern is pensions. Most state pension systems were designed on a simple principle: today's workers pay for today's retirees. When there were five or six workers for every pensioner, this arrangement worked well. Now that the ratio is falling towards two to one in some countries, it is placing considerable [[strain]] on public finances. Governments face an uncomfortable choice between raising taxes on a shrinking working population, reducing pension payments, or asking people to work for longer. None of these options is popular, and attempts to introduce them have led to strikes and protests in several countries.",
+      "Increasingly, the third option is the one being chosen. Many countries have gradually raised the official retirement age, and a growing number of people choose to [[postpone]] retirement voluntarily. Supporters argue that this makes sense: people are healthier at sixty-five than their grandparents were, and keeping experienced employees in the [[workforce]] helps companies retain valuable knowledge. Critics, however, point out that not every job can be done at seventy. A university lecturer may happily continue teaching, whereas a builder or a nurse working night shifts may simply be physically unable to carry on.",
+      "Pensions and work are only part of the picture. As people live longer, the need for long-term care rises too. In much of Western Europe and North America, this care is increasingly provided by professional services such as nursing homes, which are expensive and often short of staff. Where such services are unavailable or unaffordable, the [[burden]] usually falls on families, and in particular on middle-aged women, who may find themselves looking after their own children and their elderly parents at the same time — a situation often described as being part of the 'sandwich generation'.",
+      "In Uzbekistan, as in much of Central Asia, the picture looks rather different. Multigenerational households, in which grandparents, parents and children live under one roof, remain common, and it is traditionally the youngest son and his wife who stay in the family home to look after his parents. These [[intergenerational]] arrangements bring clear benefits: older people are rarely isolated, and grandparents play a central role in raising grandchildren, passing on language, customs and values. Respect for elders, shown in everyday gestures and in the advice sought from the *oqsoqol* of the *mahalla*, helps to strengthen social [[cohesion]] in the wider community.",
+      "Such traditions are not immune to change. Urbanisation and migration for work mean that more young families now live in apartments far from their parents, and the extended household is less universal than it once was. Nevertheless, the multigenerational model offers lessons that other societies are beginning to recognise. The unpaid contribution of older people — caring for grandchildren, volunteering, advising younger relatives — is often [[undervalued]] because it does not appear in economic statistics. If ageing societies are to thrive, they may need to see older citizens less as a cost to be managed and more as a resource to be valued."
+    ],
+    "discussion": [
+      "What are the advantages and disadvantages of three generations living in the same house? Would you like to live this way when you have your own family?",
+      "Should people be allowed to choose when they retire, or should there be a fixed retirement age for everyone? Give reasons."
+    ]
+  },
+
+  "grammar": {
+    "title": "Concession and contrast",
+    "intro": "Academic writers rarely present only one side of an issue. Language of concession allows them to accept that an opposing fact or argument is true, while still showing that their main point is stronger. Language of contrast shows how two facts or situations differ.",
+    "rules_intro": "The rules below explain how to use the most common expressions of concession and contrast, and which grammatical structures follow them.",
+    "rules": [
+      {"rule": "Use **although / even though** + a full clause (subject + verb). *Even though* is more emphatic. The clause can come first (followed by a comma) or second.",
+       "example": "Although life expectancy has risen, many people spend their final years in poor health."},
+      {"rule": "Use **despite / in spite of** + a noun, a pronoun or an *-ing* form — never a full clause. To add a clause, use **despite the fact that**.",
+       "example": "Despite living alone, my great-aunt rarely feels lonely. / In spite of the fact that she lives alone, she rarely feels lonely."},
+      {"rule": "Use **whereas / while** + clause to contrast two different facts or situations, usually within one sentence.",
+       "example": "Okinawans eat mainly vegetables, whereas many Western diets are high in red meat."},
+      {"rule": "Use **however / nevertheless / nonetheless** to link two separate sentences. They usually come at the start of the second sentence, followed by a comma. *Nevertheless* means 'despite what has just been said'.",
+       "example": "Raising the pension age is deeply unpopular. Nevertheless, many governments see no realistic alternative."},
+      {"rule": "Use **admittedly / it is true that / granted** to concede a point, then follow it with **but / however / even so** to return to your main argument.",
+       "example": "Admittedly, some older workers are slower to adopt new technology. However, they often bring decades of valuable experience."},
+      {"rule": "Use **even so / all the same** at the start of a sentence to introduce a surprising contrast with what has just been said.",
+       "example": "The village has no hospital and few doctors. Even so, its residents are among the healthiest in the country."}
+    ],
+    "exA": {
+      "instruction": "Exercise A — Complete the paragraph with although, despite, admittedly, nevertheless, whereas, in spite of, however and while. Use each word or phrase once.",
+      "text": "(1) ___________ people are living longer than ever before, few of us plan carefully for old age. Many young people save nothing for retirement, (2) ___________ knowing that state pensions may be lower in the future. (3) ___________, saving can seem impossible for those on low incomes. (4) ___________, financial advisers insist that even small regular amounts make a significant difference over forty years. In some countries, older people depend mainly on their pensions, (5) ___________ in Uzbekistan many still rely on support from their children. (6) ___________ the rising cost of living, most families continue to care for elderly relatives at home. Multigenerational living has many benefits. (7) ___________, it can also create tension when different generations hold very different values. (8) ___________ some young couples now prefer to live independently, the majority still see caring for their parents as a duty rather than a burden."
+    },
+    "exB": {
+      "instruction": "Exercise B — Combine each pair of sentences using the word or phrase in brackets. Make any changes that are necessary.",
+      "items": [
+        "My grandfather is eighty-five. He still works in his garden every day. (although)",
+        "The village has very few doctors. Its residents live unusually long lives. (despite)",
+        "Younger workers adapt quickly to new technology. Older workers often have better judgement. (whereas)",
+        "Raising the retirement age will save the government money. It is deeply unpopular with voters. (nevertheless)",
+        "There was very little space in the apartment. The family was happy to welcome their grandmother. (in spite of)"
+      ]
+    }
+  },
+
+  "academic": {
+    "subtitle": "Counter-arguments and refutation — answering the other side",
+    "skill_name": "Counter-arguments and refutation",
+    "skill_text": "A persuasive argument becomes stronger, not weaker, when the writer acknowledges what opponents believe. First present the opposing view fairly (*Opponents argue that… / It is sometimes claimed that…*), then refute it by showing its weakness (*However, this overlooks… / This argument fails to take into account… / While this may be true, …*). The refutation should be supported by a reason, a fact or an example rather than a simple denial.",
+    "example": [
+      ["COUNTER-ARGUMENT", "Opponents argue that raising the retirement age is unfair to people in physically demanding jobs."],
+      ["REFUTATION", "However, this overlooks the fact that flexible schemes could allow such workers to move into lighter roles or reduce their hours, rather than leave work altogether."]
+    ],
+    "instruction": "Each sentence below presents a counter-argument. Write a refutation of one or two sentences, using a phrase such as However, this overlooks… / This argument fails to take into account… / While this may be true, …",
+    "items": [
+      "Opponents argue that older employees take jobs away from young people.",
+      "Some people claim that living with grandparents limits a young couple's independence.",
+      "It is often argued that pensions should be reduced because the state can no longer afford them.",
+      "Critics maintain that the blue zones prove nothing, since birth records there are unreliable.",
+      "Some say that professional care homes provide better care than families can.",
+      "Many believe that older people are simply unable to learn how to use new technology."
+    ],
+    "task": "Write a short paragraph (80–100 words) arguing that older people should be encouraged to keep working after the official retirement age. Include at least one counter-argument with a clear refutation, and use at least two expressions of concession or contrast from the Grammar section."
+  },
+
+  "reading": {
+    "part": 3,
+    "test": 3,
+    "blocks": [
+      {"type": "instruction", "text": "Read the text and choose the correct heading for each paragraph from the list of headings below.\nThere are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once."},
+      {"type": "headings", "title": "List of Headings:",
+       "items": ["A) Young helpers", "B) Importance of discipline", "C) Home education", "D) Awkward moments", "E) A warm welcome", "F) Daddy day care", "G) Sibling rivalry", "H) Methods of persuasion"],
+       "right": ["15. Paragraph I", "16. Paragraph II", "17. Paragraph III", "18. Paragraph IV", "19. Paragraph V", "20. Paragraph VI"]},
+      {"type": "article", "title": "", "paragraphs": [
+        "I. Family reunions can be a joyous occasion and an opportunity to meet new family members as well. Our parents have aunts, uncles and cousins that we may only meet once or twice in life. Often, though, meeting an extended family member can be like meeting a complete stranger. You’re not even sure you will like them, and the whole affair can feel a bit odd or uncomfortable.",
+        "II. Traditionally, the mother is the primary caregiver to an infant child. She takes time off work and stays at home to provide round-the-clock attention during the child’s early years. But recently, more and more men are taking paternity leave from work to stay at home with their new-borns. Mothers find it a welcome trend, as caring for an infant can be exhausting work.",
+        "III. While it’s true that kids must carry out their responsibilities just as adults do, sometimes Mum and Dad have to be a bit crafty to make it happen. They have to offer a little reward for a job well done. It may not be good practice to do it all the time, but if they promise a trip to the cinema, for example, the kids will be more likely to clean their rooms.",
+        "IV. Many families live far away from one another these days. They may have moved across the country, or even to the other side of the world. It’s especially hard for parents to see their children do this, either for work or for adventure. So when special occasions come round, especially the holiday seasons, Mum and Dad are so grateful when their sons and daughters return home.",
+        "V. Sometimes a household is nothing but chaos for days on end. This is especially true when kids reach their adolescent phase, and you have a couple of teenagers who compete over every little thing in life. No matter how often parents attempt to stop two kids from fighting each other, nothing seems to work. They just have to wait until one of them moves away to university!",
+        "VI. In most families, parents have to constantly remind their children of their responsibilities. But there are times when kids can be especially useful round the house of their own will. They also understand those times when Mum or Dad isn’t feeling well, and maybe it would be nice if they made dinner for a change or did a little extra tidying up in the living room."
+      ]}
+    ]
+  },
+
+  "wordlist": [
+    "family reunion",
+    "joyous occasion",
+    "extended family member",
+    "a complete stranger",
+    "the whole affair",
+    "primary caregiver",
+    "infant",
+    "take time off work",
+    "round-the-clock attention",
+    "paternity leave",
+    "new-born",
+    "a welcome trend",
+    "exhausting",
+    "carry out (responsibilities)",
+    "crafty",
+    "a job well done",
+    "good practice",
+    "be more likely to",
+    "far away from one another",
+    "special occasions",
+    "come round",
+    "grateful",
+    "nothing but chaos",
+    "for days on end",
+    "adolescent phase",
+    "compete over",
+    "no matter how often",
+    "of their own will",
+    "for a change",
+    "tidying up"
+  ],
+
+  "listening": {
+    "part": 6,
+    "test": 2,
+    "blocks": [
+      {"type": "instruction", "audio": true, "text": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space.\nWrite no more than one word for each answer."},
+      {"type": "notes", "title": "THE GRAND UNION CANAL", "lines": [
+        "The canals were built despite the fact that there was no public 30________ and very little technology.",
+        "From 1790 to 1929, there were many canals that were 31________ with each other but which were not uniform in size.",
+        "The new union of canals provided a 32________ link between major industrial cities.",
+        "There are plenty of natural habitats for a variety of wildlife on and around the canals.",
+        "Walkers can go to the nearest waterway office to get information on circular 33________ so they can start and end at the same place.",
+        "Anglers can fish in the canals and 34________.",
+        "If you want to go fishing, you must buy a rod license.",
+        "The waterways authority request that people are 35________ towards the canal users."
+      ]}
+    ]
+  },
+
+  "idioms": [
+    ["Over the hill", "Past one's best; considered too old for something (often used humorously)."],
+    ["Long in the tooth", "Old, especially too old for a particular activity or job."],
+    ["Young at heart", "Feeling and behaving in a youthful, energetic way despite being old."],
+    ["Age is just a number", "A person's age need not limit what they can do or enjoy."],
+    ["Getting on (in years)", "Becoming old."],
+    ["Live to a ripe old age", "To live until one is very old."],
+    ["In one's prime", "At the period of life when one is strongest, healthiest or most successful."],
+    ["Act one's age", "To behave in a way that is suitable for someone of one's age, especially more maturely."],
+    ["Turn back the clock", "To return to an earlier time, or to try to make things as they were in the past."],
+    ["Old habits die hard", "It is very difficult to stop doing something you have done for a long time."],
+    ["Time flies", "Time seems to pass very quickly."],
+    ["One's twilight years", "The last part of a person's life."],
+    ["A senior moment", "A short lapse of memory, humorously linked to getting older."],
+    ["Set in one's ways", "Unwilling to change one's habits or opinions, often because of age."],
+    ["The generation gap", "The differences in attitudes, values and tastes between younger and older people."]
+  ],
+
+  "writing": {
+    "kind": "essay",
+    "title": "WRITING PART 2",
+    "useful_title": "USEFUL LANGUAGE — Opinion essay",
+    "useful": [
+      ["Introducing the topic", "It is often argued that… / In recent years, there has been growing debate about…"],
+      ["Stating your opinion", "In my view, … / I would argue that… / I am firmly convinced that…"],
+      ["Adding supporting points", "Furthermore, … / In addition, … / Another key advantage is that…"],
+      ["Presenting a counter-argument", "Opponents argue that… / It is sometimes claimed that… / Admittedly, …"],
+      ["Refuting", "However, this overlooks… / This argument fails to take into account… / Nevertheless, …"],
+      ["Concluding", "To conclude, … / On balance, … / All things considered, …"]
+    ],
+    "task_intro": "You are writing an essay for an academic audience. Write 180–200 words.",
+    "task": "In many countries, people are now expected to work until they are sixty-five or even older. Some people think this is a positive development, while others believe it is unfair. Discuss both views and give your own opinion.",
+    "plan": [
+      ["Introduction", "paraphrase the question + state your position briefly"],
+      ["Body paragraph 1", "arguments in favour of working longer, with reasons and examples"],
+      ["Body paragraph 2", "the opposing view (counter-argument) + your refutation"],
+      ["Conclusion", "summarise both views and restate your opinion in new words"]
+    ],
+    "rules_title": "RULES for Part 2 (essay)",
+    "rules": [
+      "Answer ALL parts of the question — discuss both views AND give your own opinion.",
+      "Write 180–200 words in four clear paragraphs: introduction, two body paragraphs and a conclusion.",
+      "State your position in the introduction and keep it consistent throughout the essay.",
+      "Include at least one counter-argument and refute it with a reason or an example.",
+      "Use a formal, academic register: no contractions, no slang, and avoid 'I think' in every sentence.",
+      "Show a range of grammar, including concession and contrast (although, despite, whereas, nevertheless)."
+    ],
+    "sample_title": "SAMPLE ANSWER",
+    "sample": "In many countries, the official retirement age has risen to sixty-five or beyond, and people are increasingly expected to remain in work for longer. While some welcome this trend, others regard it as deeply unfair.\nThose in favour point out that people today are considerably healthier than previous generations were at the same age, so many are perfectly capable of continuing to work. Keeping experienced employees in the workforce also allows companies to benefit from their knowledge, and it reduces the pressure on pension systems that are already struggling to cope.\nOpponents argue that a higher retirement age punishes people in physically demanding jobs, who may be exhausted long before they reach sixty-five. Admittedly, this is a serious concern. However, it overlooks the possibility of flexible schemes, which could allow such workers to move into lighter roles or reduce their hours gradually rather than stop altogether.\nIn my view, working longer is a sensible response to longer lives, provided that it is not imposed in the same way on everyone. Although no system will satisfy every worker, a flexible approach would protect both public finances and the dignity of older people.",
+    "practice_title": "PART 2 PRACTICE — now you try",
+    "practice_task": "Some people believe that elderly parents should live with their adult children, while others think they are better cared for in professional care homes. Discuss both views and give your own opinion."
+  },
+
+  "speaking": {
+    "part": "3",
+    "title": "SPEAKING PART 3",
+    "statement": "Elderly people should live with their families rather than in care homes.",
+    "for": [
+      "older people feel loved and are rarely lonely",
+      "grandparents help raise children and pass on traditions",
+      "it is cheaper than paying for professional care"
+    ],
+    "against": [
+      "families may lack the medical skills needed",
+      "carers, often women, can become exhausted",
+      "small city apartments may not have enough space"
+    ],
+    "sample": "I'd say I **largely agree with this statement**, although I can see that it isn't the right solution for every family.\nThe strongest argument in favour is emotional. **There's no doubt that** older people who live with their children and grandchildren feel valued and are far less likely to suffer from loneliness, which, as we know, can seriously damage health. **On top of that**, grandparents play a huge role in bringing up children — in my own family, my grandmother taught us our first songs and recipes. It's also **worth mentioning** that family care is usually much cheaper than a care home.\n**Having said that**, there are some convincing arguments on the other side. **Admittedly**, a family can't always provide the medical care that someone with a serious illness needs, and the person who does most of the caring — usually a daughter or daughter-in-law — can become completely exhausted. **What's more**, many young couples in cities now live in small apartments, so there simply isn't enough room.\n**All things considered**, I think living with the family is the best option **in most cases**, because it benefits every generation. **Nevertheless**, I believe professional care should be available, and families shouldn't feel ashamed of using it when an elderly relative's needs become too great for them to manage at home.",
+    "useful": [
+      ["Giving your overall view:", "I largely agree with… / I'm not entirely convinced that…"],
+      ["Presenting arguments for:", "The strongest argument in favour is… / There's no doubt that…"],
+      ["Adding points:", "On top of that, … / What's more, … / It's also worth mentioning that…"],
+      ["Moving to the other side:", "Having said that, … / On the other hand, … / Admittedly, …"],
+      ["Giving examples:", "In my own family, … / Take my grandparents, for instance…"],
+      ["Concluding:", "All things considered, … / On balance, I'd say… / Nevertheless, I believe…"]
+    ]
+  },
+
+  "key": {
+    "article1_vocab": "1 c  2 h  3 f  4 g  5 a  6 d  7 e  8 b",
+    "word_forms": "1 ageing  2 sanitary  3 resilient  4 retirement  5 moderately",
+    "headings": "1 E  2 B  3 G  4 H  5 F  6 A  7 D  (C is not used)",
+    "language_dev": "1 leads  2 take  3 raise  4 bridge  5 draw  6 shoulder",
+    "article2_vocab": "1 a  2 b  3 c  4 a  5 c  6 b  7 a  8 c",
+    "grammar_a": "1 Although  2 despite  3 Admittedly  4 Nevertheless  5 whereas  6 In spite of  7 However  8 While",
+    "grammar_b": "1 Although my grandfather is eighty-five, he still works in his garden every day.  2 Despite the village having very few doctors, its residents live unusually long lives. / Despite the fact that the village has very few doctors, its residents live unusually long lives.  3 Younger workers adapt quickly to new technology, whereas older workers often have better judgement.  4 Raising the retirement age will save the government money. Nevertheless, it is deeply unpopular with voters.  5 In spite of the lack of space in the apartment, the family was happy to welcome their grandmother.",
+    "reading": "15 D  16 F  17 H  18 E  19 G  20 A"
+  }
+}

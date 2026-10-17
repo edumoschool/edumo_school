@@ -1,0 +1,367 @@
+                  PRIVACY                                              UNIT 3
+                    LIFE ONLINE
+
+
+
+
+WARM-UP SPEAKING
+Discuss the questions below with a partner, or answer each one in about 30 seconds.
+Article & Vocabulary
+
+     Article 1
+                  LIFE BEHIND THE SCREEN
+1 Almost everyone who spends real time              5 Legal responses vary enormously from one
+online eventually runs into behaviour that feels    country to another. Some countries have
+openly hostile — a stranger mocking a photo, a      updated older laws to specifically cover online
+pile of insulting replies under an honest           threats and stalking; others still rely on rules
+opinion, or worse. For a graphic designer we'll     written long before social media existed,
+call Elena, it started with a single unkind         leaving significant gaps. Even where laws exist
+comment about her portfolio and slowly grew         on paper, relatively few offenders are ever
+into a stream of abusive messages that arrived      formally prosecuted, since gathering evidence
+every time she posted new work. She is far          and identifying an anonymous account can be
+from alone. Cyber harassment, unwanted and          slow and difficult, and cases frequently cross
+repeated hostile behaviour carried out online,      national borders.
+has become one of the more troubling costs of
+living a large part of our lives on the internet.   6 Some legal experts argue that limiting
+                                                    anonymity altogether would help hold people
+2 A recent survey of internet users found that      accountable, since it is harder to behave
+well over half had witnessed this kind of           abusively under your own name. Others push
+behaviour directed at someone else, and             back, pointing out that anonymity also protects
+roughly a third said they had experienced it        people who genuinely need it — whistle-
+personally. Even these figures likely understate    blowers, activists in hostile political
+the real scale of the problem, since many           environments, or simply someone quietly
+people never report what happens to them,           researching a sensitive personal question they
+either because they doubt anything will change      would rather keep private. Removing
+or because they feel a private sense of             anonymity for everyone, they argue, would
+humiliation about the whole situation.              punish the many to catch a much smaller
+                                                    number of bad actors, without necessarily
+3 Why does this behaviour happen at all? The        changing their behaviour much at all.
+anonymity the internet offers is often blamed
+first. When a username replaces a real face,        7 For victims, in the meantime, the impact
+some people say and do things they would            rarely feels abstract. Many describe genuine
+never consider face-to-face. Anonymity also         humiliation, lasting anxiety, and a reluctance to
+makes harassment easier to get away with,           post anything at all, even long after the original
+since a harasser can simply create a new            comments have disappeared. Some, like Elena,
+account after being blocked or reported,            eventually withdraw from a platform entirely
+appearing again under a different name with no      rather than continue putting new work in front
+history attached.                                   of an audience that might turn hostile again —
+                                                    a quiet, largely invisible cost that rarely appears
+4 Researchers who have studied this                 in any survey.
+behaviour, however, caution against assuming
+every troll fits a single profile. Some data
+assembled from harassment reports does show
+a small number of unusually active,
+deliberately malicious users responsible for a
+disproportionate share of the abuse. But a
+surprisingly large share of hostile comments
+come from ordinary users who behave badly
+only occasionally, often anonymously, and
+often without much thought about the person
+on the receiving end.
+Match headings A–H to paragraphs 1–7 of Article 1. There is one extra
+heading you do not need.
+A A single comment among many
+B When the numbers still fall short of the full picture
+C Hiding behind a different name each time
+D Not every troll fits the same profile
+E Laws that struggle to keep pace
+F The debate over ending anonymity
+G A quiet, largely invisible ending
+H Legal action available to every victim
+
+LANGUAGE DEVELOPMENT - Collocations for behaviour
+
+  VOCABULARY SKILL
+  Verb + noun colloca�ons
+  Certain verbs regularly combine with the same small set of nouns to describe behaviour
+  and its effects — for example exhibit hos�le behaviour, or lose confidence. Learning
+  these as whole chunks, rather than word by word, makes your language sound far more
+
+
+ build                a reputa�on, confidence
+ exhibit              behaviour (hos�le/abusive)
+ exprience            abuse, pain, behaviour
+ lose                 confidence, a reputa�on
+ suffer               abuse, pain
+ take                 responsibility
+
+Complete each sentence with one verb (in the correct form) and one
+noun from the table above. In some items, more than one answer is
+possible.
+
+1 When something goes wrong with an account, it helps to ________ ________
+promptly and explain what happened.
+2 Our platform has ________ ________ for responding quickly to reports of abuse.
+3 People who ________ ________ online often decide to leave a platform altogether.
+4 It isn't only strangers who ________ hostile ________ — some abuse comes from
+people users actually know.
+5 Long-term harassment can cause people to ________ ________ that is both
+emotional and physical.
+6 Even a single hostile comment can cause a person to ________ ________ and stop
+posting altogether.
+Article & Vocabulary
+
+     Article 2
+CAN ONLINE COMMUNITIES POLICE THEMSELVES?
+
+1 Tackling cyber harassment usually            systems like this give ordinary users a
+requires a two-pronged effort: preventing      visible incentive to avoid behaving in
+bad behaviour in the first place, and          ways that would get them flagged, without
+penalising it after the fact. So far, most     requiring a company to review every
+attention has gone into prevention, partly     single message by hand. Some services
+because it is so difficult to eliminate        also use automated systems trained to flag
+harmful behaviour once it has already          accounts that exhibit repeated aggressive
+reached a victim. Anonymity again              language or unusually poor spelling —
+complicates things here — placing new          patterns that, on their own, weakly predict
+limits on how people interact online could     harassing behaviour but become useful
+genuinely reduce harassment, but it risks      signals in combination.
+damaging the openness that makes online
+                                               4 Government regulation has been slower
+communities valuable in the first place.
+                                               to catch up. Several countries have
+2 Online gaming has often been treated as      extended older laws to cover online threats
+an unusually difficult case, given how         and stalking more clearly, yet very few
+much casual interaction happens there and      offenders are ever formally prosecuted
+how much abuse female players in               under them, since gathering usable
+particular report. One large multiplayer       evidence against an anonymous account is
+game, after studying its own community,        genuinely difficult and often expensive.
+assembled a research team to examine           One notable court decision, allowing a
+chat logs from a huge sample of its regular    harassment victim to identify an
+players. The team's early expectation was      anonymous account holder through legal
+that a small number of consistently badly      channels, set a precedent that several
+behaved players would be responsible for       other courts have since followed. Experts
+most of the abuse — and while it did find a    frequently offer victims the same advice
+handful of genuinely malicious repeat          — simply ignore the harassment and avoid
+offenders, most of the offensive messages      responding to it — but many victims say
+actually came from otherwise ordinary          that, while well-meant, this advice does
+players who simply behaved badly               little to make ongoing abuse actually stop.
+occasionally. Notably, disabling public
+                                               5 As more of everyday life moves online,
+chat by default cut abusive messages by
+                                               addressing this behaviour matters more
+close to a third, suggesting that a small
+                                               each year, not less. The internet is no
+structural change can meaningfully
+                                               longer a separate space we can easily walk
+combat bad behaviour before it even
+                                               away from; increasingly, it's where people
+starts.
+                                               socialise, work, and build a reputation that
+3 Other communities have taken a               follows them elsewhere. Treating online
+different route: letting users regulate each   harassment as a minor inconvenience,
+other. Several platforms now allow             rather than behaviour with real social,
+members to rate or report one another,         professional, and even economic costs, is
+similar to how buyers and sellers on some      an attitude that is slowly, if unevenly,
+online marketplaces already rate each          starting to change.
+other after a transaction. Reputation
+ GRAMMAR FOR WRITING
+
+
+ GRAMMAR
+ Impersonal passive construc�ons & the passive for con�nuity
+
+Writers o�en choose the passive voice when the agent is 'people'. As a subject, 'people' may be too general or
+repe��ve. When repor�ng what people think or say, writers create a passive with no apparent agent, using two
+common construc�ons.
+
+  These construc�ons o�en appear with the verbs agree, argue, believe, claim, consider, decide, expect, say, think and
+  understand. Note that not all of these verbs allow both pa�erns equally naturally.
+
+  1. It is + said/believed/argued/thought + that + clause — used when repor�ng a general opinion with no named
+  source.
+
+  It is said that cyber harassment is most common in online spaces where anonymity is easiest to maintain.
+
+  2. Subject + is/are + said/believed/thought/considered + to + infini�ve — the same idea, with the topic as the subject.
+
+  Stricter regula�on is believed to be one of the most effec�ve ways to reduce online abuse.
+
+  3. The passive is also useful for keeping the same subject across two clauses, making a sentence easier to follow.
+
+  Because the harassment takes place online, it is not always taken seriously.
+
+  4. When using the passive for con�nuity, the by-phrase is usually omi�ed if the agent is unclear or unimportant.
+
+  The account had been reported many �mes before it was finally suspended.
+
+
+
+
+ Exercise A — Rewrite sentences 1–4 in the impersonal passive in two ways. For sentences 5 and 6, only
+ one construc�on is natural.
+ 1 People believe that these figures underes�mate the true scale of the problem.
+ 2 People claim that anonymous accounts are responsible for most abusive comments.
+ 3 People expect that vic�ms of harassment will eventually stop using the pla�orm.
+ 4 People understand that self-regula�on is the most realis�c short-term solu�on.
+ 5 People consider ignoring the harassment to be sensible advice for vic�ms.
+ 6 People have argued that these problems will require a stronger legal response.
+ Exercise B — Rewrite the second clause or sentence using the passive to maintain con�nuity. Omit the
+ by-phrase if it is not necessary.
+ 1 Although the account had been pos�ng abusive comments for weeks, moderators did not suspend it
+ un�l yesterday.
+ 2 A full year a�er the harassment began, a journalist discovered the account holder's real iden�ty.
+ 3 These trolls were not very careful. Inves�gators found evidence of their ac�vity quite quickly.
+ 4 The news usually includes posi�ve stories about technology, but in recent months, stories of online
+ abuse have dominated the coverage.
+GRAMMAR FOR WRITING
+
+
+ACADEMIC WRITING
+Wri�ng about problems and solu�ons
+
+
+ACADEMIC WRITING SKILL
+Wri�ng about problems
+When presen�ng problems, writers use a range of strategies to show readers why a problem ma�ers: facts
+(F), sta�s�cs (S), and examples (E) — especially ones that will resonate with the reader.
+
+
+
+
+Read the statements below and label the strategy the writer uses: F, S or E.
+1 Nearly two-thirds of teenagers say they have witnessed online harassment firsthand.
+
+
+2 A�er a wave of abusive reviews, a small family-run business lost almost half its regular customers.
+
+
+3 In a recent survey, 40% of students reported experiencing unwanted contact from strangers online.
+
+
+4 Some companies simply need a new logo to show that they have matured as a business.
+
+
+5 A user we'll call GreenFox92 lost access to her savings a�er someone found her personal details online
+
+
+6 An anonymous account has been sending threatening messages to a local teacher for more than five
+years.
+
+
+7 In several documented cases, exposing someone's private informa�on online without consent has led
+to real-world harm.
+
+
+8 The most commonly reported pla�orm for online harassment is social media.
+READING PRACTICE
+
+       Read the following text for ques�on 21-29.
+
+
+                         PENGUINS                                 way of waterproofing their bodies. A layer of stored fat
+                                                                  under their skin also keeps them warm. It gives them
+    There are seventeen kinds of penguins in the world.           extra energy when needed too. In warmer climates
+    They are all alike in some ways and all cannot fly. All       penguins may have bare skin on their faces to stay
+    have dark backs and white fronts and live in the              cooler.
+    Southern Hemisphere near the sea
+                                                                  Penguins could live all year in the sea but they must
+    They differ in several ways. They can be as small as 16       come ashore to mate and raise their babies. Most
+    inches or as tall as 4 feet. They differ in the exact         nests are made by the male. Both parents help raise
+    loca�on they inhabit. Some live in the frigid climate of      the babies. In warm climates penguins must protect
+    Antarc�ca. Others can live along the coast of forested        the eggs from the heat. Nests can be placed in crevices
+    land. Galapagos penguins live three thousand miles            and caves along the shore. Penguins in colder climates
+    north of Antarc�ca in a tropical climate at the equator.      build nests on top of soil or rocks out of pebbles. They
+    All penguins live at or south of the equator.                 are above ground to avoid being flooded by mel�ng
+    Some penguins are known for yellow or orange                  ice.
+    feathers on their heads. Some have a single or double         In spring more than a million king penguins raise their
+    black band across their upper chest. Brush-tailed             young on South Georgia Island in the southern part of
+    penguins have tails that are longer than any other. The       the Atlan�c Ocean. The male and female take turns
+    emperor and the king are called the giant penguins.           holding a single egg on top of their feet. They keep it
+    The li�le blue and the yellow-eyed are isolated types         warm by holding it up to a special warm area of their
+    of penguins not related to any other. Some�mes                belly skin called the brood patch. The other parent
+    penguins are named by what they look like.                    goes off to hunt for food.
+    Some�mes they are named based on where they live
+                                                                  In summary, all seventeen types of penguins in the
+    Penguins have torpedo-shaped bodies, long and slim.           world are alike in some ways. They are all flightless
+    They can move quickly and gracefully through the sea.         birds. They have dark backs and white fronts and live
+    Their short wings and flippers move up and down               near the sea in the Southern Hemisphere.
+    swi�ly. They steer with their tails and feet. Penguins
+    have solid bones. This helps them dive. They can leap
+    out of the water. They can travel twenty-five miles an
+    hour for short distances. Some types of penguins may
+    live in one area in summer and travel a good distance
+    for the winter. The biggest penguins are the fastest
+    swimmers and best divers. Emperors can dive as much
+    as fi�een hundred feet below the surface of the ocean
+    for prey, though food is much closer to them.
+
+    Penguins feed on fish, squid and krill. They have no
+    teeth. Their tongues and roofs of their mouths are
+    covered with s�ff spines which keep slippery prey
+    inside. A penguin comes up from below to strike a
+    school of fish. In a few minutes a penguin can catch
+    and eat a hundred small fish or krill.
+
+    Wherever penguins swim, the water is cold. Their coat
+    of small, scale-like feathers protects them from the
+    cold. Penguins can groom themselves by taking oil
+    from a gland at the base of their tails. With their beaks
+    they spread this oil all over their feathers. This is their
+For ques�ons 21-24, choose the correct answer A, B,    For ques�ons 25-29, decide if the following
+C, or D. Mark your answers on the answer sheet.        statements agree with the informa�on given in the
+                                                       text. Mark your answers on the answer sheet.
+21. Which of the following are the two largest types
+of penguins?                                           25. All penguins have black bands across their
+                                                       chests.
+A) King and emperor
+                                                       A) True B) False C) No Informa�on
+B) Brush-tailed and emperor
+                                                       26. Penguins have sharp teeth.
+C) Galapagos and king
+                                                       A) True B) False C) No Informa�on
+D) None of the above
+                                                       27. Penguins eat small animals like fish and squid.
+22. Which of the following reasons tells why
+penguins use the oil from the                          A) True B) False C) No Informa�on
+
+gland at the base of their tail?                       28. Penguins choose their partner for life.
+
+A) To protect their eyes from bright light             A) True B) False C) No Informa�on
+
+B) To waterproof their feathers                        29. King penguins and emperor penguins dislike
+                                                       each other.
+C) To keep their feet tough
+                                                       A) True B) False C) No Informa�on
+D) To keep their beaks sharp
+
+23. What is unusual about how the male and female
+emperor penguins on South Georgia Island take care
+of their egg?
+
+A) They bury it in the sand.
+
+B) The female sits on it for three weeks.
+
+C) The male and female use a brood patch to keep the
+egg warm.
+
+D) The parents leave the egg alone while they go off
+to hunt for food.
+
+24. Penguins live …
+
+A) anywhere.
+
+B) Only in the forests of Galapagos.
+
+C) at the equator.
+
+D) in the frigid climate of Antarc�ca.
+LISTENING PRACTICE
+
+            You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There
+            are THREE extra op�ons which you do not need to use.
+
+
+
+
+      19. Adventure course …
+
+      20. Restroom …
+
+      21. Swimming pool …
+
+      22. Tennis court …
+
+      23. Scary room
+

@@ -1,0 +1,537 @@
+{
+ "n": 5,
+ "title": "MANUFACTURING",
+ "subtitle": "THE FUTURE OF MAKING THINGS",
+ "cover_color": "#1E3A5F",
+ "image_prompt": "Illustrated editorial cover: a modern, softly lit factory floor where orange robotic arms assemble products on a conveyor belt, while in the foreground a young technician with a tablet watches a 3D printer building a small object layer by layer; deep navy and steel-blue palette with warm orange accents, clean flat-vector style with subtle gradients, no text or logos in the image",
+ "warmup": [
+  "What everyday objects around you right now do you think were made by robots rather than people?",
+  "Would you pay more for something handmade than for a similar mass-produced item? Why / why not?",
+  "Which jobs in factories do you think will disappear first in the next twenty years?",
+  "If you had a 3D printer at home, what would you make with it?"
+ ],
+ "article1": {
+  "title": "INSIDE THE LIGHTS-OUT FACTORY",
+  "vocab": [
+   "Modern laser cutters work with such [[precision]] that each piece fits perfectly the first time.",
+   "The company [[deployed]] twenty new robots on the assembly line just before the busy season.",
+   "Almost a third of the factory's [[workforce]] is now made up of engineers and technicians.",
+   "Typewriters became almost [[obsolete]] once personal computers were cheap enough for every office.",
+   "Packing the same product into identical boxes all day is extremely [[repetitive]] work.",
+   "A single supervisor can now [[oversee]] three production lines from one control room.",
+   "Thanks to the new equipment, the plant's daily [[output]] rose from 500 to 800 units.",
+   "When the mine closed, many former miners chose to [[retrain]] as electricians or plumbers."
+  ],
+  "definitions": [
+   "(n) the amount of something that a person, machine or factory produces",
+   "(adj) no longer used or needed because something newer and better exists",
+   "(v) to learn new skills, especially in order to do a different job",
+   "(n) the quality of being very exact and accurate",
+   "(v) to watch and organise work to make sure it is done correctly",
+   "(n) all the people who work in a company, industry or country",
+   "(adj) involving doing the same thing many times, often in a boring way",
+   "(v) put into use or into position for a particular purpose"
+  ],
+  "paragraphs": [
+   "On the outskirts of a mid-sized Japanese city stands a factory where the lights are almost never switched on. Inside, rows of robotic arms weld, lift and assemble components around the clock, while a handful of engineers monitor screens from a control room upstairs. Plants like this, sometimes called 'lights-out' factories, can run for weeks without a single person on the production floor. They are still rare, but they offer a glimpse of where manufacturing may be heading as robots are [[deployed]] in ever greater numbers across the world.",
+   "The appeal is easy to understand. A robot can place a microchip with a [[precision]] of a fraction of a millimetre, and it will do so in exactly the same way on its ten-thousandth attempt as on its first. It does not get bored, distracted or tired at the end of a long shift, and it never needs a holiday. For products where tiny errors are costly, such as car engines or medical devices, this consistency is arguably worth even more than speed, although robots usually offer that as well.",
+   "Until recently, only the largest manufacturers could afford this level of automation. Industrial robots were expensive, enormous and had to be kept in safety cages, well away from people. Today, prices have fallen sharply, and a new generation of smaller 'collaborative' robots, or cobots, can work safely alongside human staff. A family-run furniture workshop can now lease a robotic arm for a monthly fee, programme it using a tablet and move it between tasks in an afternoon, something that would have been unthinkable twenty years ago.",
+   "Unsurprisingly, the first jobs to be affected are those built around [[repetitive]] tasks: packing boxes, tightening the same screw, moving parts from one conveyor belt to another. In some regions, the number of people employed in these roles has dropped noticeably, even as factories produce more than ever. Economists point out that the manufacturing [[workforce]] has been shrinking for decades in many wealthy countries, but automation has accelerated the trend, and the people most affected are often those with the fewest qualifications.",
+   "At the same time, robots are creating jobs that barely existed a generation ago. Someone has to programme the machines, repair them when they break down and [[oversee]] entire production lines from a screen. These roles tend to be better paid and less physically demanding, but they require technical skills that many existing employees simply do not have. A growing number of companies now pay for staff to [[retrain]], turning former machine operators into maintenance technicians and data analysts rather than replacing them.",
+   "Automation is also changing where things are made. For decades, manufacturers moved production to countries where labour was cheap. When robots do most of the work, however, wage differences matter far less, and factories can be built closer to their customers. Several European and American firms have brought production back home in recent years, arguing that a highly automated local plant can match the [[output]] of a much larger overseas one while cutting shipping times, transport costs and emissions.",
+   "Robots still have clear limits. They are excellent at doing one thing perfectly, but surprisingly poor at coping with the unexpected: a slightly bent component, an unusual order, a sudden change in design. Human workers remain far better at improvising, spotting problems and suggesting improvements. The real risk, many experts argue, is not that people will become [[obsolete]], but that their skills will if they are not regularly updated. The factory of the future may be quieter and darker, but it is unlikely to be completely empty."
+  ],
+  "headings": [
+   "Bringing production back home",
+   "A factory that works in the dark",
+   "The jobs that disappear first",
+   "Why robots are becoming more expensive",
+   "Accuracy that never gets tired",
+   "Where humans still have the edge",
+   "Robots within reach of smaller firms",
+   "New roles on the factory floor"
+  ]
+ },
+ "word_forms": [
+  [
+   "Robotic arms can cut and weld metal far more ________ than even the most experienced human worker.",
+   "precision"
+  ],
+  [
+   "In the electronics industry, rapid ________ means that equipment bought today may be out of date within five years.",
+   "obsolete"
+  ],
+  [
+   "Many sports brands now offer online ________ of trainers, from the colour of the laces to the shape of the sole.",
+   "customised"
+  ],
+  [
+   "The large-scale ________ of cobots in small workshops has happened much faster than analysts predicted.",
+   "deployed"
+  ],
+  [
+   "Investors were not convinced of the long-term ________ of a neighbourhood print shop.",
+   "viable"
+  ]
+ ],
+ "language_dev": {
+  "title": "Talking about production and efficiency",
+  "skill_name": "Verb + noun collocations",
+  "skill_text": "When we describe how factories and businesses change, certain verbs combine with a small, predictable group of nouns, for example [[boost productivity]], [[meet demand]] or [[phase out machinery]]. Learning these as fixed chunks helps you write about industry precisely and naturally, rather than relying on general verbs such as *make*, *do* or *change*.",
+  "table": [
+   [
+    "boost",
+    "productivity, output, efficiency (increase)"
+   ],
+   [
+    "cut",
+    "costs, waste, jobs (reduce)"
+   ],
+   [
+    "streamline",
+    "processes, operations, production (make simpler and more efficient)"
+   ],
+   [
+    "meet",
+    "demand, deadlines, targets (achieve what is needed)"
+   ],
+   [
+    "phase out",
+    "machinery, jobs, older models (stop gradually)"
+   ],
+   [
+    "scale up",
+    "production, operations, manufacturing (expand)"
+   ]
+  ],
+  "instruction": "Complete the sentences with the correct verb from the table above. Change the form if necessary.",
+  "sentences": [
+   "After installing the new robots, the plant managed to ________ its output by nearly 40%.",
+   "The company plans to ________ its oldest machines over the next three years and replace them with cobots.",
+   "To ________ demand during the holiday season, the factory added an extra night shift.",
+   "Switching to 3D-printed parts helped the workshop ________ waste, as only the material needed is used.",
+   "Once the prototype had been approved, the start-up began to ________ production for the international market.",
+   "Moving all orders onto a single digital platform has helped the firm ________ its operations and remove several unnecessary steps."
+  ]
+ },
+ "article2": {
+  "title": "WILL 3D PRINTING BRING FACTORIES HOME?",
+  "intro": "The sentences below are about 3D printing and local manufacturing. Choose the correct meaning (a, b or c) for the word in bold.",
+  "vocab": [
+   {
+    "q": "The engineers built a simple [[prototype]] of the drone so they could test it before full production.",
+    "options": [
+     "a final version sold in shops",
+     "a first model used for testing an idea",
+     "a cheap copy of another product"
+    ]
+   },
+   {
+    "q": "The online shop sells bicycles [[customised]] to each rider's height and riding style.",
+    "options": [
+     "produced in very large numbers",
+     "imported from another country",
+     "changed to suit a particular person"
+    ]
+   },
+   {
+    "q": "The company moved from one huge plant to a more [[decentralised]] network of small workshops.",
+    "options": [
+     "controlled from one central place",
+     "spread across many smaller local places",
+     "closed down permanently"
+    ]
+   },
+   {
+    "q": "A single delay at a port can disrupt the entire [[supply chain]] for a product.",
+    "options": [
+     "the series of companies and steps involved in making and delivering goods",
+     "a list of prices charged by suppliers",
+     "a group of shops owned by the same company"
+    ]
+   },
+   {
+    "q": "Self-service checkouts have begun to [[displace]] cashiers in many supermarkets.",
+    "options": [
+     "to support",
+     "to train",
+     "to take the place of"
+    ]
+   },
+   {
+    "q": "The firm found a profitable [[niche]] making tools for left-handed people.",
+    "options": [
+     "a small, specialised area of demand",
+     "a large general market",
+     "a new type of factory"
+    ]
+   },
+   {
+    "q": "Before the strike began, the factory built up a [[stockpile]] of raw materials.",
+    "options": [
+     "a tax on imported goods",
+     "a damaged batch of products",
+     "a large supply kept for future use"
+    ]
+   },
+   {
+    "q": "Without government support, the project was not financially [[viable]].",
+    "options": [
+     "too risky to try",
+     "capable of succeeding in practice",
+     "popular with young people"
+    ]
+   }
+  ],
+  "paragraphs": [
+   "For most of the last hundred years, manufacturing followed a simple rule: the bigger the factory, the cheaper each product. Goods were made in enormous quantities in a few locations and then shipped around the world through a long and complicated [[supply chain]] of ports, warehouses and lorries. 3D printing, also known as additive manufacturing, challenges that rule. Instead of cutting or moulding material, a printer builds an object layer by layer from a digital file, which means the same machine can produce a thousand identical items or a thousand different ones at roughly the same cost per piece.",
+   "The technology was first used mainly by engineers and designers who needed a quick [[prototype]] to test an idea before investing in expensive tools and moulds. A model that once took weeks to make by hand could be printed overnight, examined, improved and printed again the next day. Over time, however, printers have become faster, more reliable and able to work with a far wider range of materials, from plastics and resins to metals, ceramics and even concrete. Some aerospace companies now print finished engine parts that are lighter and stronger than conventionally produced ones.",
+   "Perhaps the most significant change is that products can be [[customised]] for individual buyers at little extra cost. Dental clinics print crowns shaped precisely to a patient's mouth; sports brands sell running shoes with soles designed around a scan of the customer's foot; hearing-aid manufacturers have almost entirely switched to printing each device individually. Products like these were once luxury items, but on-demand production is turning them into everyday ones. For businesses serving a [[niche]] market, such as replacement parts for vintage cars, printing can make a previously unprofitable product line suddenly worthwhile.",
+   "Supporters argue that 3D printing could make manufacturing far more [[decentralised]]. Instead of ordering a spare part from a factory on another continent, a garage or hospital might simply download the design and print it locally. Companies would no longer need warehouses holding a huge [[stockpile]] of parts that may never be used, which would reduce waste as well as transport emissions. During recent disruptions to global shipping, small workshops printed face shields and valves for nearby hospitals within days, showing how quickly local production can respond to a crisis.",
+   "The picture for jobs is mixed. On the one hand, printing could [[displace]] some workers in traditional factories, as well as drivers and warehouse staff whose jobs depend on moving goods over long distances. On the other hand, it may create new opportunities close to home: designers, printer technicians, materials specialists and owners of small neighbourhood print shops. Unlike earlier waves of automation, which concentrated production in fewer, larger plants, 3D printing could spread manufacturing work across many small towns and cities rather than a handful of industrial centres.",
+   "Even so, mass production is not about to disappear. For simple items made in millions, such as plastic bottles or screws, traditional methods remain much faster and cheaper, and printed parts can still be less durable. Many analysts therefore expect a hybrid future, in which large factories continue to produce standard goods while local printers handle spare parts, personalised products and small batches. Whether local manufacturing becomes economically [[viable]] on a large scale will depend on cost, regulation and skills, but for the first time in a century, the most efficient factory may not need to be the biggest."
+  ],
+  "discussion": [
+   "Would you prefer to buy a product that was customised for you, even if you had to wait longer for it? Why / why not?",
+   "Do you think 3D printing will create more jobs in your town or city than it takes away? Give reasons."
+  ]
+ },
+ "grammar": {
+  "title": "The passive with modals & the causative (have / get something done)",
+  "intro": "When we describe a process, we are usually more interested in what happens to the product than in who does each step, so the passive is extremely common. Modal verbs add meaning such as possibility, obligation or advice, while the causative (have / get something done) shows that we arrange for someone else to do a job for us.",
+  "rules_intro": "The rules below explain how to form the passive after a modal verb, and when to use have or get + object + past participle.",
+  "rules": [
+   {
+    "rule": "Modal + **be** + past participle describes possibility, obligation or ability in the present or future.",
+    "example": "The parts **can be printed** overnight and **must be checked** before they are packed."
+   },
+   {
+    "rule": "Modal + **have been** + past participle refers to the past — often criticism, regret or deduction.",
+    "example": "The fault **should have been noticed** much earlier in the process."
+   },
+   {
+    "rule": "In process descriptions, the by-phrase is usually omitted because the agent is obvious or unimportant.",
+    "example": "The metal sheets **are cleaned** and then **cut** to size (by the workers)."
+   },
+   {
+    "rule": "Use **have** + object + past participle when you arrange for someone else to do a service for you.",
+    "example": "We **had the machines serviced** by an outside engineer last week."
+   },
+   {
+    "rule": "**Get** + object + past participle means the same but is more informal, and often suggests effort or urgency.",
+    "example": "We need to **get these orders shipped** by Friday."
+   },
+   {
+    "rule": "The causative can also describe something unpleasant that happened to someone, usually not by choice.",
+    "example": "The workshop **had its roof damaged** in last night's storm."
+   }
+  ],
+  "exA": {
+   "instruction": "Exercise A — Complete the paragraph using the words in brackets. Use the passive with a modal verb or the causative (have/get something done).",
+   "text": "Before a new part is produced, the digital design (1) ___________ (must / check) carefully by an engineer. Small errors (2) ___________ (can / correct) at this stage at almost no cost. Once it has been approved, the file (3) ___________ (can / send) directly to the printer. Large orders (4) ___________ (might / split) between several machines to save time. Last month, the company (5) ___________ (its printers / upgrade) by an outside specialist, so the process is now much faster. Earlier problems with weak parts (6) ___________ (should / avoid) if the material had been tested properly. Today, every finished part (7) ___________ (must / inspect) before it leaves the workshop, and customers who need parts urgently can (8) ___________ (them / deliver) the same day."
+  },
+  "exB": {
+   "instruction": "Exercise B — Rewrite each sentence using the passive with a modal, or the causative with the verb in brackets.",
+   "items": [
+    "Workers must clean the machines at the end of every shift.",
+    "A technician will repair our robotic arm tomorrow. (have)",
+    "Someone should have tested the software before the new line was launched.",
+    "We can print replacement parts on site in a few hours.",
+    "A local company is going to install solar panels on our factory roof. (get)"
+   ]
+  }
+ },
+ "academic": {
+  "subtitle": "Describing a process — sequencing the stages clearly",
+  "skill_name": "Describing a process",
+  "skill_text": "When you describe how something is made, the reader needs to follow each stage in the correct order. Use sequencing language such as *initially*, *first of all*, *once…*, *after that*, *subsequently*, *at this stage*, *meanwhile* and *finally*, and combine it with the passive, since the focus is on the product rather than the people.",
+  "example": [
+   [
+    "WITHOUT SEQUENCING",
+    "The design is created on a computer. It is sent to the printer. The object is built layer by layer. It is removed and polished."
+   ],
+   [
+    "WITH SEQUENCING",
+    "**Initially**, the design is created on a computer. **Once** it has been finalised, it is sent to the printer, where the object is built layer by layer. **Finally**, it is removed and polished."
+   ]
+  ],
+  "instruction": "Combine each pair of steps into one sentence, using the sequencing word or phrase in brackets.",
+  "items": [
+   "The raw cotton is collected from the fields. It is cleaned to remove seeds and dirt. (initially … then)",
+   "The fibres have been spun into thread. They are woven into cloth. (once)",
+   "The cloth is dyed. It is washed several times to fix the colour. (after that)",
+   "The fabric is cut into pieces. A computer checks that no material is wasted. (at this stage)",
+   "The pieces are sewn together by machine. The labels are printed in another part of the factory. (meanwhile)",
+   "The finished shirts are inspected and folded. They are packed and sent to shops. (subsequently)"
+  ],
+  "task": "Write a short paragraph (80–100 words) describing how a product you know is made — for example bread, a cup of coffee, a T-shirt or a 3D-printed toy. Use at least four sequencing expressions and at least two passive forms."
+ },
+ "reading": {
+  "part": 1,
+  "test": 1,
+  "blocks": [
+   {
+    "type": "instruction",
+    "text": "TEST 1"
+   },
+   {
+    "type": "instruction",
+    "text": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text."
+   },
+   {
+    "type": "text",
+    "paragraphs": [
+     "The online retail giant Amazon has released its first ever big-budget PC game. The game is called Crucible. It is a science-fiction shooter (1)__________. It has many unusual characters that have special powers. Crucible is currently only available in North America, where people can download it from the video distribution website Steam. Amazon said the game will be (2)__________ in other parts of the world soon. Crucible was created by Amazon Game Studios and Relentless Studios and is free. Amazon is a newcomer in the video games market. It hopes to become a major producer of games. Many experts on (3)__________ games believe Crucible could be very successful. They say it could be a rival to the game Fortnite.",
+     "Crucible is set in an apocalyptic world on a fictional planet in outer space. Very few people can walk around outside on this (4)__________. Players can go outside but they must hunt and kill different creatures and monsters. They must also collect a special material called \"essence\". This helps (5)__________ level up and become stronger. Mike Frazzini, the vice president of Amazon Games, spoke about Crucible. He said he hoped it would help people to connect with each other. He told reporters: \"We want to make games that resonate with a very large audience of players.\" He added: \"One of the reasons I've always loved games is not only is it a fun form of entertainment, but it's a way to (6)__________ with others.\""
+    ]
+   },
+   {
+    "type": "instruction",
+    "text": "TEST 2"
+   },
+   {
+    "type": "instruction",
+    "text": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text."
+   },
+   {
+    "type": "text",
+    "paragraphs": [
+     "Early risers are people who naturally wake up early in the morning. Their body clock causes them to get up while most of us are still in deep sleep. Researchers at the University of California said early (1)_________ could have some shared DNA from Neanderthals – our ancestors who lived over 40,000 years ago. Neanderthals lived in northern parts of Europe and Asia. They (2)_________ up earlier to hunt for or gather food as the sun rose. Researcher Dr Tony Capra said: \"At higher latitudes it is beneficial to have a body (3)_________ that is better able to anticipate and change to match the changing seasonal light levels.\" He added: \"Having a 'faster' body clock…makes individuals more likely to rise early.\"",
+     "Scientists have spent a long time looking at why some people are early birds, while others are night owls. They looked at a medical database with genetic information for hundreds of thousands of (4)_________. They compared the DNA of people who said they were early risers with the Neanderthal DNA. The (5)_________ found more examples of Neanderthal DNA existed in the early risers. However, it is likely that the Neanderthal gene is not so strong in many people. The effect of the Neanderthal DNA may be weakening as the centuries pass. Our modern lifestyles mean many of us prefer sleeping in to leaving the comfort of our bed. Nevertheless, it may still be true that the early (6)_________ catches the worm."
+    ]
+   }
+  ]
+ },
+ "wordlist": [
+  "online retail giant",
+  "release",
+  "big-budget",
+  "science-fiction",
+  "special powers",
+  "available",
+  "distribution",
+  "newcomer",
+  "major producer",
+  "rival",
+  "apocalyptic",
+  "fictional",
+  "hunt",
+  "creature",
+  "level up",
+  "resonate with",
+  "form of entertainment",
+  "connect with",
+  "early riser",
+  "body clock",
+  "ancestor",
+  "gather",
+  "beneficial",
+  "anticipate",
+  "early bird",
+  "night owl",
+  "genetic information",
+  "weaken",
+  "sleep in",
+  "nevertheless"
+ ],
+ "listening": {
+  "part": 6,
+  "test": 1,
+  "blocks": [
+   {
+    "type": "instruction",
+    "audio": true,
+    "text": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space."
+   },
+   {
+    "type": "instruction",
+    "text": "Write no more than one word for each answer."
+   },
+   {
+    "type": "notes",
+    "title": "A WEB DEVELOPER",
+    "lines": [
+     "He studied computer science at a university.",
+     "After his graduation, he worked as a freelancer and now he works with a 30__________.",
+     "He believes that organization is crucial for developers, so he starts his work with arrangements. He usually divides his projects into 31__________.",
+     "After planning, he puts his mind on the pieces of a website which 32__________ see and interact with.",
+     "Then, he takes a break for a while. He may get a 33__________ to eat.",
+     "Debugging, he claims, needs much attention to detail. When debugging, he fixes problems in the 34__________.",
+     "Optimizing means, improving loading times and checking the efficiency of the site. To optimize a site, he may compress images or refine the code. He notes the process as 35__________.",
+     "At the end of the day, he communicates with his clients."
+    ]
+   }
+  ]
+ },
+ "idioms": [
+  [
+   "Run like clockwork",
+   "To operate smoothly, exactly as planned and without problems."
+  ],
+  [
+   "A well-oiled machine",
+   "An organisation or team that works very efficiently."
+  ],
+  [
+   "Up and running",
+   "Working fully; in operation after being set up or repaired."
+  ],
+  [
+   "Back to the drawing board",
+   "To start planning again because the first attempt has failed."
+  ],
+  [
+   "Cut corners",
+   "To do something cheaply, quickly or carelessly, often ignoring rules or quality."
+  ],
+  [
+   "Off the shelf",
+   "Ready-made and available immediately, not designed for a particular customer."
+  ],
+  [
+   "Made to measure",
+   "Made specially to fit or suit one particular person or purpose."
+  ],
+  [
+   "Roll off the production line",
+   "To be produced in a factory, especially in large numbers."
+  ],
+  [
+   "Grind to a halt",
+   "To slow down gradually and then stop completely."
+  ],
+  [
+   "Pull the plug on (something)",
+   "To stop a project or activity, usually by withdrawing money or support."
+  ],
+  [
+   "Learn the ropes",
+   "To learn the basic skills and routines of a new job."
+  ],
+  [
+   "Get your hands dirty",
+   "To do practical, physical work rather than just giving instructions."
+  ],
+  [
+   "In the pipeline",
+   "Being planned or developed and likely to happen soon."
+  ],
+  [
+   "Iron out the kinks",
+   "To solve the small problems in a plan, product or process."
+  ],
+  [
+   "A cog in the machine",
+   "A person with a small, unimportant role in a large organisation."
+  ]
+ ],
+ "writing": {
+  "kind": "letter",
+  "title": "WRITING PART 1.2",
+  "useful_title": "USEFUL LANGUAGE — Formal letter",
+  "useful": [
+   [
+    "Opening",
+    "Dear Sir/Madam, / Dear [Title], / I am writing in response to your recent email regarding..."
+   ],
+   [
+    "Reacting / feelings",
+    "I was delighted/concerned to learn that... / I must admit I have mixed feelings about..."
+   ],
+   [
+    "Giving a suggestion",
+    "I would strongly recommend that... / It might be worth considering... / Perhaps the workshop could be..."
+   ],
+   [
+    "Requesting a reply",
+    "I would be grateful if you could... / I would appreciate further information about..."
+   ],
+   [
+    "Closing",
+    "Thank you for taking members' views into account. / Yours faithfully, / Yours sincerely,"
+   ]
+  ],
+  "practice_title": "PART 1.1 PRACTICE",
+  "situation": "You are a member of a local Makers' Club, a community workshop where members build and repair things. You received this email from the club's manager.",
+  "email": "Dear Member,\nI'm writing to let you know about an important change at the Makers' Club. From next month, we will be replacing half of our traditional woodworking benches with six new 3D printers and a laser cutter. We believe this will attract younger members and allow everyone to try modern manufacturing techniques. However, it does mean that there will be less space for hand tools and woodwork classes. Before we finalise the new layout, we would like to hear how you feel about this change and what training or facilities you think we should offer.\nBest wishes,\nThe Manager",
+  "task11": "Task 1.1 — Write a letter to your friend, who is also a member of the Makers' Club. Write about your feelings about the change and what you think the club should do. Write about 50 words.",
+  "task12": "Task 1.2 — Write a letter to the manager. Write about your feelings about the change and what training or facilities you think the club should offer. Write about 120–150 words.",
+  "rules_title": "RULES for Task 1.2 (formal letter)",
+  "rules": [
+   "Respond to the SAME message as Task 1.1 — cover the same two things (feelings + suggestions), but in more depth.",
+   "Aim for 120–150 words — several short paragraphs, not one block of text.",
+   "Use a formal register throughout: no contractions, slang or exclamation marks.",
+   "Structure it clearly: a reason for writing, your reaction, your suggestion(s) in detail, and a polite closing.",
+   "Open with Dear Sir/Madam or Dear [Title], and close with Yours faithfully/sincerely.",
+   "Show a wider range of grammar than in Task 1.1 — passives with modals (could be offered, should be kept), the causative and formal linkers (furthermore, provided that, in addition)."
+  ],
+  "sample_title": "SAMPLE ANSWER",
+  "sample": "Dear Manager,\nThank you for informing members about the planned changes to the workshop. I must admit I have mixed feelings about the news. While I am excited about the opportunity to learn 3D printing and laser cutting, I am concerned that reducing the woodworking area will discourage many long-standing members who joined the club specifically for traditional craft.\nI would therefore suggest that at least a few woodworking benches should be kept, and that hand-tool classes could be offered at weekends, when demand is highest. In addition, I believe beginners' training on the new machines is essential, as most members will not have used a 3D printer before. Perhaps short evening courses could be run by experienced members.\nFurthermore, it might be worth having the new equipment installed in a separate room, so that noise and dust from the woodwork area do not cause problems.\nI look forward to hearing your thoughts.\nYours faithfully,\nA. Karimov",
+  "practice2_title": "TASK 1.2 PRACTICE — now you try, with a new message",
+  "situation2": "You live in a neighbourhood next to a furniture factory. You received this email from the factory's director.",
+  "email2": "Dear Neighbour,\nI am pleased to inform you that our factory will soon introduce a fully automated production line. As a result, the factory will operate 24 hours a day, and deliveries will arrive more frequently, including at night. We also plan to open a small training centre where local residents can learn to operate and maintain the new machines. We value our relationship with the community and would welcome your views on these plans. In particular, we would like to know whether night-time deliveries might cause problems for residents, and what kind of courses you would find most useful.\nKind regards,\nThe Director",
+  "task2": "Task 1.2 — Write a letter to the Director. Write about your feelings about the new plans and what you think the factory should do to support local residents. Write about 120–150 words."
+ },
+ "speaking": {
+  "part": "1.1",
+  "title": "SPEAKING PART 1.1",
+  "questions": [
+   "Do you enjoy making or repairing things with your hands?",
+   "Is there a factory or industry that is important in your town or region?",
+   "Would you prefer to buy handmade or mass-produced products? Why?",
+   "Have you ever visited a factory or watched how something is made?",
+   "Do you think you would enjoy working in a factory? Why / why not?",
+   "What product would you most like to see made in your own country?"
+  ],
+  "samples": [
+   [
+    "Do you enjoy making or repairing things with your hands?",
+    "Yes, **to be honest, I find it really satisfying**. My grandfather taught me to fix bicycles, so whenever something breaks at home, **I'm usually the one who has a go** at repairing it. **There's nothing quite like** seeing something work again because of your own effort."
+   ],
+   [
+    "Would you prefer to buy handmade or mass-produced products? Why?",
+    "**It depends on what it is**, really. For everyday things like phone chargers, **I'd go for** mass-produced items because they're cheaper and more reliable. But for gifts, **I'd much rather** buy something handmade, since **it feels more personal** and you know someone has put real care into it."
+   ],
+   [
+    "Do you think you would enjoy working in a factory? Why / why not?",
+    "**Probably not on a production line**, because I think the repetitive tasks would drive me crazy. **That said**, I'd be quite interested in a technical role, like programming robots or overseeing quality control, **since it would involve** solving problems rather than doing the same thing all day."
+   ]
+  ],
+  "useful": [
+   [
+    "Answering directly:",
+    "Yes, definitely... / Not really, to be honest... / It depends on..."
+   ],
+   [
+    "Giving a reason:",
+    "...mainly because... / ...since... / The main reason is that..."
+   ],
+   [
+    "Expressing preference:",
+    "I'd much rather... / I'd go for... / I tend to prefer..."
+   ],
+   [
+    "Adding a personal example:",
+    "For example, last year I... / When I was younger, I used to..."
+   ],
+   [
+    "Showing balance:",
+    "That said, ... / On the other hand, ... / Having said that, ..."
+   ],
+   [
+    "Buying time:",
+    "That's an interesting question... / Let me think... / I've never really thought about it, but..."
+   ]
+  ]
+ },
+ "key": {
+  "article1_vocab": "1 d  2 h  3 f  4 b  5 g  6 e  7 a  8 c",
+  "word_forms": "1 precisely  2 obsolescence  3 customisation  4 deployment  5 viability",
+  "headings": "1 B  2 E  3 G  4 C  5 H  6 A  7 F  (D not needed)",
+  "language_dev": "1 boost  2 phase out  3 meet  4 cut  5 scale up  6 streamline",
+  "article2_vocab": "1 b  2 c  3 b  4 a  5 c  6 a  7 c  8 b",
+  "grammar_a": "1 must be checked  2 can be corrected  3 can be sent  4 might be split  5 had its printers upgraded  6 should have been avoided  7 must be inspected  8 have/get them delivered",
+  "grammar_b": "1 The machines must be cleaned at the end of every shift.  2 We will have our robotic arm repaired (by a technician) tomorrow.  3 The software should have been tested before the new line was launched.  4 Replacement parts can be printed on site in a few hours.  5 We are going to get solar panels installed on our factory roof (by a local company).",
+  "reading": "TEST 1: 1 game  2 available  3 video  4 planet  5 players  6 connect   TEST 2: 1 risers  2 got (get)  3 clock  4 people  5 researchers  6 bird"
+ }
+}

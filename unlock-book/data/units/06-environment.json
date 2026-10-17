@@ -1,0 +1,369 @@
+{
+  "n": 6,
+  "title": "ENVIRONMENT",
+  "subtitle": "A CHANGING PLANET",
+  "cover_color": "#14532D",
+  "image_prompt": "Illustrated editorial cover: rusting fishing boats stranded on a cracked, salt-white desert floor where a sea once was, a thin line of blue water on the far horizon, and young green desert shrubs sprouting in the foreground, warm evening light, painterly style, muted greens and sandy ochres, no text or lettering in the image.",
+  "warmup": [
+    "How much water do you think your family uses in a typical day? Could you easily use less?",
+    "What do you know about the Aral Sea? Why do you think its story is known around the world?",
+    "Which environmental problem worries you most, and why?",
+    "If you could bring back one animal or plant that has disappeared from your region, what would it be?"
+  ],
+
+  "article1": {
+    "title": "THE SEA THAT DISAPPEARED",
+    "vocab": [
+      "In many dry regions, water [[scarcity]] now limits how much food farmers are able to grow.",
+      "Without [[irrigation]], cotton would be almost impossible to cultivate in such a hot, dry climate.",
+      "Engineers [[diverted]] part of the river to supply a new reservoir on the edge of the city.",
+      "When the cannery closed, hundreds of families lost their [[livelihoods]] almost overnight.",
+      "Scientists regularly measure the [[salinity]] of the lake to check whether fish can still survive in it.",
+      "The flood had a [[catastrophic]] effect on the harvest, destroying almost every crop in the valley.",
+      "Planting trees along busy roads can help [[mitigate]] the effects of air pollution.",
+      "Managing [[transboundary]] rivers requires agreements between all the countries they flow through."
+    ],
+    "definitions": [
+      "(adj) causing sudden, very great damage or suffering",
+      "(n) the supply of water to land or crops through channels or pipes",
+      "(v) to make something harmful less severe or serious",
+      "(n) a situation in which there is not enough of something",
+      "(adj) crossing or existing across the borders between countries",
+      "(n) the ways in which people earn the money they need to live",
+      "(v) changed the direction or purpose of something",
+      "(n) the amount of salt contained in water or soil"
+    ],
+    "paragraphs": [
+      "Half a century ago, the Aral Sea, which lies on the border between Uzbekistan and Kazakhstan, was the fourth-largest lake on Earth, covering more than 60,000 square kilometres. Fishing fleets worked its waters, and towns along its shores depended on it for food, jobs and even a milder local climate. Today, most of that water has gone, and the Aral has become one of the most frequently quoted examples of what water [[scarcity]] caused by human activity can look like. Its story is a warning that reaches far beyond Central Asia.",
+      "The decline did not stem from drought or natural change. From the 1960s onwards, planners decided that the region's two great rivers, the Amu Darya and the Syr Darya, should feed a vast expansion of [[irrigation]] for cotton and other thirsty crops. Thousands of kilometres of canals were dug, and so much water was [[diverted]] that only a small fraction of the rivers' flow ever reached the sea. Many of the canals were unlined, so huge volumes were lost to evaporation and seepage long before they arrived at the fields.",
+      "As the shoreline retreated, in places by more than a hundred kilometres, the fishing industry collapsed. Ports such as Moynaq in Karakalpakstan found themselves stranded in the desert, their rusting ships now a grim attraction for visitors. Tens of thousands of people who had depended on the sea lost their [[livelihoods]], and many younger residents left to look for work elsewhere. For those who stayed, the economic damage was accompanied by a painful sense that a whole way of life had disappeared within a single generation.",
+      "The environmental effects were equally severe. As the volume of water fell, its [[salinity]] rose sharply, eventually becoming too high for most native fish species to survive. The exposed seabed, now often called the Aralkum Desert, is covered in salt and the residue of agricultural chemicals that once washed into the sea. Strong winds lift this material into dust storms that can travel hundreds of kilometres, damaging crops and, according to many health studies, contributing to respiratory illness among local people.",
+      "Not everything has been lost, however. In 2005, Kazakhstan completed the Kok-Aral Dam, which separated the smaller northern part of the sea from the larger southern basin. Water levels in the North Aral rose noticeably within a few years, salinity fell, and commercially valuable fish returned, allowing a modest fishing industry to restart. The project showed that even after [[catastrophic]] damage, carefully targeted engineering can bring about real improvement, although the southern part of the sea has continued to shrink.",
+      "On the Uzbek side, attention has turned to the dried seabed itself. Large-scale planting of saxaul, a hardy desert shrub with deep roots, aims to hold the salty soil in place and [[mitigate]] the dust storms that blow across the region. International organisations have supported these efforts alongside projects to improve health care, drinking water and local employment. Few experts expect the southern sea to return, but stabilising the land around it is widely seen as an achievable goal.",
+      "The wider lesson concerns how Central Asia shares its water. The Amu Darya and Syr Darya are [[transboundary]] rivers, flowing through several countries whose needs do not always match: upstream states value water for hydropower in winter, while downstream farmers need it most in summer. Population growth and the gradual melting of mountain glaciers add further pressure. Efficient drip irrigation, repaired canals and closer regional cooperation are widely seen as the most realistic way to prevent the mistakes of the past from being repeated."
+    ],
+    "headings": [
+      "Salt and dust on the wind",
+      "Once a giant among lakes",
+      "One river system, many nations",
+      "Tourism as the key to recovery",
+      "Rivers redirected to the fields",
+      "Holding the desert in place",
+      "Ships stranded in the sand",
+      "A dam that brought the fish back"
+    ]
+  },
+
+  "word_forms": [
+    ["The rapid ________ of the Aral Sea shocked scientists who visited the region in the 1980s.", "disappear"],
+    ["Coastal towns were so ________ on fishing that the collapse of the industry left them with almost nothing.", "depend"],
+    ["The ________ of the wetland took more than ten years and involved hundreds of local volunteers.", "restore"],
+    ["Many experts remain ________ about whether the southern part of the sea can ever be saved.", "sceptic"],
+    ["Saxaul is valued for its remarkable ________ to drought, heat and salty soil.", "resilient"]
+  ],
+
+  "language_dev": {
+    "title": "Describing environmental problems and solutions",
+    "skill_name": "Verb + noun collocations",
+    "skill_text": "Writing about the environment relies heavily on fixed verb + noun combinations — for example [[pose a threat]], or [[take measures]]. Choosing the right verb for each noun makes your writing sound precise and academic, while the wrong choice (*make measures*, *do a threat*) immediately sounds unnatural to an expert reader.",
+    "table": [
+      ["pose", "a threat, a risk, a challenge (negative)"],
+      ["deplete", "resources, reserves, supplies (negative)"],
+      ["take", "measures, steps, action (neutral)"],
+      ["raise", "awareness, concerns, questions (mixed)"],
+      ["reverse", "the damage, a decline, a trend (positive)"],
+      ["conserve", "water, energy, habitats (positive)"]
+    ],
+    "instruction": "Complete the sentences with the correct verb from the table above, in the correct form.",
+    "sentences": [
+      "Decades of over-irrigation have seriously ________ the region's groundwater reserves.",
+      "Rising salt levels ________ a serious threat to the few fish species that remain in the lake.",
+      "The documentary helped to ________ awareness of the crisis among young people across the country.",
+      "Several governments have already ________ measures to reduce water losses from old, leaking canals.",
+      "Ecologists hope that replanting native trees will ________ the damage caused by decades of logging.",
+      "Switching to drip systems allows farmers to ________ water without reducing the size of their harvests."
+    ]
+  },
+
+  "article2": {
+    "title": "BRINGING NATURE BACK",
+    "intro": "The sentences below are about restoring nature. Choose the correct meaning (a, b or c) for the word in bold.",
+    "vocab": [
+      {"q": "The once-rich farmland had become so [[degraded]] that almost nothing would grow there.",
+       "options": ["damaged and lower in quality", "protected by law", "recently ploughed"]},
+      {"q": "Beavers are often described as a [[keystone]] species because so many other animals depend on the habitats they create.",
+       "options": ["extremely rare", "having a central role that others depend on", "dangerous to humans"]},
+      {"q": "The [[reintroduction]] of the lynx to the forest was planned carefully over several years.",
+       "options": ["removal from an area", "the act of bringing back to a place where it used to live", "official count of the population"]},
+      {"q": "Removing a single predator can set off a [[cascade]] of changes throughout the food chain.",
+       "options": ["a series of connected effects", "a sudden flood of water", "a carefully controlled experiment"]},
+      {"q": "Supporters argue that nature often recovers best with minimal human [[intervention]].",
+       "options": ["observation from a distance", "financial support", "involvement in order to change or control something"]},
+      {"q": "[[Sceptics]] question whether rewilding can ever work in densely populated countries.",
+       "options": ["people who doubt that something is true or will work", "people who pay for a project", "people who study wild animals"]},
+      {"q": "The marsh supports remarkable [[biodiversity]], from rare insects to migrating birds.",
+       "options": ["the number of tourists visiting a place", "the variety of plant and animal life in an area", "the quality and richness of the soil"]},
+      {"q": "Forests with many different tree species tend to be more [[resilient]] when disease or drought strikes.",
+       "options": ["easily damaged", "expensive to maintain", "able to recover quickly from difficulties"]}
+    ],
+    "paragraphs": [
+      "For most of the twentieth century, conservation meant protecting what was left: drawing a line around a forest or wetland and keeping people out. Rewilding takes a more ambitious approach. Instead of simply preserving fragments of wild land, it aims to restore whole ecosystems that have been [[degraded]] by farming, logging or development, and then allow natural processes to take over. The idea has spread rapidly over the past three decades, from national parks in North America to former farmland in Europe, and it now attracts support from scientists, landowners and governments alike.",
+      "The best-known example comes from Yellowstone National Park in the United States, where grey wolves had been hunted to local extinction by the 1920s. Their [[reintroduction]] in 1995 is often credited with triggering a [[cascade]] of ecological change. With predators back, elk began to avoid certain valleys and riverbanks, allowing willow and aspen to recover in places. Researchers still debate how large these effects have really been, since drought, hunting and other factors also played a part, but the case transformed public thinking about how predators shape the landscapes around them.",
+      "In Britain, attention has focused on a smaller animal: the beaver, which disappeared from the country several centuries ago. Beavers are widely regarded as a [[keystone]] species, because the dams they build create ponds and wetlands that many other creatures depend on. Trial releases have shown that these dams can slow the flow of water after heavy rain, reducing flood peaks downstream, while also trapping sediment and pollutants. In 2022, wild beavers in England were given legal protection, a clear sign of how far official attitudes have shifted.",
+      "Rewilding is not only about reintroducing famous animals. At the Knepp Estate in southern England, the owners abandoned intensive farming around the turn of the century after years of financial losses. Rather than planting trees or managing habitats closely, they kept human [[intervention]] to a minimum, letting free-roaming cattle, pigs and deer graze the land as wild herbivores once would have done. Within two decades, the former fields had turned into a patchwork of scrub, grassland and young woodland, and rare birds such as nightingales and turtle doves had returned in significant numbers.",
+      "The approach has its critics, however. [[Sceptics]] point out that rewilding can conflict with food production at a time when the global population is still growing, and some farmers worry that returning predators will attack their livestock. In the Netherlands, a project at Oostvaardersplassen attracted strong public criticism when large numbers of grazing animals died during a harsh winter, raising difficult questions about how 'wild' a managed landscape should really be. Supporters respond that rewilding works best when local communities are involved from the start and share in its benefits.",
+      "Despite these debates, the case for restoring damaged land is growing stronger. Healthy ecosystems store carbon, filter water and protect soils, and areas rich in [[biodiversity]] tend to be more [[resilient]] when they face drought, disease or extreme weather. In a world where climate change is putting pressure on every landscape, rewilding offers something rare in environmental news: evidence that damage can, at least partly, be undone. It will never replace the need to cut emissions, but it suggests that nature, given enough space and time, is often capable of healing itself."
+    ],
+    "discussion": [
+      "Would rewilding be possible in your country? Which animals or landscapes could realistically be restored?",
+      "Is it more important to restore damaged ecosystems or to protect the ones that are still healthy? Why?"
+    ]
+  },
+
+  "grammar": {
+    "title": "Nominalisation and cause–effect structures",
+    "intro": "Academic writers often turn verbs and adjectives into nouns (nominalisation), which allows them to pack more information into a sentence and to focus on processes rather than on people. This noun-based style combines naturally with formal cause–effect expressions such as *result in*, *stem from*, *owing to* and *as a consequence of*.",
+    "rules_intro": "The rules below explain how to form noun phrases from verbs and adjectives, and which cause–effect structures are followed by a noun, a clause or a new sentence.",
+    "rules": [
+      {"rule": "**Nominalisation**: change a verb or adjective into a noun (*shrink → shrinkage, scarce → scarcity, reintroduce → reintroduction*) and use it as the subject or object of the sentence.",
+       "example": "The sea shrank rapidly, which shocked scientists. → The rapid shrinkage of the sea shocked scientists."},
+      {"rule": "Use **result in / lead to / give rise to** + noun when the CAUSE comes first and the EFFECT follows the verb.",
+       "example": "Poor maintenance of the canals resulted in huge water losses."},
+      {"rule": "Use **stem from / result from / arise from** + noun when the EFFECT comes first and the CAUSE follows the verb. Do not confuse *result in* (→ effect) with *result from* (← cause).",
+       "example": "Many of the region's health problems stem from salt and dust storms."},
+      {"rule": "**Owing to / due to / because of** are followed by a noun phrase, not a full clause. Before a clause, use *owing to the fact that*.",
+       "example": "Owing to the rise in salinity, most native fish disappeared. / Owing to the fact that salinity rose, most native fish disappeared."},
+      {"rule": "**As a consequence of / as a result of** + noun introduce a cause within the sentence; **As a consequence, / Consequently,** (+ comma) begin a new sentence that describes an effect.",
+       "example": "As a consequence of the dam's construction, water levels rose. Fish returned to the lake. Consequently, the fishing industry restarted."},
+      {"rule": "Nominalisation makes these structures possible: a clause with a verb becomes a noun phrase that can follow *result in*, *owing to*, etc.",
+       "example": "Because wolves were reintroduced, the elk changed their behaviour. → The reintroduction of wolves led to a change in elk behaviour."}
+    ],
+    "exA": {
+      "instruction": "Exercise A — Complete the paragraph with the words and phrases in the box. Use each one once: *stem from, led to, Owing to, The disappearance, Consequently, result in, thanks to, reduction*.",
+      "text": "Many of Central Asia's water problems (1) ___________ decisions made more than sixty years ago. The rapid expansion of irrigation (2) ___________ a dramatic fall in the volume of water reaching the Aral Sea. (3) ___________ high evaporation rates, unlined canals lost a large share of their water before it arrived at the fields. (4) ___________ of most native fish was a direct result of rising salinity. The fishing industry collapsed. (5) ___________, thousands of people moved away in search of work. Dust storms from the dry seabed continue to (6) ___________ health problems for local residents. Since 2005, the North Aral has partly recovered (7) ___________ the Kok-Aral Dam. A further (8) ___________ in water losses could be achieved by repairing old canals across the region."
+    },
+    "exB": {
+      "instruction": "Exercise B — Rewrite each sentence using a noun phrase (nominalisation) and the structure in brackets.",
+      "items": [
+        "Rivers were diverted for cotton farming, so the Aral Sea shrank. (result in)",
+        "Many people in the region are ill because the air is polluted with salt and dust. (stem from)",
+        "Because rainfall decreased sharply, the harvest was poor. (owing to)",
+        "Wolves were reintroduced, and as a result the elk changed their behaviour. (as a consequence of)",
+        "Beavers build dams, which means that there is less flooding downstream. (lead to)"
+      ]
+    }
+  },
+
+  "academic": {
+    "subtitle": "Writing about causes and effects — showing how events are connected",
+    "skill_name": "Writing about causes and effects",
+    "skill_text": "Cause-and-effect writing explains why something happens and what follows from it. A strong paragraph makes the direction of each relationship clear, avoids overstating certainty (*may contribute to* rather than simply *causes*), and often shows a chain in which one effect becomes the cause of the next.",
+    "example": [
+      ["CAUSE → EFFECT", "Large-scale irrigation reduced the flow of both rivers, which in turn led to the shrinking of the sea."],
+      ["EFFECT ← CAUSE", "The collapse of the fishing industry stemmed largely from the sharp rise in salinity."]
+    ],
+    "instruction": "Identify the cause and the effect in each sentence. Then rewrite the sentence so that the effect comes first, using a different cause–effect expression.",
+    "items": [
+      "Rising temperatures are causing mountain glaciers in the Pamirs to melt more quickly.",
+      "Overgrazing by sheep and goats has led to serious soil erosion on the hillsides.",
+      "Because many old canals leak, farmers downstream often receive too little water.",
+      "The return of beavers has created new wetlands for frogs, insects and birds.",
+      "Plastic waste dumped in rivers eventually results in the pollution of the sea.",
+      "Owing to a long period of drought, several villages have had to rely on deliveries of drinking water."
+    ],
+    "task": "Write a short paragraph (80–100 words) explaining the causes and effects of one environmental problem in your city or region — for example air pollution, water shortages or waste. Use at least three cause–effect expressions from this unit, and show how one effect can lead to another."
+  },
+
+  "reading": {
+    "part": 2,
+    "test": 1,
+    "blocks": [
+      {"type": "instruction",
+       "text": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements.\nEach statement can be used ONCE only. There are TWO extra statements which you do not need to use.\nMark your answers on the answer sheet."},
+      {"type": "statements",
+       "items": [
+         "A) This café is the first thing most travelers can go.",
+         "B) Workers can go there to kick back.",
+         "C) You can go there on any part of the day.",
+         "D) This café serves free chilling drinks.",
+         "E) You can a free sandwich, internet connection and herbal teas there.",
+         "F) Prices can go lowers on Saturday and Sunday there.",
+         "G) This café has both modern and vintage look combined.",
+         "H) You can visit this café right after you have shopped.",
+         "I) You can drink your tea and coffee and enjoy an internet connection free of charge.",
+         "J) This café has food that has no meat in it."
+       ]},
+      {"type": "cards",
+       "items": [
+         {"title": "7. Breezy Bean Café",
+          "body": "Located beside the industrial area. Enjoy a cozy corner to relax with fresh coffee and baked goods. Indoor seating only. We have a terrace but no tables.\nMenu: Espresso, cappuccinos, organic teas, croissants, and muffins\nFree refills on brewed coffee."},
+         {"title": "8. Urban Grind Café",
+          "body": "Located in the heart of the city, just across from the park. Enjoy artisan coffee and light bites in a modern space. We have communal tables and cozy booths.\nMenu: Cold brew, nitro coffee, fresh juices, bagels, and granola bowls\nFree iced water."},
+         {"title": "9. The Rustic Cup",
+          "body": "Located a bit distance away from our local market, our small café combines vintage charm with a selection of freshly brewed beverages. We have outdoor tables.\nMenu: French press coffee, herbal teas, flavored lattes, scones, and sandwiches\nFree wi-fi."},
+         {"title": "10. Cozy Corner Café",
+          "body": "Located near the biggest local Farm, Cozy Corner offers a warm atmosphere and farm-to-table snacks. COZY READING NOOK. INDOOR SEATING.\nMenu: Hot chocolate, freshly brewed coffee, vegan pastries, and salads\nFree hot water refills."},
+         {"title": "11. Café On The Corner",
+          "body": "Located beside the airport, Café On The Corner is perfect for a quick coffee break or a relaxing afternoon. SEATS BY THE WINDOW. QUAINT ATMOSPHERE. HOMEMADE COOKIES, ESPRESSOS, CAPPUCINOS, ICED LATTES, PASTRIES. FREE BREWED COFFEE."},
+         {"title": "12. Sunrise Café",
+          "body": "WE SERVE ALL DAY. RELAXED AMBIANCE AND LARGE WINDOWS. FRESH COFFEE AND SMOOTHIES. PANCAKES. PROTEIN SHAKES. +1 323 678 9012."},
+         {"title": "13. The Daily Brew",
+          "body": "Located beside the mall, we offer a laid-back vibe with a strong coffee selection. We have plenty of seats for individuals or groups.\nMenu: Espresso, cappuccinos, gourmet drinks (matcha lattes), cold brew, breakfast burritos, and pastries\nFree water refills."},
+         {"title": "14. Bakers & Brews",
+          "body": "We are known for its homemade pastries and strong coffee. We have plenty of space for groups.\nWE HAVE SPECIAL DISCOUNTS ON WEEKEND.\nMenu: Mocha, flat whites, croissants, quiches, and cakes\nFree refills on brewed coffee. Free Wi-fi."}
+       ]}
+    ]
+  },
+
+  "wordlist": [
+    "match with",
+    "traveller",
+    "kick back",
+    "vintage",
+    "combine",
+    "free of charge",
+    "industrial area",
+    "cosy corner",
+    "baked goods",
+    "indoor seating",
+    "terrace",
+    "free refill",
+    "in the heart of the city",
+    "artisan",
+    "light bites",
+    "communal table",
+    "booth",
+    "charm",
+    "freshly brewed",
+    "warm atmosphere",
+    "farm-to-table",
+    "reading nook",
+    "quick coffee break",
+    "quaint",
+    "homemade",
+    "relaxed ambience",
+    "laid-back vibe",
+    "gourmet",
+    "be known for",
+    "special discount"
+  ],
+
+  "listening": {
+    "part": "1-2",
+    "test": 1,
+    "blocks": [
+      {"type": "instruction", "audio": true,
+       "text": "PART 1. You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C).\nMark your answers on the answer sheet."},
+      {"type": "mcq", "cols": 2,
+       "items": [
+         {"n": 1, "q": "", "options": ["A) I am proposed.", "B) Quite well, actually.", "C) Likewise."]},
+         {"n": 2, "q": "", "options": ["A) The red one.", "B) I want to know when.", "C) I have chosen."]},
+         {"n": 3, "q": "", "options": ["A) For a minute.", "B) Tomorrow.", "C) All day."]},
+         {"n": 4, "q": "", "options": ["A) It must be expensive.", "B) I haven’t bought it.", "C) Yeah, it is."]},
+         {"n": 5, "q": "", "options": ["A) I will tell Mark.", "B) It’s a good mark, really.", "C) Oh, Ok."]},
+         {"n": 6, "q": "", "options": ["A) I’ll pick up my dog.", "B) We better go home.", "C) I like cats, actually."]},
+         {"n": 7, "q": "", "options": ["A) He must be busy.", "B) He has a presume.", "C) I’ll arrive there ASAP."]},
+         {"n": 8, "q": "", "options": ["A) We can build it too.", "B) I heard it’s the gym.", "C) Our school is big."]}
+       ]},
+      {"type": "instruction", "audio": true,
+       "text": "PART 2. You will hear someone giving a talk. For each question, fill in the missing information in the numbered space.\nWrite ONE WORD and / or A NUMBER for each answer."},
+      {"type": "notes",
+       "title": "REGISTAN SQUARE TOUR",
+       "lines": [
+         "The word “Registan” means “**sandy** place”.",
+         "**First Madrasa** – built by a renowned 9______ and mathematician.",
+         "– facade has tileworks with geometric 10__________.",
+         "**Second Madrasa** – is built in the 17th century.",
+         "– has an artwork of two lions hunting a 11______",
+         "– illustrates the ambitions of the 12_______ at the time.",
+         "**Third Madrasa** – not only a madrasa but also a 13______.",
+         "The tour guide recommends to visit Registan in the 14_________."
+       ]}
+    ]
+  },
+
+  "idioms": [
+    ["Carbon footprint", "The total amount of greenhouse gases produced by a person, organisation or activity."],
+    ["The tip of the iceberg", "A small, visible part of a much larger problem that is mostly hidden."],
+    ["A drop in the ocean", "An amount so small compared with what is needed that it makes almost no difference."],
+    ["Nip (something) in the bud", "To stop a problem at an early stage, before it can grow or develop."],
+    ["Can't see the wood for the trees", "To be so focused on small details that you fail to understand the overall situation."],
+    ["Weather the storm", "To survive a difficult period without serious damage."],
+    ["Muddy the waters", "To make a situation more confusing or harder to understand."],
+    ["Dead in the water", "Having failed, or having no chance of succeeding or making progress."],
+    ["Out of the woods", "Free from danger or difficulty (often used in the negative: *not out of the woods yet*)."],
+    ["Reap what you sow", "To experience the consequences, usually bad, of your own earlier actions."],
+    ["Turn over a new leaf", "To change your behaviour and start acting in a better, more responsible way."],
+    ["Take a leaf out of someone's book", "To copy something good that another person does."],
+    ["The point of no return", "The stage at which it is no longer possible to stop or reverse a process."],
+    ["Bone dry", "Completely dry, with no moisture at all."],
+    ["Make hay while the sun shines", "To take advantage of a good situation while it lasts."]
+  ],
+
+  "writing": {
+    "kind": "essay",
+    "title": "WRITING PART 2",
+    "useful_title": "USEFUL LANGUAGE — Opinion essay",
+    "useful": [
+      ["Introducing the topic", "In recent years, there has been growing concern about… / It is often argued that…"],
+      ["Stating your position", "I firmly believe that… / In my view, … / I would argue that…"],
+      ["Explaining causes and effects", "This stems largely from… / As a consequence, … / This, in turn, results in…"],
+      ["Giving examples", "A clear example of this is… / This can be seen in the case of…"],
+      ["Conceding the other side", "Admittedly, … / While it is true that…, … / Some would counter that…"],
+      ["Concluding", "In conclusion, … / On balance, I believe that… / To sum up, …"]
+    ],
+    "task_intro": "You are writing an essay for an academic audience. Write 180–200 words.",
+    "task": "Some people believe that environmental problems such as water shortages are too large for individuals to solve, and that only governments and international organisations can make a real difference. To what extent do you agree or disagree?",
+    "plan": [
+      ["Introduction", "paraphrase the question + state your position (e.g. partly agree)"],
+      ["Body paragraph 1", "why governments and organisations are essential — scale, laws, infrastructure + an example"],
+      ["Body paragraph 2", "why individuals still matter — everyday habits, combined impact, public pressure"],
+      ["Conclusion", "summarise both sides and restate your opinion in different words"]
+    ],
+    "rules_title": "RULES for Part 2 (essay)",
+    "rules": [
+      "Answer the exact question — say clearly how far you agree, and keep this position consistent throughout.",
+      "Aim for 180–200 words in four clear paragraphs: introduction, two body paragraphs, conclusion.",
+      "Begin each body paragraph with a topic sentence, then support it with a reason and a specific example.",
+      "Use a formal, impersonal register: no contractions, no slang, and avoid addressing the reader directly.",
+      "Show a range of grammar and vocabulary — nominalisation, cause–effect expressions and topic collocations.",
+      "Paraphrase the question in your introduction rather than copying it word for word."
+    ],
+    "sample_title": "SAMPLE ANSWER",
+    "sample": "In recent years, there has been growing concern about environmental problems such as water shortages and the loss of natural habitats. Some people argue that these issues are simply too large for ordinary citizens to tackle and that responsibility lies entirely with governments. While I accept that state action is essential, I would argue that individuals also have a meaningful role to play.\nAdmittedly, the sheer scale of many environmental crises means that only governments can address their root causes. The shrinking of the Aral Sea, for instance, stemmed from national decisions to divert entire rivers for irrigation, and only large-scale investment, such as modernising canals or building dams, can reverse damage of this kind. Similarly, laws on pollution and water use carry a weight that no single person can match.\nNevertheless, individual choices are far from insignificant. When millions of households waste less water or reduce their consumption, the combined effect can be considerable. Moreover, citizens who raise awareness and vote for greener policies put pressure on their leaders, which in turn results in stronger government action.\nIn conclusion, although governments and international bodies must lead the response to major environmental problems, individuals are by no means powerless. Real progress depends on both working together.",
+    "practice_title": "PART 2 PRACTICE — now you try",
+    "practice_task": "Rewilding projects, which return damaged land to nature, are becoming increasingly popular. However, some people argue that land should instead be used to grow food for a rising global population. Discuss both views and give your own opinion. Write 180–200 words."
+  },
+
+  "speaking": {
+    "part": "2",
+    "title": "SPEAKING PART 2",
+    "prompt": "Describe a natural place you know that has changed over time.",
+    "points": [
+      "where the place is and what it used to be like",
+      "how it has changed",
+      "what has caused these changes"
+    ],
+    "end": "…and say how you feel about these changes and whether anything should be done about them.",
+    "sample": "I'd like to talk about a river near my grandparents' village in the Fergana Valley, which **holds a special place in my heart** because I spent almost every summer there as a child. Back then, it was wide and fast-flowing, and in the evenings the whole village seemed to gather along its banks to swim, fish or simply escape the heat.\nOver the past ten years or so, though, it has **changed almost beyond recognition**. In late summer the water level drops so low that you can practically walk across it, and the fish my grandfather used to catch have become quite rare. Some of the trees along the bank have also been cut down to make room for new houses.\nAs far as I understand, the changes **stem mainly from** a combination of factors: more water is taken upstream for farming, the population has grown, and summers seem to be getting hotter and drier. **As a consequence**, there's simply less water to go round.\nTo be honest, I find it quite sad, because the river used to be such a central part of village life. I do think something can be done, though — for example, repairing irrigation channels so less water is wasted, and planting trees along the banks again. **It might only be a drop in the ocean**, but if local people work together, I'm hopeful the river could recover at least partly.",
+    "useful": [
+      ["Introducing the topic:", "I'd like to talk about… / A place that has changed a lot over the years is…"],
+      ["Describing the place:", "Back then, it was… / What I remember most clearly is… / It used to be…"],
+      ["Describing change:", "It has changed beyond recognition… / Compared to when I was a child, it's now…"],
+      ["Explaining causes:", "This stems mainly from… / The main reason seems to be… / As a consequence, …"],
+      ["Expressing feelings:", "To be honest, I find it quite sad/worrying… / It really bothers me that…"],
+      ["Concluding / looking ahead:", "I do think something can be done… / Overall, I'm hopeful that…"]
+    ]
+  },
+
+  "key": {
+    "article1_vocab": "1 d  2 b  3 g  4 f  5 h  6 a  7 c  8 e",
+    "word_forms": "1 disappearance  2 dependent  3 restoration  4 sceptical  5 resilience",
+    "headings": "1 B  2 E  3 G  4 A  5 H  6 F  7 C  (D is not needed)",
+    "language_dev": "1 depleted  2 pose  3 raise  4 taken  5 reverse  6 conserve",
+    "article2_vocab": "1 a  2 b  3 b  4 a  5 c  6 a  7 b  8 c",
+    "grammar_a": "1 stem from  2 led to  3 Owing to  4 The disappearance  5 Consequently  6 result in  7 thanks to  8 reduction",
+    "grammar_b": "1 The diversion of rivers for cotton farming resulted in the shrinkage of the Aral Sea.  2 Many illnesses in the region stem from the pollution of the air with salt and dust.  3 Owing to the sharp decrease in rainfall, the harvest was poor.  4 As a consequence of the reintroduction of wolves, the elk changed their behaviour.  5 The construction of dams by beavers leads to a reduction in flooding downstream.",
+    "reading": "7 B  8 D  9 I  10 J  11 A  12 C  13 H  14 F  (E and G are not needed)"
+  }
+}
