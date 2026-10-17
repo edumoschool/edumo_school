@@ -225,9 +225,12 @@ def listening_scripts():
         if cur:
             paras.append(cur)
         by_test.setdefault(test, []).append((part, paras))
+    by_mock = {test + 2: parts for test, parts in by_test.items()}      # Zone TEST n = Mock n+2
+    for f in sorted((DATA / "scripts").glob("*.json")):                  # transcripts supplied separately
+        d = json.loads(f.read_text(encoding="utf-8"))
+        by_mock[d["mock"]] = [(p["part"], p["paras"]) for p in d["parts"]]
     body = ""
-    for test, parts in sorted(by_test.items()):
-        mock = test + 2
+    for mock, parts in sorted(by_mock.items()):
         inner = ""
         for part, paras in parts:
             ps = "".join(f"<p>{bold_label(p)}</p>" for p in paras)
@@ -235,7 +238,7 @@ def listening_scripts():
                       f'<span class="qr">Mock Test {mock}</span></div>{split(ps, "script")}</div>')
         body += f'<div class="part"><h3 class="atitle">Mock Test {mock} · Listening</h3></div>{inner}'
     return (f'<section class="page flow first" data-run="Listening scripts"><div class="banner small"><div class="girih"></div>'
-            f'<div class="bl"><small>MOCK TESTS 3–12</small><h1>🎧 LISTENING SCRIPTS</h1></div>'
+            f'<div class="bl"><small>MOCK TESTS {", ".join(str(m) for m in sorted(by_mock))}</small><h1>🎧 LISTENING SCRIPTS</h1></div>'
             f'<div class="br"><span>Read after you check your answers</span></div></div>'
             f'<div class="cols"><div class="col">{body}</div><div class="col"></div></div>'
             f'<footer><span>Multilevel Mock Tests · Listening scripts</span><span class="pno"></span></footer></section>')
