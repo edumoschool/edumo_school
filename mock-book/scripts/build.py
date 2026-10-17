@@ -112,7 +112,7 @@ def skill_pages(test):
             f'<footer><span>Multilevel Mock Tests · Mock Test {n} · {s["title"].title()}</span><span class="pno"></span></footer></section>')
 
 
-MAP_LETTERS = {12: "ABCDEFGHI"}      # Mock 12's map has places A–I
+MAP_LETTERS = {2: "ABCDEFGHI", 12: "ABCDEFGHI"}      # these maps have places A–I
 
 
 def answer_sheet(n):

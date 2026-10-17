@@ -12,8 +12,7 @@
     {
      "type": "text",
      "paragraphs": [
-      "Uzbekistan has introduced a new system to better support poor families. Starting from May 15, 2023, families on the Register of Poor Families and those at risk of being added will be divided into three categories: red, yellow, and green.",
-      "The new Q1__________ are based on how much money families who earn each month and their individual needs. Families in the red group are those who Q2__________ less than the minimum amount needed to live and also having a disabled member, a single elderly person in need, or losing the main breadwinner. Families in the yellow group also earn less than the Q3__________ amount, but all their members are able to work. Q4__________ in the green group earn a little more—between one and one-and-a-half times the minimum amount. From June 1, 2025, these families will receive benefits based on their category. Families in the yellow group will get a fifty percent discount on government service fees, while those in the red group will get a seventy-five Q5__________. If a family moves from red or Q6__________ to green, they will still receive support for another 12 months. The goal of this system is to give the right help to the right families, so that support is fair and focused. It also includes programs to help families in the red category earn more money and become more stable. This new approach is expected to improve the lives of many poor families in Uzbekistan."
+      "Raising houseplants involves nearly as much care and knowledge as raising children. First, both 1. _______ and children are sensitive to their environments. For example, a plant will grow faster and 'be much healthier if it is raised in an 2. ________ of tender, loving care. The same is true for a child, who will be happier and 3. ________ if his parents love and nurture him. Similarly, proper care of houseplants requires a basic knowledge of plants on the part of the owner. He must 4. ________, for example, which of his plants need direct sunlight and which need to be kept in shady places, and how much 5. ________ each plant requires for the best growth and appearance. Parents, too, must have a basic knowledge of their 6. _________'s needs in order to provide what is necessary for the best physical and mental development."
      ]
     }
    ]
@@ -26,55 +25,59 @@
      "text": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use. Mark your answers on the answer sheet."
     },
     {
-     "type": "statements",
-     "items": [
-      "A) This modern language course is organized by a renowned institute.",
-      "B) You want to learn a language on your own time.",
-      "C) This language course also teaches how to prepare a dish.",
-      "D) You can not only visit the city but its countryside.",
-      "E) This language course also teaches the culture, dress, and lifestyle.",
-      "F) You can communicate with people who speak this language in a club.",
-      "G) This study can last for two years.",
-      "H) You can visit the sets where popular blockbusters were made.",
-      "I) You can learn a language and filming within this course.",
-      "J) You can learn a language and have a good time."
-     ]
-    },
-    {
      "type": "cards",
      "items": [
       {
-       "title": "7. ENGLISH PLUS FILM STUDIES – LOS ANGELES",
-       "body": "• Improve your English while studying filmmaking techniques\n• Includes workshops on scriptwriting, acting, and editing\n• Field trips to Hollywood studios and local film festivals\n• 4- to 12-week course options\nPhone: +1 213 555 7788\nEmail: admissions@laenglishfilm.org\nWebsite: www.laenglishfilm.org"
+       "title": "7",
+       "body": "Emma is a motivated and detail-oriented individual. She has excellent organizational skills and can handle multiple tasks simultaneously."
       },
       {
-       "title": "8. CHINESE LANGUAGE SCHOOL – BEIJING",
-       "body": "• Immersive Mandarin courses with flexible start dates\n• Learn Chinese characters, pronunciation, and speaking skills\n• Weekend excursions to the Great Wall and Forbidden City\n• Dormitories and homestay options available\nPhone: +86 10 6552 3344\nEmail: learn@beijingmandarin.cn\nWebsite: www.beijingmandarin.cn"
+       "title": "8",
+       "body": "John is a creative and innovative individual. He is always finding new ways to solve problems and improve processes."
       },
       {
-       "title": "9. RUSSIAN LANGUAGE PROGRAM IN ST. PETERSBURG",
-       "body": "• Year-round Russian language training for all levels\n• Special modules: Russian literature, politics, and media\n• Student visa support and accommodation assistance\n• Organized trips to Moscow and nearby historical towns\nPhone: +7 812 987 6543\nEmail: info@russianstudies.spb.ru"
+       "title": "9",
+       "body": "Sarah is a persuasive and influential person. She has excellent communication skills and can negotiate deals effectively."
       },
       {
-       "title": "10. PORTUGUESE & CULTURE IN LISBON",
-       "body": "• Learn Portuguese while exploring Lisbon’s history and cuisine\n• Courses available from 2 to 8 weeks\n• Afternoon options: surfing, fado nights, museum visits\n• Small classes with experienced native teachers\nPhone: +351 213 456 789\nEmail: contact@lisbonlanguage.pt\nWebsite: www.lisbonlanguage.pt"
+       "title": "10",
+       "body": "Tom is a reliable and responsible individual. He can work independently and deliver quality work within tight deadlines."
       },
       {
-       "title": "11. ARABIC FOR BEGINNERS – CAIRO LANGUAGE CENTER",
-       "body": "• Learn Modern Standard Arabic and Egyptian dialect\n• Guided visits to historical sites like the Pyramids and Islamic Cairo\n• Evening conversation clubs with locals\n• Affordable tuition and accommodation options\nPhone: +20 2 2795 6432\nEmail: info@cairoarabiccenter.com"
+       "title": "11",
+       "body": "Susan is a team player. She enjoys working with others and can collaborate effectively to achieve common goals."
       },
       {
-       "title": "12. JAPANESE LANGUAGE & CULTURE PROGRAM IN KYOTO",
-       "body": "• Japanese language courses from beginner to advanced\n• Optional cultural workshops: tea ceremony, calligraphy, kimono experience\n• Summer, winter, and year-long courses\n• On-campus dormitories and cultural exchange events\nInquiries: kyoto@nihongo-ac.jp\nWebsite: www.nihongo-ac.jp"
+       "title": "12",
+       "body": "Jack is a problem solver. He can analyze complex issues and develop practical solutions."
       },
       {
-       "title": "13. GERMAN FOR PROFESSIONALS IN BERLIN",
-       "body": "*Offered by the Goethe Language Institute*\n• Focus on business German, communication skills, and intercultural training\n• Small group and individual lessons available\n• Weekend workshops and networking events\n• Centrally located with modern facilities\nContact us: +49 30 6789 1234 / pro@gli-berlin.de"
+       "title": "13",
+       "body": "Maria is a customer-focused person. She places customers at the center of everything she does and can provide excellent customer service."
       },
       {
-       "title": "14. SPANISH IMMERSION IN VALENCIA",
-       "body": "• Intensive Spanish classes for all levels\n• Cultural activities: cooking classes, flamenco dancing, guided city tours\n• Courses available year-round (1–12 weeks)\n• Accommodation with host families or in student apartments\n• Price includes materials and certificates\nPhone: +34 961 23 45 67\nEmail: info@valenciaspanishschool.es\nWebsite: www.valenciaspanishschool.es"
+       "title": "14",
+       "body": "David is a quick learner. He can adapt to new environments and learn new skills quickly."
       }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "TOPIC: JOB ADVERTISEMENTS"
+    },
+    {
+     "type": "statements",
+     "items": [
+      "A) We are looking for an SMM Manager who has no background experience at all.",
+      "B) We are hiring a Strategy Analyst who can provide actionable insights and recommendations for business growth.",
+      "C) We are in need of a Project Coordinator who can manage projects from start to finish and ensure timely delivery.",
+      "D) We are looking for a Marketing Coordinator who can work closely with the team to execute marketing campaigns and initiatives.",
+      "E) We are in need of an Intern who can support various departments and learn the ropes of the industry.",
+      "F) We need in Intern who can support one department and doesn’t need a high salary.",
+      "G) We are seeking a Business Development Manager who can identify new business opportunities and build valuable partnerships.",
+      "H) We are hiring a Product Manager who can drive product innovations and enhance customer satisfaction.",
+      "I) We are looking for an Administrative Assistant who can manage office operations efficiently.",
+      "J) We are seeking a Customer Service Representative who can assist customers with their inquiries and ensure customer satisfaction."
      ]
     }
    ]
@@ -88,36 +91,36 @@
     },
     {
      "type": "headings",
-     "title": "List of Headings:",
+     "title": "List of headings",
      "items": [
-      "A) The trend catches on",
-      "B) To keep shoes clean",
-      "C) Long history",
-      "D) An ambitious plan",
-      "E) For stage plays",
-      "F) An unexpected way out",
-      "G) Are they toys?",
-      "H) A European royal trend"
+      "A) Necessary Components",
+      "B) Important Conclusion",
+      "C) Useful Advice",
+      "D) Significant Difference",
+      "E) Health Risks",
+      "F) Moderation Is the Key!",
+      "G) Diet and Exercise",
+      "H) Benefits of Good Nutrition"
      ],
      "right": [
-      "15. Paragraph I",
-      "16. Paragraph II",
-      "17. Paragraph III",
-      "18. Paragraph IV",
-      "19. Paragraph V",
-      "20. Paragraph VI"
+      "15. Paragraph 1",
+      "16. Paragraph 2",
+      "17. Paragraph 3",
+      "18. Paragraph 4",
+      "19. Paragraph 5",
+      "20. Paragraph 6"
      ]
     },
     {
      "type": "article",
-     "title": "THE PILLOW",
+     "title": "",
      "paragraphs": [
-      "I. The pillow was invented so that bugs would not crawl into the noses, ears, and mouths of people while they were sleeping. The pillow was first used in what is present-day Iraq over 9,000 years ago. Back then, it was carved from stone. Ancient Egyptians also used pillows because they wanted to protect their heads. Ancient Chinese used hard pillows (although they knew how to make softer ones) because of the belief that soft pillows depleted the body’s energy.",
-      "II. The idea of a high heel or platform shoe is actually a seriously ancient one. One of the first traced high-level pieces of footwear in history belonged to actors in Ancient Greece. However, these weren't necessarily worn off stage; they were actually meant as a kind of shorthand about the social class of various characters in Greek drama and comedy. The higher the heel, the more \"elevated\" the character. There's also evidence that ancient Egyptians used heels, though not for everyday use.",
-      "III. Many noblemen of the medieval Persian empire wore heels as riding shoes, often in decadent materials and bright colours, to enable them to get a better grip on their stirrups. The European royals really perked up and took notice when a Persian monarch, Shah Abbas, came to tour European courts and make noble friends in the 1500s. The diplomatic gesture turned into a fashionable one, too: people saw the beautiful heeled shoes worn by the Shah and his entourage, and decided to make them their own.",
-      "IV. It feels like a common sense thing to say, but along with the collapse of society, the loss of power, and the lawlessness that will inevitably accompany the end of the world, your chances of using email, telephone, or Facebook to communicate will be practically zilch. Luckily, China has the answer—the carrier pigeon. According to reports, the People’s Liberation Army recently trained a “pigeon army” to carry messages between military and political facilities should there be a major collapse in the country’s communication network.",
-      "V. The idea of the heel actually being a \"female\" notion took a very long time to develop. One of the places where it took hold, however, was in Venice in the 1400s. But these weren't heels that you'd like to wear clubbing these days. Chopines, as they're called, were staggeringly high, slightly-tilted shoes with as many as 24 inches of narrowed platform underneath. They were originally designed to keep the mud off the more delicate \"real\" shoes of ladies walking in the street.",
-      "VI. Ethiopia is an important trading hub, which makes effective border control difficult to maintain. As a result of limited resources for border enforcement staff, serious organised crime – such as wildlife trafficking – often goes undetected. Wildlife crime is the world’s fourth most prevalent form of criminal activity. Animals often die in transit when exported over borders. Cheetahs and other big cats are regularly exported to the Middle East as ‘exotic pets’. To a rich elite these animals are just another status symbol, like a sports car or an expensive watch"
+      "I. Developing healthy eating habits is simpler and easier than you might think. You will look and feel better if you make a habit of eating healthfully. You will have more energy and your immune system will be stronger. When you eat a diet rich in fruits and vegetables you are lowering your risk of heart disease, cancers and many other serious health ailments. Healthy eating habits are your ticket to a healthier body and mind.",
+      "II. A four-week clinical trial that tested the new regimen found that overweight adults who consumed a high-protein, entirely vegan diet were able to lose about the same amount of weight as a comparison group of dieters on a high-carbohydrate, low-fat vegetarian dairy diet. But while those on the high-carbohydrate dairy diet experienced drops of 12 percent in their cholesterol, those on the high-protein vegan diet saw cholesterol reductions of 20 percent.",
+      "III. ‘The idea preyed on me for a long time. If the Atkins Diet looks good, and it's got so much saturated fat and cholesterol in it, suppose we took that out and put vegetarian protein sources in, which may lower cholesterol,' Dr. Jenkins said. ‘We know that nuts lower cholesterol and prevent heart disease, and soy is eaten in the Far East, where they don't get much heart disease. So we put these foods together as protein and fat sources.'",
+      "IV. The first official warning about the dangers of the Atkins diet was issued by the government amid concern about the rising number of people opting for the high-fat, high-protein diet. Cutting out starchy foods can be bad for your health because you could be missing out on a range of nutrients. Low-carbohydrate diets tend to be high in fat, and this could increase your chances of developing coronary heart disease.",
+      "V. Earlier this year, a large study that compared different kinds of diets — including low-fat and low-carbohydrate plans — found that the method didn't matter as long as people out calories. That study also found that after two years, most people had regained at least some of the weight they had lost. Dr. Tuttle said that while different weight loss plans offer people different ‘tricks' andstrategies, ultimately, ‘It really comes down to calories in and calories out.'",
+      "VI. When you think about nutrition, be aware of serving sizes. Many people will eat everything on their plate, regardless of how hungry they actually are. If you know you tend to clean your plate, make an effort to reduce your serving size. If you're eating out or dining at a friend's house, don't be shy about asking for smaller portion sizes. Too much of any one food is a bad thing. There are no bad foods, just bad eating habits."
      ]
     }
    ]
@@ -127,85 +130,68 @@
    "blocks": [
     {
      "type": "instruction",
-     "text": "Read the following text for question 21-29."
+     "text": "Read the following text and choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
     },
     {
      "type": "article",
-     "title": "THE KOKAND KHANATE",
+     "title": "Cats in the Hermitage",
      "paragraphs": [
-      "The Kokand Khanate was one of the most influential states in Central Asia during the 18th and 19th centuries. Situated in the fertile Fergana Valley, the khanate became a center of trade, politics, and culture until it was absorbed into the Russian Empire in the late 19th century. Its history reflects the struggles, ambitions, and transformations of the region during a time of shifting powers.",
-      "The Kokand Khanate emerged in the early 1700s after the weakening of the Shaybanid and Ashtarkhanid dynasties in Bukhara. The founder, Shahrukh Biy, was a tribal leader from the Ming clan of the Uzbek people. He established control over parts of the Fergana Valley and chose Kokand as the capital. This location was strategic: the valley was fertile for agriculture and located along important trade routes linking Central Asia with China, India, and Persia.",
-      "Over time, Kokand’s rulers expanded their influence beyond the valley, bringing under their control regions that today belong to Uzbekistan, Kyrgyzstan, Tajikistan, and southern Kazakhstan. The khanate’s expansion often brought it into conflict with its neighbors, especially the Khanate of Khiva and the Emirate of Bukhara.",
-      "The ruler of the khanate, known as the khan, held absolute authority, though his power was supported by a network of tribal leaders, military commanders, and religious scholars. Islam played a central role in governance, with Islamic law (sharia) forming the basis of the legal system. Judges, called qadis, were responsible for applying these laws in local disputes.",
-      "Society in Kokand was diverse. Uzbeks formed the majority, but the population also included Tajiks, Kyrgyz, and other ethnic groups. Many people lived in rural areas, farming crops such as wheat, barley, rice, and cotton. Urban centers, especially Kokand city, were bustling with markets, craft workshops, and caravanserais (inns for travelers).",
-      "The Kokand Khanate benefited greatly from its position on the Silk Road trade network. Merchants traded silk, cotton textiles, dried fruits, and handicrafts in exchange for goods like tea, porcelain, and spices from the east, as well as firearms and manufactured goods from the west. The khanate also levied taxes on caravans passing through its territory, providing a significant source of income.",
-      "Agriculture formed the backbone of the economy. The Fergana Valley’s rich soil and extensive irrigation canals allowed for high crop yields. Cotton, in particular, became a valuable commodity, both for domestic use and for export.",
-      "The Kokand Khanate was known for its vibrant cultural life. Poetry, calligraphy, and music flourished under the patronage of the khans. The rulers also commissioned grand architectural projects, many of which still stand today. The Palace of Khudayar Khan in Kokand is a prime example, with its ornate tilework and grand halls reflecting the artistic style of the time.",
-      "Mosques and madrasas (Islamic schools) were built across the khanate, emphasizing the importance of education and religion. Many of these institutions attracted scholars and students from surrounding regions.",
-      "By the mid-19th century, the Kokand Khanate faced growing internal and external pressures. Rivalry between tribal factions weakened the central authority, while economic challenges strained the state’s resources. At the same time, the expanding Russian Empire began moving into Central Asia, aiming to control its trade routes and resources.",
-      "In 1876, after a series of military campaigns, Russian forces annexed the Kokand Khanate. It became part of the Russian-controlled Fergana Oblast, marking the end of Kokand’s independence. While this brought new administrative systems and economic links to the Russian Empire, it also ended centuries of local rule.",
-      "Today, the history of the Kokand Khanate remains an important chapter in the heritage of Uzbekistan and Central Asia. Its contributions to trade, architecture, and culture continue to be celebrated, and its surviving monuments stand as reminders of a time when Kokand was a powerful and prosperous state in the heart of the Silk Road."
+      "At the parking lot near the Hermitage in St. Petersburg there is an unusual road sign. It says Cats crossing. It was introduced to protect the cats living on the territory. The Hermitage cats have become an attraction of their own and a special attraction for young visitors. The museum director keeps saying that the cats; interest journalists even more than the exhibits themselves!",
+      "He is right. Even the ravens of the Tower of London could envy the fame of the Hermitage cats. Firstly, each one has a passport and a personal plate and a collar. Secondly, they undergo regular vet check-ups. Their meals are cooked in a special kitchen in the basement. Finally, they are welcomed on the annual Cats' Day celebrated in May and are honorable guests there.",
+      "Kindly called the hermics, the cats feel at home inside the museum. They are free to go wherever they like, within some reasonable limits of course. In fact, there are classes inside the animal community. The most privileged are allowed into the halls and stairs, others live in the basement and in the yard.",
+      "The tradition of cats' privileges goes back to the 18th century. The first cats brought to the Winter Palace were divided into indoor and outdoor ones. . .",
+      "At that time, the Winter Palace was occupied by rats. The hungry creatures were destroying the royal food stores and belongings. By the order of Empress Elizabeth I, 30 cats were brought from Kazan to help the situation. They were carefully selected among the many cats as the strongest and the quickest rat-hunters. In time, the children of the Kazan cats became the pets of the royal family.",
+      "The hardest time for cats in the Hermitage was the Siege of Leningrad during World War II. There were almost none of them left in the city. The rats multiplied enormously and a cat became worth its weight in gold. The authorities used the old method and ordered four carriages of cats from Yaroslavl. Five thousand male hunters arrived to save the museum. And they succeeded in their mission! Now there are about 60 cats in the museum and each of them has a name. The names come from painters, cities and states, and there is a legend about one of them, Vaska, the Lawyer. This cat was the hero of the battles against the rats in the 1960s. His second name came from the Law Department that Vaska enjoyed visiting.",
+      "Having lost interest in law, the cat settled at the front entrance to the Hermitage. There he played a more important role as a porter and got more food. Every morning half an hour before opening, he called the guards to the doors with a loud mew. When the first visitors entered the hall, he would lay by the stairs to get more attention.",
+      "Among the visitors there were many volunteers to help take care of the cats. Today the museum covers the cats' living expenses. Also, there are Sponsors eager to take part. On Cats' Day visitors are allowed into the basement to watch the cats' everyday life. Some cats are available for adoption and people are happy to take them home as a symbol of the Hermitage."
      ]
-    },
-    {
-     "type": "instruction",
-     "text": "For questions 21-24, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
     },
     {
      "type": "mcq",
      "items": [
       {
        "n": 21,
-       "q": "Why was Kokand chosen as the capital of the khanate?",
+       "q": "It is stated that the road sign near the Hermitage…",
        "options": [
-        "A) It was the largest trade city in Central Asia.",
-        "B) It had an important strategic fort.",
-        "C) It was fertile and located on important trade routes.",
-        "D) It linked Central Asia with Russia."
+        "A) is far from a parking lot",
+        "B) is built to defend cats",
+        "C) has more interest than the Hermitage itself",
+        "D) is bigger than Tower of London"
        ]
       },
       {
        "n": 22,
-       "q": "The khan…",
+       "q": "The tradition of cats' privileges goes back to the …",
        "options": [
-        "A) had to share his rule with the qadis.",
-        "B) was the most powerful figure.",
-        "C) had to be a military commander.",
-        "D) was weak and had to depend on his network."
+        "A) nineteen century",
+        "B) the contruction of Winter Palace",
+        "C) time when Elizabeth I ordered to bring the cats from Kazan",
+        "D) rats disappearance"
        ]
       },
       {
        "n": 23,
-       "q": "What was one cultural achievement of the Kokand Khanate mentioned in the text?",
+       "q": "Cats became very expensive when …",
        "options": [
-        "A) The invention of a new style of metalwork, handicrafts and firearms.",
-        "B) The establishment of the cotton industry and other industries",
-        "C) The translation of Kyrgyz and Tajik texts into Uzbek.",
-        "D) The construction of notable palaces, mosques, and madrasas."
+        "A) Winter Palace had rat infestation problem",
+        "B) Tourists started to come",
+        "C) Leningrad was besieged",
+        "D) five thousand male hunters arrived"
        ]
       },
       {
        "n": 24,
-       "q": "By the mid-19th century, the Kokand Khanate weakened because",
+       "q": "Vaska the Lawyer …",
        "options": [
-        "A) the central authority was eroded.",
-        "B) tribal factions began to fight each other.",
-        "C) the economy fully collapsed.",
-        "D) Russia stopped trading with them."
+        "A) survived the Battle of Leningrad",
+        "B) was named after the Law Department",
+        "C) called the guards the moments after opening",
+        "D) seeked attention from the visitors"
        ]
-      }
-     ]
-    },
-    {
-     "type": "instruction",
-     "text": "For questions 25-29, decide if the following statements agree with the information given in the text. Mark your answers on the answer sheet."
-    },
-    {
-     "type": "mcq",
-     "items": [
+      },
       {
        "n": 25,
-       "q": "The Kokand Khanate controlled parts of present-day Afghanistan.",
+       "q": "The director of the Hermitage dislikes cats.",
        "options": [
         "A) True",
         "B) False",
@@ -214,7 +200,7 @@
       },
       {
        "n": 26,
-       "q": "The population of the Kokand Khanate consisted of many different nations.",
+       "q": "Cats in the Hermitage are taken good care of .",
        "options": [
         "A) True",
         "B) False",
@@ -223,7 +209,7 @@
       },
       {
        "n": 27,
-       "q": "Russian annexation of Kokand were complete after a military conquest.",
+       "q": "There are several different areas for cats in the Hermitage.",
        "options": [
         "A) True",
         "B) False",
@@ -232,7 +218,7 @@
       },
       {
        "n": 28,
-       "q": "The judges in the khanate mainly served as spiritual scholars.",
+       "q": "Cats appeared in the Winter Palace to entertain the Empress.",
        "options": [
         "A) True",
         "B) False",
@@ -241,7 +227,7 @@
       },
       {
        "n": 29,
-       "q": "The Khanate benefited greatly from the revenue from trade taxes.",
+       "q": "All the cats delivered to the Hermitage from Yaroslavl were common domestic cats.",
        "options": [
         "A) True",
         "B) False",
@@ -261,64 +247,53 @@
     },
     {
      "type": "article",
-     "title": "MUSIC AND THE EMOTIONS",
+     "title": "",
      "paragraphs": [
-      "Why does music make us feel? One the one hand, music is a purely abstract art form, devoid of language or explicit ideas. And yet, even though music says little, it still manages to touch us deeply. When listening to our favourite songs, our body betrays all the symptoms of emotional arousal. The pupils in our eyes dilate, our pulse and blood pressure rise, the electrical conductance of our skin is lowered, and the cerebellum, a brain region associated with bodily movement, becomes strangely active. Blood is even re-directed to the muscles in our legs. In other words, sound stirs us at our biological roots.",
-      "A recent paper in Nature Neuroscience by a research team in Montreal, Canada, marks an important step in revealing the precise underpinnings of the potent pleasurable stimulus’ that is music. Although the study involves plenty of fancy technology, including functional magnetic resonance imaging (fMRI) and ligand-based positron emission tomography (PET) scanning, the experiment itself was rather straightforward. After screening 217 individuals who responded to advertisements requesting people who experience ‘chills’ to instrumental music, the scientists narrowed down the subject pool to ten. They then asked the subjects to bring in their playlist of favourite songs – virtually every genre was represented, from techno to tango – and played them the music while their brain activity was monitored. Because the scientists were combining methodologies (PET and fMRI), they were able to obtain an impressively exact and detailed portrait of music in the brain. The first thing they discovered is that music triggers the production of dopamine – a chemical with a key role in setting people’s moods – by the neurons (nerve cells) in both the dorsal and ventral regions of the brain. As these two regions have long been linked with the experience of pleasure, this finding isn’t particularly surprising.",
-      "What is rather more significant is the finding that the dopamine neurons in the caudate – a region of the brain involved in learning stimulus-response associations, and in anticipating food and other ‘reward’ stimuli – were at their most active around 15 seconds before the participants’ favourite moments in the music. The researchers call this the ‘anticipatory phase’ and argue that the purpose of this activity is to help us predict the arrival of our favourite part. The question, of course, is what all these dopamine neurons are up to. Why are they so active in the period preceding the acoustic climax? After all, we typically associate surges of dopamine with pleasure, with the processing of actual rewards. And yet, this cluster of cells is most active when the ‘chills’ have yet to arrive, when the melodic pattern is still unresolved.",
-      "One way to answer the question is to look at the music and not the neurons. While music can often seem (at least to the outsider) like a labyrinth of intricate patterns, it turns out that the most important part of every song or symphony is when the patterns break down, when the sound becomes unpredictable. If the music is too obvious, it is annoyingly boring, like an alarm clock. Numerous studies, after all, have demonstrated that dopamine neurons quickly adapt to predictable rewards. If we know what’s going to happen next, then we don’t get excited. This is why composers often introduce a key note in the beginning of a song, spend most of the rest of the piece in the studious avoidance of the pattern, and then finally repeat it only at the end. The longer we are denied the pattern we expect, the greater the emotional release when the pattern returns, safe and sound. To demonstrate this psychological principle, the musicologist Leonard Meyer, in his classic book *Emotion and Meaning in Music* (1956), analysed the 5th movement of Beethoven’s String Quartet in C-sharp minor, Op. 131. Meyer wanted to show how music is defined by its flirtation with – but not submission to – our expectations of order. Meyer dissected 50 measures (bars) of the masterpiece, showing how Beethoven begins with the clear statement of a rhythmic and harmonic pattern and then, in an ingenious tonal dance, carefully holds off repeating it. What Beethoven does instead is suggest variations of the pattern. He wants to preserve an element of uncertainty in his music, making our brains beg for the one chord he refuses to give us. Beethoven saves that chord for the end.",
-      "According to Meyer, it is the suspenseful tension of music, arising out of our unfulfilled expectations, that is the source of the music’s feeling. While earlier theories of music focused on the way a sound can refer to the real world of images and experiences – its ‘connotative’ meaning – Meyer argued that the emotions we find in music come from the unfolding events of the music itself. This ‘embodied meaning’ arises from the patterns the symphony invokes and then ignores. It is this uncertainty that triggers the surge of dopamine in the caudate, as we struggle to figure out what will happen next. We can predict some of the notes, but we can’t predict them all, and that is what keeps us listening, waiting expectantly for our reward, for the pattern to be completed."
+      "Now it is becoming clear that group decisions are also extremely valuable for the success of social animals, such as ants, bees. birds and dolphins. Bees make collective decisions, and they do it rather well, according to Christian List of the London School of Economics, who has studied group decision-making in humans and animals. Researchers led by Dr List looked at colonies once the original colony reaches a certain size. The queen goes off with about two-thirds of the worker bees to live in a new home or nest, leaving a daughter queen in the old nest with the remaining workers. Among the bees that depart are some that have searched for and found some new nest sites, and reported back using a characteristic body movement known as a 'waggle dance' to indicate to the other bees the suitable places they have located. The longer the dance, the better the site. After a while, other bees start to visit the sites signalled by their companions to see for themselves and, on their return, also perform more waggle dances. The process eventually leads to a consensus on the best site and the breakaway swarm migrates. The decision is remarkably reliable, with the bees choosing the best site even when there is only small difference between alternative sites.",
+      "But exactly how do bees reach such a robust consensus? To find out, Dr List and his colleagues used a computer-generated model of the decision-making process. By experimenting with it they found that, when bees in the model were very good at finding nesting sites but did not share their information, this dramatically slowed down the migration. leaving the swarm homeless and vulnerable. Conversely. bees in the model blindly following the waggle dances of others without first checking. The researchers concluded that the ability of bees to identify successfully and quickly the best site depends on both the bees ‘interdependence in communicating the whereabouts of the bees’ site, and their independence in confirming this information for themselves.",
+      "Another situation in which collective decisions are taken occurs when animals are either isolated from crucial sources of information or dominated by other members of the group. José Halloy of the Free University of Brussels in Belgium used robotic cockroaches to subvert the behaviour of living cockroaches and control their decision-making process. In his experiment, the artificial bugs were introduced to the live ones and soon became sufficiently socially integrated that they were perceived by the real cockroaches as equals. By manipulating the robots, which were in the minority, Halloy was able to persuade the living cockroaches to choose an inappropriate shelter- even one which they had rejected before being infiltrated by the robots.",
+      "The way insects put into effect collective decisions can be complex and as important as the decisions themselves. At the University of Bristol, in the UK, Nigel Franks and his colleagues studied how a species of ant establishes a new nest. Franks and his associates reported how the insects reduce the problems associated with making a necessarily swift choice. If the ants’ existing nest become suddenly threatened, the insects choose certain ants to act as scouts to find a new nest.",
+      "How quickly they accomplish the transfer to a new home depends not only on how soon the best available site is found, but also on how quickly the migration there can be achieved.",
+      "Once the suitable new nest is identified, the chosen ants begin to lead others, which have made it to the new site or which may simply be in the vicinity, back to the original threatened nest. In this way, those ants which are familiar with the route can help transport, for example, the queen and young ants to the new site, and simultaneously show the way to those ants which have been left behind to guard the old nest. In this way moving processes are accomplished faster and more efficiently. Thus, the dynamics of collective decision-making are closely related to the efficient implementation of those decisions. How this might apply to choices that humans make is, as yet, unclear. But it does suggest, even for humans, the importance of recruiting dynamic leaders to a cause, because the most important thing about collective decision-making, as shown by these insect experiments, is to get others to follow."
      ]
     },
     {
      "type": "instruction",
-     "text": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question."
+     "text": "Questions 30-33\nComplete the summary below.\nChoose NO MORE THAN ONE WORD from the passage for each answer."
     },
     {
      "type": "notes",
-     "title": "The Montreal Study",
+     "title": "A study of insect decision-making",
      "lines": [
-      "Participants, who were recruited for the study through advertisements, had their brain activity monitored while listening to their favourite music. It was noted that the music stimulated the brain’s neurons to release a substance called 30…………………………. in two of the parts of the brain which are associated with feeling 31…………………………..",
-      "Researchers also observed that the neurons in the area of the brain called the 32……………………………. were particularly active just before the participants’ favourite moments in the music – the period known as the anticipatory 33…………………………."
+      "A Bristol University study looked at how insects make decisions when their home has been 30.__________. The ants in the experiment relied on the use of individuals called 31.__________ new nest and efficiently direct the others to go there. The study concluded that the effective implementation of the ants' decision meant that the insects could change homes quickly. The study emphasized the necessity, for 32.______ well as insects, of having active 33._________ in order to execute decisions successfully."
      ]
-    },
-    {
-     "type": "instruction",
-     "text": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
     },
     {
      "type": "mcq",
      "items": [
       {
        "n": 34,
-       "q": "Why does the writer refer to Meyer’s work on music and emotion?",
+       "q": "According to the passage, the waggle dance …",
        "options": [
-        "A) to propose an original theory about the subject",
-        "B) to offer support for the findings of the Montreal study",
-        "C) to recommend the need for further research into the subject",
-        "D) to present a view which opposes that of the Montreal researchers"
+        "A) is a bee mating dance",
+        "B) performed by only queen bees",
+        "C) is a signal dance used by nest-less bees",
+        "D) leads to bees being banished from their homes"
        ]
       },
       {
        "n": 35,
-       "q": "According to Leonard Meyer, what causes the listener’s emotional response to music?",
+       "q": "What’s the writer’s conclusion in the text?",
        "options": [
-        "A) the way that the music evokes poignant memories in the listener",
-        "B) the association of certain musical chords with certain feelings",
-        "C) the listener’s sympathy with the composer’s intentions",
-        "D) the internal structure of the musical composition"
+        "A) to inform that collective decision-making is exclusive to insects",
+        "B) to argue that the main thing about decision-making is making others follow",
+        "C) to suggest that the humans have much to learn from the nature",
+        "D) to criticize the lack of collective decision-making on humans."
        ]
       }
      ]
     }
    ]
   }
- ],
- "key": {
-  "1": "1 categories  2 earn  3 minimum  4 Families  5 percent  6 yellow",
-  "2": "7 I  8 B  9 D  10 J  11 F  12 E  13 A  14 C",
-  "3": "15 C  16 E  17 H  18 F  19 B  20 G",
-  "4": "21 C  22 B  23 D  24 A  25 C  26 A  27 A  28 B  29 A",
-  "5": "30 dopamine  31 pleasure  32 caudate  33 phase  34 B  35 D"
- }
+ ]
 }

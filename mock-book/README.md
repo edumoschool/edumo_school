@@ -15,14 +15,14 @@ Contents: cover · how to use (with audio channel QR) · Mock Tests 1–12 (List
   `reading-3.json` to get Mock Test 3 automatically.
 - `scripts/render.js` — splits sections into paragraphs/questions and flows them through the two columns.
 - `scripts/cover.py` — cover (A3 design, scaled to A4 in `scripts/merge.py`).
-- Sources: Mock 1 = `src/L1b.pdf` + `src/R1b.pdf` (official answers from the Halikulov answer image); Mock 2 = `src/L2.pdf` + `src/R2.pdf`.
-  (`src/L1.pdf`/`R1.pdf` were the earlier Mock 1, now replaced.)
+- Sources: Mock 1 = `src/L1b.pdf` + `src/R1b.pdf`; Mock 2 = `src/L2b.pdf` + `src/R2b.pdf` (official answers for both from the
+  Halikulov answer images). `src/L1.pdf`, `R1.pdf`, `L2.pdf`, `R2.pdf` were earlier mocks 1–2, now replaced.
 
 ## Answer key
 - Mocks 3–12 (Multilevel Zone tests 1–10): **official answers** from `src/answers.pdf`, typed into `data/keys/official.json`
   (Zone test n = mock n+2). `src/answers.pdf` also contains the audio scripts.
-- Mock 1 (Halikulov): official answers (from the Halikulov answer image), also in `data/keys/official.json`.
-- Mock 2 (Halikulov): reading answers worked out by us (`"key"` in `data/reading-2.json`); listening left blank.
+- Mocks 1–2 (Halikulov): official answers from the Halikulov answer images, also in `data/keys/official.json`.
 
 Small source fixes: Mock 4 map places renumbered 16–20 → 19–23; Mock 10 "19. Speaker 4" → "18."; Mock 11 extract
-headings (all printed "Extract One"); Mock 12 map instruction A–H → A–I (the map and the official answer use I).
+headings (all printed "Extract One"); Mock 12 map instruction A–H → A–I (the map and the official answer use I); Mock 2 map instruction A–H → A–I (map has A–I),
+Mock 2 reading Part 5 instruction added and question range 31–35 → 30–33.
