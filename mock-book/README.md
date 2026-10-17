@@ -25,4 +25,4 @@ Contents: cover · how to use (with audio channel QR) · Mock Tests 1–12 (List
 
 Small source fixes: Mock 4 map places renumbered 16–20 → 19–23; Mock 10 "19. Speaker 4" → "18."; Mock 11 extract
 headings (all printed "Extract One"); Mock 12 map instruction A–H → A–I (the map and the official answer use I); Mock 2 map instruction A–H → A–I (map has A–I),
-Mock 2 reading Part 5 instruction added and question range 31–35 → 30–33.
+Mock 2 reading Part 5 instruction added and question range 31–35 → 30–33, missing words "to find a" / "as" restored in its summary gaps 31–32.
