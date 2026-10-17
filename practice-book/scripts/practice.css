@@ -9,3 +9,4 @@
 .agrid2 tr th:first-child{width:13mm;text-align:left}
 .score{font-size:7.4pt;color:var(--muted);margin-top:1mm;font-style:italic}
 .banner .br span{white-space:nowrap}
+.kmock td .ka{white-space:nowrap;margin-right:1.6mm;display:inline-block}

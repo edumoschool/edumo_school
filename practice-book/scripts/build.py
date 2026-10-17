@@ -116,10 +116,14 @@ def answer_key(parts):
         for t in d["tests"]:
             k = keys.get(f'{d["skill"]}-{d["part"]}-{t["test"]}')
             ans = k or "  ".join(f"{n} ______" for n in qnums(d["skill"], d["part"]))
-            rows += f'<tr><th>Test {t["test"]}</th><td>{md(ans)}</td></tr>'
+            if k:
+                ans = " ".join(f'<span class="ka"><b>{e(n)}</b>&nbsp;{e(a)}</span>' for n, a in (i.split(" ", 1) for i in k.split("  ")))
+            else:
+                ans = md(ans)
+            rows += f'<tr><th>Test {t["test"]}</th><td>{ans}</td></tr>'
         body += f'<div class="kmock"><h3>{SKILL[d["skill"]][1].title()} · Part {d["part"]}</h3><table>{rows}</table></div>'
     return (f'<section class="page flow" data-run="Answer key"><div class="banner small"><div class="girih"></div><div class="bl">'
-            f'<small>ALL PARTS</small><h1>ANSWER KEY</h1></div><div class="br"><span>Check your answers · blank lines: fill in from the audio</span></div></div>'
+            f'<small>ALL PARTS</small><h1>ANSWER KEY</h1></div><div class="br"><span>Official answers · check your score</span></div></div>'
             f'<div class="cols"><div class="col">{split(body, "keys")}</div><div class="col"></div></div>'
             f'<footer><span>Multilevel Practice Book · Answer key</span><span class="pno"></span></footer></section>')
 
