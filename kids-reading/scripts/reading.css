@@ -90,3 +90,27 @@
 /* cover colours */
 .rcover{background:linear-gradient(160deg,#22C55E 0%,#14B8A6 40%,#0B63CE 85%,#13235B 100%)}
 .rcover .b1{background:#FF8A1F}
+
+/* 4-page layout: give the roomy pages more air */
+.tflist li{padding:4.5px 8px;font-size:9.4pt}
+.mcq li{padding:6px 8px}
+.matchbox li{height:8.5mm}
+.gaps li{padding:4px 0}
+.wsearch td{width:7.2mm;height:7.2mm;font-size:11pt}
+.you{gap:5px}
+.you p{font-size:9.6pt}
+.wline{height:8mm}
+.canvas{min-height:60mm}
+/* let overflow inside the text window show up in the overflow check */
+.twin{overflow:visible}
+.tbar{border-radius:13px 13px 0 0}
+.tbody{border-radius:0 0 13px 13px}
+/* compact chat bubbles: name inline */
+.t-chat .ttext{gap:2px}
+.bub{font-size:8.8pt;line-height:1.3;padding:2px 8px;max-width:88%}
+.bub b{display:inline;font-size:8pt;opacity:.8;margin-right:4px}
+.bub b::after{content:":"}
+/* chats: two columns of bubbles, read down the left column then the right */
+.t-chat .ttext{display:block;column-count:2;column-gap:4mm;column-rule:1.5px dashed #C3CBDB}
+.t-chat .bub{display:block;width:fit-content;max-width:100%;break-inside:avoid;margin-bottom:3px}
+.t-chat .bub.me{margin-left:auto}

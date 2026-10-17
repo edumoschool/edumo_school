@@ -1,7 +1,7 @@
 """Build "Read Time! 1" — kids' reading comprehension book (A5, playful, companion to Talk Time! 1) -> dist/read-time.html.
 
-Each unit (3 pages): Before you read + the text → True/False, Choose, Match, Fill the gaps
-→ Word search, About you, Draw & write, fun fact, reading stars. Answer key at the end.
+Each unit (4 pages): Before you read + the text → True/False, Choose, Match → Fill the gaps,
+Word search, fun fact → About you, Draw & write, reading stars. Answer key at the end.
 """
 import html
 import json
@@ -137,24 +137,31 @@ def p_check(u):
  {section("mcq")}
  <ol class="mcq">{mcq}</ol>
  {section("match")}
- <div class="matchbox"><ul>{left}</ul><ul class="r">{right}</ul></div>
- {section("gaps")}
- <div class="bank">{''.join(f'<span>{e(w)}</span>' for w in bank)}</div>
- <ol class="gaps">{gaps}</ol>"""
+ <div class="matchbox"><ul>{left}</ul><ul class="r">{right}</ul></div>"""
 
 
-def p_fun(u):
+def p_puzzle(u):
+    rnd = random.Random(u["n"] * 7)
+    bank = [a for _, a in u["gaps"]]
+    rnd.shuffle(bank)
+    gaps = "".join(f'<li>{e(s).replace("___", "<span class=gapline></span>")}</li>' for s, _ in u["gaps"])
     grid = word_search(u["wordsearch"], u["n"])
     cells = "".join("<tr>" + "".join(f"<td>{ch}</td>" for ch in row) + "</tr>" for row in grid)
     words = "".join(f'<li><i class="box"></i>{w.lower()}</li>' for w in u["wordsearch"])
-    you = "".join(f'<li><p>{i}. {e(q)}</p><i class="wline"></i></li>' for i, q in enumerate(u["about_you"], 1))
-    return f"""{section("search")}
+    return f"""{section("gaps")}
+ <div class="bank">{''.join(f'<span>{e(w)}</span>' for w in bank)}</div>
+ <ol class="gaps">{gaps}</ol>
+ {section("search")}
  <div class="wsearch"><table>{cells}</table><ul>{words}</ul></div>
- {section("you")}
+ <div class="funfact"><span>💡</span><p><b>Fun fact!</b> {e(u["fun_fact"])}</p></div>"""
+
+
+def p_fun(u):
+    you = "".join(f'<li><p>{i}. {e(q)}</p><i class="wline"></i></li>' for i, q in enumerate(u["about_you"], 1))
+    return f"""{section("you")}
  <ul class="you">{you}</ul>
  {section("draw")}
  <div class="drawbox"><p>{e(u["draw"])}</p><div class="canvas"></div><i class="wline"></i><i class="wline"></i></div>
- <div class="funfact"><span>💡</span><p><b>Fun fact!</b> {e(u["fun_fact"])}</p></div>
  <div class="rstars"><b>How did I do?</b><span>😀 Great!</span><span>🙂 Good</span><span>🤔 I need practice</span></div>"""
 
 
@@ -194,8 +201,8 @@ def how_page():
                    for n, title, uz, cls, emo in SECTIONS.values())
     return f"""<section class="page"><div class="content">
  <div class="howhead"><h1>How to use<br>this book</h1><span>🗺️</span></div>
- <p class="howintro">Every unit has 3 pages and 9 steps: read, check, then play!
-  <span>Har bir unit 3 sahifa va 9 bosqichdan iborat: o‘qing, tekshiring, keyin o‘ynang!</span></p>
+ <p class="howintro">Every unit has 4 pages and 9 steps: read, check, then play!
+  <span>Har bir unit 4 sahifa va 9 bosqichdan iborat: o‘qing, tekshiring, keyin o‘ynang!</span></p>
  <ol class="howlist">{rows}</ol>
  <div class="golden"><b>🥇 Golden rule:</b> read the text <u>two times</u> before you answer!
   <span>Javob berishdan oldin matnni ikki marta o‘qing!</span></div>
@@ -205,7 +212,7 @@ def how_page():
 def build():
     pages, n = [cover(), how_page()], 3
     for u in UNITS:
-        for make in (p_read, p_check, p_fun):
+        for make in (p_read, p_check, p_puzzle, p_fun):
             pages.append(page(make(u), n, u))
             n += 1
     pages.append(page(f'<div class="howhead"><h1>Answer key</h1><span>🔑</span></div><div class="keygrid">{answer_key()}</div>', n, cls="keypage"))
