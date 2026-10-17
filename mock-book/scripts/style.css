@@ -152,3 +152,7 @@ footer{display:flex;justify-content:space-between;align-items:center;font-size:7
 .kmock th{width:24%;font-size:7.6pt}
 .kmock td{font-size:8pt}
 .kmock h3{font-size:10.5pt}
+
+/* listening scripts */
+.script p{font-size:7.9pt;line-height:1.38;margin-bottom:1mm}
+.script p b{color:var(--blue2)}

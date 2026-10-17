@@ -196,11 +196,63 @@ def answer_key(tests):
 NUM_WORDS = {5: "five", 6: "six", 7: "seven", 8: "eight", 9: "nine", 10: "ten", 11: "eleven", 12: "twelve"}
 
 
+SPEAKER = re.compile(r"^(\d{1,2}\.\s|Speaker \d+\.?|Extract \w+|[A-Z][A-Za-z.’' ]{0,18}:)")
+
+
+def listening_scripts():
+    """Audio scripts of the Multilevel Zone tests (src/answers.txt) as a flowing two-column section."""
+    src = ROOT / "src" / "answers.txt"
+    if not src.exists():
+        return ""
+    text = src.read_text(encoding="utf-8").split("ANSWERS")[0]
+    sections = re.split(r"^\s*TEST (\d+) PART (\d+)\s*$", text, flags=re.M)
+    by_test = {}
+    for i in range(1, len(sections) - 2, 3):
+        test, part, body = int(sections[i]), int(sections[i + 1]), sections[i + 2]
+        paras, cur = [], ""
+        for raw in body.splitlines():
+            ln = raw.strip()
+            if ln in ("MULTILEVEL ZONE MOCK EXAM", "AUDIO SCRIPTS") or re.fullmatch(r"\d{1,3}", ln):
+                continue
+            if not ln:
+                if cur:
+                    paras.append(cur); cur = ""
+                continue
+            if SPEAKER.match(ln) and cur:
+                paras.append(cur); cur = ln
+            else:
+                cur = f"{cur} {ln}".strip()
+        if cur:
+            paras.append(cur)
+        by_test.setdefault(test, []).append((part, paras))
+    body = ""
+    for test, parts in sorted(by_test.items()):
+        mock = test + 2
+        inner = ""
+        for part, paras in parts:
+            ps = "".join(f"<p>{bold_label(p)}</p>" for p in paras)
+            inner += (f'<div class="part"><div class="phead"><span class="pill">PART {part}</span>'
+                      f'<span class="qr">Mock Test {mock}</span></div>{split(ps, "script")}</div>')
+        body += f'<div class="part"><h3 class="atitle">Mock Test {mock} · Listening</h3></div>{inner}'
+    return (f'<section class="page flow first" data-run="Listening scripts"><div class="banner small"><div class="girih"></div>'
+            f'<div class="bl"><small>MOCK TESTS 3–12</small><h1>🎧 LISTENING SCRIPTS</h1></div>'
+            f'<div class="br"><span>Read after you check your answers</span></div></div>'
+            f'<div class="cols"><div class="col">{body}</div><div class="col"></div></div>'
+            f'<footer><span>Multilevel Mock Tests · Listening scripts</span><span class="pno"></span></footer></section>')
+
+
+def bold_label(p):
+    m = SPEAKER.match(p)
+    if not m:
+        return md(p)
+    return f"<b>{e(m.group(1).strip())}</b> {md(p[m.end():].strip())}"
+
+
 def how_page(count=5):
     tips = [("🎧", "Listening", "6 parts · 35 questions. Scan the QR / open the channel and play the audio for each test. Each recording is played twice."),
             ("📖", "Reading", "5 parts · 35 questions · 60 minutes. Do the test in one sitting, without a dictionary."),
             ("📝", "Answer sheets", "After each test there is a Multilevel answer sheet — write your answers there, just like the real exam."),
-            ("🔑", "Answer key", "Check your answers and count your score out of 35 for each skill."),
+            ("🔑", "Answer key & scripts", "Check your answers and count your score out of 35. Then read the listening scripts at the back to see what you missed."),
             ("📈", "Track progress", "Repeat the mocks after a few weeks and compare your scores.")]
     cards = "".join(f'<div class="tip"><span>{i}</span><div><b>{t}</b><p>{d}</p></div></div>' for i, t, d in tips)
     return (f'<section class="page howpage"><div class="banner"><div class="girih"></div><div class="bl"><small>MULTILEVEL · CEFR</small>'
@@ -241,6 +293,7 @@ def build():
         if t["skill"] == "reading":
             pages.append(answer_sheet(t["mock"]))
     pages.append(answer_key(tests))
+    pages.append(listening_scripts())
     css = (ROOT / "scripts" / "style.css").read_text(encoding="utf-8")
     fonts = ('<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;600;700;800'
              '&family=Open+Sans:ital,wght@0,400;0,600;0,700;0,800;1,400;1,600&display=block" rel="stylesheet">')
