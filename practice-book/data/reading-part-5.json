@@ -1,0 +1,515 @@
+{
+ "skill": "reading",
+ "part": 5,
+ "tests": [
+  {
+   "test": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 30-35."
+    },
+    {
+     "type": "article",
+     "title": "Australia’s flying foxes are ‘curious, gentle and intelligent’ – and often misunderstood",
+     "paragraphs": [
+      "Endangered spectacled flying foxes and vulnerable grey-headed flying foxes are ‘astonishing’ animals but misinformation is rife.",
+      "One of the most spectacular sights at Adelaide’s Womadelaide music festival is not on the official lineup. As dusk approaches, thousands of grey-headed flying foxes begin chattering and stretching their wings as they prepare to ascend from their roosts in Botanic Park and set out in search of food. “It’s an amazing sight,” says associate professor Wayne Boardman, a wildlife veterinarian and flying fox researcher at the University of Adelaide.",
+      "At first a few early birds take to the skies, he says, then more and more, “diving, swooping, flapping”. “As the night sky darkens, steadily the full camp take to the air – a mass of circling, squawking bats all eager to start foraging after a day of rest.”",
+      "For many festivalgoers, the nightly fly-out ritual is their first time seeing the animals, also called megabats, up close. Boardman runs a “bat tent” near one of the main stages, kitted out with displays, videos and binoculars to educate visitors and address misconceptions about the flying foxes. “They are just astonishing animals,” he says. “The loveliness of flying foxes, their sheer beauty, astonishing biology, the amazing anatomy – it never ceases to amaze me.” Yet misinformation about the animals is rife, from well-meaning parents telling children they use sound waves to navigate (they don’t), to more sinister notions including that the animals are “pests” that “don’t belong here”. “They came of their own volition,” Boardman says. Grey-headed flying foxes first arrived in Adelaide in 2010, establishing a permanent camp on First Creek, in parklands just north of the CBD, where they have increased in number from 1,000 to about 50,000 today.",
+      "Flying foxes are nomadic, capable of travelling up to 50km at night in search of food resources such as flowering gums, figs and fruit trees. Tim Pearson, a wildlife ecologist who specialises in flying fox behaviour and communication, says the “double whammy” of destroying native forests while providing alternative food sources in farms and residential areas creates the potential for human-bat conflict and harassment, identified as a threat in recovery plans for endangered spectacled flying foxes and vulnerable grey-headed flying foxes. Populations of both species have declined in recent decades, although assessing their current status has become more challenging since the national flying fox monitoring program concluded in 2022. “The Australian attitude towards wildlife has always been positive, providing it doesn’t inconvenience you,” Pearson says.",
+      "Unfortunately for flying foxes, in their case it often does.",
+      "Things have been getting better, Pearson says, but flare-ups still occur when practical concerns – about noise, the animals’ impact on fruit growers, power outages or potential disease threats – are reported in breathless terms by the media. Efforts to disperse the bats are generally counterproductive and attempts to promote empathy and coexistence have not worked. Scientists now think “normalising” flying foxes might be a way forward, depicting them as a natural part of Australian wildlife in art, photography, books, community events and education. Despite their often visible and audible presence in cities and towns, representations of flying foxes in mainstream media and popular culture remain scarce and largely negative, according to the paper published in Australian Zoologist. Pearson, a co-author of the paper, works with tame education flying foxes at a wildlife park. Once people see these cute, furry animals up close, they realise they are “curious, gentle, intelligent” with individual personalities, he says.",
+      "Doug Gimesy, a wildlife and conservation photojournalist, says bats – flying foxes and microbats – make up nearly 20% of all mammals, but “don’t get 20% of the air time”. “As a group, they’re often ignored, under-appreciated and misunderstood,” he says. “At worst they’re vilified and face a constant battle of disinformation, hate speech and are even persecuted.” Gimesy began photographing flying foxes in 2016 and has since spent more than 160 days in the field, taking thousands of images that document every aspect of their lives. Through his award-winning photographs and children’s book, Life Upside Down, Gimesy is hoping to show people how magnificent the animals are, “to get people to engage and ask questions and understand”. Two images have been important to capture and share, he says. In one, a flying fox pokes its pink tongue into a eucalyptus blossom – because people don’t realise what important pollinators they are, he says.",
+      "In the other, a pup clings to its mum as it breastfeeds in mid-flight, which usually triggers an emotional response. It’s the realization “they carry their young in flight, and they’re flying mammals”. The paper says shifting attitudes towards species such as sharks and crocodiles, once subject to widespread persecution, offer optimism that contentious issues between flying foxes and people can be managed without maligning them as a species. In Fisher reserve, in the inner Melbourne suburb of North Fitzroy, children play on the green grass as an oversized flying fox takes wing with a magpie, a squirrel glider and pink paper planes against a purple sky. The colourful mural, by Alex Sugar, is one of several depicting flying foxes alongside other Australian wildlife and quirky elements. Sugar is fond of the bats, and they became a recurrent feature in his work after their nightly flyout over the Yarra River drew his attention. “We need to highlight them more in everyday culture and the issues that they’re going through as well with their current habitat,” he says."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question."
+    },
+    {
+     "type": "notes",
+     "title": "FLYING FOXES",
+     "lines": [
+      "Flying foxes live by moving from place to place. Their diet usually consists of 30__________, flowering gums and some other fruits. They have two 31__________, both of which are endangered. Scientists regard that portraying them as a part of local life them might be useful. They use the term 32__________ to emphasize it. Although they are indeed encountered in ordinary life, people pay little attention to them, and even when they do, people see them as 33__________."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 34,
+       "q": "According to the passage, once people get to know flying foxes closer …",
+       "options": [
+        "A) they start to believe that they don’t belong in Australia.",
+        "B) they become terrified by the sight of them.",
+        "C) they started to become guilty by the fact that they themselves destroyed the species’ natural habitat.",
+        "D) they start to think that flying foxes are smarter than they thought."
+       ]
+      },
+      {
+       "n": 35,
+       "q": "According to the passage, the flying foxes …",
+       "options": [
+        "A) takes care of their offspring even when they are flying.",
+        "B) eat a lot of fruits and pests like mice and rats.",
+        "C) are a favorite among the Australian children.",
+        "D) are seldom photographed as they fly too fast."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 30-35."
+    },
+    {
+     "type": "article",
+     "title": "IS GRAFFITI ART OR CRIME?",
+     "paragraphs": [
+      "The term graffiti derives from the Italian graffito meaning ‘scratching’ and can be defined as uninvited marking or writing scratched or applied to objects, built structures and natural features. It is not a new phenomenon: examples can be found on ancient structures around the world, in some cases predating the Greeks and Romans. In such circumstances it has acquired invaluable historical and archaeological significance, providing a social history of life and events at that time. Graffiti is now a problem that has become pervasive, as a result of the availability of cheap and quick means of mark-making.",
+      "It is usually considered a priority to remove graffiti as quickly as possible after it appears. This is for several reasons. The first is to prevent ‘copy-cat’ emulation which can occur rapidly once a clean surface is defaced. It may also be of a racist or otherwise offensive nature and many companies and councils have a policy of removing this type of graffiti within an hour or two of it being reported. Also, as paints, glues and inks dry out over time they can become increasingly difficult to remove and are usually best dealt with as soon as possible after the incident. Graffiti can also lead to move serious forms of vandalism and, ultimately, the deterioration of an area, contributing to social decline.",
+      "Although graffiti may be regarded as an eyesore, any proposal to remove it from sensitive historic surfaces should be carefully considered: techniques designed for more robust or utilitarian surfaces may result in considerable damage. In the event of graffiti incidents, it is important that the owners of buildings or other structures and their consultants are aware of the approach they should take in dealing with the problem. The police should be informed as there may be other related attacks occurring locally. An incidence pattern can identify possible culprits, as can stylised signatures or nicknames, known as ‘tags’, which may already be familiar to local police. Photographs are useful to record graffiti incidents and may assist the police in bringing a prosecution. Such images are also required for insurance claims and can be helpful in cleaning operatives, allowing them to see the problem area before arriving on site.",
+      "There are a variety of methods that are used to remove graffiti. Broadly these divide between chemical and mechanical systems. Chemical preparations are based on dissolving the media; these solvents can range from water to potentially hazardous chemical ‘cocktails’. Mechanical systems such as wire-brushing and grit-blasting attempt to abrade or chip the media from the surface. Care should be taken to comply with health and safety legislation with regard to the protection of both passers-by and any person carrying out the cleaning. Operatives should follow product guidelines in terms of application and removal, and wear the appropriate protective equipment. Measures must be taken to ensure that run-off, aerial mists, drips and splashes do not threaten unprotected members of the public. When examining a graffiti incident it is important to assess the ability of the substrate to withstand the prescribed treatment. If there is any doubt regarding this, then small trial areas should be undertaken to assess the impact of more extensive treatment.",
+      "A variety of preventive strategies can be adopted to combat a recurring problem of graffiti at a given site. As no two sites are the same, no one set of protection measures will be suitable for all situations. Each site must be looked at individually. Surveillance systems such as closed-circuit television may also help. In cities and towns around the country, prominently placed cameras have been shown to reduce anti-social behavior of all types including graffiti. Security patrols will also act as a deterrent to prevent recurring attacks. However, the cost of this may be too high for most situations. A physical barriers such as a wall, railings, doors or gates can be introduced to discourage unauthorized access to a vulnerable site. However, consideration has to be given to the impact measures have on the structure being protected. In the worst cases, they can be almost as damaging to the quality of the environment as the graffiti they prevent. In others, they might simply provide a new surface for graffiti.",
+      "One of the most significant problems associated with graffiti removal is the need to remove it from surfaces that are repeatedly attacked. Under these circumstances, the repeated removal of graffiti using even the most gentle methods will ultimately cause damage to the surface material. There may be situations where the preventive strategies mentioned above do not work or are not a viable proposition at a given site. Anti-graffiti coatings are usually applied by brush or spray leaving a thin veneer that essentially serves to isolate the graffiti from the surface.",
+      "Removal of graffiti from a surface that has been treated in this way is much easier, usually using low-pressure water which reduces the possibility of damage. Depending on the type of barrier selected it may be necessary to reapply the coating after each graffiti removal exercise."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question."
+    },
+    {
+     "type": "notes",
+     "title": "",
+     "lines": [
+      "Ancient graffiti is of significance and records the (30)___________ history of details life for that period. The police can recognize newly committed incidents of graffiti by the signature which is called (31)_____________ that they are familiar with. Operatives ought to comply with relevant rules during the operation, and put on the suitable protective (32)_________________. Removal of graffiti from a new type of coating surface can be much convenient of using (33)____________."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 34,
+       "q": "Which statement is true concerning the removal of graffiti?",
+       "options": [
+        "A) cocktail removal can be safer than water treatment",
+        "B) small patch trial before applying large scale of removing",
+        "C) Chemical treatments are the most expensive way of removing",
+        "D) mechanical removals are much more applicable than Chemical treatments."
+       ]
+      },
+      {
+       "n": 35,
+       "q": "Which of the following preventive measures against graffiti are mentioned effectively in the passage?",
+       "options": [
+        "A) organise more anti-graffiti movement in the city communities",
+        "B) Build a new building with material repelling to water",
+        "C) installing more visible security cameras",
+        "D) Provide a whole new surface with a chemical coat"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for question 21-29."
+    },
+    {
+     "type": "article",
+     "title": "",
+     "paragraphs": [
+      "It’s not difficult for a person to encounter sound at levels that can cause adverse health effects. During a single day, people living in a typical urban environment can experience a wide range of sounds in many locations, even once-quiet locales have become polluted with noise. In fact, it’s difficult today to escape sound completely. In its 1999 Guidelines for Community Noise, the World Health Organization (WHO) declared, “Worldwide, noise-induced hearing impairment is the most prevalent irreversible occupational hazard, and it is estimated that 120 million people worldwide have disabling hearing difficulties.” Growing evidence also points to many other health effects of too much volume.",
+      "Mark Stephenson, a Cincinnati, Ohio-based senior research audiologist at the National Institute for Occupational Safety and Health (NIOSH), says his agency’s definition of hazardous noise is sound that exceeds the time-weighted average of 85 dBA, meaning the average noise exposure measured over a typical eight-hour workday. Other measures and definitions are used for other purposes.",
+      "In the United States, about 30 million workers are exposed to hazardous sound levels on the job, according to NIOSH. Industries having a high number of workers exposed to loud sounds include construction, agriculture, mining, manufacturing, utilities, transportation, and the military.",
+      "Noise in U.S. industry is an extremely difficult problem to monitor, acknowledges Craig Moulton, a senior industrial hygienist for the Occupational Safety and Health Administration (OSHA). “Still,” he says, “OSHA does require that any employer with workers overexposed to noise provide protection for those employees against the harmful effects of noise. Additionally, employers must implement a continuing, effective hearing conservation program as outlined in OSHA’s Noise Standard.”",
+      "Numerous scientific studies over the years have confirmed that exposure to certain levels of sound can damage hearing. Prolonged exposure can actually change the structure of the hair cells in the inner ear, resulting in hearing loss. It can also cause tinnitus, a ringing, roaring, buzzing, or clicking on the ears.",
+      "NIOSH studies from the mid to late 1990s show that 90% of coal miners have hearing impairment by age 52 – compared to 9% of the general population – and 70% of male metal/nonmetal miners will experience hearing impairment by age 60 (Stephenson notes that from adolescence onward, females tend to have better hearing than males). Neitzel says nearly half of all construction workers have some degree of hearing loss. “NIOSH research also reveals that by age twenty-five, the average carpenter’s hearing is equivalent to an otherwise healthy fifty-year-old male who hasn’t been exposed to noise,” he says.",
+      "William Luxford, medical director of the House Ear Clinic of St. Vincent Medical Center in Los Angeles, points out one piece of good news: “It’s true that continuous noise exposure will lead to the continuation of hearing loss, but as soon as the exposure is stopped, the hearing loss stops. So a change in environment can improve a person’s hearing health.” Research is catching up with this anecdotal evidence. In the July 2001 issue of Pediatrics, researchers from the Centers for Disease Control and Prevention reported that, based on audiometric testing of 5,249 children as part of the Third National Health and Nutrition, Examination Survey, an estimated 12.5% of American children have noise-induced hearing threshold shifts – or dulled hearing – in one or both ears. Most children with noise-induced hearing threshold shifts have only limited hearing damage, but continued exposure to excessive noise can lead to difficulties with high-frequency sound discrimination. The report listed stereos, music concerts, toys (such as toy telephones and certain rattles), lawnmowers, and fireworks as producing potentially harmful sounds.",
+      "The effects of sound don’t stop with the ears. Nonauditory effects of noise exposure are those effects that don’t cause hearing loss but still can be measured, such as elevated blood pressure, loss of sleep, increased heart rate, cardiovascular constriction, labored breathing, and changes in brain chemistry.",
+      "The nonauditory effects of noise were noted as early as 1930 in a study published by E.L. Smith and D.L. Laird in volume 2 of the Journal of the Acoustical Society of America. The results showed that exposure to noise caused stomach contractions in healthy human beings. Reports on noise’s nonauditory effects published since that pioneering study have been both contradictory and controversial in some areas.",
+      "Bronzaft and the school principal persuaded the school board to have acoustical tile installed in the classrooms adjacent to the tracks. The Transit Authority also treated the tracks near the school to make them less noisy. A follow-up study published in the September 1981 issue of the Journal of Environmental Psychology found that children’s reading scores improved after these interventions were put in place.",
+      "Anti-noise activists say that Europe and several countries in Asia are more advanced than the United States in terms of combating noise. “Population pressure has prompted Europe to move more quickly on the noise issue that the United States has,” Hume says. In the European Union, countries with cities of at least 250,000 people are creating noise maps of those cities to help leaders determine noise pollution policies. Paris has already prepared its first noise maps. The map data, which must be finished by 2007, will be fed into computer models that will help test the sound impact of street designs or new buildings before construction begins."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question."
+    },
+    {
+     "type": "notes",
+     "title": "",
+     "lines": [
+      "Scientific studies over the years from the mid to late 1990s have confirmed that exposure to certain levels of sound can cause damage (30)____________ on certain senior age. From the testing of 5,249 children, those who are constantly exposed to excessive noise may have trouble in high (31)_______________ sound discrimination. The effects of sound don’t stop with the ears, exposure to noise may lead to the unease of (32)______________ in healthy people. Europe has taken steps on the noise issue, big cities of over 250,000 people are creating (33)______________ map to help to create noise pollution policies."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 34,
+       "q": "In European countries, the big cities’ research on noise focuses on",
+       "options": [
+        "A) how to record pollution details of the city on maps",
+        "B) the impact of noise on population shift in the European cities",
+        "C) how wide can a city be to avoid noise pollution",
+        "D) helping the authorities better make a decision on management of the city"
+       ]
+      },
+      {
+       "n": 35,
+       "q": "What is the best title in paragraph 1?",
+       "options": [
+        "A) How people cope with noise pollutions",
+        "B) the fight against the noise with the powerful technology",
+        "C) The Effects of Living in a Noisy World",
+        "D) The Effects of noise on children’s learning"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 30-35."
+    },
+    {
+     "type": "article",
+     "title": "COMMUNICATION IN SCIENCE",
+     "paragraphs": [
+      "Science plays an increasingly significant role in people’s lives, making the faithful communication of scientific developments more important than ever. Yet such communication is fraught with challenges that can easily distort discussions, leading to unnecessary confusion and misunderstandings.",
+      "Some problems stem from the esoteric nature of current research and the associated difficulty of finding sufficiently faithful terminology. Abstraction and complexity are not signs that a given scientific direction is wrong, as some commentators have suggested, but are instead a tribute to the success of human ingenuity in meeting the increasingly complex challenges that nature presents. They can, however, make communication more difficult. But many of the biggest challenges for science reporting arise because in areas of evolving research, scientists themselves often only partly understand the full implications of any particular advance or development. Since that dynamic applies to most of the scientific developments that directly affect people’s lives global warming, cancer research, diet studies – learning how to overcome it is critical to spurring a more informed scientific debate among the broader public.",
+      "Ambiguous word choices are the source of some misunderstandings. Scientists often employ colloquial terminology, which they then assign a specific meaning that is impossible to fathom without proper training. The term “relativity,” for example, is intrinsically misleading. Many interpret the theory to mean that everything is relative and there are no absolutes. Yet although the measurements any observer makes depend on his coordinates and reference frame, the physical phenomena he measures have an invariant description that transcends that observer’s particular coordinates. Einstein’s theory of relativity is really about finding an invariant description of physical phenomena. True, Einstein agreed with the idea that his theory would have been better named “Invarianten theorie.” But the term “relativity” was already entrenched at the time for him to change.",
+      "“The uncertainty principle” is another frequently abused term. It is sometimes interpreted as a limitation on observers and their ability to make measurements. But it is not about intrinsic limitations on any one particular measurement; it is about the inability to precisely measure particular pairs of quantities simultaneously? The first interpretation is perhaps more engaging from a philosophical or political perspective. It’s just not what the science is about.",
+      "Even the word “theory” can be a problem. Unlike most people, who use the word to describe a passing conjecture that they often regard as suspect, physicists have very specific ideas in mind when they talk about theories. For physicists, theories entail a definite physical framework embodied in a set of fundamental assumptions about the world that lead to a specific set of equations and predictions – ones that are borne out by successful predictions. Theories aren’t necessarily shown to be correct or complete immediately. Even Einstein took the better part of a decade to develop the correct version of his theory of general relativity. But eventually both the ideas and the measurements settle down and theories are either proven correct, abandoned or absorbed into other, more encompassing theories.",
+      "“Global warming” is another example of problematic terminology. Climatologists predict more drastic fluctuations in temperature and rainfall – not necessarily that every place will be warmer. The name sometimes subverts the debate, since it lets people argue that their winter was worse, so how could there be global warming? Clearly “global climate change” would have been a better name. But not all problems stem solely from poor word choices. Some stem from the intrinsically complex nature of much of modern science. Science sometimes transcends this limitation: remarkably, chemists were able to detail the precise chemical processes involved in the destruction of the ozone layer, making the evidence that chlorofluorocarbon gases (Freon, for example) were destroying the ozone layer indisputable.",
+      "A better understanding of the mathematical significance of results and less insistence on a simple story would help to clarify many scientific discussions. For several months, Harvard was tortured months, Harvard was tortured by empty debates over the relative intrinsic scientific abilities of men and women. One of the more amusing aspects of the discussion was that those who believed in the differences and those who didn’t use the same evidence about gender-specific special ability? How could that be? The answer is that the data shows no substantial effects. Social factors might account for these tiny differences, which in any case have an unclear connection to scientific ability. Not much of a headline when phrased that way, is it? Each type of science has its own source of complexity and potential for miscommunication. Yet there are steps we can take to improve public understanding in all cases. The first would be to inculcate greater understanding and acceptance of indirect scientific evidence. The information from an unmanned space mission is no less legitimate than the information from one in which people are on board."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question."
+    },
+    {
+     "type": "notes",
+     "title": "",
+     "lines": [
+      "Science Communication is fraught with challenges that can easily distort discussions, leading to unnecessary confusion and misunderstandings. Firstly, Ambiguous word (30)____________ are the source of some misunderstandings. Common people without proper training do not understand clearly or deeply a specific scientific meaning via the (31)______________ terminology scientists often employed. Besides, the measurements any (32)_____________ makes can not be confined to describe in a(n) constant (33)____________ description yet the phenomenon can be. What’s more, even the word “theory” can be a problem."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 34,
+       "q": "What is the reason that the author believes for the biggest challenges for science reporting",
+       "options": [
+        "A) phenomenon such as global warming, cancer research, diet studies is too complex.",
+        "B) Scientists themselves often only partly understand the Theory of Evolution",
+        "C) Scientists do not totally comprehend the meaning of certain scientific evolution",
+        "D) Scientists themselves often partly understand the esoteric communication nature"
+       ]
+      },
+      {
+       "n": 35,
+       "q": "According to the 3rd paragraph, the reference to the term and example of “theory of relativity” is to demonstrate",
+       "options": [
+        "A) theory of relativity is about an invariant physical phenomenon",
+        "B) common people may be misled by the inaccurate choice of scientific phrase",
+        "C) the term “relativity,” is designed to be misleading public",
+        "D) everything is relative and there is no absolutes existence"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 30-35."
+    },
+    {
+     "type": "article",
+     "title": "BIODIVERSITY",
+     "paragraphs": [
+      "It seems biodiversity has become a buzzword beloved of politicians, conservationists, protesters and scientists alike. But what exactly is it? The Convention on Biological Diversity, an international agreement to conserve and share the planet’s biological riches, provides a good working definition: biodiversity comprises every form of life, from the smallest microbe to the largest animal or plant, the genes that give them their specific characteristics and the ecosystems of which they are apart.",
+      "In October, the World Conservation Union (also known as the IUCN) published its updated Red List of Threatened Species, a roll call of 11,167 creatures facing extinction – 121 more than when the list was last published in 2000. But the new figures almost certainly underestimate the crisis. Some 1.2 million species of animal and 270,000 species of plant have been classified, but the well-being of only a fraction has been assessed. The resources are simply not available. The IUCN reports that 5714 plants are threatened, for example, but admits that only 4 per cent of known plants has been assessed. And, of course, there are thousands of species that we have yet to discover. Many of these could also be facing extinction.",
+      "It is important to develop a picture of the diversity of life on Earth now so that comparisons can be made in the future and trends identified. But it isn’t necessary to observe every single type of organism in an area to get a snapshot of the health of the ecosystem. In many habitats, there are species that are particularly susceptible to shifting conditions, and these can be used as indicator species.",
+      "In the media, it is usually large, charismatic animals such as pandas, elephants, tigers and whales that get all the attention when a loss of biodiversity is discussed. However, animals or plants far lower down the food chain are often the ones vital for preserving habitats – in the process saving the skins of those more glamorous species. There are known as keystone species.",
+      "By studying the complex feeding relationships within habitats, species can be identified that have a particularly important impact on the environment. For example, the members of the fig family are the staple food for hundreds of different species in many different countries, so important that scientists sometimes call figs “jungle burgers”. A whole range of animals, from tiny insects to birds and large mammals, feed on everything from the tree’s bark and leaves to its flowers and fruits. Many fig species have very specific pollinators. There are several dozen species of the fig tree in Costa Rica, and a different type of wasp has evolved to pollinate each one. Chris Lyle of the Natural History Museum in London – who is also involved in the Global Taxonomy Initiative of the Convention on Biological Diversity – points out that if fig trees are affected by global warming, pollution, disease or any other catastrophe, the loss of biodiversity will be enormous.",
+      "Similarly, sea otters play a major role in the survival of giant kelp forests along the coasts of California and Alaska. These “marine rainforests” provide a home for a wide range of other species. The kelp itself is the main food of purple and red sea urchins and in turn, the urchins are eaten by predators, particularly sea otters. They detach an urchin from the seabed then float to the surface and lie on their backs with the urchin shell on their tummy, smashing it open with a stone before eating the contents. Urchins that are not eaten tend to spend their time in rock crevices to avoid the predators. This allows the kelp to grow – and it can grow many centimetres in a day. As the forests form, bits of kelp break off and fall to the bottom to provide food for the urchins in their crevices. The sea otters thrive hunting for sea urchins in the kelp, and many other fish and invertebrates live among the fronds. The problems start when the sea otter population declines. As large predators they are vulnerable – their numbers are relatively small to disease or human hunters can wipe them out. The result is that the sea urchin population grows unchecked and they roam the seafloor eating young kelp fronds. This tends to keep the kelp very short and stops forests developing, which has a huge impact on biodiversity.",
+      "Conversely, keystone species can also make dangerous alien species: they can wreak havoc if they end up in the wrong ecosystem. The cactus moth, whose caterpillar is a voracious eater of prickly pear was introduced to Australia to control the rampant cacti. It was so successful that someone thought it would be a good idea to introduce it to Caribbean islands that had the same problem. It solved the cactus menace, but unfortunately, some of the moths have now reached the US mainland – borne on winds and in tourists’ luggage – where they are devastating the native cactus populations of Florida.",
+      "Organisations like the Convention on Biological Diversity work with groups such as the UN and with governments and scientists to raise awareness and fund research. A number of major international meetings – including the World Summit on Sustainable Development in Johannesburg this year – have set targets for governments around the world to slow the loss of biodiversity. And the CITES meeting in Santiago last month added several more names to its list of endangered species for which trade is controlled. Of course, these agreements will prove of limited value if some countries refuse to implement them."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question."
+    },
+    {
+     "type": "notes",
+     "title": "",
+     "lines": [
+      "Every creature has diet connections with others, such as (30)____________, which provide a majority of foods for other species. In some states of America, the decline in a number of sea otters leads to the boom of sea (31)___________. An impressing case is that imported (32)______________ moth successfully tackles the plant cacti in (33)_______________"
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 34,
+       "q": "Which of these following statements agree with the information given in this passage?",
+       "options": [
+        "A) The term “biodiversity” consists of living creatures and the environment that they live in.",
+        "B) There is a successful case that cactus moth plays a positive role in the US.",
+        "C) Usage of hardwoods is forbidden in some European countries.",
+        "D) Agriculture experts advise farmers to plant single crops in the field in terms of sustainable farming."
+       ]
+      },
+      {
+       "n": 35,
+       "q": "According the writer, animals which play an important role on saving the natural habitat and other endangered species …",
+       "options": [
+        "A) are called “jungle burgers",
+        "B) are well-known and has all the attention from humanity",
+        "C) are also known as “keystone species”",
+        "D) are the one’s vital to survival of humanity"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 6,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 30-35."
+    },
+    {
+     "type": "article",
+     "title": "TASMANIAN TIGER",
+     "paragraphs": [
+      "Although it was called tiger, it looked like a clog with black stripes on its hack and it was the largest known carnivorous marsupial of modem times. Yet, despite its fame for being one of the most fabled animals in the world, it is one of the least understood of Tasmania’s native animals. The scientific name for the Tasmanian tiger is Thylacine and it is believed that they have become extinct in the 20th century.",
+      "Fossils of thylacines dating from about almost 12 million years ago have been dug up at various places in Victoria, South Australia and Western Australia. They were widespread in Australia 7,000 years ago, but have probably been extinct on the continent for 2,000 years ago. This is believed to be because of the introduction of dingoes around 8,000 years ago. Because of disease, thylacine numbers may have been declining in Tasmania at the time of European settlement 200 years ago, but the decline was certainly accelerated by the new arrivals. The last known Tasmainian Tiger died in Hobart Zoo in 193fi and the animal is officially classified as extinct. Technically, this means that it has not been officially sighted in the wild or captivity for 50 years. However, there are still unsubstantiated sightings. Hans Naarding, whose study of animals had taken him around the world, was conducting a survey of a species of endangered migratory bird. The hat he saw that night is now regarded as the most credible sighting recorded of thylacine that many believe has been extinct for more than 70 years.",
+      "“I had to work at night.” Naarding takes up the story. “I was in the habit of intermittently shining a spotlight around. The beam fell on an animal in front of the vehicle, less than 10m away. Instead of risking movement by grabbing for a camera, I decided to register very carefully what I was seeing. The animal was about the size of a small shepherd dog, a very healthy male in prime condition. What set it apart from a dog, though, was a slightly sloping hindquarter, with a fairly thick tail being a straight continuation of the backline of the animal. It had 12 distinct stripes on its back, continuing onto its butt. I knew perfectly well what I was seeing. As soon as I reached for the camera, it disappeared into the tea-tree undergrowth and scrub.”",
+      "The director of Tasmania’s National Parks at the time, Peter Morrow, decided in his wisdom to keep Naarding’s sighting of the thylacine secret for two years. When the news finally broke, it was accompanied by pandemonium. “I was besieged by television crews, including four to five from Japan, and others from the United Kingdom, Germany, New Zealand and South America,” said Naarding.",
+      "Government and private search parties combed the region, but no further sightings were made. The tiger, as always, had escaped to its lair, a place many insist exists only in our imagination. But since then, the thylacine has staged something of a comeback, becoming part of Australian mythology.",
+      "There have been more than 4,000 claimed sightings of the beast since it supposedly died out, and the average claims each year reported to authorities now number 150. Associate professor of zoology at the University of Tasmania, Randolph Rose, has said he dreams of seeing a thylacine. But Rose, who in his 35 years in Tasmanian academia has fielded countless reports of thylacine sightings, is now convinced that his dream will go unfulfilled. “The consensus among conservationists is that usually; any animal with a population base of less than 1,000 is headed for extinction within 60 years,” says Rose. “Sixty years ago, there was only one thylacine that we know of, and that was in Hobart Zoo,” he says. Dr. David Pemberton, curator of zoology at the Tasmanian Museum and Art Gallery, whose PhD thesis was on the thylacine, says that despite scientific thinking that 500 animals are required to sustain a population, the Florida panther is down to a dozen or so animals and, while it does have some inbreeding problems, is still ticking along. “I’ll take a punt and say that, if we manage to find a thylacine in the scrub, it means that there are 50-plus animals out there.”",
+      "After all, animals can be notoriously elusive. The strange fish is known as the coelacanth’ with its “proto-legs”, was thought to have died out along with the dinosaurs 700 million years ago until a specimen was dragged to the surface in a shark net off the south-east coast of South Africa in 1938.",
+      "Wildlife biologist Nick Mooney has the unenviable task of investigating all “sightings” of the tiger totaling 4,000 since the mid-1980s, and averaging about 150 a year. It was Mooney who was first consulted late last month about the authenticity of digital photographic images purportedly taken by a German tourist while on a recent bushwalk in the state. On face value, Mooney says, the account of the sighting, and the two photographs submitted as the proof amount to one of the most convincing cases for the species’ survival he has seen."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question."
+    },
+    {
+     "type": "notes",
+     "title": "",
+     "lines": [
+      "The Tasmanian tiger, also called thylacine, resembles the look of a dog and has black (30)____________ on its fur coat. Many fossils have been found, showing that thylacines had existed as early as (31)_____________ years ago. They lived throughout (32)_____________ before disappearing from the mainland. And soon after the (33)____________ settlers arrived the size of thylacine population in Tasmania shrunk at a higher speed."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 34,
+       "q": "Which of the following statements is true of thylacine?",
+       "options": [
+        "A) So far, there has been thousands of the sightings of the creature",
+        "B) They were thought to went extinct but it was proved that this wasn’t true",
+        "C) They were always a myth",
+        "D) They aren’t easy to catch but they can be found eventually"
+       ]
+      },
+      {
+       "n": 35,
+       "q": "In this passage, Dr. David Pemberton believes that …",
+       "options": [
+        "A) We may not see thylacine again in the future as its’ population went extinct years ago.",
+        "B) It doesn’t require a certain number of animals to ensure the survival of a species.",
+        "C) The government should spend more to rediscover the species.",
+        "D) the Florida panther were also long thought to be extinct but they may have survived."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 7,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 30-35."
+    },
+    {
+     "type": "article",
+     "title": "DIRTY RIVER BUT CLEAN WATER",
+     "paragraphs": [
+      "Floods can occur in rivers when the flow rate exceeds the capacity of the river channel, particularly at bends or meanders in the waterway. Floods often cause damage to homes and businesses if they are in the natural flood plains of rivers. While riverine flood damage can be eliminated by moving away from rivers and other bodies of water, people have traditionally lived and worked by rivers because the land is usually flat and fertile and because rivers provide easy travel and access to commerce and industry.",
+      "FIRE and flood are two of humanity’s worst nightmares. People have, therefore, always sought to control them. Forest fires are snuffed out quickly. The flow of rivers is regulated by weirs and dams. At least, that is how it used to be. But foresters have learned that forests need fires to clear out the brush and even to get seeds to germinate. And a similar revelation is now dawning on hydrologists. Rivers – and the ecosystems they support – need floods. That is why a man-made torrent has been surging down the Grand Canyon. By Thursday, March 6th it was running at full throttle, which was expected to be sustained for 60 hours.",
+      "Floods once raged through the canyon every year. Spring Snow from as far away as Wyoming would melt and swell the Colorado river to a flow that averaged around 1,500 cubic metres (50,000 cubic feet) a second. Every eight years or so, that figure rose to almost 3,000 cubic metres. These floods infused the river with sediment, carved its beaches and built its sandbars.",
+      "However, in the four decades since the building of the Glen Canyon dam, just upstream of the Grand Canyon, the only sediment that it has collected has come from tiny, undammed tributaries. Even that has not been much use as those tributaries are not powerful enough to distribute the sediment in an ecologically valuable way.",
+      "This lack of flooding has harmed local wildlife. The humpback chub, for example, thrived in the rust-red waters of Colorado. Recently, though, its population has crashed. At first sight, it looked as if the reason was that the chub were being eaten by trout introduced for sport fishing in the mid-20th century. But trout and chub co-existed until the Glen Canyon dam was built, so something else is going on. Steve Gloss, of the United States Geological Survey (USGS), reckons that the chub’s decline is the result of their losing their most valuable natural defense, Colorado’s rusty sediment. The chub were well adapted to the poor visibility created by the chick, red water which gave the river its name and depended on it to hide from predators. Without the cloudy water, the chub became vulnerable.",
+      "And the chub are not alone. In the years since the Glen Canyon dam was built, several species have vanished altogether. These include the Colorado pike-minnow, the razorback sucker and the roundtail chub. Meanwhile, aliens including fathead minnows, channel catfish and common carp, which would have been hard, put to survive in the savage waters of the undammed canyon, have moved in.",
+      "So flooding is the obvious answer. Unfortunately, it is easier said than done. Floods were sent down the Grand Canyon in 1996 and 2004 and the results were mixed. In 1996 the flood was allowed to go on too long. To start with, all seemed well. The floodwaters built up sandbanks and infused the river with sediment. Eventually, however, the continued flow washed most of the sediment out of the canyon. This problem was avoided in 2004, but unfortunately, on that occasion, the volume of sand available behind the dam was too low to rebuild the sandbanks. This time, the USGS is convinced that things will be better. The amount of sediment available is three times greater than it was in 2004. So if a flood is going to do some good, this is the time to unleash one.",
+      "Even so, it may turn out to be an empty gesture. At less than 1,200 cubic metres a second, this flood is smaller than even an average spring flood, let alone one of the mightier deluges of the past. Those glorious inundations moved massive quantities of sediment through the Grand Canyon, wiping the slate dirty, and making a muddy mess of silt and muck that would make modern river rafters cringe."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question."
+    },
+    {
+     "type": "notes",
+     "title": "THE ECO-IMPACT OF THE CANYON DAM",
+     "lines": [
+      "Floods are people’s nightmare. In the past, the canyon was raged by flood every year. The snow from far Wyoming would melt in the season of (30)_____________ and caused a flood flow peak in Colorado river. In the four decades after people built the Glen Canyon Dam, it only could gather (31)_____________ together from tiny, undammed tributaries. humpback chub population reduced, why?",
+      "The non-stopped flow led to the washing away of the sediment out of the canyon, which poses a great threat to the chubs because it has poor (32)______________ away from predators. In addition, the volume of (33)__________ available behind the dam was too low to rebuild the bars and flooding became more serious."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 34,
+       "q": "Which of the following statements agree with the information given in the passage?",
+       "options": [
+        "A) The flood peaks at almost 1500 cubic meters every eight years.",
+        "B) Contribution of sediments delivered by tributaries has little impact.",
+        "C) The decreasing number of chubs is always caused by introducing of trout since the mid 20th century.",
+        "D) It seemed that the artificial flood in 1996 had achieved success partly at the very beginning."
+       ]
+      },
+      {
+       "n": 35,
+       "q": "According to the passage, which of these species aren’t native to the Colorado river?",
+       "options": [
+        "A) the humpback chub",
+        "B) the common carp",
+        "C) the roundtail chub",
+        "D) the razorback sucker"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 8,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 30-35."
+    },
+    {
+     "type": "article",
+     "title": "SEED HUNTING",
+     "paragraphs": [
+      "With a quarter of the world’s plants set to vanish within the next 50 years, Dough Alexander reports on the scientists working against the clock the preserve the Earth’s botanical heritage. They travel the four corners of the globe, scouring jungles, forests and savannas. But they’re not looking for ancient artefacts, lost treasure or undiscovered tombs. Just pods. It may lack the romantic allure of archaeology or the whiff of danger that accompanies going after a big game, but seed hunting is an increasingly serious business. Some seek seeds for profit-hunters in the employ of biotechnology firms, pharmaceutical companies and private corporations on the lookout for species that will yield the drugs or crops of the future. Others collect to conserve, working to halt the sad slide into extinction facing so many plant species.",
+      "Among the pioneers of this botanical treasure hunt was John Tradescant, an English royal gardener who brought back plants and seeds from his journeys abroad in the early 1600s. Later, the English botanist Sir Joseph Banks – who was the first director of the Royal Botanic Gardens at Kew and travelled with Captain James Cook on his voyages near the end of the 18th century – was so driven to expand his collections that he sent botanists around the world at his own expense.",
+      "Those heady days of exploration and discovery may be over, but they have been replaced by a pressing need to preserve our natural history for the future. This modern mission drives hunters such as Dr Michiel van Slageren, a good-natured Dutchman who often sports a wide-brimmed hat in the field – he could easily be mistaken for the cinematic hero Indiana Jones. He and three other seed hunters work at the Millennium Seed Bank, an 80 million [pounds sterling] international conservation project that aims to protect the world’s most endangered wild plant species.",
+      "The group’s headquarters are in a modern glass-and-concrete structure on a 200-hectare Estate at Wakehurst Place in the West Sussex countryside. Within its underground vaults are 260 million dried seeds from 122 countries, all stored at -20 Celsius to survive for centuries. Among the 5,100 species represented are virtually all of Britain’s 1,400 native seed-bearing plants, the most complete such collection of any country’s flora.",
+      "Overseen by the Royal botanic gardens, the Millennium Seed Bank is the world’s largest wild-plant depository. It aims to collect 24,000 species by 2010. The reason is simple: thanks to humanity’s effort, an estimated 25 per cent of the world’s plants are on the verge of extinction and may vanish within 50 years. We’re currently responsible for habitat destruction on an unprecedented scale, and during the past 400 years, plant species extinction rates have been about 70 times greater than those indicated by the geological record as being ‘normal’. Experts predict that during the next 50 years further one billion hectares of wilderness will be converted to farmland in developing countries alone.",
+      "The implications of this loss are enormous. Besides providing staple food crops, plants are a source of many machines and the principal supply of fuel and building materials in many parts of the world. They also protect soil and help regulate the climate. Yet, across the globe, plant species are being driven to extinction before their potential benefits are discovered.",
+      "The world Conservation Union has listed 5,714 threatened species is sure to be much higher. In the UK alone, 300 wild plant species are classified as endangered. The Millennium Seed Bank aims to ensure that even if a plant becomes extinct in the wild, it won’t be lost forever. Stored seeds can be used the help restore damaged or destroyed the environment or in scientific research to find new benefits for society- in medicine, agriculture or local industry- that would otherwise be lost.",
+      "Seed banks are an insurance policy to protect the world’s plant heritage for the future, explains Dr Paul Smith, another Kew seed hunter. “Seed conservation techniques were originally developed by farmers,” he says. “Storage is the basis what we do, conserving seeds until you can use them just as in farming,” Smith says there’s no reason why any plant species should become extinct, given today’s technology. But he admits that the biggest challenge is finding, naming and categorizing all the world’s plants. And someone has to gather these seeds before it’s too late. “There aren’t a lot of people out there doing this,” he says. “The key is to know the flora from a particular area, and that knowledge takes years to acquire.”",
+      "There are about 1,470 seedbanks scattered around the globe, with a combined total of 5.4 million samples, of which perhaps two million are distinct non-duplicates. Most preserve genetic material for agriculture use in order to ensure crop diversity; others aim to conserve wild species, although only 15 per cent of all banked plants is wild.",
+      "Many seed banks are themselves under threat due to a lack of funds. Last year, Imperial College, London, examined crop collections from 151 countries and found that while the number of plant samples had increased in two-thirds of the countries, the budget had been cut in a quarter and remained static in another 35 per cent. The UN’s Food and Agriculture Organization and the Consultative Group on International Agricultural Research has since set up the Global Conservation Trust, which aims to raise the US $260 million to protect seed banks in perpetuity."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question."
+    },
+    {
+     "type": "notes",
+     "title": "",
+     "lines": [
+      "Some people collect seeds for the purpose of protecting certain species from (30)___________; others collect seeds for their ability to produce crops as well as (31)__________ They are called seed hunters. The (32)____________ of them included both gardeners and botanists, such as Sir Joseph Banks who financially supported collectors out of his own pocket. The seeds collected are usually stored in seed banks, one of which is the famous millennium seed bank, where seeds are all stored in the (33)____________ vaults at a low temperature."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 34,
+       "q": "According the writer of the passage the Millennium Seed Bank …",
+       "options": [
+        "A) has around 24,000 species of plants.",
+        "B) wants to preserve 25 percent of the world’s plant species for 50 years.",
+        "C) has already started to deposit many species.",
+        "D) is the world’s largest wild-plant which is overseen by gardeners."
+       ]
+      },
+      {
+       "n": 35,
+       "q": "In this passage, the author states the fact that …",
+       "options": [
+        "A) The millennium seed bank is the earliest seed bank.",
+        "B) technological development is the only hope to save plant species.",
+        "C) The purpose of collecting seeds now is different from the past.",
+        "D) Even Captain James Cook had a collection of various plants."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
