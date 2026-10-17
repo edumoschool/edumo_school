@@ -1,0 +1,181 @@
+{
+  "n": 5,
+  "title": "The new girl is very cute!",
+  "emoji": "👧",
+  "color": "purple",
+  "grammar": "Use of adjectives; Intensifier very; Verb be: information questions with What color; Questions with or",
+  "vocab_topic": "Adjectives to describe people; Adjectives to describe eyes and hair",
+  "words": [
+    [
+      "tall",
+      "baland bo‘yli",
+      "🦒"
+    ],
+    [
+      "short",
+      "past bo‘yli",
+      "🐭"
+    ],
+    [
+      "cute",
+      "yoqimtoy",
+      "🐱"
+    ],
+    [
+      "pretty",
+      "chiroyli",
+      "🌸"
+    ],
+    [
+      "strong",
+      "kuchli",
+      "💪"
+    ],
+    [
+      "long hair",
+      "uzun soch",
+      "👱‍♀️"
+    ],
+    [
+      "short hair",
+      "kalta soch",
+      "👦"
+    ],
+    [
+      "curly hair",
+      "jingalak soch",
+      "👩‍🦱"
+    ],
+    [
+      "straight hair",
+      "tekis soch",
+      "💇‍♀️"
+    ],
+    [
+      "blue eyes",
+      "ko‘k ko‘zlar",
+      "🔵"
+    ],
+    [
+      "brown eyes",
+      "jigarrang ko‘zlar",
+      "🟤"
+    ],
+    [
+      "glasses",
+      "ko‘zoynak",
+      "👓"
+    ]
+  ],
+  "pair_game": "Say a word. Your partner points at a picture or a person in the class. Then swap!",
+  "grammar_box": {
+    "title": "Adjectives and very",
+    "rows": [
+      [
+        "I",
+        "am + adjective",
+        "I’m **very tall**."
+      ],
+      [
+        "She",
+        "is + adjective",
+        "She’s **cute**."
+      ],
+      [
+        "adjective + noun",
+        "—",
+        "Ali has **short black** hair."
+      ],
+      [
+        "very",
+        "+ adjective",
+        "Madina is **very** pretty."
+      ],
+      [
+        "What color…?",
+        "is / are",
+        "**What color are** your eyes? They’re **brown**."
+      ],
+      [
+        "… or …?",
+        "choose one",
+        "Is he tall **or** short? He’s **short**."
+      ]
+    ],
+    "tip": "Adjective + noun: a tall boy, NOT a boy tall (sifat oldin keladi)"
+  },
+  "questions": [
+    "Describe yourself — what do you look like? What color is your hair and eyes?",
+    "Who is the tallest person in your family? Describe them.",
+    "Describe your best friend. What does he or she look like?",
+    "What color are your eyes? Are they very dark or light?",
+    "Describe your favorite teacher. What do they look like?",
+    "Are you tall or short? Is that okay with you or do you want to be different?",
+    "Describe someone in your class using adjectives. Don't say their name!",
+    "What do you think is the most important — how someone looks or how they act?",
+    "Describe a famous person you think is very good-looking.",
+    "Is your hair straight or curly? Long or short? Do you like your hair?"
+  ],
+  "starters": [
+    "I’m … . My hair is … and my eyes are … .",
+    "The tallest person is my … . He/She is very … .",
+    "My best friend is … . He/She has … hair and … eyes.",
+    "My eyes are … . They are very … .",
+    "My favourite teacher is … . He/She is … and has … .",
+    "I’m … . It’s okay / I want to be … .",
+    "This person is … . He/She has … hair. Who is it?",
+    "I think … is more important because … .",
+    "I think … is very good-looking. He/She has … .",
+    "My hair is … and … . I like / don’t like it."
+  ],
+  "samples": [
+    [
+      "Describe yourself — what do you look like? What color is your hair and eyes?",
+      "I’m **short** and **thin**. My hair is **long** and **black**. My eyes are **very dark**."
+    ],
+    [
+      "Describe your best friend. What does he or she look like?",
+      "My best friend is **Laylo**. She is **very cute**. She has **curly brown** hair."
+    ],
+    [
+      "Is your hair straight or curly? Long or short? Do you like your hair?",
+      "My hair is **straight** and **short**. I like it. It’s **very** easy!"
+    ]
+  ],
+  "survey": {
+    "title": "Class survey",
+    "question": "What color are your eyes?",
+    "columns": [
+      "Name",
+      "Answer"
+    ]
+  },
+  "game": {
+    "type": "guess",
+    "title": "Guess who!",
+    "rules": "Read a card. Your partner guesses: “Is it Ali or Bobur?” Then swap!",
+    "items": [
+      "I’m a boy. I have short black hair and brown eyes.",
+      "I’m a girl. I have very long straight hair.",
+      "I’m tall and strong. I play football every day.",
+      "I’m a girl. I have curly hair and big blue eyes.",
+      "I’m short and very cute. I wear red glasses.",
+      "I’m a teacher. I have grey hair and a big smile."
+    ]
+  },
+  "mini_talk": {
+    "title": "My best friend",
+    "plan": [
+      "Say your friend’s name",
+      "Say tall or short",
+      "Describe hair and eyes",
+      "Say why you like him or her"
+    ],
+    "model": "This is my best friend, **Bobur**. He is twelve. He is **very tall** and **strong**. He has **short black** hair and **brown** eyes. He is **funny** and **kind**. We play football after school. I like him because he is **very** friendly!"
+  },
+  "cando": [
+    "describe people with adjectives",
+    "talk about hair and eyes",
+    "ask questions with What color and or"
+  ]
+}

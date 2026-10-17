@@ -1,0 +1,183 @@
+{
+  "n": 4,
+  "title": "Are we late?",
+  "emoji": "⏰",
+  "color": "pink",
+  "grammar": "Prepositions on and at; Verb be: information questions with What time, When, and What day",
+  "vocab_topic": "Clock times; School subjects; Days of the week; Expressions of punctuality",
+  "words": [
+    [
+      "o’clock",
+      "soat (aniq)",
+      "🕐"
+    ],
+    [
+      "half past",
+      "yarim",
+      "🕧"
+    ],
+    [
+      "Monday",
+      "dushanba",
+      "📅"
+    ],
+    [
+      "weekend",
+      "dam olish kunlari",
+      "🎉"
+    ],
+    [
+      "Maths",
+      "matematika",
+      "➗"
+    ],
+    [
+      "English",
+      "ingliz tili",
+      "🔤"
+    ],
+    [
+      "Art",
+      "tasviriy san’at",
+      "🎨"
+    ],
+    [
+      "PE",
+      "jismoniy tarbiya",
+      "⚽"
+    ],
+    [
+      "Science",
+      "tabiiy fanlar",
+      "🔬"
+    ],
+    [
+      "Music",
+      "musiqa",
+      "🎵"
+    ],
+    [
+      "on time",
+      "o‘z vaqtida",
+      "✅"
+    ],
+    [
+      "late",
+      "kechikkan",
+      "🐢"
+    ]
+  ],
+  "pair_game": "Show a time with your hands like a clock. Your partner says the time. Then swap!",
+  "grammar_box": {
+    "title": "What time? When? What day?",
+    "rows": [
+      [
+        "What time",
+        "is it?",
+        "It’s **seven o’clock**."
+      ],
+      [
+        "What time",
+        "is lunch?",
+        "It’s **at** half past twelve."
+      ],
+      [
+        "When",
+        "is Maths?",
+        "It’s **on** Monday."
+      ],
+      [
+        "What day",
+        "is it today?",
+        "It’s **Friday**."
+      ],
+      [
+        "at",
+        "+ time",
+        "**at** 8 o’clock"
+      ],
+      [
+        "on",
+        "+ day",
+        "**on** Saturday"
+      ]
+    ],
+    "tip": "at + time (at 9:00), on + day (on Monday) — vaqt uchun at, kun uchun on"
+  },
+  "questions": [
+    "What time do you wake up on school days?",
+    "What is your favorite school subject? What day do you have it?",
+    "Are you usually on time for school or are you sometimes late?",
+    "What time does your school start and finish?",
+    "What do you do on weekends? What time do you usually get up?",
+    "Which days of the week do you like the most? Why?",
+    "What time do you eat dinner with your family?",
+    "Is it important to be on time? Why or why not?",
+    "What subject do you have on Monday mornings?",
+    "What time do you usually go to sleep? Is that early or late?"
+  ],
+  "starters": [
+    "I wake up at …",
+    "My favourite subject is … . I have it on …",
+    "I’m usually … / Sometimes I’m …",
+    "My school starts at … and finishes at …",
+    "On weekends I … . I get up at …",
+    "I like … the most because …",
+    "We eat dinner at …",
+    "Yes, it is. / No, it isn’t. Because …",
+    "On Monday mornings I have …",
+    "I go to sleep at … . It’s …"
+  ],
+  "samples": [
+    [
+      "What time do you wake up on school days?",
+      "I wake up **at seven o’clock**. My mom says, “Bobur, get up!”"
+    ],
+    [
+      "What is your favorite school subject? What day do you have it?",
+      "My favourite subject is **Art**. I have it **on Wednesday**."
+    ],
+    [
+      "What time does your school start and finish?",
+      "My school starts **at eight o’clock** and finishes **at one o’clock**."
+    ]
+  ],
+  "survey": {
+    "title": "Class survey",
+    "question": "What time do you go to sleep?",
+    "columns": [
+      "Name",
+      "Answer"
+    ]
+  },
+  "game": {
+    "type": "spinner",
+    "title": "Spin and say",
+    "rules": "Spin the pencil. Read the prompt. Answer in a full sentence with at or on!",
+    "items": [
+      "What time do you wake up?",
+      "When is your English class?",
+      "What day is it today?",
+      "What time is lunch?",
+      "Your favourite day of the week?",
+      "What time do you watch TV?",
+      "When is your PE class?",
+      "Are you late or on time today?"
+    ]
+  },
+  "mini_talk": {
+    "title": "My school day",
+    "plan": [
+      "Say what time you wake up",
+      "Say what time school starts",
+      "Say your favourite subject and its day",
+      "Say what time you go to sleep"
+    ],
+    "model": "Hi! I’m Madina. I wake up **at** seven o’clock. My school starts **at** eight o’clock. I’m never late! My favourite subject is Music. I have it **on** Tuesday and **on** Thursday. I go home **at** one o’clock. **On** Saturday I play with my friends. I go to sleep **at** half past nine."
+  },
+  "cando": [
+    "tell the time",
+    "use at for times and on for days",
+    "ask What time, When and What day questions"
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "n": 9,
+  "title": "There's a school next door",
+  "emoji": "🏘️",
+  "color": "indigo",
+  "grammar": "there is / there are; Questions with How many",
+  "vocab_topic": "Expressions of location in the neighborhood; Places in the neighborhood",
+  "words": [
+    [
+      "school",
+      "maktab",
+      "🏫"
+    ],
+    [
+      "park",
+      "bog‘",
+      "🌳"
+    ],
+    [
+      "playground",
+      "o‘yin maydonchasi",
+      "🛝"
+    ],
+    [
+      "bazaar",
+      "bozor",
+      "🍉"
+    ],
+    [
+      "shop",
+      "do‘kon",
+      "🏪"
+    ],
+    [
+      "hospital",
+      "kasalxona",
+      "🏥"
+    ],
+    [
+      "mosque",
+      "masjid",
+      "🕌"
+    ],
+    [
+      "bank",
+      "bank",
+      "🏦"
+    ],
+    [
+      "café",
+      "kafe",
+      "☕"
+    ],
+    [
+      "next to",
+      "yonida",
+      "👫"
+    ],
+    [
+      "near",
+      "yaqinida",
+      "📍"
+    ],
+    [
+      "opposite",
+      "qarshisida",
+      "↔️"
+    ]
+  ],
+  "pair_game": "Say a place. Your partner says “There’s a … near my home” or “There isn’t a … near my home.” Then swap!",
+  "grammar_box": {
+    "title": "There is / There are",
+    "rows": [
+      [
+        "There is",
+        "one thing",
+        "**There’s a** park near my home."
+      ],
+      [
+        "There are",
+        "two or more",
+        "**There are** two shops."
+      ],
+      [
+        "There isn’t",
+        "negative",
+        "**There isn’t a** cinema."
+      ],
+      [
+        "There aren’t",
+        "negative",
+        "**There aren’t any** banks."
+      ],
+      [
+        "Is there…?",
+        "question",
+        "**Is there a** bazaar? Yes, there is."
+      ],
+      [
+        "How many…?",
+        "number",
+        "**How many** schools **are there**?"
+      ]
+    ],
+    "tip": "There is → There’s. How many + plural: How many shops are there? (Nechta?)"
+  },
+  "questions": [
+    "What places are there in your neighborhood? Describe two or three.",
+    "How many schools are there near your home?",
+    "Is there a park or playground near your house? Do you go there?",
+    "How many students are there in your class?",
+    "What shops or stores are there near your school?",
+    "Describe your neighborhood — is it quiet or busy?",
+    "Is there a market or bazaar near your home? What can you buy there?",
+    "How many floors are there in your school building?",
+    "What place in your neighborhood do you visit most often?",
+    "Is there anything missing in your neighborhood that you wish was there?"
+  ],
+  "starters": [
+    "In my neighborhood, there’s a … and there are … .",
+    "There is/are … school(s) near my home.",
+    "Yes, there’s a … near my house. I go there … . / No, there isn’t.",
+    "There are … students in my class.",
+    "There’s a … and a … near my school.",
+    "My neighborhood is … . There are a lot of … .",
+    "Yes, there’s … bazaar near my home. I can buy … there.",
+    "There are … floors in my school building.",
+    "I visit the … most often. I go there with … .",
+    "There isn’t a … in my neighborhood. I wish there was a … ."
+  ],
+  "samples": [
+    [
+      "What places are there in your neighborhood? Describe two or three.",
+      "**There’s a** big park in my neighborhood. **There are** two shops and a café, too."
+    ],
+    [
+      "Is there a market or bazaar near your home? What can you buy there?",
+      "Yes, **there’s** Chorsu bazaar near my home. I can buy fruit, bread and spices there!"
+    ],
+    [
+      "How many students are there in your class?",
+      "**There are** 28 students in my class. **There are** 15 girls and 13 boys."
+    ]
+  ],
+  "survey": {
+    "title": "Class survey",
+    "question": "What is your favourite place in your neighborhood?",
+    "columns": [
+      "Name",
+      "Answer"
+    ]
+  },
+  "game": {
+    "type": "board",
+    "title": "Neighborhood board game",
+    "rules": "Roll a dice. Move your counter. Read the square and answer. Use “There is / There are”!",
+    "items": [
+      "Name 3 places near your home.",
+      "How many windows are there in your classroom?",
+      "Is there a park near your school?",
+      "Say: There are … students in my class.",
+      "What is next to your house?",
+      "How many people are there in your family?",
+      "Is there a bazaar near your home?",
+      "Say 2 things there are in your bag.",
+      "What is opposite your school?",
+      "How many shops are there in your street?",
+      "Is there a mosque near your house?",
+      "Name a place you want in your neighborhood."
+    ]
+  },
+  "mini_talk": {
+    "title": "My neighborhood",
+    "plan": [
+      "Say where you live",
+      "Say what places there are",
+      "Say how many shops or schools there are",
+      "Say your favourite place"
+    ],
+    "model": "Hi! I’m Bobur. I live in Chilonzor, Tashkent. **There’s a** big school near my home. **There are** three shops and a small café. **There isn’t a** cinema. **There’s a** park next to my house. I play football there with my friends. It’s my favourite place!"
+  },
+  "cando": [
+    "name places in my neighborhood",
+    "use there is and there are",
+    "ask questions with How many"
+  ]
+}

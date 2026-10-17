@@ -1,0 +1,179 @@
+{
+  "n": 12,
+  "title": "You should visit Brazil!",
+  "emoji": "🌍",
+  "color": "rose",
+  "grammar": "should for advice: statements and yes/no questions; should: information questions",
+  "vocab_topic": "Reasons to visit a place",
+  "words": [
+    [
+      "beautiful",
+      "chiroyli",
+      "🌸"
+    ],
+    [
+      "old city",
+      "qadimiy shahar",
+      "🏰"
+    ],
+    [
+      "museum",
+      "muzey",
+      "🏛️"
+    ],
+    [
+      "mountains",
+      "tog‘lar",
+      "⛰️"
+    ],
+    [
+      "beach",
+      "plyaj",
+      "🏖️"
+    ],
+    [
+      "food",
+      "ovqat",
+      "🍲"
+    ],
+    [
+      "friendly people",
+      "do‘stona odamlar",
+      "😊"
+    ],
+    [
+      "festival",
+      "bayram",
+      "🎉"
+    ],
+    [
+      "visit",
+      "tashrif buyurmoq",
+      "🧳"
+    ],
+    [
+      "take photos",
+      "rasmga olmoq",
+      "📸"
+    ],
+    [
+      "try",
+      "tatib ko‘rmoq",
+      "😋"
+    ],
+    [
+      "advice",
+      "maslahat",
+      "💡"
+    ]
+  ],
+  "pair_game": "Say a place. Your partner gives one reason: “It has beautiful mountains!” Then swap!",
+  "grammar_box": {
+    "title": "should / shouldn’t",
+    "rows": [
+      [
+        "I / You",
+        "should",
+        "You **should** visit Samarkand."
+      ],
+      [
+        "He / She",
+        "should",
+        "She **should** try plov."
+      ],
+      [
+        "We / They",
+        "shouldn’t",
+        "They **shouldn’t** be late."
+      ],
+      [
+        "Should I…?",
+        "question",
+        "**Should** I go? Yes, you **should**."
+      ],
+      [
+        "What should…?",
+        "information",
+        "**What should** I see?"
+      ]
+    ],
+    "tip": "should + verb = good idea (maslahat). You should sleep. You shouldn’t eat too much sugar."
+  },
+  "questions": [
+    "What place in Uzbekistan should every tourist visit? Why?",
+    "Should students use their phones in class? What do you think?",
+    "What should a visitor do on their first day in your city?",
+    "What food should tourists definitely try in Uzbekistan?",
+    "Should teenagers exercise every day? Why or why not?",
+    "What should someone do if they want to learn English faster?",
+    "What is one thing students should always do before an exam?",
+    "Should you visit a country before you decide to live there? Why?",
+    "What advice should you give to a new student joining your school?",
+    "What is one thing everyone should do to make the world a better place?"
+  ],
+  "starters": [
+    "Every tourist should visit … because … .",
+    "I think students should / shouldn’t use phones in class because … .",
+    "On the first day, a visitor should … .",
+    "Tourists should definitely try … .",
+    "Yes, teenagers should exercise every day because … .",
+    "You should … every day to learn English faster.",
+    "Before an exam, students should always … .",
+    "Yes, you should visit it first because … .",
+    "A new student should … .",
+    "Everyone should … to make the world better."
+  ],
+  "samples": [
+    [
+      "What place in Uzbekistan should every tourist visit? Why?",
+      "Every tourist **should visit** Registan in Samarkand. It’s very old and beautiful!"
+    ],
+    [
+      "What food should tourists definitely try in Uzbekistan?",
+      "Tourists **should** definitely **try** plov and samsa. They’re delicious!"
+    ],
+    [
+      "What should someone do if they want to learn English faster?",
+      "You **should** watch cartoons in English. You **should** learn five new words every day."
+    ]
+  ],
+  "survey": {
+    "title": "Class survey",
+    "question": "Which city in Uzbekistan should tourists visit?",
+    "columns": [
+      "Name",
+      "Answer"
+    ]
+  },
+  "game": {
+    "type": "bingo",
+    "title": "Advice bingo",
+    "rules": "Your teacher reads a problem. Find good advice with “should” on your card. Say it and cross it out. Three in a row = BINGO!",
+    "items": [
+      "You should drink water.",
+      "You should go to bed early.",
+      "You should visit Bukhara.",
+      "You should try somsa.",
+      "You should ask your teacher.",
+      "You shouldn’t eat too many sweets.",
+      "You should take a jacket.",
+      "You should read every day.",
+      "You should say hello to new friends."
+    ]
+  },
+  "mini_talk": {
+    "title": "Visit my country",
+    "plan": [
+      "Say hello and your name",
+      "Say a place tourists should visit",
+      "Say food they should try",
+      "Give one more piece of advice"
+    ],
+    "model": "Hello! I’m Ali from Tashkent. Tourists **should visit** Uzbekistan! You **should see** Registan in Samarkand. It’s very beautiful. You **should try** plov and fresh bread from Chorsu bazaar. You **should take** photos in Bukhara, too. You **shouldn’t** visit in July — it’s very hot!"
+  },
+  "cando": [
+    "give advice with should and shouldn’t",
+    "ask questions with Should…? and What should…?",
+    "talk about reasons to visit a place"
+  ]
+}

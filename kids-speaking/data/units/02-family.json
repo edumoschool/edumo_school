@@ -1,0 +1,181 @@
+{
+  "n": 2,
+  "title": "Is she your mom?",
+  "emoji": "👨‍👩‍👧‍👦",
+  "color": "orange",
+  "grammar": "Possessive adjectives; Possessive 's and s'; Verb be: yes/no questions; Questions with Who and What",
+  "vocab_topic": "The family",
+  "words": [
+    [
+      "mom",
+      "onam",
+      "👩"
+    ],
+    [
+      "dad",
+      "dadam",
+      "👨"
+    ],
+    [
+      "brother",
+      "aka / uka",
+      "👦"
+    ],
+    [
+      "sister",
+      "opa / singil",
+      "👧"
+    ],
+    [
+      "grandma",
+      "buvim",
+      "👵"
+    ],
+    [
+      "grandpa",
+      "bobom",
+      "👴"
+    ],
+    [
+      "baby",
+      "chaqaloq",
+      "👶"
+    ],
+    [
+      "parents",
+      "ota-ona",
+      "👫"
+    ],
+    [
+      "family",
+      "oila",
+      "👨‍👩‍👧‍👦"
+    ],
+    [
+      "uncle",
+      "amaki / tog‘a",
+      "🧔"
+    ],
+    [
+      "aunt",
+      "amma / xola",
+      "👩‍🦱"
+    ],
+    [
+      "cousin",
+      "amakivachcha",
+      "🧒"
+    ]
+  ],
+  "pair_game": "Say a family word. Your partner points at the right picture. Then swap!",
+  "grammar_box": {
+    "title": "My, your, his, her + ’s",
+    "rows": [
+      [
+        "I",
+        "my",
+        "This is **my** mom."
+      ],
+      [
+        "you",
+        "your",
+        "Is she **your** sister?"
+      ],
+      [
+        "he",
+        "his",
+        "**His** name is Bobur."
+      ],
+      [
+        "she",
+        "her",
+        "**Her** name is Laylo."
+      ],
+      [
+        "Ali",
+        "Ali’s",
+        "This is **Ali’s** dad."
+      ],
+      [
+        "Who / What",
+        "Who is …? What is …?",
+        "Who is she? She’s my aunt."
+      ]
+    ],
+    "tip": "’s = belongs to: Madina’s mom = Madinaning onasi"
+  },
+  "questions": [
+    "Who is in your family? How many people are there?",
+    "What is your mother's name? What does she do?",
+    "Is your family big or small? Tell me about your brothers and sisters.",
+    "Who is your favorite person in your family? Why do you like them?",
+    "What is your father's job? Is he busy every day?",
+    "Do you have grandparents? What are their names?",
+    "Is your family home big or small? Who lives there with you?",
+    "What does your family do together on weekends?",
+    "Who is the funniest person in your family?",
+    "What is something special or unique about your family?"
+  ],
+  "starters": [
+    "My family is … . There are … people.",
+    "My mother’s name is … . She’s a …",
+    "My family is … . I have … brother(s) and … sister(s).",
+    "My favourite person is my … . I like her / him because …",
+    "My father is a … . Yes, he is. / No, he isn’t.",
+    "Yes, I do. Their names are … and …",
+    "Our home is … . My … live(s) with me.",
+    "On weekends we …",
+    "The funniest person is my … . He / She …",
+    "My family is special because …"
+  ],
+  "samples": [
+    [
+      "Who is in your family? How many people are there?",
+      "There are **five** people in my family. **My** mom, **my** dad, **my** brother, **my** sister and me!"
+    ],
+    [
+      "What is your mother's name? What does she do?",
+      "**My mother’s** name is Dilnoza. She is a teacher."
+    ],
+    [
+      "Who is the funniest person in your family?",
+      "**My grandpa** is the funniest! **His** jokes are very funny."
+    ]
+  ],
+  "survey": {
+    "title": "Class survey",
+    "question": "How many people are in your family?",
+    "columns": [
+      "Name",
+      "Answer"
+    ]
+  },
+  "game": {
+    "type": "dice",
+    "title": "Roll and talk",
+    "rules": "Roll the dice. Look at the number. Talk about your family for 30 seconds!",
+    "items": [
+      "1 — Say your mom’s name.",
+      "2 — Say your dad’s job.",
+      "3 — Talk about your brother or sister.",
+      "4 — Talk about your grandma or grandpa.",
+      "5 — Who is the funniest in your family?",
+      "6 — What does your family do on Sunday?"
+    ]
+  },
+  "mini_talk": {
+    "title": "My family",
+    "plan": [
+      "Say how many people are in your family",
+      "Say their names",
+      "Say one thing about each person",
+      "Say what you do together"
+    ],
+    "model": "Hi! There are six people in **my** family. **My** dad’s name is Rustam. **He’s** a doctor. **My** mom’s name is Nodira. **She’s** a teacher. **My** sister is Laylo and **my** brother is Ali. **My** grandma lives with us. **Her** plov is great! On Sundays we go to the park together."
+  },
+  "cando": [
+    "name the people in my family",
+    "use my, your, his, her and ’s",
+    "ask Who and What questions about a family"
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "n": 3,
+  "title": "Where are you from?",
+  "emoji": "🌍",
+  "color": "blue",
+  "grammar": "Verb be: questions with Where; be in for location; be from for origin",
+  "vocab_topic": "Countries, nationalities, and hometowns",
+  "words": [
+    [
+      "Uzbekistan",
+      "O‘zbekiston",
+      "🇺🇿"
+    ],
+    [
+      "Uzbek",
+      "o‘zbek",
+      "🧑"
+    ],
+    [
+      "country",
+      "mamlakat",
+      "🗺️"
+    ],
+    [
+      "city",
+      "shahar",
+      "🏙️"
+    ],
+    [
+      "hometown",
+      "tug‘ilgan shahar",
+      "🏡"
+    ],
+    [
+      "Turkey",
+      "Turkiya",
+      "🇹🇷"
+    ],
+    [
+      "Russia",
+      "Rossiya",
+      "🇷🇺"
+    ],
+    [
+      "Kazakhstan",
+      "Qozog‘iston",
+      "🇰🇿"
+    ],
+    [
+      "the USA",
+      "AQSh",
+      "🇺🇸"
+    ],
+    [
+      "the UK",
+      "Buyuk Britaniya",
+      "🇬🇧"
+    ],
+    [
+      "Korea",
+      "Koreya",
+      "🇰🇷"
+    ],
+    [
+      "China",
+      "Xitoy",
+      "🇨🇳"
+    ]
+  ],
+  "pair_game": "Show a flag. Your partner says the country and the nationality. Then swap!",
+  "grammar_box": {
+    "title": "Where + be from / be in",
+    "rows": [
+      [
+        "Where",
+        "are you from?",
+        "I’m **from** Bukhara."
+      ],
+      [
+        "Where",
+        "is he from?",
+        "He’s **from** Korea."
+      ],
+      [
+        "Where",
+        "is your school?",
+        "It’s **in** Chilonzor."
+      ],
+      [
+        "Where",
+        "are they?",
+        "They’re **in** Tashkent."
+      ],
+      [
+        "Are you",
+        "from …?",
+        "Yes, I am. / No, I’m not."
+      ]
+    ],
+    "tip": "be from = country or city you come from; be in = place you are now (hozir qayerdasan)"
+  },
+  "questions": [
+    "Where are you from? What is your hometown like?",
+    "What country are you from? What is your nationality?",
+    "Where is your school? Is it near your home?",
+    "What is the most famous city in Uzbekistan? Why is it famous?",
+    "Are there any students from other countries in your school?",
+    "Where are your favorite singers or actors from?",
+    "What country do you want to visit one day? Why?",
+    "Is Tashkent a big city? What can people do there?",
+    "Where are you right now — at school or at home? Describe the place.",
+    "What do you love most about your hometown or city?"
+  ],
+  "starters": [
+    "I’m from … . My hometown is …",
+    "I’m from … . I’m …",
+    "My school is in … . Yes, it is. / No, it isn’t.",
+    "The most famous city is … . It’s famous for …",
+    "Yes, there are. They’re from … / No, there aren’t.",
+    "My favourite singer is … . He’s / She’s from …",
+    "I want to visit … because …",
+    "Yes, it is. People can …",
+    "I’m at … right now. It’s …",
+    "I love … in my city."
+  ],
+  "samples": [
+    [
+      "Where are you from? What is your hometown like?",
+      "**I’m from** Namangan. My hometown is small and green."
+    ],
+    [
+      "What is the most famous city in Uzbekistan? Why is it famous?",
+      "**Samarkand** is very famous. It’s famous for **the Registan**!"
+    ],
+    [
+      "Is Tashkent a big city? What can people do there?",
+      "Yes, **Tashkent is** a big city. People can ride the **metro** and go to **Magic City**."
+    ]
+  ],
+  "survey": {
+    "title": "Class survey",
+    "question": "What country do you want to visit?",
+    "columns": [
+      "Name",
+      "Answer"
+    ]
+  },
+  "game": {
+    "type": "board",
+    "title": "Around the world",
+    "rules": "Put your counter on START. Roll the dice and move. Answer the question on your square!",
+    "items": [
+      "Where are you from?",
+      "Is your school in Tashkent?",
+      "What is your nationality?",
+      "Name a city in Uzbekistan.",
+      "Where is the Registan?",
+      "Name 3 countries.",
+      "Where is your best friend from?",
+      "Where are you now?",
+      "Is Bukhara big or small?",
+      "Where is your favourite singer from?",
+      "What country do you want to visit?",
+      "What do you love about your city?"
+    ]
+  },
+  "mini_talk": {
+    "title": "My hometown",
+    "plan": [
+      "Say where you are from",
+      "Say your nationality",
+      "Say where your school is",
+      "Say one thing you love about your city"
+    ],
+    "model": "Hello! My name is Laylo. **I’m from** Bukhara. **I’m** Uzbek. Bukhara **is in** Uzbekistan. It **is** a very old city. My school **is in** the city centre. It **is** near my home. My friend Ali **is from** Kazakhstan. I love the old streets and the tasty bread in my city!"
+  },
+  "cando": [
+    "say where I am from",
+    "name countries and nationalities",
+    "ask Where questions with be"
+  ]
+}

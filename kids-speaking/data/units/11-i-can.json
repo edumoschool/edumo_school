@@ -1,0 +1,183 @@
+{
+  "n": 11,
+  "title": "I can do that!",
+  "emoji": "💪",
+  "color": "sky",
+  "grammar": "can / can't for ability; Statements and yes/no questions; Degrees of ability",
+  "vocab_topic": "Abilities",
+  "words": [
+    [
+      "swim",
+      "suzmoq",
+      "🏊"
+    ],
+    [
+      "sing",
+      "qo‘shiq aytmoq",
+      "🎤"
+    ],
+    [
+      "dance",
+      "raqs tushmoq",
+      "💃"
+    ],
+    [
+      "cook",
+      "ovqat pishirmoq",
+      "🍳"
+    ],
+    [
+      "draw",
+      "rasm chizmoq",
+      "🎨"
+    ],
+    [
+      "ride a bike",
+      "velosiped haydamoq",
+      "🚲"
+    ],
+    [
+      "play the piano",
+      "pianino chalmoq",
+      "🎹"
+    ],
+    [
+      "play football",
+      "futbol o‘ynamoq",
+      "⚽"
+    ],
+    [
+      "run fast",
+      "tez yugurmoq",
+      "🏃"
+    ],
+    [
+      "speak English",
+      "inglizcha gapirmoq",
+      "🗣️"
+    ],
+    [
+      "play chess",
+      "shaxmat o‘ynamoq",
+      "♟️"
+    ],
+    [
+      "use a computer",
+      "kompyuterdan foydalanmoq",
+      "💻"
+    ]
+  ],
+  "pair_game": "Act out an ability. Your partner guesses: “You can swim!” Then swap!",
+  "grammar_box": {
+    "title": "can / can’t",
+    "rows": [
+      [
+        "I / You",
+        "can",
+        "I **can** swim."
+      ],
+      [
+        "He / She",
+        "can",
+        "She **can** sing."
+      ],
+      [
+        "We / They",
+        "can’t",
+        "They **can’t** cook."
+      ],
+      [
+        "Can you…?",
+        "question",
+        "**Can** you dance?"
+      ],
+      [
+        "Yes / No",
+        "short answer",
+        "Yes, I **can**. / No, I **can’t**."
+      ],
+      [
+        "very well / a little",
+        "how well",
+        "I can draw **very well**."
+      ]
+    ],
+    "tip": "can + verb (no -s!): She can swim. NOT She can swims. (qila oladi)"
+  },
+  "questions": [
+    "What can you do very well? Tell me about your best ability.",
+    "Can you play a musical instrument? Which one? How well?",
+    "What sport can you play? Are you very good at it?",
+    "What can't you do but really want to learn?",
+    "Can you cook? What dishes can you make?",
+    "Can you speak any other languages besides Uzbek and English?",
+    "What can your best friend do that you can't?",
+    "Can you draw or paint? Do you enjoy art?",
+    "What is something you couldn't do before but can do now?",
+    "What ability do you think is the most useful in everyday life?"
+  ],
+  "starters": [
+    "I can … very well. It’s my best ability!",
+    "Yes, I can play the … . I can play it … . / No, I can’t.",
+    "I can play … . I’m very good / OK at it.",
+    "I can’t … , but I really want to learn.",
+    "Yes, I can cook. I can make … . / No, I can’t cook.",
+    "Yes, I can speak … . / No, I can’t.",
+    "My best friend can … , but I can’t.",
+    "Yes, I can draw … . I enjoy art because … .",
+    "Before, I couldn’t … . Now I can … .",
+    "I think … is the most useful ability."
+  ],
+  "samples": [
+    [
+      "What can you do very well? Tell me about your best ability.",
+      "I **can** play chess **very well**. I play with my grandpa every evening!"
+    ],
+    [
+      "Can you cook? What dishes can you make?",
+      "Yes, I **can** cook a little. I **can** make eggs and tea. I **can’t** make plov."
+    ],
+    [
+      "What can your best friend do that you can't?",
+      "My best friend Ali **can** swim very fast. I **can’t** swim, but I want to learn."
+    ]
+  ],
+  "survey": {
+    "title": "Class survey",
+    "question": "What can you do very well?",
+    "columns": [
+      "Name",
+      "Answer"
+    ]
+  },
+  "game": {
+    "type": "find",
+    "title": "Find someone who…",
+    "rules": "Walk around the class. Ask: “Can you …?” If the answer is “Yes, I can”, write a name.",
+    "items": [
+      "… can swim.",
+      "… can play chess.",
+      "… can sing a song in English.",
+      "… can cook plov.",
+      "… can ride a bike.",
+      "… can play the dutar or piano.",
+      "… can speak Russian.",
+      "… can draw a cat."
+    ]
+  },
+  "mini_talk": {
+    "title": "My abilities",
+    "plan": [
+      "Say hello and your name",
+      "Say what you can do well",
+      "Say what you can’t do",
+      "Say what you want to learn"
+    ],
+    "model": "Hello! I’m Laylo. I **can** sing and dance **very well**. I **can** speak Uzbek, English and a little Russian. I **can** draw flowers. But I **can’t** swim, and I **can’t** play football. I want to learn to swim this summer. **Can** you swim?"
+  },
+  "cando": [
+    "talk about my abilities with can and can’t",
+    "ask yes/no questions with Can you…?",
+    "say how well I can do things"
+  ]
+}

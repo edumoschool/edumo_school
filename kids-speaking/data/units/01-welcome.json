@@ -1,0 +1,183 @@
+{
+  "n": 1,
+  "title": "Welcome to English class",
+  "emoji": "👋",
+  "color": "green",
+  "grammar": "Verb be: affirmative and negative; Subject pronouns",
+  "vocab_topic": "Greetings: hellos and goodbyes",
+  "words": [
+    [
+      "hello",
+      "salom",
+      "👋"
+    ],
+    [
+      "hi",
+      "salom",
+      "🙋"
+    ],
+    [
+      "goodbye",
+      "xayr",
+      "🚪"
+    ],
+    [
+      "bye",
+      "xayr",
+      "🤚"
+    ],
+    [
+      "good morning",
+      "xayrli tong",
+      "🌅"
+    ],
+    [
+      "good afternoon",
+      "xayrli kun",
+      "☀️"
+    ],
+    [
+      "good evening",
+      "xayrli kech",
+      "🌆"
+    ],
+    [
+      "good night",
+      "xayrli tun",
+      "🌙"
+    ],
+    [
+      "see you later",
+      "keyin ko‘rishamiz",
+      "👀"
+    ],
+    [
+      "How are you?",
+      "Qalaysan?",
+      "😊"
+    ],
+    [
+      "I’m fine, thanks",
+      "Yaxshi, rahmat",
+      "👍"
+    ],
+    [
+      "nice to meet you",
+      "tanishganimdan xursandman",
+      "🤝"
+    ]
+  ],
+  "pair_game": "Act a greeting with your hands. Your partner says the words. Then swap!",
+  "grammar_box": {
+    "title": "Verb be",
+    "rows": [
+      [
+        "I",
+        "am",
+        "I’m Ali."
+      ],
+      [
+        "You",
+        "are",
+        "You’re my friend."
+      ],
+      [
+        "He / She",
+        "is",
+        "She’s Madina."
+      ],
+      [
+        "It",
+        "is",
+        "It’s my school."
+      ],
+      [
+        "We / They",
+        "are",
+        "We’re students."
+      ],
+      [
+        "not",
+        "am not / isn’t / aren’t",
+        "I’m not late. He isn’t sad."
+      ]
+    ],
+    "tip": "Short forms: I am → I’m, you are → you’re, he is → he’s (qisqa shakllar)"
+  },
+  "questions": [
+    "What is your name? How do you spell it?",
+    "Where are you from? Are you from Uzbekistan?",
+    "How old are you? Are you a student?",
+    "What is your teacher's name? Is she/he nice?",
+    "Are you happy in English class? Why or why not?",
+    "Who is your best friend? Is he or she in your class?",
+    "What is your favorite greeting in English? Do you use it every day?",
+    "Are you good at English? What is easy and what is difficult for you?",
+    "How do you say hello and goodbye to your friends in Uzbekistan?",
+    "Is English class interesting for you? What do you like about it?"
+  ],
+  "starters": [
+    "My name is … . It’s spelled …",
+    "I’m from … . Yes, I am. / No, I’m not.",
+    "I’m … years old. Yes, I’m a …",
+    "My teacher’s name is … . She’s / He’s …",
+    "Yes, I am. / No, I’m not. Because …",
+    "My best friend is … . He’s / She’s in …",
+    "My favourite greeting is … . Yes, I … / No, I …",
+    "I’m good at … . … is easy. … is difficult.",
+    "We say … for hello and … for goodbye.",
+    "Yes, it is. / No, it isn’t. I like …"
+  ],
+  "samples": [
+    [
+      "What is your name? How do you spell it?",
+      "My name is **Madina**. It’s spelled **M-A-D-I-N-A**."
+    ],
+    [
+      "Where are you from? Are you from Uzbekistan?",
+      "**I’m from** Samarkand. Yes, **I am** from Uzbekistan!"
+    ],
+    [
+      "How do you say hello and goodbye to your friends in Uzbekistan?",
+      "We say **“Assalomu alaykum”** for hello. For goodbye we say **“Xayr”**."
+    ]
+  ],
+  "survey": {
+    "title": "Class survey",
+    "question": "What is your favourite greeting?",
+    "columns": [
+      "Name",
+      "Answer"
+    ]
+  },
+  "game": {
+    "type": "find",
+    "title": "Find someone who…",
+    "rules": "Walk around the class. Ask: “Are you …?” Write a name.",
+    "items": [
+      "… is good at English",
+      "… is 11 years old",
+      "… is from Tashkent",
+      "… is happy today",
+      "… is a big brother or sister",
+      "… is good at football",
+      "… is in Class 5",
+      "… is hungry now"
+    ]
+  },
+  "mini_talk": {
+    "title": "All about me",
+    "plan": [
+      "Say hello and your name",
+      "Say your age",
+      "Say where you are from",
+      "Say goodbye"
+    ],
+    "model": "Hello! **I’m** Bobur. My name is spelled B-O-B-U-R. **I’m** eleven years old. **I’m** from Samarkand in Uzbekistan. **I’m** a student. My teacher **is** very nice. My best friend **is** Ali. He **is** in my class. **We are** happy in English class. Goodbye! See you later!"
+  },
+  "cando": [
+    "say hello and goodbye",
+    "talk about myself with be",
+    "ask my friends questions"
+  ]
+}

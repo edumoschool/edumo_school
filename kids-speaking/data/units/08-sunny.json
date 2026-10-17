@@ -1,0 +1,176 @@
+{
+  "n": 8,
+  "title": "It's really sunny now!",
+  "emoji": "☀️",
+  "color": "red",
+  "grammar": "Let's / Let's not",
+  "vocab_topic": "Good weather and bad weather; Free-time activities",
+  "words": [
+    [
+      "sunny",
+      "quyoshli",
+      "☀️"
+    ],
+    [
+      "rainy",
+      "yomg‘irli",
+      "🌧️"
+    ],
+    [
+      "cloudy",
+      "bulutli",
+      "☁️"
+    ],
+    [
+      "snowy",
+      "qorli",
+      "❄️"
+    ],
+    [
+      "windy",
+      "shamolli",
+      "🌬️"
+    ],
+    [
+      "hot",
+      "issiq",
+      "🔥"
+    ],
+    [
+      "cold",
+      "sovuq",
+      "🥶"
+    ],
+    [
+      "play football",
+      "futbol o‘ynamoq",
+      "⚽"
+    ],
+    [
+      "ride a bike",
+      "velosiped haydamoq",
+      "🚲"
+    ],
+    [
+      "swim",
+      "suzmoq",
+      "🏊"
+    ],
+    [
+      "watch TV",
+      "televizor ko‘rmoq",
+      "📺"
+    ],
+    [
+      "play games",
+      "o‘yin o‘ynamoq",
+      "🎮"
+    ]
+  ],
+  "pair_game": "Act out a word with no talking. Your partner guesses it. Then swap!",
+  "grammar_box": {
+    "title": "Let’s / Let’s not",
+    "rows": [
+      [
+        "Let’s",
+        "+ verb",
+        "It’s sunny. **Let’s** play football!"
+      ],
+      [
+        "Let’s not",
+        "+ verb",
+        "It’s rainy. **Let’s not** go out."
+      ],
+      [
+        "Yes",
+        "answer",
+        "Good idea! / OK!"
+      ],
+      [
+        "No",
+        "answer",
+        "Sorry, I can’t. / No, let’s …"
+      ],
+      [
+        "What’s the weather like?",
+        "It’s + adjective",
+        "It’s **really sunny** today."
+      ]
+    ],
+    "tip": "Let’s = Let us. Let’s + verb: Let’s swim! (Keling, …)"
+  },
+  "questions": [
+    "What is the weather like in your city today? Do you like it?",
+    "What do you like to do on a sunny day?",
+    "What do you do on rainy days when you can't go outside?",
+    "What is your favorite free-time activity? Do you do it alone or with friends?",
+    "What activities do you suggest to your friends when the weather is good?",
+    "What is the worst weather you have ever experienced?",
+    "Do you prefer hot or cold weather? Why?",
+    "What do you usually do after school to relax?",
+    "Describe the seasons in your city — which one is the best?",
+    "What free-time activity would you like to try but never have?"
+  ],
+  "starters": [
+    "Today it’s … in … . I like / don’t like it.",
+    "On a sunny day I … .",
+    "On rainy days I … at home.",
+    "My favourite activity is … . I do it with … .",
+    "I say: “Let’s … !”",
+    "The worst weather was … . It was very … .",
+    "I like … weather because … .",
+    "After school I … .",
+    "In … it’s … . The best season is … .",
+    "I want to try … ."
+  ],
+  "samples": [
+    [
+      "What do you like to do on a sunny day?",
+      "On a **sunny** day I **ride my bike** in the park. Sometimes I **swim**."
+    ],
+    [
+      "What activities do you suggest to your friends when the weather is good?",
+      "I say, “**Let’s play** football!” or “**Let’s go** to the park!”"
+    ],
+    [
+      "Do you prefer hot or cold weather? Why?",
+      "I like **cold** weather. I love snow! In summer Tashkent is very **hot**."
+    ]
+  ],
+  "survey": {
+    "title": "Class survey",
+    "question": "What do you do on a rainy day?",
+    "columns": [
+      "Name",
+      "Answer"
+    ]
+  },
+  "game": {
+    "type": "dice",
+    "title": "Weather dice",
+    "rules": "Roll the dice. Read the weather. Say “Let’s …!” Your partner says “Good idea!” or “Let’s not!”",
+    "items": [
+      "1 — It’s sunny. Let’s …",
+      "2 — It’s rainy. Let’s …",
+      "3 — It’s snowy. Let’s …",
+      "4 — It’s very hot. Let’s …",
+      "5 — It’s windy. Let’s not …",
+      "6 — It’s Saturday! Let’s …"
+    ]
+  },
+  "mini_talk": {
+    "title": "A fun weekend plan",
+    "plan": [
+      "Say the weather",
+      "Say what you like to do",
+      "Make a plan with Let’s",
+      "Say goodbye"
+    ],
+    "model": "Hi, Ali! It’s **really sunny** today. It’s warm, too. I don’t want to watch TV. **Let’s go** to the park! **Let’s play** football and ride our bikes. **Let’s not** stay at home. After that, **let’s eat** ice cream. See you at four!"
+  },
+  "cando": [
+    "talk about the weather",
+    "make plans with Let’s and Let’s not",
+    "talk about free-time activities"
+  ]
+}

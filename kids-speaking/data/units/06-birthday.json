@@ -1,0 +1,179 @@
+{
+  "n": 6,
+  "title": "Today's my birthday!",
+  "emoji": "🎂",
+  "color": "teal",
+  "grammar": "Verb be: questions with How old; Preposition in for months; Preposition on for dates; Ordinal numbers 1st–31st",
+  "vocab_topic": "Entertainment events; Months of the year",
+  "words": [
+    [
+      "birthday",
+      "tug‘ilgan kun",
+      "🎂"
+    ],
+    [
+      "party",
+      "bazm",
+      "🎉"
+    ],
+    [
+      "present",
+      "sovg‘a",
+      "🎁"
+    ],
+    [
+      "balloon",
+      "shar",
+      "🎈"
+    ],
+    [
+      "candle",
+      "sham",
+      "🕯️"
+    ],
+    [
+      "concert",
+      "konsert",
+      "🎤"
+    ],
+    [
+      "movie",
+      "kino",
+      "🎬"
+    ],
+    [
+      "football match",
+      "futbol o‘yini",
+      "⚽"
+    ],
+    [
+      "January",
+      "yanvar",
+      "⛄"
+    ],
+    [
+      "March",
+      "mart",
+      "🌷"
+    ],
+    [
+      "July",
+      "iyul",
+      "☀️"
+    ],
+    [
+      "October",
+      "oktyabr",
+      "🍂"
+    ]
+  ],
+  "pair_game": "Say a month. Your partner says the next month. Then swap!",
+  "grammar_box": {
+    "title": "How old? / in / on",
+    "rows": [
+      [
+        "How old…?",
+        "are you / is he",
+        "**How old are** you? I’m **eleven**."
+      ],
+      [
+        "in",
+        "+ month",
+        "My birthday is **in** May."
+      ],
+      [
+        "on",
+        "+ date",
+        "My birthday is **on** May **5th**."
+      ],
+      [
+        "1st, 2nd, 3rd",
+        "first, second, third",
+        "Navruz is **on** March **21st**."
+      ],
+      [
+        "4th–20th",
+        "+ th",
+        "Today is the **12th**."
+      ]
+    ],
+    "tip": "in + month (in July), on + date (on July 3rd) — oy bilan in, sana bilan on"
+  },
+  "questions": [
+    "When is your birthday? What month and date is it?",
+    "How old are you? How old are your parents?",
+    "What do you usually do on your birthday? Do you have a party?",
+    "What is your favorite month of the year? Why?",
+    "What entertainment events do you enjoy — concerts, movies, or games?",
+    "Is there a special event in your city in summer or winter?",
+    "When is your favorite holiday? What do you do on that day?",
+    "How do people in Uzbekistan celebrate birthdays?",
+    "What is the best birthday gift you have ever received?",
+    "What event are you looking forward to this year? When is it?"
+  ],
+  "starters": [
+    "My birthday is in … . It’s on … .",
+    "I’m … . My mom is … and my dad is … .",
+    "On my birthday I … . I have / don’t have a party.",
+    "My favourite month is … because … .",
+    "I enjoy … . I like … very much.",
+    "Yes, there is … in … . / No, there isn’t.",
+    "My favourite holiday is … . It’s on … . We … .",
+    "In Uzbekistan people … . They eat … .",
+    "The best gift is … . It’s from my … .",
+    "I’m happy about … . It’s in/on … ."
+  ],
+  "samples": [
+    [
+      "When is your birthday? What month and date is it?",
+      "My birthday is **in** October. It’s **on** October **9th**."
+    ],
+    [
+      "When is your favorite holiday? What do you do on that day?",
+      "My favourite holiday is Navruz. It’s **on** March **21st**. We eat sumalak and visit grandma."
+    ],
+    [
+      "How do people in Uzbekistan celebrate birthdays?",
+      "We have a party with family. We eat plov and a big cake. Friends bring presents!"
+    ]
+  ],
+  "survey": {
+    "title": "Class survey",
+    "question": "When is your birthday?",
+    "columns": [
+      "Name",
+      "Month and date"
+    ]
+  },
+  "game": {
+    "type": "bingo",
+    "title": "Birthday bingo",
+    "rules": "Ask: “Is your birthday in …?” “How old are you?” Write a name in a box. Get 3 in a row!",
+    "items": [
+      "Birthday in summer",
+      "Birthday in winter",
+      "Is eleven",
+      "Is twelve",
+      "Has a party every year",
+      "Likes concerts",
+      "Likes movies",
+      "Birthday on the 1st–10th",
+      "Loves Navruz"
+    ]
+  },
+  "mini_talk": {
+    "title": "My birthday",
+    "plan": [
+      "Say how old you are",
+      "Say your birthday month and date",
+      "Say what you do on that day",
+      "Say your favourite present"
+    ],
+    "model": "Hi! I’m Madina. I’m **eleven**. My birthday is **in** April. It’s **on** April **15th**. On my birthday, my family has a party. We eat plov and a big chocolate cake. My friends come too. My best present is a pink bike. I love my birthday!"
+  },
+  "cando": [
+    "say my birthday with in and on",
+    "ask How old are you?",
+    "talk about parties and events"
+  ]
+}

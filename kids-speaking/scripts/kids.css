@@ -1,0 +1,121 @@
+/* ===== Talk Time! (kids) additions on top of the Speak Up! styles ===== */
+.gapd{font-style:normal;color:var(--muted);letter-spacing:.05em}
+.topics{display:flex;flex-direction:column;gap:2px;font-size:7.6pt;font-weight:700;color:#4B5670;margin-top:-1mm}
+.topics span{background:var(--tl);border-radius:999px;padding:1px 9px;align-self:flex-start}
+
+/* 1 word bank cards */
+.wcards{list-style:none;display:grid;grid-template-columns:repeat(3,1fr);gap:2.4mm;flex:1}
+.wcards li{background:#fff;border:2px solid #CDEFD9;border-radius:16px;display:flex;flex-direction:column;align-items:center;justify-content:center;
+ padding:4px 3px;position:relative;box-shadow:0 3px 0 #CDEFD9;text-align:center}
+.wcards li:nth-child(3n+2){border-color:#FFD9B3;box-shadow:0 3px 0 #FFD9B3}
+.wcards li:nth-child(3n){border-color:#C9E2FF;box-shadow:0 3px 0 #C9E2FF}
+.wemo{font-size:24pt;line-height:1.1}
+.wcards b{font-family:Fredoka;font-weight:600;font-size:10.5pt;color:var(--navy);line-height:1.1;margin-top:2px}
+.wcards small{font-size:7.6pt;color:#5A6482;font-weight:700}
+.wcards .box{position:absolute;top:5px;right:5px}
+.pairgame{display:flex;align-items:center;gap:8px;background:var(--yellow-l);border:2px dashed var(--yellow);border-radius:14px;padding:5px 10px}
+.pairgame>span{font-size:16pt}
+.pairgame b{font-family:Fredoka;font-weight:600;font-size:10.5pt;color:#8A6400;display:block}
+.pairgame small{font-size:8pt;font-weight:700;color:#5A6482}
+.pairgame div{flex:1;text-align:center}
+
+/* 2 grammar helper */
+.gbox{background:var(--blue-l);border:2px solid #B9DAFF;border-radius:16px;padding:6px 10px;box-shadow:0 3px 0 #B9DAFF}
+.gbox h3{font-size:11pt;font-weight:600;color:#0B63CE;margin-bottom:2px}
+.gbox table{width:100%;border-collapse:separate;border-spacing:0 3px;font-size:8.8pt}
+.gbox td{background:#fff;padding:3px 7px}
+.gbox td:first-child{border-radius:9px 0 0 9px;width:18%}
+.gbox td:nth-child(2){width:24%}
+.gbox td:last-child{border-radius:0 9px 9px 0}
+.gbox td b{color:var(--navy);font-weight:900}
+.gf{background:#2F9BFF;color:#fff;border-radius:999px;padding:0 8px;font-weight:800;white-space:nowrap}
+.gtip{font-size:8.2pt;font-weight:700;color:#0B4A99;margin-top:2px}
+
+/* 3/4 question lists with starters */
+.klist{list-style:none;display:flex;flex-direction:column;gap:2.2mm;flex:1}
+.klist li{display:flex;gap:7px;align-items:flex-start;background:var(--orange-l);border-radius:14px;padding:5px 9px}
+.klist li p{font-size:9.3pt;font-weight:800;color:var(--ink);line-height:1.3}
+.klist .starter{font-size:8.3pt;font-weight:700;color:#9A4A00;margin-top:2px}
+.klist .qn{margin-top:1px}
+.klist.pink li{background:var(--pink-l)}
+.klist.pink .qn{background:var(--pink)}
+.klist.pink .starter{color:#9D174D}
+.samples{display:flex;flex-direction:column;gap:2px}
+.samples .ans{border-color:var(--pink);padding:3px 9px}
+.samples .ans b{color:#9D174D;font-size:8.2pt}
+.samples .ans p{font-size:8.6pt}
+.survey{flex:1}
+.survey h3{flex-direction:row}
+.survey td{height:5.6mm}
+
+/* 6 game */
+.game{background:var(--yellow-l);border:2px solid #F7D774;border-radius:16px;padding:6px 9px;box-shadow:0 4px 0 #F7D774}
+.game h3{font-size:11.5pt;font-weight:700;color:#8A6400}
+.game .rules{font-size:8.2pt;font-weight:700;color:#5A6482;margin-bottom:4px}
+.nameline{display:block;border-bottom:1.6px dashed #C9A93B;height:5mm;margin-top:1px}
+.gfind{list-style:none;display:grid;grid-template-columns:1fr 1fr;gap:4px 8px}
+.gfind li{background:#fff;border-radius:10px;padding:3px 7px;font-size:8.5pt;font-weight:800}
+.gdice{list-style:none;display:grid;grid-template-columns:1fr 1fr;gap:4px 8px}
+.gdice li{display:flex;align-items:center;gap:6px;background:#fff;border-radius:12px;padding:4px 7px;font-size:8.6pt;font-weight:800}
+.die{width:9mm;height:9mm;flex:none}
+.die rect{fill:#fff;stroke:#13235B;stroke-width:6}
+.die circle{fill:#EF4444}
+.gboard{display:flex;flex-direction:column;gap:3px}
+.brow{list-style:none;display:flex;gap:3px}
+.brow.rev{flex-direction:row-reverse}
+.brow li{flex:1;background:#fff;border:2px solid var(--bc,#F7D774);border-radius:10px;padding:3px 5px;font-size:7.8pt;font-weight:800;min-height:13mm;
+ display:flex;flex-direction:column;justify-content:center;line-height:1.2}
+.brow li b{font-family:Fredoka;color:#fff;background:var(--bc);border-radius:999px;width:15px;height:15px;font-size:7.4pt;display:flex;
+ align-items:center;justify-content:center;margin-bottom:1px}
+.brow .startc,.brow .finishc{background:var(--navy);color:#fff;border-color:var(--navy);font-family:Fredoka;font-size:10pt;align-items:center;text-align:center}
+.gspin{display:flex;gap:8px;align-items:center}
+.wheelbox{flex:0 0 38mm;text-align:center}
+.wheel{width:38mm;height:38mm}
+.wheel text{font-family:Fredoka;font-size:9px;font-weight:700;fill:#fff;text-anchor:middle}
+.wheelbox small{font-size:7pt;font-weight:700;color:#5A6482}
+.gspin ol{list-style:none;flex:1;display:flex;flex-direction:column;gap:2px}
+.gspin li{display:flex;gap:5px;align-items:center;background:#fff;border-radius:9px;padding:2px 6px;font-size:8.3pt;font-weight:800}
+.gspin li b{font-family:Fredoka;color:#fff;border-radius:50%;width:15px;height:15px;font-size:8pt;display:flex;align-items:center;justify-content:center;flex:none}
+.gbingo{list-style:none;display:grid;grid-template-columns:repeat(3,1fr);gap:4px}
+.gbingo li{background:#fff;border:2.5px solid #F7D774;border-radius:12px;min-height:15mm;display:flex;align-items:center;justify-content:center;
+ text-align:center;padding:3px 5px;font-size:8.2pt;font-weight:800;line-height:1.2}
+.gbingo li:nth-child(5){border-color:var(--pink)}
+.gguess{list-style:none;display:grid;grid-template-columns:1fr 1fr;gap:4px 8px}
+.gguess li{background:#fff;border-radius:12px;padding:4px 7px;display:grid;grid-template-columns:auto 1fr;gap:0 5px;align-items:start}
+.gguess li>span{font-size:14pt;grid-row:span 2}
+.gguess p{font-size:8.2pt;font-weight:800;line-height:1.25}
+
+/* 7 mini talk */
+.mini{background:var(--teal-l);border-radius:16px;padding:6px 10px;border:2px solid #A7E8DF}
+.mini h3{font-size:11pt;font-weight:600;color:#0F766E}
+.steps{list-style:none;display:grid;grid-template-columns:1fr 1fr;gap:3px 8px;margin:3px 0}
+.steps li{display:flex;gap:5px;align-items:center;font-size:8.6pt;font-weight:800}
+.steps span{background:var(--teal);color:#fff;font-family:Fredoka;border-radius:50%;width:16px;height:16px;display:flex;align-items:center;justify-content:center;font-size:8pt;flex:none}
+.model{font-size:8.7pt;background:#fff;border-radius:10px;padding:4px 8px}
+.model mark{background:linear-gradient(transparent 55%,#99F0E4 55%)}
+.timer{display:flex;align-items:center;gap:5px;font-size:8.4pt;font-weight:800;color:#0F766E;margin-top:4px}
+.timer i{width:10mm;height:6mm;border:1.6px solid var(--teal);border-radius:6px;background:#fff}
+.cando h3 small{font-family:Nunito;font-size:7.4pt;font-style:italic;color:#8A6400;font-weight:700;margin-left:4px}
+.stars{color:#F5B800;font-size:11pt;letter-spacing:1px;margin-right:4px;line-height:1}
+
+/* cover extras */
+.cover .b3{width:36mm;height:36mm;right:12mm;bottom:70mm;background:#22C55E;opacity:.9}
+.floaters span{position:absolute;font-size:24pt}
+.floaters span:nth-child(1){right:20mm;top:16mm;font-size:34pt;transform:rotate(-12deg)}
+.floaters span:nth-child(2){left:14mm;top:14mm}
+.floaters span:nth-child(3){right:16mm;top:120mm;font-size:20pt}
+.floaters span:nth-child(4){left:96mm;top:112mm;transform:rotate(14deg)}
+.floaters span:nth-child(5){left:16mm;top:122mm;font-size:22pt}
+/* let the game fill the free space on its page */
+.game{flex:1;display:flex;flex-direction:column}
+.game>ul,.game>.gboard,.game>.gspin{flex:1}
+.gfind,.gdice,.gguess,.gbingo{grid-auto-rows:1fr}
+.gfind li,.gguess li{display:flex;flex-direction:column;justify-content:center}
+.gguess li{display:grid;align-content:center}
+.gdice li{font-size:9.2pt}
+.gboard{display:flex;flex-direction:column}
+.gboard .brow{flex:1}
+.gspin{align-items:stretch}
+.gspin ol{justify-content:space-around}
+.wheelbox{display:flex;flex-direction:column;justify-content:center}
+.cando{margin-top:0}

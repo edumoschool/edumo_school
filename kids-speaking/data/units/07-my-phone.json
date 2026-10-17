@@ -1,0 +1,183 @@
+{
+  "n": 7,
+  "title": "Here. Use my phone",
+  "emoji": "📱",
+  "color": "yellow",
+  "grammar": "Prepositions and expressions of position and location; The imperative",
+  "vocab_topic": "Rooms and furniture at home",
+  "words": [
+    [
+      "bedroom",
+      "yotoqxona",
+      "🛏️"
+    ],
+    [
+      "kitchen",
+      "oshxona",
+      "🍳"
+    ],
+    [
+      "bathroom",
+      "hammom",
+      "🛁"
+    ],
+    [
+      "living room",
+      "mehmonxona",
+      "🏠"
+    ],
+    [
+      "bed",
+      "karavot",
+      "🛌"
+    ],
+    [
+      "sofa",
+      "divan",
+      "🛋️"
+    ],
+    [
+      "desk",
+      "parta / yozuv stoli",
+      "🧑‍💻"
+    ],
+    [
+      "chair",
+      "stul",
+      "🪑"
+    ],
+    [
+      "lamp",
+      "chiroq",
+      "💡"
+    ],
+    [
+      "door",
+      "eshik",
+      "🚪"
+    ],
+    [
+      "window",
+      "deraza",
+      "🪟"
+    ],
+    [
+      "phone",
+      "telefon",
+      "📱"
+    ]
+  ],
+  "pair_game": "Say a word. Your partner draws it in 10 seconds. Then swap!",
+  "grammar_box": {
+    "title": "Where is it? / Do it!",
+    "rows": [
+      [
+        "in",
+        "ichida",
+        "My phone is **in** my bag."
+      ],
+      [
+        "on",
+        "ustida",
+        "The lamp is **on** the desk."
+      ],
+      [
+        "under",
+        "tagida",
+        "The cat is **under** the bed."
+      ],
+      [
+        "next to",
+        "yonida",
+        "The chair is **next to** the desk."
+      ],
+      [
+        "behind",
+        "orqasida",
+        "The ball is **behind** the door."
+      ],
+      [
+        "Imperative",
+        "do / don’t",
+        "**Open** the window! **Don’t** touch my phone!"
+      ]
+    ],
+    "tip": "Imperative: start with the verb — Sit down! Don’t run! (buyruq gap)"
+  },
+  "questions": [
+    "Describe your bedroom — what furniture is in it and where is everything?",
+    "What rooms are in your home? Which room do you spend the most time in?",
+    "Where do you usually do your homework — in your bedroom or another room?",
+    "What is on your desk right now? Describe what you see.",
+    "Is your room tidy or messy? Do you clean it yourself?",
+    "Where is your phone right now? Do you use it a lot at home?",
+    "Describe your living room. What furniture does it have?",
+    "What is your favorite room at home and why?",
+    "Where do you keep your school books and supplies at home?",
+    "If you could add one new thing to your bedroom, what would it be and where would you put it?"
+  ],
+  "starters": [
+    "In my bedroom there is a … . It’s next to … .",
+    "We have a … and a … . I spend time in the … .",
+    "I do my homework in the … .",
+    "On my desk there is a … and a … .",
+    "My room is … . I clean it / My mom cleans it.",
+    "My phone is in/on … . I use it … .",
+    "Our living room has a … and a … .",
+    "My favourite room is the … because … .",
+    "I keep my books in/on … .",
+    "I want a … . I can put it next to … ."
+  ],
+  "samples": [
+    [
+      "Describe your bedroom — what furniture is in it and where is everything?",
+      "My bed is **next to** the window. My desk is **near** the door. My lamp is **on** the desk."
+    ],
+    [
+      "Where is your phone right now? Do you use it a lot at home?",
+      "My phone is **in** my bag. I use it for games, but not a lot."
+    ],
+    [
+      "What is your favorite room at home and why?",
+      "My favourite room is the kitchen. My mom makes plov there. It smells great!"
+    ]
+  ],
+  "survey": {
+    "title": "Class survey",
+    "question": "What is your favourite room at home?",
+    "columns": [
+      "Name",
+      "Answer"
+    ]
+  },
+  "game": {
+    "type": "find",
+    "title": "Find someone who…",
+    "rules": "Walk around the class. Ask: “Do you have a … in your bedroom?” Write a name.",
+    "items": [
+      "… has a desk in the bedroom",
+      "… has a lamp on the desk",
+      "… has a TV in the living room",
+      "… does homework in the kitchen",
+      "… has a tidy room",
+      "… keeps books under the bed",
+      "… has a cat or dog at home",
+      "… has a phone in the bag now"
+    ]
+  },
+  "mini_talk": {
+    "title": "My bedroom",
+    "plan": [
+      "Say what is in your room",
+      "Say where things are",
+      "Say if it is tidy or messy",
+      "Give one rule (Don’t …!)"
+    ],
+    "model": "This is my bedroom. There is a bed, a desk and a chair. My bed is **next to** the window. My desk is **near** the door. My books are **on** the shelf. My ball is **under** the bed! My room is tidy. My rule: **Don’t open** my door! **Knock**, please!"
+  },
+  "cando": [
+    "name rooms and furniture",
+    "say where things are with in, on, under",
+    "give simple instructions"
+  ]
+}

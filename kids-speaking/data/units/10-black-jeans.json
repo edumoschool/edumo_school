@@ -1,0 +1,183 @@
+{
+  "n": 10,
+  "title": "Look at those black jeans!",
+  "emoji": "👖",
+  "color": "lime",
+  "grammar": "Questions with Which; Answers with one / ones; this / that / these / those; Intensifier too",
+  "vocab_topic": "Clothes; Colors",
+  "words": [
+    [
+      "jeans",
+      "jinsi shim",
+      "👖"
+    ],
+    [
+      "T-shirt",
+      "futbolka",
+      "👕"
+    ],
+    [
+      "dress",
+      "ko‘ylak",
+      "👗"
+    ],
+    [
+      "shoes",
+      "tufli",
+      "👞"
+    ],
+    [
+      "sneakers",
+      "krossovka",
+      "👟"
+    ],
+    [
+      "jacket",
+      "kurtka",
+      "🧥"
+    ],
+    [
+      "hat",
+      "shlyapa",
+      "👒"
+    ],
+    [
+      "scarf",
+      "sharf",
+      "🧣"
+    ],
+    [
+      "socks",
+      "paypoq",
+      "🧦"
+    ],
+    [
+      "red",
+      "qizil",
+      "🔴"
+    ],
+    [
+      "blue",
+      "ko‘k",
+      "🔵"
+    ],
+    [
+      "green",
+      "yashil",
+      "🟢"
+    ]
+  ],
+  "pair_game": "Point at your partner’s clothes. Say the colour and the word: “Red T-shirt!” Then swap!",
+  "grammar_box": {
+    "title": "this / that / these / those",
+    "rows": [
+      [
+        "this",
+        "one, near",
+        "**This** T-shirt is blue."
+      ],
+      [
+        "that",
+        "one, far",
+        "**That** hat is cool!"
+      ],
+      [
+        "these",
+        "two+, near",
+        "**These** jeans are black."
+      ],
+      [
+        "those",
+        "two+, far",
+        "**Those** shoes are red."
+      ],
+      [
+        "Which…?",
+        "question",
+        "**Which** jacket? The green **one**."
+      ],
+      [
+        "too",
+        "very, not OK",
+        "It’s **too** expensive!"
+      ]
+    ],
+    "tip": "one / ones: Which shoes? The white ones. (bittasi / bulari)"
+  },
+  "questions": [
+    "Describe what you are wearing today. What color are your clothes?",
+    "What is your favorite piece of clothing? Why do you love it?",
+    "Do you prefer these jeans or those ones? How do you choose your clothes?",
+    "What colors do you like to wear? Are there colors you never wear?",
+    "Do you like shopping for clothes? Where do you usually buy them?",
+    "What do teenagers in Uzbekistan usually wear to school?",
+    "Is there a piece of clothing you think is too expensive? What is it?",
+    "Describe the clothes your best friend usually wears.",
+    "What do you wear in winter to stay warm? And in summer?",
+    "If you could buy any piece of clothing right now, what would it be?"
+  ],
+  "starters": [
+    "Today I’m wearing a … and … . My … is … .",
+    "My favorite piece of clothing is my … . I love it because … .",
+    "I prefer these/those … . I choose clothes by … .",
+    "I like to wear … and … . I never wear … .",
+    "Yes, I like it. / No, I don’t. I usually buy clothes at … .",
+    "Teenagers in Uzbekistan usually wear … to school.",
+    "I think … is too expensive.",
+    "My best friend usually wears … and … .",
+    "In winter I wear a … . In summer I wear … .",
+    "I want to buy … right now."
+  ],
+  "samples": [
+    [
+      "Describe what you are wearing today. What color are your clothes?",
+      "Today I’m wearing a **white** shirt and **black** trousers. My shoes are **black**, too."
+    ],
+    [
+      "Do you prefer these jeans or those ones? How do you choose your clothes?",
+      "I prefer **those ones**. **These** jeans are **too** small! I choose clothes by colour."
+    ],
+    [
+      "What do teenagers in Uzbekistan usually wear to school?",
+      "Teenagers in Uzbekistan usually wear a white shirt and a dark skirt or trousers to school."
+    ]
+  ],
+  "survey": {
+    "title": "Class survey",
+    "question": "What is your favourite colour to wear?",
+    "columns": [
+      "Name",
+      "Answer"
+    ]
+  },
+  "game": {
+    "type": "spinner",
+    "title": "Clothes spinner",
+    "rules": "Spin the pencil. Read the prompt and answer. Get a point for each good answer!",
+    "items": [
+      "Point and say: This is a … .",
+      "Point far and say: Those are … .",
+      "What colour is your bag?",
+      "Which T-shirt do you like: red or blue?",
+      "Say something that is too big for you.",
+      "Name 3 winter clothes.",
+      "What does your teacher wear today?",
+      "Which shoes are better: these or those?"
+    ]
+  },
+  "mini_talk": {
+    "title": "My clothes",
+    "plan": [
+      "Say what you are wearing",
+      "Say your favourite clothes",
+      "Say your favourite colours",
+      "Say where you buy clothes"
+    ],
+    "model": "Hi! I’m Madina. Today I’m wearing a white shirt and a blue skirt. My favourite clothes are **these** black jeans. I love pink and purple. I never wear brown. I buy clothes at the bazaar with my mum. Some jackets there are **too** expensive. **Which** **one** do you like?"
+  },
+  "cando": [
+    "name clothes and colours",
+    "use this, that, these and those",
+    "ask and answer with Which and one / ones"
+  ]
+}
