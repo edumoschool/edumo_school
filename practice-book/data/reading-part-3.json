@@ -1,0 +1,351 @@
+{
+ "skill": "reading",
+ "part": 3,
+ "tests": [
+  {
+   "test": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once."
+    },
+    {
+     "type": "headings",
+     "title": "List of Headings:",
+     "items": [
+      "A) Legacy of Sassanids.",
+      "B) Once nomadic, then an empire.",
+      "C) The fall of the Empire.",
+      "D) Commercial influence.",
+      "E) Melting pot of nations.",
+      "F) Four major beliefs.",
+      "G) The distributor of faith.",
+      "H) In the middle of great civilizations."
+     ],
+     "right": [
+      "15. Paragraph I",
+      "16. Paragraph II",
+      "17. Paragraph III",
+      "18. Paragraph IV",
+      "19. Paragraph V",
+      "20. Paragraph VI"
+     ]
+    },
+    {
+     "type": "article",
+     "title": "KUSHAN EMPIRE",
+     "paragraphs": [
+      "I. The Kushan Empire was a significant cultural and political entity that flourished in Central Asia and Northern India between the 1st and 3rd centuries CE. Its origins trace back to the Yuezhi, a nomadic group from the steppes of Central Asia. They established control over Bactria, a Hellenistic region, blending Greek, Persian, and Indian influences. The Kushans were instrumental in fostering trade along the Silk Road, connecting the East and West. Under their rule, arts, religion, and commerce flourished, making them a vital link in the ancient world's cultural and economic exchanges.",
+      "II. The Kushan Empire spanned a vast territory, including present-day Afghanistan, Pakistan, Northern India, and parts of Central Asia. It was strategically located along major trade routes, particularly the Silk Road. The empire's geographic position allowed it to act as a bridge between the Mediterranean, China, and Indian spheres of influences. This connectivity facilitated not only trade but also the exchange of ideas, technologies, and cultural practices. The Kushans expanded their influence through military conquests and diplomacy, securing their position as a dominant power in the region for over two centuries.",
+      "III. The Kushan Empire was pivotal in the flourishing of the Silk Road, a network of trade routes connecting Asia to Europe. The empire served as a hub for the exchange of goods such as silk, spices, gemstones, and textiles. Kushan coins, widely circulated, reflect their role in trade and economic integration. The Kushans also promoted caravanserais and security along trade routes, ensuring safe passage for merchants. This vibrant trade network enriched the empire economically and culturally, fostering interactions between diverse civilizations.",
+      "IV. Kushan art is a testament to the empire's diverse cultural influences, blending Greek, Indian, Persian, and Central Asian styles. The Gandhara School of Art, which thrived during their reign, is renowned for its Greco-Buddhist sculptures, particularly depictions of the Buddha. The Kushans were patrons of various art forms, including architecture, sculpture, and coinage. These artistic expressions not only reflected their cosmopolitan society but also played a significant role in spreading Buddhist iconography and religious ideas across Asia.",
+      "V. The Kushan Empire was a melting pot of religions, including Buddhism, Hinduism, Zoroastrianism, and Greek polytheism. They were instrumental in the spread of Buddhism to Central Asia and China. Emperor Kanishka, a notable Kushan ruler, convened the Fourth Buddhist Council, which contributed to the development of Mahayana Buddhism. The empire's tolerance and support for multiple faiths fostered a rich spiritual environment, influencing religious practices far beyond its borders.",
+      "VI. The decline of the Kushan Empire began in the 3rd century CE due to internal conflicts and external invasions, particularly by the Sassanid Empire and the Gupta Empire. Despite its fall, the Kushan Empire left a lasting legacy. It played a critical role in the cultural and economic integration of the ancient world. The empire's contributions to art, religion, and trade continue to be studied and celebrated, highlighting its importance in the history of Central and South Asia."
+     ]
+    }
+   ]
+  },
+  {
+   "test": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once."
+    },
+    {
+     "type": "headings",
+     "title": "List of Headings:",
+     "items": [
+      "A) An ancient place",
+      "B) Holy water",
+      "C) Famous industry",
+      "D) Ajanta in the modern day",
+      "E) Resisting the heat",
+      "F) Things about Mumbai",
+      "G) City of contrasts",
+      "H) Modern languages’ ancestor"
+     ],
+     "right": [
+      "15. Paragraph I",
+      "16. Paragraph II",
+      "17. Paragraph III",
+      "18. Paragraph IV",
+      "19. Paragraph V",
+      "20. Paragraph VI"
+     ]
+    },
+    {
+     "type": "article",
+     "title": "",
+     "paragraphs": [
+      "I. The world’s first university was established in India in 700 BC, where more than 10,500 students from around the world studied more than 60 different subjects. The training was conducted in Sanskrit. Nowadays, Sanskrit is considered to be the mother of all the European languages. Its elements can be traced in most of them.",
+      "II. The most frequently visited place in India is Delhi, the capital city of the country. It seems to be divided into two parts. New Delhi is a modern city with hi-tech architecture, tourist attractions and modern facilities. Old Delhi is several centuries old, with narrow streets, ancient churches and noisy bazaars. Lots of people live in slums without the most essential facilities like toilets and running water.",
+      "III. People all over the world know of India’s greatest river, the Ganges. The river looks extremely beautiful in the morning light. It is the subject of thousands of prayers. It has become a common ritual for pilgrims to gather by the holy river in the mornings. It is believed that bathing in the Ganges helps to cure all kinds of diseases and can improve your life in general.",
+      "IV. Indian climate differs from one part of the country to another. The air is cool and fresh in the mountains, but in the plains it is usually very hot and dry, so even a short trip can be very hard for an inexperienced traveller. That is why tourists are always glad to have a rest at one of the numerous stations in the hills. There they can enjoy a nice cup of real Indian tea, the most refreshing drink in such a climate.",
+      "V. India is not all history. It is also famous for its Bollywood industry, which produces different films. Indian films have always had their own style; they are rich in music and dancing. Though the industry is still developing, many Indian film stars have received Oscar prizes and are known throughout the world. The home of Bollywood is Mumbai, also known as a busy port and the country’s commercial centre.",
+      "VI. There is an unusual treasure hidden in the Indian mountains. These are striking ancient temples cut in the rocks. For example, the Buddhist cave temples at Ajanta were built at least 2,000 years ago. Inside the caves on the walls, tourists can see animal images and pictures of people’s lives. Some researchers believe that the interpretation of the images can help us to learn a lot about people’s lives in ancient times."
+     ]
+    }
+   ]
+  },
+  {
+   "test": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once."
+    },
+    {
+     "type": "headings",
+     "title": "List of Headings:",
+     "items": [
+      "A) Young helpers",
+      "B) Importance of discipline",
+      "C) Home education",
+      "D) Awkward moments",
+      "E) A warm welcome",
+      "F) Daddy day care",
+      "G) Sibling rivalry",
+      "H) Methods of persuasion"
+     ],
+     "right": [
+      "15. Paragraph I",
+      "16. Paragraph II",
+      "17. Paragraph III",
+      "18. Paragraph IV",
+      "19. Paragraph V",
+      "20. Paragraph VI"
+     ]
+    },
+    {
+     "type": "article",
+     "title": "",
+     "paragraphs": [
+      "I. Family reunions can be a joyous occasion and an opportunity to meet new family members as well. Our parents have aunts, uncles and cousins that we may only meet once or twice in life. Often, though, meeting an extended family member can be like meeting a complete stranger. You’re not even sure you will like them, and the whole affair can feel a bit odd or uncomfortable.",
+      "II. Traditionally, the mother is the primary caregiver to an infant child. She takes time off work and stays at home to provide round-the-clock attention during the child’s early years. But recently, more and more men are taking paternity leave from work to stay at home with their new-borns. Mothers find it a welcome trend, as caring for an infant can be exhausting work.",
+      "III. While it’s true that kids must carry out their responsibilities just as adults do, sometimes Mum and Dad have to be a bit crafty to make it happen. They have to offer a little reward for a job well done. It may not be good practice to do it all the time, but if they promise a trip to the cinema, for example, the kids will be more likely to clean their rooms.",
+      "IV. Many families live far away from one another these days. They may have moved across the country, or even to the other side of the world. It’s especially hard for parents to see their children do this, either for work or for adventure. So when special occasions come round, especially the holiday seasons, Mum and Dad are so grateful when their sons and daughters return home.",
+      "V. Sometimes a household is nothing but chaos for days on end. This is especially true when kids reach their adolescent phase, and you have a couple of teenagers who compete over every little thing in life. No matter how often parents attempt to stop two kids from fighting each other, nothing seems to work. They just have to wait until one of them moves away to university!",
+      "VI. In most families, parents have to constantly remind their children of their responsibilities. But there are times when kids can be especially useful round the house of their own will. They also understand those times when Mum or Dad isn’t feeling well, and maybe it would be nice if they made dinner for a change or did a little extra tidying up in the living room."
+     ]
+    }
+   ]
+  },
+  {
+   "test": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once."
+    },
+    {
+     "type": "headings",
+     "title": "List of Headings:",
+     "items": [
+      "A) Considering ecological costs",
+      "B) Modifications to the design of the snow gun",
+      "C) The need for different varieties of snow",
+      "D) A problem and a solution",
+      "E) Converting wet snow to dry snow",
+      "F) New method for calculating modifications",
+      "G) Artificial process, natural product",
+      "H) Snow formation in nature"
+     ],
+     "right": [
+      "15. Paragraph I",
+      "16. Paragraph II",
+      "17. Paragraph III",
+      "18. Paragraph IV",
+      "19. Paragraph V",
+      "20. Paragraph VI"
+     ]
+    },
+    {
+     "type": "article",
+     "title": "SNOW-MAKERS",
+     "paragraphs": [
+      "I. In the early to mid-twentieth century, with the growing popularity of skiing, ski slopes became extremely profitable businesses. But ski resort owners were completely dependent on the weather: if it didn't snow, or didn’t snow enough, they had to close everything down. Fortunately, a device called the snow gun can now provide snow whenever it is needed. These days such machines are standard equipment in the vast majority of ski resorts around the world, making it possible for many resorts to stay open for months or more a year.",
+      "II. Snow formed by natural weather systems comes from water vapour in the atmosphere. The water vapour condenses into droplets, forming clouds. If the temperature is sufficiently low, the water droplets freeze into tiny ice crystals. More water particles then condense onto the crystal and join with it to form a snowflake. As the snow flake grows heavier, it falls towards the Earth.",
+      "III. The snow gun works very differently from a natural weather system, but it accomplishes exactly the same thing. The device basically works by combining water and air. Two different hoses are attached to the gun. One leading from a water pumping station which pumps water up from a lake or reservoir, and the other leading from an air compressor. When the compressed air passes through the hose into the gun. It atomizes the water - that is, it disrupts the stream so that the water splits up into tiny droplets. The droplets are then blown out of the gun and if the outside temperature is below 0°C, ice crystals will form, and will then make snowflakes in the same way as natural snow.",
+      "IV. Snow-makers often talk about dry snow and wet snow. Dry snow has a relatively low amount of water, so it is very light and powdery. This type of snow is excellent for skiing because skis glide over it easily without getting stuck in wet slush. One of the advantages of using a snow-maker is that this powdery snow can be produced to give the ski slopes a level surface. However, on slopes which receive heavy use, resort owners also use denser, wet snow underneath the dry snow. Many resorts build up the snow depth this way once or twice a year, and then regularly coat the trails with a layer of dry snow throughout the winter.",
+      "V. The wetness of snow is dependent on the temperature and humidity outside, as well as the size of the water droplets launched by the gun. Snow-makers have to adjust the proportions of water and air in their snow guns to get the perfect snow consistency for the outdoor weather conditions. Many ski slopes now do this with a central computer system that is connected to weather-reading stations all over the slope.",
+      "VI. But man-made snow makes heavy demands on the environment. It takes about 275,000 litres of water to create a blanket of snow covering a 60x60 metre area. Most resorts pump water from one or more reservoirs located in low-lying areas. The run-off water from the slopes feeds back into these reservoirs, so the resort can actually use the same water over and over again. However, considerable amounts of energy are needed to run the large air-compressing pumps, and the diesel engines which run them also cause air pollution."
+     ]
+    }
+   ]
+  },
+  {
+   "test": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once."
+    },
+    {
+     "type": "headings",
+     "title": "List of Headings:",
+     "items": [
+      "A) The biological clock",
+      "B) Why dying is beneficial",
+      "C) The ageing process of men and women",
+      "D) Prolonging your life",
+      "E) Limitations of life span",
+      "F) Modes of development of different species",
+      "G) A stable life span despite improvements",
+      "H) Energy consumption"
+     ],
+     "right": [
+      "15. Paragraph I",
+      "16. Paragraph II",
+      "17. Paragraph III",
+      "18. Paragraph IV",
+      "19. Paragraph V",
+      "20. Paragraph VI"
+     ]
+    },
+    {
+     "type": "article",
+     "title": "HOW DOES THE BIOLOGICAL CLOCK TICK?",
+     "paragraphs": [
+      "I. Our life span is restricted. Everyone accepts this as ‘biologically’ obvious. ‘Nothing lives for ever!’ However, in this statement we think of artificially produced, technical objects, products which are subjected to natural wear and tear during use. This leads to the result that at some time or other the object stops working and is unusable (‘death’ in the biological sense). But are the wear and tear and loss of function of technical objects and the death of living organisms really similar or comparable?",
+      "II. Thus ageing and death should not be seen as inevitable, particularly as the organism possesses many mechanisms for repair. It is not, in principle, necessary for a biological system to age and die. Nevertheless, a restricted life span, ageing, and then death are basic characteristics of life. The reason for this is easy to recognise: in nature, the existent organisms either adapt or are regularly replaced by new types. Because of changes in the genetic material (mutations) these have new characteristics and in the course of their individual lives they are tested for optimal or better adaptation to the environmental conditions. Immortality would disturb this system - it needs room for new and better life. This is the basic problem of evolution.",
+      "III. Every organism has a life span which is highly characteristic. There are striking differences in life span between different species, but within one species the parameter is relatively constant. For example, the average duration of human life has hardly changed in thousands of years. Although more and more people attain an advanced age as a result of developments in medical care and better nutrition, the characteristic upper limit for most remains 80 years. A further argument against the simple wear and tear theory is the observation that the time within which organisms age lies between a few days (even a few hours for unicellular organisms) and several thousand years, as with mammoth trees.",
+      "IV. If a life span is a genetically determined biological characteristic, it is logically necessary to propose the existence of an internal clock, which in some way measures and controls the ageing process and which finally determines death as the last step in a fixed programme. Like the life span, the metabolic rate has for different organisms a fixed mathematical relationship to the body mass. In comparison to the life span this relationship is ‘inverted’: the larger the organism the lower its metabolic rate. Again this relationship is valid not only for birds, but also, similarly on average within the systematic unit, for all other organisms (plants, animals, unicellular organisms).",
+      "V. Animals which behave ‘frugally’ with energy become particularly old, for example, crocodiles and tortoises. Parrots and birds of prey are often held chained up. Thus they are not able to ‘experience life’ and so they attain a high life span in captivity. Animals which save energy by hibernation or lethargy (e.g. bats or hedgehogs) live much longer than those which are always active. The metabolic rate of mice can be reduced by a very low consumption of food (hunger diet). They then may live twice as long as their well fed comrades. Women become distinctly (about 10 per cent) older than men. If you examine the metabolic rates of the two sexes you establish that the higher male metabolic rate roughly accounts for the lower male life span. That means that they live life ‘energetically’ - more intensively, but not for as long.",
+      "VI. It follows from the above that sparing use of energy reserves should tend to extend life. Extreme high performance sports may lead to optimal cardiovascular performance, but they quite certainly do not prolong life. Relaxation lowers metabolic rate, as does adequate sleep and in general an equable and balanced personality. Each of us can develop his or her own ‘energy saving programme’ with a little self-observation, critical self-control and, above all, logical consistency. Experience will show that to live in this way not only increases the life span but is also very healthy. This final aspect should not be forgotten."
+     ]
+    }
+   ]
+  },
+  {
+   "test": 6,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once."
+    },
+    {
+     "type": "headings",
+     "title": "List of Headings:",
+     "items": [
+      "A) Not identifying the correct priorities",
+      "B) A solution for the long term",
+      "C) The difficulty of changing your mind",
+      "D) The need for more effective risk assessment",
+      "E) The power of the first number",
+      "F) A successful approach to the study of decision-making",
+      "G) The danger of trusting a global market",
+      "H) Reluctance to go beyond the familiar"
+     ],
+     "right": [
+      "15. Paragraph I",
+      "16. Paragraph II",
+      "17. Paragraph III",
+      "18. Paragraph IV",
+      "19. Paragraph V",
+      "20. Paragraph VI"
+     ]
+    },
+    {
+     "type": "article",
+     "title": "WHY RISKS CAN GO WRONG",
+     "paragraphs": [
+      "**Human intuition is a bad guide to handling risk**",
+      "I. People make terrible decisions about the future. The evidence is all around, from their investments in the stock markets to the way they run their businesses. In fact, people are consistently bad at dealing with uncertainty, underestimating some kinds of risk and overestimating others. Surely there must be a better way than using intuition?",
+      "II. In the 1960s a young American research psychologist, Daniel Kahneman, became interested in people's inability to make logical decisions. That launched him on a career to show just how irrationally people behave in practice. When Kahneman and his colleagues first started work, the idea of applying psychological insights to economics and business decisions was seen as rather bizarre. But in the past decade the fields of behavioural finance and behavioural economics have blossomed, and in 2002 Kahneman shared a Nobel prize in economics for his work. Today he is in demand by business organizations and international banking companies. But, he says, there are plenty of institutions that still fail to understand the roots of their poor decisions. He claims that, far from being random, these mistakes are systematic and predictable.",
+      "III. Another source of wrong decisions is related to the decisive effect of the initial meeting, particularly in negotiations over money. This is referred to as the 'anchor effect'. Once a figure has been mentioned, it takes a strange hold over the human mind. The asking price quoted in a house sale, for example, tends to become accepted by all parties as the 'anchor' around which negotiations take place. Much the same goes for salary negotiations or mergers and acquisitions. If nobody has much information to go on, a figure can provide comfort - even though it may lead to a terrible mistake.",
+      "IV. In addition, mistakes may arise due to stubbornness. No one likes to abandon a cherished belief, and the earlier a decision has been taken, the harder it is to abandon it. Drug companies must decide early to cancel a failing research project to avoid wasting money, but may find it difficult to admit they have made a mistake. In the same way, analysts may have become wedded early to a single explanation that coloured their perception. A fresh eye always helps.",
+      "V. People also tend to put a lot of emphasis on things they have seen and experienced themselves, which may not be the best guide to decision-making. For example, somebody may buy an overvalued share because a relative has made thousands on it, only to get his fingers burned. In finance, too much emphasis on information close at hand helps to explain the tendency by most investors to invest only within the country they live in. Even though they know that diversification is good for their portfolio, a large majority of both Americans and Europeans invest far too heavily in the shares of their home countries. They would be much better off spreading their risks more widely.",
+      "VI. More information is helpful in making any decision but, says Kahneman, people spend proportionally too much time on small decisions and not enough on big ones. They need to adjust the balance. During the boom years, some companies put as much effort into planning their office party as into considering strategic mergers."
+     ]
+    }
+   ]
+  },
+  {
+   "test": 7,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once."
+    },
+    {
+     "type": "headings",
+     "title": "List of Headings:",
+     "items": [
+      "A) A time when opportunities were limited",
+      "B) The reasons why Ferrando’s product is needed",
+      "C) A no-risk solution",
+      "D) Two inventions and some physical details",
+      "E) The contrasting views of different generations",
+      "F) A disturbing experience",
+      "G) The problems with replacing a consumer item",
+      "H) Looking back at why water was bottled"
+     ],
+     "right": [
+      "15. Paragraph I",
+      "16. Paragraph II",
+      "17. Paragraph III",
+      "18. Paragraph IV",
+      "19. Paragraph V",
+      "20. Paragraph VI"
+     ]
+    },
+    {
+     "type": "article",
+     "title": "PLASTIC IS NO LONGER FANTASTIC",
+     "paragraphs": [
+      "I. In 2017, Carlos Ferrando, a Spanish engineer-turned-entrepreneur, saw a piece of art in a museum that profoundly affected him. ‘What Lies Under’, a photographic composition by Indonesian digital artist Ferdi Rizkiyanto, shows a child crouching by the edge of the ocean and ‘lifting up’ a wave, to reveal a cluster of assorted plastic waste, from polyethylene bags to water bottles. The artwork, designed to raise public awareness, left Ferrando angry – and fuelled with entrepreneurial ideas.",
+      "II. Ferrando runs a Spanish-based design company, Closca, that produces an ingenious foldable bicycle helmet. But he has now also designed a stylish glass water bottle with a stretchy silicone strap and magnetic closure mechanism that means it can be attached to almost anything, from a bike to a bag to a pushchair handle. The product comes with an app that tells people where they can fill their bottles with water for free.",
+      "III. The intention is to persuade people to stop buying water in plastic bottles, thus saving consumers money and reducing the plastic waste piling up in our oceans. ‘Bottled water is now a $100 billion business, and 81 per cent of the bottles are not recycled. It’s a complete waste – water is only 1.5 per cent of the price of the bottle!’ Ferrando cries. Indeed, environmentalists estimate that by 2050 there will be more plastic in our oceans than fish and that’s mainly down to such bottles. ‘We are trying to create a sense that being environmentally sophisticated is a status symbol,’ he adds. ‘We want people to clip their bottles onto what they are wearing, to show that they are recycling – and to look cool.’",
+      "IV. Ferrando’s story is fascinating because it seems like an indicator of something unexpected. Three decades ago, conspicuous consumption – the purchase of luxuries, such as handbags, shoes, cars, etc. on a lavish scale – heightened people’s social status. Indeed, the closing decades of the 20th century were a time when it seemed that anything could be turned into a commodity. Hence the fact that water became a consumer item, sold in plastic bottles, instead of just emerging, for free, from a tap.",
+      "V. Today, though, conspicuous extravagance no longer seems desirable among consumers. Now, recycling is fashionable – as is cycling rather than driving. Plastic water bottles have become so common that they do not command status; instead, what many millennials – young people born in the late 20th century – prefer to post on social media are ‘real’ (refillable) bottles or even the once widespread Thermos bottles. Some teenagers currently think that these stainless-steel vacuum-insulated water bottles that are coming back onto the market are ultra ‘cool’; never mind the fact that they feel oddly out-of-date to anyone over the age of 40 or that teenagers in the 1970s would have avoided ever being seen with one.",
+      "VI. It is uncertain whether Clesca will succeed in its goal. Although its foldable bike helmet is available in some outlets in New York, including the Museum of Modern Art, it can be very hard for any design entrepreneur to really take off in the global mass market, though not as hard as it might have been in the past. If an entrepreneur had wanted to fund a smart invention a few decades ago, he or she would have had to either raise a bank loan, borrow money from a family member or use a credit card. Things have moved on slightly since then."
+     ]
+    }
+   ]
+  },
+  {
+   "test": 8,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once."
+    },
+    {
+     "type": "headings",
+     "title": "List of Headings:",
+     "items": [
+      "A) Plans for more marine protected areas",
+      "B) A historical overview of one specific area",
+      "C) Why more has not been done to save marine creatures",
+      "D) What the press has missed",
+      "E) Where biodiversity has been shown to help",
+      "F) Who is currently being blamed",
+      "G) A reason for some optimism",
+      "H) Various factors other than fishing"
+     ],
+     "right": [
+      "15. Paragraph I",
+      "16. Paragraph II",
+      "17. Paragraph III",
+      "18. Paragraph IV",
+      "19. Paragraph V",
+      "20. Paragraph VI"
+     ]
+    },
+    {
+     "type": "article",
+     "title": "MARINE ECOSYSTEM",
+     "paragraphs": [
+      "I. For some time now, the world’s oceans and the people who fish them have been a constant source of bad environmental news: cod is effectively an endangered species of fish in some places now; every year thousands of dolphins are injured by fishing vessels; huge tuna farms are ruining the Mediterranean Sea. What is more, marine biologists recently warned that our seafood is in terminal decline. According to research published in Science last November, stocks of all the fish and shellfish that we currently eat will collapse before 2050. Or at least that’s how the media reported it.",
+      "II. However, the scientist who led the study has said that the main conclusion of his research has been buried beneath the headlines. While the danger to our seafood supply is real enough, says Boris Worm, assistant professor of marine conservation biology at Dalhousie University, Canada, there is a more serious point: that the way in which we manage the oceans is not only threatening the survival of individual species, it’s upsetting the delicate balance of marine communities and thus causing the collapse of entire ecosystems. Research has shown that the number of ecosystems where all higher forms of life are extinct, so-called dead zones, is increasing. The point that many reports failed to highlight, says Worm, is that we have to revolutionise the way our marine resources are run, changing the focus from stocks and quotas to biodiversity and ecosystem protection. And to do that, we must change the way the debate about our marine resources is conducted in the public domain.",
+      "III. Around 7,500 years ago, shrinking glaciers and the resulting higher water levels led to the development of what’s called the Wadden Sea, a 13,500-square-kilometre area of the North Sea. During the first 5,000 years or so, the sea pulsated with life. There was a high level of biodiversity on the seabed too, and the salt marshes and mud flats on the coast supported millions of birds. This continued until around 2,000 years ago, when human pressure began to affect it. Research has shown that some of the larger creatures disappeared more than 500 years ago. And by the late 19th century, populations of most of the other mammals and fish were severely reduced, leading to the collapse of several traditional fisheries.",
+      "IV. What the Science paper has demonstrated, however, is that the decline in the health of ecosystems is greater where the number of different species is low. The population of marbled rock cod around the South Atlantic island of South Georgia, for example, still hasn’t recovered after the fishing industry caused its collapse during the 1970s. By contrast, North Sea cod has withstood very heavy fishing for hundreds of years, says Worm, and although it has declined substantially, it hasn’t yet collapsed completely. Worm believes that, ‘to have a greater number of species makes an ecosystem more robust’. His theory is backed up by evidence from experiments into how ecosystems react to change.",
+      "V. And some positive news came from the study. Worm and his colleagues were able to show that it’s possible to reverse such damage as long as there are enough species. A survey of 44 protected areas revealed increases in biodiversity and fish catches close to the reserves. Worm says, ‘We should be focusing our attention on protecting all of our marine resources at the ecosystem level, and managing levels of fishing, pollution and habitat disturbance to ensure that crucial services that maintain the health of the ecosystem continue to function.’ To anyone who knows anything about ecology, it would appear that Worm is just stating the obvious. And many protected areas on land are now managed in this way.",
+      "VI. However, there has long been a tendency to view our oceans as a limitless resource, combined with a widespread failure to make an emotional connection with most marine wildlife. True, we have created a small number of marine protected areas. 'We seem to have understood the value of protecting ecosystems in areas such as the Australian Great Barrier Reef that we consider to be particularly beautiful' says John Shepherd, Professor of Marine Sciences at Southampton University in the UK. ‘Human nature will always draw us towards those species or habitats that are more aesthetically pleasing. That’s why there will always be support for protecting pandas and very little for worms, even though nematodes play a vital role in maintaining the health of an ecosystem.’"
+     ]
+    }
+   ]
+  }
+ ]
+}

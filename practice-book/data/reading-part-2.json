@@ -1,0 +1,536 @@
+{
+ "skill": "reading",
+ "part": 2,
+ "tests": [
+  {
+   "test": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "statements",
+     "items": [
+      "A) This café is the first thing most travelers can go.",
+      "B) Workers can go there to kick back.",
+      "C) You can go there on any part of the day.",
+      "D) This café serves free chilling drinks.",
+      "E) You can a free sandwich, internet connection and herbal teas there.",
+      "F) Prices can go lowers on Saturday and Sunday there.",
+      "G) This café has both modern and vintage look combined.",
+      "H) You can visit this café right after you have shopped.",
+      "I) You can drink your tea and coffee and enjoy an internet connection free of charge.",
+      "J) This café has food that has no meat in it."
+     ]
+    },
+    {
+     "type": "cards",
+     "items": [
+      {
+       "title": "7. Breezy Bean Café",
+       "body": "Located beside the industrial area. Enjoy a cozy corner to relax with fresh coffee and baked goods. Indoor seating only. We have a terrace but no tables.\n**Menu:** Espresso, cappuccinos, organic teas, croissants, and muffins\nFree refills on brewed coffee."
+      },
+      {
+       "title": "8. Urban Grind Café",
+       "body": "Located in the heart of the city, just across from the park. Enjoy artisan coffee and light bites in a modern space. We have communal tables and cozy booths.\n**Menu:** Cold brew, nitro coffee, fresh juices, bagels, and granola bowls\nFree iced water."
+      },
+      {
+       "title": "9. The Rustic Cup",
+       "body": "Located a bit distance away from our local market, our small café combines vintage charm with a selection of freshly brewed beverages. We have outdoor tables.\n**Menu:** French press coffee, herbal teas, flavored lattes, scones, and sandwiches\nFree wi-fi."
+      },
+      {
+       "title": "10. Cozy Corner Café",
+       "body": "Located near the biggest local Farm, Cozy Corner offers a warm atmosphere and farm-to-table snacks. COZY READING NOOK. INDOOR SEATING.\n**Menu:** Hot chocolate, freshly brewed coffee, vegan pastries, and salads\nFree hot water refills."
+      },
+      {
+       "title": "11. Café On The Corner",
+       "body": "Located beside the airport, Café On The Corner is perfect for a quick coffee break or a relaxing afternoon. SEATS BY THE WINDOW. QUAINT ATMOSPHERE. HOMEMADE COOKIES, ESPRESSOS, CAPPUCINOS, ICED LATTES, PASTRIES. FREE BREWED COFFEE."
+      },
+      {
+       "title": "12. Sunrise Café",
+       "body": "WE SERVE ALL DAY. RELAXED AMBIANCE AND LARGE WINDOWS. FRESH COFFEE AND SMOOTHIES. PANCAKES. PROTEIN SHAKES. +1 323 678 9012."
+      },
+      {
+       "title": "13. The Daily Brew",
+       "body": "Located beside the mall, we offer a laid-back vibe with a strong coffee selection. We have plenty of seats for individuals or groups.\n**Menu:** Espresso, cappuccinos, gourmet drinks (matcha lattes), cold brew, breakfast burritos, and pastries\nFree water refills."
+      },
+      {
+       "title": "14. Bakers & Brews",
+       "body": "We are known for its homemade pastries and strong coffee. We have plenty of space for groups.\n**WE HAVE SPECIAL DISCOUNTS ON WEEKEND.**\n**Menu:** Mocha, flat whites, croissants, quiches, and cakes\nFree refills on brewed coffee. Free Wi-fi."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "statements",
+     "items": [
+      "7. You prefer to get rich rewards by doing active explorations.",
+      "8. You need something which you control armies and manage them to defeat enemies.",
+      "9. You’re a casual gamer but you want something to use your mind.",
+      "10. You and your pals from school want to try something which you join forces with them and conquer rivals.",
+      "11. You’re are looking for a competition game that doesn’t involve violence but a lot of fun.",
+      "12. You are trying to get a game which has rich plot elements, a lot of quests and fantastic graphics.",
+      "13. You don’t want to force yourself into video games. Instead you just want something to play when you’re free.",
+      "14. You want to impress yourself and conquer your fears."
+     ]
+    },
+    {
+     "type": "cards",
+     "title": "LIST OF VIDEO GAMES",
+     "items": [
+      {
+       "title": "A) Galactic Alliances",
+       "body": "\"Connect with friends and forge alliances in 'Galactic Alliances,' a multiplayer space adventure where teamwork is the key to dominance.\""
+      },
+      {
+       "title": "B) Cosmic Odyssey",
+       "body": "\"Immerse yourself in the futuristic world of 'Cosmic Odyssey,' a sci-fi epic with breathtaking visuals and an immersive storyline.\""
+      },
+      {
+       "title": "C) Nightmare Manor",
+       "body": "\"Brace yourself for heart-pounding terror in 'Nightmare Manor,' a horror game that will test your courage as you navigate through a haunted mansion.\""
+      },
+      {
+       "title": "D) Realm of Legends",
+       "body": "\"Embark on an epic journey in 'Realm of Legends,' where mystical realms and undiscovered treasures await the boldest adventurers!\""
+      },
+      {
+       "title": "E) Sports Showdown",
+       "body": "\"Step onto the virtual field in 'Ultimate Sports Showdown,' where you can compete in a variety of sports, from soccer to extreme sports challenges.\""
+      },
+      {
+       "title": "F) Happy Town Builder",
+       "body": "\"Enjoy a relaxing gaming experience with 'Happy Town Builder,' where you can create and manage your own charming town at your own pace.\""
+      },
+      {
+       "title": "G) Enigma Quest",
+       "body": "\"Challenge your mind with mind-bending puzzles in 'Enigma Quest,' where every level is a unique brain teaser waiting to be unraveled.\""
+      },
+      {
+       "title": "H) Rhythm Revolution",
+       "body": "\"Become a virtual rockstar in 'Rhythm Revolution,' a music game that lets you play along with your favorite tunes and rise to musical stardom.\""
+      },
+      {
+       "title": "I) Epic Ages",
+       "body": "\"Step back in time and rewrite history in 'Epic Ages,' a turn-based strategy game that allows you to shape the course of civilizations through the ages.\""
+      },
+      {
+       "title": "J) Strategic Empires",
+       "body": "\"Command your forces and conquer new lands in 'Strategic Empires,' the ultimate real-time strategy game for tactical masterminds.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "statements",
+     "items": [
+      "7. You and your family want to go on a vacation to a place that has something for everyone.",
+      "8. You and your partner want to go on a romantic honeymoon.",
+      "9. You and your friends want to go on a trip to a place that has a vibrant life and you want to share your rooms.",
+      "10. You and your colleagues want to go on a place with many interesting activities and gatherings.",
+      "11. You and partner want to go on a luxury honeymoon. You want somewhere with a private place to get sunburned.",
+      "12. You and your family want to go on a vacation to a place that has a lot of background.",
+      "13. You and your friends want to go on a trip to a place that has many things to do and enjoy.",
+      "14. You and your friends want to go on a trip to enjoy yourself and get acquainted with local life and culture."
+     ]
+    },
+    {
+     "type": "cards",
+     "title": "LIST OF RESORTS",
+     "items": [
+      {
+       "title": "A) ORGANIC RESORT",
+       "body": "This resort is located in a national park and is known for its wildlife sightings. It offers guided safaris, bird-watching tours, and nature walks. The resort also has a restaurant that serves organic food. It offers private rooms and suites."
+      },
+      {
+       "title": "B) HOT DATE RESORT",
+       "body": "This resort is located in a serene and picturesque setting, perfect for couples looking for a romantic escape. It offers private villas with stunning views, a spa, and a fine-dining restaurant."
+      },
+      {
+       "title": "C) SUNSHINE RESORT",
+       "body": "This resort is located in a tropical destination and is known for its sunny weather. It offers private beaches and rooms for lonely and family travelers."
+      },
+      {
+       "title": "D) UNIQUE SOCIETY",
+       "body": "This resort is located in a vibrant city and is known for its cultural experiences. It offers cooking classes, dance lessons, and language classes. The resort also has a restaurant that serves local cuisine. It offers shared rooms and private suites."
+      },
+      {
+       "title": "E) BUSY RESORT",
+       "body": "This resort offers a range of team-building activities, including a ropes course, a zip line, and a rock-climbing wall. It also has a conference center and meeting rooms for business purposes. The resort offers private rooms and suites."
+      },
+      {
+       "title": "F) TIMELESS RESORT",
+       "body": "This resort is located in a historic town and is known for its rich cultural heritage. It offers guided tours of the town's landmarks and museums. The resort also has a restaurant that serves traditional cuisine. It offers private rooms and suites."
+      },
+      {
+       "title": "G) PARTY CITY",
+       "body": "This resort is located in the heart of a bustling city and is known for its lively nightlife. It has a rooftop bar, a nightclub, and a pool party every weekend. The resort offers shared rooms and private suites."
+      },
+      {
+       "title": "H) ESCAPEDE RESORT",
+       "body": "This resort is located in a scenic location and is known for its outdoor activities. It offers hiking trails, mountain biking, and kayaking. The resort also has a zip line and a bungee jumping platform. It offers shared rooms and private suites."
+      },
+      {
+       "title": "I) QUALIFIED REST",
+       "body": "This resort is known for its opulence and extravagance. It offers private villas with infinity pools, a private beach, and a Michelin-starred restaurant. The resort also has a spa and a fitness center."
+      },
+      {
+       "title": "J) FUN RESORT",
+       "body": "This resort has a variety of activities for all ages, including a water park, mini-golf, and a game room. It also has a kids' club and babysitting services for parents who want some alone time. The resort offers spacious family rooms and suites."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "statements",
+     "items": [
+      "7. You want to recolor your old photo.",
+      "8. You want to manage tasks of your employees as well as communicate with them.",
+      "9. You are a numbers-driven individual with an analytical mind.",
+      "10. You are looking for a software than can help streamline your operations.",
+      "11. You are pursuing IT academics and you want to know which books to find and organize data about them.",
+      "12. You are employed to do a site about business management.",
+      "13. You are an influencer and you want to maintain or organize your presence on SMM.",
+      "14. Your manager recommended you to learn about a language which can help you to understand when you’re go for business meetings."
+     ]
+    },
+    {
+     "type": "cards",
+     "title": "LIST OF ANNOUNCEMENTS",
+     "items": [
+      {
+       "title": "A) HomeHarmony",
+       "body": "\"Declutter your life with 'HomeHarmony,' an organizational software that helps you manage tasks, set reminders, and maintain an organized home environment effortlessly.\""
+      },
+      {
+       "title": "B) FitFusion",
+       "body": "\"Achieve your fitness goals with 'FitFusion,' a personalized fitness software catering to various workout routines, nutrition tracking, and progress monitoring for a healthier lifestyle.\""
+      },
+      {
+       "title": "C) TaskMaster",
+       "body": "\"Optimize your workflow with 'TaskMaster Pro,' a comprehensive project management software that streamlines tasks, enhances collaboration, and boosts team productivity.\""
+      },
+      {
+       "title": "D) MoneyMinds Analytics",
+       "body": "\"Master financial insights with 'MoneyMinds Analytics,' a cutting-edge financial software that provides in-depth analysis, forecasting, and reporting for financial professionals.\""
+      },
+      {
+       "title": "E) Artistry Suite",
+       "body": "\"Unleash your creativity with 'Artistry Suite,' a powerful software designed for graphic designers, photographers, and artists to bring their imaginative visions to life.\""
+      },
+      {
+       "title": "F) SocialSavvy Pro",
+       "body": "\"Level up your social media game with 'SocialSavvy Pro,' a comprehensive social media management software designed to schedule posts, analyze engagement, and grow your online presence.\""
+      },
+      {
+       "title": "G) BizEssentials",
+       "body": "\"Elevate your business with 'BizEssentials,' an all-in-one software solution tailored for small businesses, offering tools for accounting, inventory management, and customer relations.\""
+      },
+      {
+       "title": "H) CodeCraft Studio",
+       "body": "\"Dive into the world of coding with 'CodeCraft Studio,' a feature-rich software for developers and programmers, offering a seamless environment for coding and debugging.\""
+      },
+      {
+       "title": "I) ResearchWizard",
+       "body": "\"Ace your studies with 'ResearchWizard,' an intelligent research tool designed for students and researchers, aiding in literature review, citation management, and data analysis.\""
+      },
+      {
+       "title": "J) Polyglot Pal",
+       "body": "\"Embark on a language journey with 'Polyglot Pal,' an interactive language learning software offering immersive lessons, pronunciation practice, and cultural insights.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "statements",
+     "items": [
+      "7. Richard is an introvert. He is looking for meaningful connections without the stress of large crowds.",
+      "8. Mark is currently unemployed. He is seeking practical strategies for market success on the digital era.",
+      "9. Fred doesn’t know what talent he has. He is tired of the daily grind and he is seeking to craft something unique.",
+      "10. Sarah can’t keep up with the new technologies and wants to learn basic functions of modern apps and media.",
+      "11. George is a cook. He wants to expand his business to the East and the West. He needs to know local favorites of his customers.",
+      "12. Tony is looking forward to know about the Balkans, its customs, food and modern day looks. He has saved 1000$ for travels as of now.",
+      "13. Nolan is looking for a fun and effective workout that pushes his limits.",
+      "14. Oprah wants to exercise but she doesn’t want to push herself and wants a nice athmosphere."
+     ]
+    },
+    {
+     "type": "cards",
+     "title": "LIST OF ANNOUNCEMENTS",
+     "items": [
+      {
+       "title": "A) Forest Bathing Immersion",
+       "body": "Disconnect to reconnect. Immerse yourself in the healing power of nature through guided meditation, mindful walks, and nature appreciation exercises. Find peace and recharge your spirit. Sundays, 9am-12pm. $40 per session"
+      },
+      {
+       "title": "B) Senior Tech Savvy Club",
+       "body": "Get tech-smart! Learn basic apps, online security, and social media in a friendly, patient environment. Connect with your peers and embrace the digital world. Tuesdays, 10am-12pm. Free!"
+      },
+      {
+       "title": "C) Masterclass: From Idea to Market",
+       "body": "Turn your dreams into reality! Learn actionable steps from seasoned entrepreneurs on launching and growing your business. Networking opportunities included. Limited spots available! February 15th-17th, 9am-5pm. $299."
+      },
+      {
+       "title": "D) HIIT Bootcamp: Ignite Your Fitness",
+       "body": "Get shredded and sweat it out in this high-intensity interval training program. Experienced trainers guide you through dynamic exercises for maximum results. No experience needed, just bring your grit! Monday & Wednesday, 5:30am-6:30am. $25 per session."
+      },
+      {
+       "title": "E) Unleash Your Inner Artist",
+       "body": "No experience needed! Discover the joy of painting, pottery, or singing in fun, open-mic workshops. Let your creativity flow and rediscover your artistic spark. Wednesdays, 6pm-8pm. All materials provided. $30 per session."
+      },
+      {
+       "title": "F) Writers' Circle.",
+       "body": "Budding writers seeking a supportive community to develop their craft. Matching Announcement: Writers' Circle: Share, Critique, Grow Unleash your inner author! Share your work in a supportive, constructive environment. Receive valuable feedback and gain insights from fellow writers. Thursdays, 7pm-9pm. Free!"
+      },
+      {
+       "title": "G) Global Flavors Cooking Class",
+       "body": "Travel the world through your taste buds! Learn authentic recipes from diverse cultures, led by experienced chefs. Fun, social atmosphere with delicious outcomes. Every other Friday, 7pm-9pm. $50 per session."
+      },
+      {
+       "title": "H) Intentional Conversations Club",
+       "body": "Ditch the small talk and dive deep! Explore meaningful topics in small, supportive groups. Discover new perspectives and forge genuine connections. Every Thursday, 7pm-9pm. Coffee and snacks provided. Free!"
+      },
+      {
+       "title": "I) Backpacker's Dream",
+       "body": "Discover Eastern Europe Embark on a budget-friendly adventure through hidden gems of Eastern Europe. Hike stunning landscapes, explore charming villages, and soak in local cultures. All levels welcome! May 1st-15th. Prices from $699."
+      },
+      {
+       "title": "J) Rescue Dog Walking Club",
+       "body": "Make a difference! Walk shelter dogs in need of exercise and love. Enjoy the outdoors, make canine friends, and contribute to a worthy cause. Saturdays, 10am-12pm. Free!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 6,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "statements",
+     "items": [
+      "7. Jack and Sarah, a young couple, want a light-hearted escape after a stressful week. They enjoy shows with humor and witty banter.",
+      "8. Emily loves documentaries that transport her to the past. She's especially interested in exotic and distant past cultures.",
+      "9. Tom craves adrenaline-pumping action and suspense.",
+      "10. Marie wants a relaxing escape into the beauty of the natural world. She enjoys documentaries about life, animals and their preservations a lot.",
+      "11. John, a music lover, wants to be captivated by talented performers and he enjoys shows with diverse genres.",
+      "12. Olivia wants to learn new recipes and be inspired by culinary experts.",
+      "13. David wants to stay informed about the modern world.",
+      "14. Liam wants to be inspired by artistic expression and discover new hobbies."
+     ]
+    },
+    {
+     "type": "cards",
+     "title": "LIST OF TV SHOWS",
+     "items": [
+      {
+       "title": "A) \"Oceans Unseen\"",
+       "body": "Explore the coral reefs teeming with life, witness majestic whales breaching the surface, and discover the hidden depths of the ocean floor. Meet the dedicated scientists and divers working to protect this fragile ecosystem. Immerse yourself in the wonder of the underwater world with \"Oceans Unseen\" at 7 PM on National Geographic."
+      },
+      {
+       "title": "B) \"Double Cross\"",
+       "body": "Will Agent Carter finally expose the notorious Diamond Syndicate? Or will their cunning leader, Victor Crane, outsmart him once again? Brace yourself for a heart-pounding showdown filled with explosive chases, double-crossings, and shocking revelations. Don't miss the season finale of \"Undercover Agents\" tonight at 10 PM on FX."
+      },
+      {
+       "title": "C) “Island Escape: Paradise of Panic?”",
+       "body": "This program drops a group of strangers on a remote tropical island tonight at 10.30 pm. Watch as they build alliances, overcome obstacles, and navigate the complex dynamics of island life. Will they find paradise of succumb to panic? Tune in to find out."
+      },
+      {
+       "title": "D) \"Comedy Cocktail Hour\"",
+       "body": "Get ready for side-splitting laughter with back-to-back stand-up specials from rising stars Maya Lopez and David Jones. Brace your funny bone for quick jokes, hilarious observations, and guaranteed giggles. Tonight at 8 PM on Comedy Central!"
+      },
+      {
+       "title": "E) \"Future Tech Summit: Live from Silicon Valley!\"",
+       "body": "Get exclusive access to the biggest tech conference of the year. Hear from industry leaders, witness groundbreaking prototypes, and discover the technologies that will shape our future. Tune in for live coverage of the \"Future Tech Summit\" at 2 PM on Tech Channel."
+      },
+      {
+       "title": "F) \"Lost Temples of the Maya\"",
+       "body": "Join renowned archaeologist Dr. Anya Singh as she unravels the mysteries of the Maya. Journey deep into the jungle, decipher hidden symbols, and witness the grandeur of forgotten monuments. Uncover the secrets of a legendary civilization in this eye-opening documentary series. Premieres tonight at 9 PM on Discovery Channel."
+      },
+      {
+       "title": "G) \"Global Groove Live\"",
+       "body": "Tonight, experience the electrifying sounds of Senegalese drumming, the soulful melodies of a Japanese koto player, and the innovative fusion of rock and flamenco from Spain. Be transported by the rhythms, captivated by the voices, and discover your next musical obsession. Don't miss \"Global Groove Live\" at 8 PM on MTV International."
+      },
+      {
+       "title": "H) “Craft Masterclass!”",
+       "body": "In this hands-on workshop, ceramic artist Emily Chen will guide you through the basics of wheel throwing, hand-building techniques, and glazing. Master the art of transforming clay into beautiful creations, find your inner potter, and discover the secrets of crafting!"
+      },
+      {
+       "title": "I) “The Spice Trail”",
+       "body": "Join Chef Maya as she explores the vibrant spice markets of Morocco, recreates traditional Moroccan dishes, and shares her tips on elevating your cooking with exotic ingredients. Get ready to learn, be inspired, and tantalize your taste buds with \"The Spice Trail\" at 10 AM on Food Network."
+      },
+      {
+       "title": "J) \"Morning Move”",
+       "body": "Get your blood pumping with this high-energy morning workout led by certified trainer Max Jackson. From dynamic cardio to core-strengthening exercises, this routine will boost your metabolism, leave you feeling energized, and set the perfect tone for your day. Join Max for \"Morning Move\" at 6 AM on Fitness Network."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 7,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "statements",
+     "items": [
+      "A) This property is close to the study place.",
+      "B) There have the best transport options.",
+      "C) Retired person can live there.",
+      "D) This property may not be suitable for people who prefer silence.",
+      "E) The property has the biggest garage.",
+      "F) You may need to get a private car if you choose this house.",
+      "G) The cottage is near to the local town so you can walk there.",
+      "H) The property is suitable for single and hard-working individuals.",
+      "I) You can’t stay there for more than twelve months.",
+      "J) Bedrooms is cut out for a family with at least two children."
+     ]
+    },
+    {
+     "type": "cards",
+     "items": [
+      {
+       "title": "7. Rowan Avenue",
+       "body": "One room available in a family home. We welcome international students looking for accommodation. You will have your own room, but you should be prepared to live as part of the family. We have two young children and a dog so it can get a little noisy at times! All meals provided."
+      },
+      {
+       "title": "8. Brooklyn Road",
+       "body": "This first-floor flat is in a great location. Excellent road and rail links with the station just a short five-minute walk away. This is a luxury property with new carpets and furniture in all rooms and so is not suitable for pet owners."
+      },
+      {
+       "title": "9. Ash Lane",
+       "body": "A modern three-bedroom family home with a large garden. The property has its own garage. Situated in the heart of the countryside, there are excellent public transport links and a grocers and post office in the nearby village."
+      },
+      {
+       "title": "10. College Street",
+       "body": "No bills to pay! Three spare bedrooms in this shared six-bedroom all-girl house. A regular bus and train service into the city centre and a short walk to the university. Share a very modern kitchen and living room. Hurry as rooms are going quickly!"
+      },
+      {
+       "title": "11. Birch Hill",
+       "body": "This ground floor, one-bedroom flat is perfect for the older person. The lounge opens onto a garden area shared by other residents. Limited parking but good transport links. Local shops nearby. Pets are welcome."
+      },
+      {
+       "title": "12. The Crescent",
+       "body": "An opportunity to share a beautiful city-centre apartment situated in the centre of the business area. Looking for a professional person to share this two-bedroom property. Rent includes all bills. One-year minimum stay. No pets."
+      },
+      {
+       "title": "13. Baker Close",
+       "body": "A second floor, one-bedroom flat perfect for a professional person. Situated close to the train station and local shops, great nightlife with clubs and restaurants just a short walk away. The property has parking at the back of the building. No pets allowed."
+      },
+      {
+       "title": "14. Meadow View Road",
+       "body": "Cosy one-bedroom cottage in the countryside with garage attached. Ideal for someone who wants to get away from the busy city. A car is necessary as there are no transport links into the local town. The local area is very popular with walkers and those wanting to enjoy nature. Pets welcome."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 8,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "statements",
+     "items": [
+      "7. Ben is a remote worker who thrives in bustling environments. He needs a good Wi-Fi, good coffee, and ample space to spread out during his workday.",
+      "8. Maya is catching up with a friend she hasn't seen in years. They want a cozy spot with private seating, delectable pastries, and a menu featuring light meals for a leisurely afternoon chat.",
+      "9. Liam is a student preparing for exams and needs a quiet corner to focus with minimal distractions. He prefers comfortable seating, access to study materials, and a menu offering brain-boosting snacks and drinks.",
+      "10. Olivia is meeting a potential investor for the first time and wants to impress with a sophisticated setting. She seeks a café with elegant ambiance, impeccable service, and a menu featuring gourmet coffee and high-end pastries.",
+      "11. Sarah is catching up with friends after a workout session and wants a vibrant spot with healthy options, refreshing drinks, and a lively atmosphere.",
+      "12. Alex is a bookworm seeking a literary haven to curl up with their latest read. They desire a quiet cafe with comfy armchairs, good lighting, and a curated selection of books to browse.",
+      "13. Daniel is hosting a casual meet-up for his board game group and needs a spacious cafe with large tables, games, and snacks and drinks to keep everyone energized.",
+      "14. Chloe is on a solo coffee date and wants a quirky cafe with unique decor, interesting reads, and a menu featuring creative coffee concoctions and light bites."
+     ]
+    },
+    {
+     "type": "cards",
+     "title": "LIST OF CAFES",
+     "items": [
+      {
+       "title": "A) Le Jardin Secret",
+       "body": "Elevate your business meeting at Le Jardin Secret. This Parisian-inspired cafe exudes timeless elegance with its marble floors, velvet armchairs, and cascading greenery. Impress your guests with the finest single-origin coffees, decadent French pastries, and attentive service."
+      },
+      {
+       "title": "B) The Muse's Cauldron",
+       "body": "Unleash your inner artist at The Muse's Cauldron. Mismatched furniture, vintage trinkets, and rotating art exhibits create an eclectic haven for creative souls. Sip on lavender lattes or chai teas while enjoying live music, poetry readings, or open mic nights. Share your talents, discover new inspirations, and let your creativity flow in this vibrant space."
+      },
+      {
+       "title": "C) The Curious Bean",
+       "body": "This eclectic cafe boasts mismatched furniture, vintage trinkets, and a wall of quirky magazines. Sip on lavender lattes or rose-infused cappuccinos while indulging in poetry readings, open mic nights, or simply enjoying your own company in a delightfully offbeat ambiance."
+      },
+      {
+       "title": "D) The Owl's Perch Study Den",
+       "body": "The Owl's Perch is your haven for academic pursuits. Immerse yourself in a serene atmosphere with dedicated study booths, ample lighting, and complimentary Wi-Fi. Fuel your focus with brain-friendly smoothies, energy bites, and bottomless hot chocolate. No loud conversations or music, just pure study bliss."
+      },
+      {
+       "title": "E) The Dice Drop Inn",
+       "body": "Roll the dice and gather your friends at The Dice Drop Inn! Our spacious cafe welcomes game enthusiasts with expansive tables, comfortable seating, and an extensive board game library available for rental. Fuel your friendly competition with hearty sandwiches, pizzas, and a selection of board game-themed drinks."
+      },
+      {
+       "title": "F) Buzz Beans Co-Work Café",
+       "body": "Fuel your productivity at Buzz Beans! We offer lightning-fast internet connection, comfy booths with charging ports, and an energizing atmosphere. Sip on ethically sourced coffee, grab a healthy lunch from our deli counter, and collaborate with fellow creative minds in our open workspace."
+      },
+      {
+       "title": "G) The Hidden Nook",
+       "body": "Step into a world of charm at The Hidden Nook. Tucked away on a quiet side street, our café boasts plush armchairs, vintage decor, and a delightful selection of artisanal pastries and gourmet sandwiches. Savor handcrafted teas and coffees while reconnecting with close ones in a warm and inviting space."
+      },
+      {
+       "title": "H) The Woof Wagon",
+       "body": "Paws for a pit stop at The Woof Wagon! This dog-friendly cafe welcomes both pups and their humans with open arms. Relax on our spacious patio, enjoy delicious coffee and snacks, while your furry friends socialize and enjoy dedicated treats and water bowls."
+      },
+      {
+       "title": "I) The Green Room",
+       "body": "Reenergize after your workout at The Green Room! This vibrant cafe fuels active lifestyles with its extensive selection of smoothies, protein bowls, and fresh juices. Catch up with friends in the bustling atmosphere, soak up the positive vibes, and fuel your next adventure."
+      },
+      {
+       "title": "J) The Romantic Brew",
+       "body": "Love fills the air at The Social Brew. Vibrant murals adorn exposed brick walls, while communal tables and comfy booths invite lively gatherings. We got the most delicate and sweet drinks, juices, meal especially the most exquisite wine. Date in our restaurant and experience the love you deserve."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
