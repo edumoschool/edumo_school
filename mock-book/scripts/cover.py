@@ -77,7 +77,7 @@ def front():
   <p class="pre">Milliy sertifikat · CEFR</p>
   <h1>Multilevel</h1>
   <p class="sub">Mock Tests: <b>Listening &amp; Reading</b></p>
-  <p class="skills">5 full tests · Answer sheets · Answer key</p>
+  <p class="skills">8 full tests · Answer sheets · Answer key</p>
   </div>
  {rosette('ros r3', 'rgba(47,91,234,.10)', 1.6)}
 </div>"""
@@ -87,7 +87,7 @@ def back():
     return f"""<div class="back">
  <p class="bpre">Multilevel · Mock Tests</p>
  <img class="bicon" src="{uri(BRAND / 'icon_blue.png')}" alt="">
- <p class="bdesc">Five complete <b>Multilevel (CEFR)</b> mock tests in listening (Parts 1–6) and reading (Parts 1–5),
+ <p class="bdesc">Eight complete <b>Multilevel (CEFR)</b> mock tests in listening (Parts 1–6) and reading (Parts 1–5),
  in the real exam format — with an answer sheet after every test, an answer key and audio on our Telegram channel.</p>
  <div class="bband">{girih(2)}<div class="frieze-wrap top">{border_band(2)}</div>
   <p class="btag">Imtihonga <b>real formatda tayyorlaning</b></p>

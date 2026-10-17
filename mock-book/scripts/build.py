@@ -182,7 +182,10 @@ def answer_key(tests):
             f'<footer><span>Multilevel Mock Tests · Answer key</span><span class="pno"></span></footer></section>')
 
 
-def how_page():
+NUM_WORDS = {5: "five", 6: "six", 7: "seven", 8: "eight", 9: "nine", 10: "ten"}
+
+
+def how_page(count=5):
     tips = [("🎧", "Listening", "6 parts · 35 questions. Scan the QR / open the channel and play the audio for each test. Each recording is played twice."),
             ("📖", "Reading", "5 parts · 35 questions · 60 minutes. Do the test in one sitting, without a dictionary."),
             ("📝", "Answer sheets", "After each test there is a Multilevel answer sheet — write your answers there, just like the real exam."),
@@ -190,8 +193,8 @@ def how_page():
             ("📈", "Track progress", "Repeat the mocks after a few weeks and compare your scores.")]
     cards = "".join(f'<div class="tip"><span>{i}</span><div><b>{t}</b><p>{d}</p></div></div>' for i, t, d in tips)
     return (f'<section class="page howpage"><div class="banner"><div class="girih"></div><div class="bl"><small>MULTILEVEL · CEFR</small>'
-            f'<h1>HOW TO USE THIS BOOK</h1></div><div class="br"><b>5 mock tests</b><span>Listening + Reading</span></div></div>'
-            f'<p class="lead">This book contains <b>five complete Multilevel mock tests</b> in the real exam format. '
+            f'<h1>HOW TO USE THIS BOOK</h1></div><div class="br"><b>{count} mock tests</b><span>Listening + Reading</span></div></div>'
+            f'<p class="lead">This book contains <b>{NUM_WORDS.get(count, count)} complete Multilevel mock tests</b> in the real exam format. '
             f'Treat each one like the real exam: keep to the time, write on the answer sheet and check your score.</p>'
             f'<div class="tips">{cards}</div>'
             f'<div class="audio"><div class="qrc">{qr_svg("https://" + CHANNEL)}</div><div><b>🎧 Audio for all listening tests</b>'
@@ -221,7 +224,7 @@ def build():
     for f in sorted(DATA.glob("*.json")):
         tests.append(json.loads(f.read_text(encoding="utf-8")))
     tests.sort(key=lambda t: (t["mock"], t["skill"] != "listening"))
-    pages = [how_page()]
+    pages = [how_page(len({t['mock'] for t in tests}))]
     for t in tests:                      # listening, reading, then the answer sheet of that mock
         pages.append(skill_pages(t))
         if t["skill"] == "reading":
