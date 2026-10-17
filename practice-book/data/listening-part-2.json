@@ -1,0 +1,195 @@
+{
+ "skill": "listening",
+ "part": 2,
+ "tests": [
+  {
+   "test": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "REGISTAN SQUARE TOUR",
+     "lines": [
+      "The word “Registan” means “__sandy__ place”.",
+      "First Madrasa: - built by a renowned 9______ and mathematician.",
+      "- facade has tileworks with geometric 10__________.",
+      "Second Madrasa: - is built in the 17th century.",
+      "- has an artwork of two lions hunting a 11______",
+      "- illustrates the ambitions of the 12_______ at the time.",
+      "Third Madrasa: - not only a madrasa but also a 13______.",
+      "The tour guide recommends to visit Registan in the 14_________."
+     ]
+    }
+   ]
+  },
+  {
+   "test": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "LONDON TAXIS AND PRIVATE HIRE VEHICLES",
+     "lines": [
+      "Methods of payment: 9__________, or with credit and debit cards",
+      "Where to stop a cab: in the 10__________, or at cab ranks",
+      "Tariff 2: Monday – Friday: 8 pm – 10 pm\n11__________ & Sunday : 6 am – 10 pm",
+      "Tariff 3: every night: 10 pm – 6 am & on 12__________ holidays",
+      "Requirements: taxi drivers to complete a 13__________ examination",
+      "Notice: Private hire vehicles must always be 14__________ either at an operator’s office, or by phone"
+     ]
+    }
+   ]
+  },
+  {
+   "test": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "HISTORIC TOURS",
+     "lines": [
+      "**South Elmham House**",
+      "It was built around the 1300s, but it was greatly improved in the 9__________ century.",
+      "It must have been the home of a rich 10__________, as its wall paintings suggest.",
+      "**Haughley Hall**",
+      "One of its best features is the secret 11__________ places in the walls.",
+      "Tours take place at 11.30 and 2 pm and are £15 with a 12__________, or £12 with tea.",
+      "**Bedfield House**",
+      "Gardens are joined by 13__________ .",
+      "Tours start at 10.30 and 2.30 and one has to pay £ 14__________ ."
+     ]
+    }
+   ]
+  },
+  {
+   "test": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "SCHOOL GEOGRAPHY TRIP",
+     "lines": [
+      "Date of Geography trip: Wednesday 9__________",
+      "Each group will be given: a 10__________",
+      "Length of walk: 11__________",
+      "Person responsible for health issues: 12. Mr __________",
+      "Type of shoes to wear: 13__________",
+      "Coach arrives at school at: 14__________ p.m."
+     ]
+    }
+   ]
+  },
+  {
+   "test": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "RADIO PRESENTER",
+     "lines": [
+      "At university Jack studied 9__________ .",
+      "Before the show Jack drinks 10__________ .",
+      "Jack’s favourite part of the job is 11__________ .",
+      "Jack was embarrassed when he couldn’t remember a 12__________ .",
+      "If Jack wasn’t a radio presenter he would be a 13__________ .",
+      "Jack will be doing a charity show at Hatfield 14__________ at the weekend."
+     ]
+    }
+   ]
+  },
+  {
+   "test": 6,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer."
+    },
+    {
+     "type": "subtitle",
+     "text": "*You will hear a film actor called Roger talking on the school radio about his typical day on a film set.*"
+    },
+    {
+     "type": "notes",
+     "title": "A FILM ACTOR",
+     "lines": [
+      "Roger arrives at the film studio at 9__________ a.m.",
+      "A woman does his 10__________ after someone has brushed his hair.",
+      "Roger is playing a 11__________ in this new film.",
+      "Filming is delayed because the film 12__________ is often late.",
+      "When filming ends, Roger puts on his usual 13__________ ..",
+      "Roger has 14__________ after he gets home and sleeps early."
+     ]
+    }
+   ]
+  },
+  {
+   "test": 7,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "JULIE’S TRIP TO VENICE",
+     "lines": [
+      "You can use bus, 9__________ or boat to go to Venice from the airport.",
+      "Julie and her parents started their journey to Arsenale at 10__________ .",
+      "The museum card costs 11. £__________ .",
+      "Julie’s favourite place to walk was over 12__________ .",
+      "The best food to eat in Venice is 13__________ .",
+      "Julie’s parents bought some toy 14__________ for her relatives."
+     ]
+    }
+   ]
+  },
+  {
+   "test": 8,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer."
+    },
+    {
+     "type": "subtitle",
+     "text": "*You will hear a teacher telling a group of students about a trip they are going on.*"
+    },
+    {
+     "type": "notes",
+     "title": "SCHOOL TRIP TO THE CASTLE",
+     "lines": [
+      "Time to meet at school gate: 9__________",
+      "Need to bring: a 10__________",
+      "Morning activity: 11__________ in the garden",
+      "Afternoon activity: trip on a 12__________",
+      "Hand in projects by: 13__________",
+      "Castle website: 14. www. __________ .castle.com"
+     ]
+    }
+   ]
+  }
+ ]
+}

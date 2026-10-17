@@ -1,0 +1,222 @@
+{
+ "skill": "listening",
+ "part": 3,
+ "tests": [
+  {
+   "test": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear people speaking in different situations. Match each speaker (15-18) to the description they give about another person(A-F). There are TWO EXTRA options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "matching",
+     "left": [
+      "15. Speaker 1 …",
+      "16. Speaker 2 …",
+      "17. Speaker 3 …",
+      "18. Speaker 4 …"
+     ],
+     "right": [
+      "A) A programmer.",
+      "B) A supermarket assistant.",
+      "C) A nurse.",
+      "D) A fast-food cook.",
+      "E) A business manager.",
+      "F) A restaurant manager."
+     ]
+    }
+   ]
+  },
+  {
+   "test": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear people speaking in different situations. Match each speaker (15-18) to the description they give about another person(A-F). There are TWO EXTRA options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "matching",
+     "left": [
+      "15. Speaker 1 …",
+      "16. Speaker 2 …",
+      "17. Speaker 3 …",
+      "18. Speaker 4 …"
+     ],
+     "right": [
+      "A) a doctor",
+      "B) a circus trainer",
+      "C) a retired person",
+      "D) a zoo keeper",
+      "E) a pet shop owner",
+      "F) a blind person"
+     ]
+    }
+   ]
+  },
+  {
+   "test": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear people speaking in different situations. Match each speaker (15-18) to the description they give about another person(A-F). There are TWO EXTRA options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "matching",
+     "left": [
+      "15. Speaker 1 …",
+      "16. Speaker 2 …",
+      "17. Speaker 3 …",
+      "18. Speaker 4 …"
+     ],
+     "right": [
+      "A) critical",
+      "B) easily influenced",
+      "C) tough",
+      "D) careless",
+      "E) moody",
+      "F) arrogant"
+     ]
+    }
+   ]
+  },
+  {
+   "test": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear people speaking in different situations. Match each speaker (15-18) to the description they give about another person(A-F). There are TWO EXTRA options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "matching",
+     "left": [
+      "15. Speaker 1 …",
+      "16. Speaker 2 …",
+      "17. Speaker 3 …",
+      "18. Speaker 4 …"
+     ],
+     "right": [
+      "A) to strengthen a relationship",
+      "B) to get some personal space",
+      "C) to help deal with extensive responsibilities",
+      "D) to meet the demands of colleagues",
+      "E) to cope with unpredictability",
+      "F) to avoid unfair criticism"
+     ]
+    }
+   ]
+  },
+  {
+   "test": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear people speaking in different situations. Match each speaker (15-18) to the description they give about another person(A-F). There are TWO EXTRA options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "matching",
+     "left": [
+      "15. Speaker 1 …",
+      "16. Speaker 2 …",
+      "17. Speaker 3 …",
+      "18. Speaker 4 …"
+     ],
+     "right": [
+      "A) to record certain images",
+      "B) to view a particular exhibit",
+      "C) to listen to a lecture",
+      "D) to seek expert opinion",
+      "E) to check some data",
+      "F) to do some research"
+     ]
+    }
+   ]
+  },
+  {
+   "test": 6,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear people speaking in different situations. Match each speaker (15-18) to the description they give about another person(A-F). There are TWO EXTRA options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "matching",
+     "left": [
+      "15. Speaker 1 …",
+      "16. Speaker 2 …",
+      "17. Speaker 3 …",
+      "18. Speaker 4 …"
+     ],
+     "right": [
+      "A) broader knowledge of the industry",
+      "B) improved IT skills",
+      "C) ideas for a future career",
+      "D) pride in an achievement",
+      "E) greater self-awareness",
+      "F) the ability to work with colleagues"
+     ]
+    }
+   ]
+  },
+  {
+   "test": 7,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear people speaking in different situations. Match each speaker (15-18) to the description they give about another person(A-F). There are TWO EXTRA options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "matching",
+     "left": [
+      "15. Speaker 1 …",
+      "16. Speaker 2 …",
+      "17. Speaker 3 …",
+      "18. Speaker 4 …"
+     ],
+     "right": [
+      "A) a personal recommendation",
+      "B) a modern facility",
+      "C) its distinctive architecture",
+      "D) its convenient location",
+      "E) the support network provided",
+      "F) its international reputation"
+     ]
+    }
+   ]
+  },
+  {
+   "test": 8,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear people speaking in different situations. Match each speaker (15-18) to the description they give about another person(A-F). There are TWO EXTRA options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "matching",
+     "left": [
+      "15. Speaker 1 …",
+      "16. Speaker 2 …",
+      "17. Speaker 3 …",
+      "18. Speaker 4 …"
+     ],
+     "right": [
+      "A) plan what you need to take carefully",
+      "B) explore a range of booking methods",
+      "C) carry sufficient funds with you",
+      "D) sample as much local produce as possible",
+      "E) learn some of the language",
+      "F) consider how belongings should be packed"
+     ]
+    }
+   ]
+  }
+ ]
+}

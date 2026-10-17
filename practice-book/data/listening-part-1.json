@@ -1,0 +1,702 @@
+{
+ "skill": "listening",
+ "part": 1,
+ "tests": [
+  {
+   "test": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 1,
+       "q": "",
+       "options": [
+        "A) I am proposed.",
+        "B) Quite well, actually.",
+        "C) Likewise."
+       ]
+      },
+      {
+       "n": 2,
+       "q": "",
+       "options": [
+        "A) The red one.",
+        "B) I want to know when.",
+        "C) I have chosen."
+       ]
+      },
+      {
+       "n": 3,
+       "q": "",
+       "options": [
+        "A) For a minute.",
+        "B) Tomorrow.",
+        "C) All day."
+       ]
+      },
+      {
+       "n": 4,
+       "q": "",
+       "options": [
+        "A) It must be expensive.",
+        "B) I haven’t bought it.",
+        "C) Yeah, it is."
+       ]
+      },
+      {
+       "n": 5,
+       "q": "",
+       "options": [
+        "A) I will tell Mark.",
+        "B) It’s a good mark, really.",
+        "C) Oh, Ok."
+       ]
+      },
+      {
+       "n": 6,
+       "q": "",
+       "options": [
+        "A) I’ll pick up my dog.",
+        "B) We better go home.",
+        "C) I like cats, actually."
+       ]
+      },
+      {
+       "n": 7,
+       "q": "",
+       "options": [
+        "A) He must be busy.",
+        "B) He has a presume.",
+        "C) I’ll arrive there ASAP."
+       ]
+      },
+      {
+       "n": 8,
+       "q": "",
+       "options": [
+        "A) We can build it too.",
+        "B) I heard it’s the gym.",
+        "C) Our school is big."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 1,
+       "q": "",
+       "options": [
+        "A) I think so. It should be.",
+        "B) No, I think that's all that I need.",
+        "C) Sure, no problem."
+       ]
+      },
+      {
+       "n": 2,
+       "q": "",
+       "options": [
+        "A) Sure, no problem.",
+        "B) When does it happen?",
+        "C) Why, we are in no rush!"
+       ]
+      },
+      {
+       "n": 3,
+       "q": "",
+       "options": [
+        "A) You should take a class.",
+        "B) Read the manual.",
+        "C) There’s nothing we can do."
+       ]
+      },
+      {
+       "n": 4,
+       "q": "",
+       "options": [
+        "A) Should we cross it too?",
+        "B) Why did he do that?",
+        "C) When did it happen?"
+       ]
+      },
+      {
+       "n": 5,
+       "q": "",
+       "options": [
+        "A) I’ll try again next time.",
+        "B) Ok, I’ll pick them up.",
+        "C) Of course, I fed them today."
+       ]
+      },
+      {
+       "n": 6,
+       "q": "",
+       "options": [
+        "A) I live with my grandparents.",
+        "B) We went to party with my family yesterday.",
+        "C) Yes, We do. Always."
+       ]
+      },
+      {
+       "n": 7,
+       "q": "",
+       "options": [
+        "A) That is her sister.",
+        "B) Where?",
+        "C) Marie is so sad today."
+       ]
+      },
+      {
+       "n": 8,
+       "q": "",
+       "options": [
+        "A) Ok, I will",
+        "B) Yes, he remembers",
+        "C) No, it can’t be"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 1,
+       "q": "",
+       "options": [
+        "A) Yes, it will",
+        "B) We mustn’t have",
+        "C) Oh, that’s good."
+       ]
+      },
+      {
+       "n": 2,
+       "q": "",
+       "options": [
+        "A) Yes, please",
+        "B) Nope, I can’t",
+        "C) Yes, it does"
+       ]
+      },
+      {
+       "n": 3,
+       "q": "",
+       "options": [
+        "A) Where is she?",
+        "B) No, I don’t",
+        "C) What’s going on?"
+       ]
+      },
+      {
+       "n": 4,
+       "q": "",
+       "options": [
+        "A) Oh, It really does",
+        "B) Yes, it did",
+        "C) No, it wouldn’t"
+       ]
+      },
+      {
+       "n": 5,
+       "q": "",
+       "options": [
+        "A) But, I’m so tired",
+        "B) So am I",
+        "C) You too!"
+       ]
+      },
+      {
+       "n": 6,
+       "q": "",
+       "options": [
+        "A) Cheer up!",
+        "B) Hurry up!",
+        "C) Well done!"
+       ]
+      },
+      {
+       "n": 7,
+       "q": "",
+       "options": [
+        "A) Maybe, I am not sure",
+        "B) You tell me!",
+        "C) Oh, don’t be shy!"
+       ]
+      },
+      {
+       "n": 8,
+       "q": "",
+       "options": [
+        "A) Well, you didn’t",
+        "B) Sure, you can",
+        "C) Um, No it can’t"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 1,
+       "q": "",
+       "options": [
+        "A) Yes, she is",
+        "B) No, she doesn’t",
+        "C) Yeah, that’s not good"
+       ]
+      },
+      {
+       "n": 2,
+       "q": "",
+       "options": [
+        "A) I like DiCaprio",
+        "B) Can’t choose one, I love all of them.",
+        "C) Let’s listen to some jazz!"
+       ]
+      },
+      {
+       "n": 3,
+       "q": "",
+       "options": [
+        "A) Haven’t decided yet",
+        "B) Yes, I can",
+        "C) No, sorry"
+       ]
+      },
+      {
+       "n": 4,
+       "q": "",
+       "options": [
+        "A) That’s too bad",
+        "B) Yeah, let’s go watch some film",
+        "C) I’ll see you later"
+       ]
+      },
+      {
+       "n": 5,
+       "q": "",
+       "options": [
+        "A) Oh, that’s unfortunate!",
+        "B) Good, I hope it’s fixed now",
+        "C) Wow, you are amazing!"
+       ]
+      },
+      {
+       "n": 6,
+       "q": "",
+       "options": [
+        "A) What about tomorrow, then?",
+        "B) Enjoy your graduation!",
+        "C) Sure, what’s the problem?"
+       ]
+      },
+      {
+       "n": 7,
+       "q": "",
+       "options": [
+        "A) No, I am still working on it",
+        "B) No, I won’t",
+        "C) No, I am still reading it"
+       ]
+      },
+      {
+       "n": 8,
+       "q": "",
+       "options": [
+        "A) Just do your best!",
+        "B) I hope I can too!",
+        "C) Congratulations!"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 1,
+       "q": "",
+       "options": [
+        "A) What about nine o’clock?",
+        "B) When does the party really start?",
+        "C) Ok, I’ll be there at 7.30"
+       ]
+      },
+      {
+       "n": 2,
+       "q": "",
+       "options": [
+        "A) That is good news!",
+        "B) That sounds good!",
+        "C) That can be underwhelming"
+       ]
+      },
+      {
+       "n": 3,
+       "q": "",
+       "options": [
+        "A) No, it hasn’t",
+        "B) What connections?",
+        "C) Here’s a check"
+       ]
+      },
+      {
+       "n": 4,
+       "q": "",
+       "options": [
+        "A) We have lots of birthday cakes",
+        "B) We got fresh roses arrived today",
+        "C) Happy birthday!"
+       ]
+      },
+      {
+       "n": 5,
+       "q": "",
+       "options": [
+        "A) In Central America",
+        "B) In summer",
+        "C) On the internet"
+       ]
+      },
+      {
+       "n": 6,
+       "q": "",
+       "options": [
+        "A) It’s full HD",
+        "B) $2500 is the final price",
+        "C) I can buy more cheaper TV"
+       ]
+      },
+      {
+       "n": 7,
+       "q": "",
+       "options": [
+        "A) Can you buy me one?",
+        "B) Are they cheaper?",
+        "C) That’s a good bargain, I will buy one."
+       ]
+      },
+      {
+       "n": 8,
+       "q": "",
+       "options": [
+        "A) Get well soon, buddy",
+        "B) I’m glad to hear from you too",
+        "C) Hurry up!"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 6,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 1,
+       "q": "",
+       "options": [
+        "A) I have just done it.",
+        "B) Nothing really.",
+        "C) That’s cool."
+       ]
+      },
+      {
+       "n": 2,
+       "q": "",
+       "options": [
+        "A) I’ll do it right away.",
+        "B) I can’t right now, sorry.",
+        "C) Well, you can order it from Amazon."
+       ]
+      },
+      {
+       "n": 3,
+       "q": "",
+       "options": [
+        "A) Ah, thanks, that’s very sweet of you.",
+        "B) I don’t know how to get there.",
+        "C) Where were you last Sunday?"
+       ]
+      },
+      {
+       "n": 4,
+       "q": "",
+       "options": [
+        "A) I will shoot right away.",
+        "B) Well, it seems our internet connection is lost.",
+        "C) It has a lot of amazing new mechanics."
+       ]
+      },
+      {
+       "n": 5,
+       "q": "",
+       "options": [
+        "A) I loved my last hometown and I couldn’t move here.",
+        "B) It’s because we broke up last summer.",
+        "C) I wanted to start a better life for myself."
+       ]
+      },
+      {
+       "n": 6,
+       "q": "",
+       "options": [
+        "A) I can take you there right now.",
+        "B) That's as fast as I can get.",
+        "C) Thank you very much."
+       ]
+      },
+      {
+       "n": 7,
+       "q": "",
+       "options": [
+        "A) Whatever you say!",
+        "B) How clever of you!",
+        "C) Really? That sounds awesome!"
+       ]
+      },
+      {
+       "n": 8,
+       "q": "",
+       "options": [
+        "A) I certainly hope so.",
+        "B) Yes, I am.",
+        "C) We will miss you."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 7,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 1,
+       "q": "",
+       "options": [
+        "A) Pleasure’s all mine.",
+        "B) Well, it seems so.",
+        "C) How are you doing now?"
+       ]
+      },
+      {
+       "n": 2,
+       "q": "",
+       "options": [
+        "A) No, sorry I can’t.",
+        "B) Yes, of course.",
+        "C) So do I."
+       ]
+      },
+      {
+       "n": 3,
+       "q": "",
+       "options": [
+        "A) Lots of times.",
+        "B) Yes, I have finished.",
+        "C) No, I couldn’t."
+       ]
+      },
+      {
+       "n": 4,
+       "q": "",
+       "options": [
+        "A) You can buy a new sandwich.",
+        "B) Help yourself.",
+        "C) I would to order a new drink."
+       ]
+      },
+      {
+       "n": 5,
+       "q": "",
+       "options": [
+        "A) I'll pay them off right now.",
+        "B) I’ll make you pay now.",
+        "C) You’ll pay for what you have done."
+       ]
+      },
+      {
+       "n": 6,
+       "q": "",
+       "options": [
+        "A) Yes, I didn’t",
+        "B) No, but I'm happy for them.",
+        "C) What is it?"
+       ]
+      },
+      {
+       "n": 7,
+       "q": "",
+       "options": [
+        "A) It’ll be 10$.",
+        "B) I’ll take you.",
+        "C) 55 minutes."
+       ]
+      },
+      {
+       "n": 8,
+       "q": "",
+       "options": [
+        "A) Get some rest.",
+        "B) That’s crazy.",
+        "C) Impossible!"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 8,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 1,
+       "q": "",
+       "options": [
+        "A) No, that would be too difficult.",
+        "B) Yes, I would be happy to help you.",
+        "C) I would like your help with that."
+       ]
+      },
+      {
+       "n": 2,
+       "q": "",
+       "options": [
+        "A) Me too.",
+        "B) Oh, sorry for being late.",
+        "C) So did it."
+       ]
+      },
+      {
+       "n": 3,
+       "q": "",
+       "options": [
+        "A) No idea.",
+        "B) Some lemonade.",
+        "C) I’ll think about it tomorrow."
+       ]
+      },
+      {
+       "n": 4,
+       "q": "",
+       "options": [
+        "A) Why are we watching it?",
+        "B) Yes, indeed.",
+        "C) I can watch it now."
+       ]
+      },
+      {
+       "n": 5,
+       "q": "",
+       "options": [
+        "A) No, they don’t.",
+        "B) I think so.",
+        "C) When?"
+       ]
+      },
+      {
+       "n": 6,
+       "q": "",
+       "options": [
+        "A) At half past eight.",
+        "B) Hurry up!.",
+        "C) Well, it can go"
+       ]
+      },
+      {
+       "n": 7,
+       "q": "",
+       "options": [
+        "A) No way!",
+        "B) What time are you leaving?",
+        "C) Sure!"
+       ]
+      },
+      {
+       "n": 8,
+       "q": "",
+       "options": [
+        "A) Oh excuse me?",
+        "B) Well, how about we get something crispy?",
+        "C) Ok, I’ll have some water instead."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

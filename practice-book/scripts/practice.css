@@ -1,0 +1,10 @@
+/* ===== practice book additions ===== */
+.guide{background:#FFF6D6;border-color:#F5D778}
+.guide b{font:700 9.4pt "Unbounded";color:#8A6400}
+.guide ul{margin:1mm 0 0 4mm}
+.guide li{margin-bottom:.8mm}
+.agrid2{width:100%;border-collapse:collapse;font-size:7.6pt;margin-top:1mm}
+.agrid2 th{background:var(--soft);border:1px solid var(--line);padding:.8mm 1mm;font-weight:700;color:var(--blue2)}
+.agrid2 td{border:1px solid var(--line);height:6.5mm}
+.agrid2 tr th:first-child{width:13mm;text-align:left}
+.score{font-size:7.4pt;color:var(--muted);margin-top:1mm;font-style:italic}

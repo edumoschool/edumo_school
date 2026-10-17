@@ -1,0 +1,734 @@
+{
+ "skill": "listening",
+ "part": 5,
+ "tests": [
+  {
+   "test": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract One"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 24,
+       "q": "Many parents ...",
+       "options": [
+        "A) don't have the time or knowledge to help with their children's homework.",
+        "B) think that schools should have the knowledge of how to help with their children's homework.",
+        "C) don't want to help with their children's homework."
+       ]
+      },
+      {
+       "n": 25,
+       "q": "The app ...",
+       "options": [
+        "A) is for parents who wants the best tutor for their children.",
+        "B) is for students who want the most expensive and efficient teachers.",
+        "C) is for students who want to find a tutor."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Two"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 26,
+       "q": "Chris cannot attend to the study group because …",
+       "options": [
+        "A) he doesn’t want to.",
+        "B) he has other study groups to attend to.",
+        "C) he has a task."
+       ]
+      },
+      {
+       "n": 27,
+       "q": "They agreed to meet …",
+       "options": [
+        "A) in the library",
+        "B) in the study hall",
+        "C) in the cafeteria"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Three"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 28,
+       "q": "What has made Clara check on Ben?",
+       "options": [
+        "A) He missed their class that day.",
+        "B) He's missed a few classes.",
+        "C) He has a lot of essays to write."
+       ]
+      },
+      {
+       "n": 29,
+       "q": "What is the main way Ben's anxiety is affecting normal life?",
+       "options": [
+        "A) He feels stupid.",
+        "B) He can't remember what day it is.",
+        "C) He doesn't want to go out."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract One"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 24,
+       "q": "What do we learn about the writer of the play?",
+       "options": [
+        "A) He died.",
+        "B) He is dying.",
+        "C) He nearly died."
+       ]
+      },
+      {
+       "n": 25,
+       "q": "What do the speakers agree on?",
+       "options": [
+        "A) The writer is quite predictable.",
+        "B) The writer’s style has changed direction.",
+        "C) The play wasn’t as funny as some of the writer’s earlier plays."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Two"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 26,
+       "q": "According to Pablo Jenson",
+       "options": [
+        "A) a variety of different shops tends to boost sales.",
+        "B) traders that have something in common can boost each other’s sales.",
+        "C) butchers are the most successful traders."
+       ]
+      },
+      {
+       "n": 27,
+       "q": "Jenson’s theory",
+       "options": [
+        "A) advertised for similar retailers to open shops in one particular area.",
+        "B) works better for bakers and butchers than for other kinds of retailers.",
+        "C) seems to have been proved to be credible."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Three"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 28,
+       "q": "The Costa de la Cruz",
+       "options": [
+        "A) is being spoiled by developers.",
+        "B) is the cheapest area of Spain in which you can buy a holiday home.",
+        "C) is close to Portugal."
+       ]
+      },
+      {
+       "n": 29,
+       "q": "According to Chris Mercer",
+       "options": [
+        "A) there is a danger that the Costa de la Cruz will lose its appeal.",
+        "B) the Costa de la Cruz can be developed without the area being damaged.",
+        "C) the government has put a stop to the Costa de la Cruz being developed further."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract One"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 24,
+       "q": "Both speakers refer to a feeling of",
+       "options": [
+        "A) over-confidence.",
+        "B) embarrassment.",
+        "C) achievement."
+       ]
+      },
+      {
+       "n": 25,
+       "q": "The two speakers agree that a big problem with speaking in public is",
+       "options": [
+        "A) losing the audiences attention during a speech.",
+        "B) choosing the wrong content for a speech.",
+        "C) feeling nervous at the thought of giving a speech."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Two"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 26,
+       "q": "The poster campaign came at a time when",
+       "options": [
+        "A) various aspects of life in London were changing.",
+        "B) many people were reluctant to travel on the Underground.",
+        "C) the use of posters for advertising was increasing."
+       ]
+      },
+      {
+       "n": 27,
+       "q": "What does Zoe say about the content of the posters?",
+       "options": [
+        "A) It only appealed to a certain type of person.",
+        "B) It contrasted with real life for many people.",
+        "C) It influenced the lifestyles of some people."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Three"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 28,
+       "q": "What opinion does the man express about the news media?",
+       "options": [
+        "A) It doesn’t deserve its reputation.",
+        "B) It has become more influential.",
+        "C) Its standards have risen."
+       ]
+      },
+      {
+       "n": 29,
+       "q": "The woman mentions medical stories",
+       "options": [
+        "A) to explain her attitude to the news media.",
+        "B) to illustrate the importance of the news media.",
+        "C) to describe why people dislike the news media."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract One"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 24,
+       "q": "How does the man feel about the book he’s read on competitiveness?",
+       "options": [
+        "A) surprised that it contradicts a well-established theory",
+        "B) confused by the wide range of evidence it quotes",
+        "C) unsure about certain aspects of its argument"
+       ]
+      },
+      {
+       "n": 25,
+       "q": "The woman feels that in the business world, prioritising competitiveness leads to",
+       "options": [
+        "A) a demotivating effect on the workforce.",
+        "B) a constant drive towards greater productivity.",
+        "C) an obsession with short-term goals."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Two"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 26,
+       "q": "They both say that",
+       "options": [
+        "A) restaurants use clever tactics to attract new customers.",
+        "B) the research methods used seem valid.",
+        "C) the same colours can affect people in different ways."
+       ]
+      },
+      {
+       "n": 27,
+       "q": "The woman feels that the teenager’s findings",
+       "options": [
+        "A) could prove significant in the long-term.",
+        "B) need the backing of the scientific establishment.",
+        "C) confirm initial evidence about the way memory is viewed."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Three"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 28,
+       "q": "How does the woman feel about the programme?",
+       "options": [
+        "A) surprised by its conclusion",
+        "B) confused by the approach it took",
+        "C) disappointed by the lack of explanation"
+       ]
+      },
+      {
+       "n": 29,
+       "q": "What do they agree about music?",
+       "options": [
+        "A) It has unexpected benefits.",
+        "B) Its effects on intelligence are obvious.",
+        "C) It’s important to study its psychological impact."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract One"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 24,
+       "q": "What point does the tutor make about a teacher’s attitude?",
+       "options": [
+        "A) a good teacher can put any subject across effectively.",
+        "B) Students will pick up on a teacher’s commitment.",
+        "C) There’s little point in a teacher trying to fake passion for a subject."
+       ]
+      },
+      {
+       "n": 25,
+       "q": "What is Susanna doing?",
+       "options": [
+        "A) complaining about her students’ lack of enthusiasm",
+        "B) proposing ways of making her subject more appealing",
+        "C) asking for ideas about exercises her students could do"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Two"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 26,
+       "q": "Sam is trying to",
+       "options": [
+        "A) suggest how the visual impact could have been improved.",
+        "B) challenge Ella’s preconceptions about the music.",
+        "C) persuade Ella to go to a similar one in the future."
+       ]
+      },
+      {
+       "n": 27,
+       "q": "In Sam’s opinion, what makes the performer stand out?",
+       "options": [
+        "A) the influence her academic background has on her music",
+        "B) the instinctive way she responds to her audience",
+        "C) the high level of stage presence she displays"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Three"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 28,
+       "q": "Staff have been planting trees in order to",
+       "options": [
+        "A) promote a desirable image.",
+        "B) encourage a spirit of mutual co-operation.",
+        "C) compensate for environmental damage."
+       ]
+      },
+      {
+       "n": 29,
+       "q": "The company was surprised that its remote working initiative resulted in",
+       "options": [
+        "A) more appreciative customers.",
+        "B) a better standard of new recruits.",
+        "C) a more motivated workforce."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 6,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract One\n*You hear two friends talking about online privacy.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 24,
+       "q": "Why does the man mention his uncle?",
+       "options": [
+        "A) to criticise his attitude to technology",
+        "B) to challenge a recommendation made by the woman",
+        "C) to illustrate the power of the media"
+       ]
+      },
+      {
+       "n": 25,
+       "q": "They agree that modern technology",
+       "options": [
+        "A) makes little difference to the accessibility of personal information.",
+        "B) is less invasive than some people suggest.",
+        "C) will continue to reduce people’s privacy."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Two\n*You hear two trainee chefs discussing the issue of food waste.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 26,
+       "q": "What does the woman think about her boss’s ideas?",
+       "options": [
+        "A) She’s surprised at his forward-looking attitude.",
+        "B) She’s dismissive of his attention to detail.",
+        "C) She’s concerned about his generosity towards customers."
+       ]
+      },
+      {
+       "n": 27,
+       "q": "In reacting to the woman’s comments, the man reveals that he is",
+       "options": [
+        "A) determined to change practices at his own workplace.",
+        "B) unsure about the facts she is presenting to him.",
+        "C) doubtful whether his chef would accept new ideas."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Three\n*You hear two students talking about an experiment into the way people perceive time.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 28,
+       "q": "The woman thinks the experiment was important because",
+       "options": [
+        "A) it provided unexpected results.",
+        "B) it presented a great physical challenge.",
+        "C) it raised public awareness of the subject."
+       ]
+      },
+      {
+       "n": 29,
+       "q": "She believes celebrating special events",
+       "options": [
+        "A) convinces people that time passes more quickly.",
+        "B) provides people with pleasant memories.",
+        "C) gives people a sense of structure when recalling the past."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 7,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract One\n*You hear part of a radio interview with a product designer called Charles Loughlan.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 24,
+       "q": "How does Charles feel about designers who put their names on products?",
+       "options": [
+        "A) He understands their basic needs.",
+        "B) He is dismissive of their motives.",
+        "C) He admires their business skills."
+       ]
+      },
+      {
+       "n": 25,
+       "q": "What does Charles suggest about a good product?",
+       "options": [
+        "A) Its appearance should reflect its function.",
+        "B) It should encourage a desire to possess it.",
+        "C) Its ecological impact should be considered."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Two\n*You hear two friends discussing a TV interview with an actress called Celia Dent.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 26,
+       "q": "They agree that the interviewer made the mistake of",
+       "options": [
+        "A) dominating the discussion.",
+        "B) asking predictable questions.",
+        "C) failing to listen fully to answers."
+       ]
+      },
+      {
+       "n": 27,
+       "q": "The man says that certain film stars can be difficult to interview because",
+       "options": [
+        "A) they generally show a lack of spontaneity.",
+        "B) they’re unwilling to reveal their true personality.",
+        "C) they’re too anxious to promote their latest work."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Three\n*You hear two freelance journalists talking about their work.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 28,
+       "q": "When talking about how he tackles a creative writing task, the man",
+       "options": [
+        "A) points out how easily he can assume the right frame of mind.",
+        "B) tries to justify his antisocial behaviour when working.",
+        "C) admits that frequent breaks can be beneficial."
+       ]
+      },
+      {
+       "n": 29,
+       "q": "What does the woman say about her earlier writing?",
+       "options": [
+        "A) She feels she no longer fully relates to it.",
+        "B) She tends to draw on similar themes in her current work.",
+        "C) She highlights the improvements she’s noticed in her work."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "test": 8,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract One\n*You hear two friends discussing a rock concert they both went to.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 24,
+       "q": "How does the boy feel about the main band?",
+       "options": [
+        "A) disappointed by their performance",
+        "B) confused by all the advanced publicity",
+        "C) unsure whether he got value for money or not"
+       ]
+      },
+      {
+       "n": 25,
+       "q": "What is the woman doing in her reply?",
+       "options": [
+        "A) criticising the support band",
+        "B) defending the approach of the media",
+        "C) agreeing with comments about the main band"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Two\n*You hear part of a sports report about a football club manager.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 26,
+       "q": "What is the male presenter doing?",
+       "options": [
+        "A) praising changes that the manager has made",
+        "B) suggesting that rumours about the manager are unfounded",
+        "C) describing a growing sense of dissatisfaction with the manager’s performance"
+       ]
+      },
+      {
+       "n": 27,
+       "q": "In the female presenter’s opinion",
+       "options": [
+        "A) the manager’s strategy is the correct one",
+        "B) the real problem is a lack of talented players",
+        "C) the pressure on the manager is likely to increase"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Three\n*You hear two friends discussing an exhibition of modern sculpture.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 28,
+       "q": "What does the woman particularly admire about the artist?",
+       "options": [
+        "A) the originality of his work",
+        "B) the way his art has developed",
+        "C) the issues that his sculptures raise"
+       ]
+      },
+      {
+       "n": 29,
+       "q": "What disappointed them both about the exhibition?",
+       "options": [
+        "A) the pieces of work that had been chosen",
+        "B) the information provided for visitors",
+        "C) the way it had been laid out"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
