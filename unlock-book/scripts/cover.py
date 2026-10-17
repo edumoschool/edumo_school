@@ -78,8 +78,7 @@ def front():
   <h1>Multilevel</h1>
   <p class="sub">B2 darajadan <b>C1 darajaga qadar</b></p>
   <p class="skills">Reading · Listening · Writing · Speaking</p>
-  <p class="units">Unit 1 2 3 4 5 6 7 8 9 10 | + Answer key</p>
- </div>
+  </div>
  {rosette('ros r3', 'rgba(47,91,234,.10)', 1.6)}
 </div>"""
 
@@ -115,7 +114,7 @@ body{font-family:"Manrope",sans-serif;-webkit-print-color-adjust:exact;print-col
 /* ----- front ----- */
 .logo{position:absolute;left:24mm;top:24mm;width:78mm}
 .badge{position:absolute;right:24mm;top:24mm;background:linear-gradient(120deg,#3A6BF2,#1F48D6);color:#fff;font:700 15pt "Unbounded";padding:3.2mm 7mm;
-  border-radius:3mm;box-shadow:0 1.5mm 4mm rgba(31,72,214,.3)}
+  border-radius:3mm}
 .band{position:absolute;left:0;right:0;top:66mm;height:190mm;overflow:hidden;
   background:linear-gradient(120deg,#3A6BF2 0%,#1F48D6 45%,#0F2C9C 100%);
   clip-path:path('M 0 70 C 260 -40, 600 40, 1123 0 L 1123 718 L 0 718 Z')}
