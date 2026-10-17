@@ -1,4 +1,4 @@
-# Unlock 5 (Reading & Writing) — Units 4–10
+# Unlock 5 (Reading & Writing) — Units 1–10
 
 C1 units in the same A3 design as the original Unit 2 / Unit 3, with Uzbek Multilevel (CEFR) exam practice.
 
@@ -17,9 +17,13 @@ An answer key for all units is at the end of the book.
 
 ## Build
 ```
-python3 scripts/build.py          # data/units/*.json -> dist/units.html
-node scripts/render.js            # paginates and prints dist/Unlock5_Units_4-10.pdf (A3)
+python3 scripts/build.py                  # data/units/*.json + data/keys/*.json -> dist/units.html
+START_PAGE=40 node scripts/render.js      # paginates and prints dist/Unlock5_Units_4-10.pdf (A3)
+python3 scripts/merge.py                  # originals/ Units 1-3 + Units 4-10 -> dist/Unlock5_Units_1-10.pdf
 ```
+The full book is Unit 1 (originals/Book_Units_1-3.pdf p.1-13), Unit 2 (originals/Unit_2.pdf), the Unit 3 cover
+(Book_Units_1-3.pdf p.26) + originals/Unit_3.pdf p.2-11, then Units 4-10 and the answer key for all ten units.
+`data/keys/0N.json` hold the answer keys for the original Units 1-3.
 - `SCHEMA.md` — the unit data format.
 - `src/*.txt` — text extracted from the exam question papers and the original Units 2–3.
 - `assets/covers/uNN.jpg` — cover illustrations; `assets/u08-map.png` — Listening Part 4 map.
