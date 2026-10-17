@@ -111,7 +111,7 @@ Keep the original numbering (e.g. questions 15–20) and instructions.
 | `text` | `paragraphs` [..] | plain paragraphs, 1 column (e.g. Part 1 gapped text) |
 | `headings` | `title`, `items` [..], `right` [..] | teal box: list of headings on the left, numbered answer lines on the right |
 | `statements` | `items` ["A) …", …] | simple list |
-| `cards` | `items` [{"title": "7. Breezy Bean Café", "body": "…"}] | numbered short texts (Reading Part 2) |
+| `cards` | optional `title`, `items` [{"title": "7. Breezy Bean Café", "body": "…"}] | numbered short texts (Reading Part 2) |
 | `mcq` | `items` [{"n": 21, "q": "…", "options": ["A) …", "B) …"]}], optional `"cols": 2` | multiple choice |
 | `notes` | `title`, `lines` [..] | gap-fill notes (Listening 2 / 6, Reading 5 summary) — keep `9______` style gaps |
 | `matching` | `left` [..], `right` [..] | two-column matching (Listening 3) |

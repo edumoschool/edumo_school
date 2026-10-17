@@ -188,8 +188,9 @@ def exam_block(b):
     if t == "statements":
         return f'<ol class="xstate">{"".join(f"<li>{md(i)}</li>" for i in b["items"])}</ol>'
     if t == "cards":
-        return split("".join(f'<div class="xcard"><b>{md(c["title"])}</b>{paras(c["body"])}</div>'
-                             for c in b["items"]), "xcards")
+        title = f'<h3 class="xtitle">{md(b["title"])}</h3>' if b.get("title") else ""
+        return title + split("".join(f'<div class="xcard"><b>{md(c["title"])}</b>{paras(c["body"])}</div>'
+                                     for c in b["items"]), "xcards")
     if t == "mcq":
         items = "".join(
             f'<div class="q"><p><b>{md(q["q"]) if str(q["q"]).lstrip().startswith(str(q.get("n", ""))) else (str(q["n"]) + ". " + md(q["q"]) if q.get("n") else md(q["q"]))}</b></p>'
