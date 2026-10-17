@@ -1,0 +1,284 @@
+{
+ "skill": "listening",
+ "mock": 11,
+ "parts": [
+  {
+   "part": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 1,
+       "q": "",
+       "options": [
+        "A) So good to see you again.",
+        "B) Yes, she is very old.",
+        "C) No, you aren’t her."
+       ]
+      },
+      {
+       "n": 2,
+       "q": "",
+       "options": [
+        "A) I’m lovely, thank you.",
+        "B) I met someone yesterday.",
+        "C) Lovely to meet you too!"
+       ]
+      },
+      {
+       "n": 3,
+       "q": "",
+       "options": [
+        "A) My home is very big.",
+        "B) I’m from Valencia.",
+        "C) There are many parks."
+       ]
+      },
+      {
+       "n": 4,
+       "q": "",
+       "options": [
+        "A) Yeah, that’s him.",
+        "B) No, they aren’t.",
+        "C) Yes, that did."
+       ]
+      },
+      {
+       "n": 5,
+       "q": "",
+       "options": [
+        "A) You can also join our club.",
+        "B) No, it is nice of them to leave.",
+        "C) Yes, I’m happy to be here."
+       ]
+      },
+      {
+       "n": 6,
+       "q": "",
+       "options": [
+        "A) Never mind.",
+        "B) You’re right.",
+        "C) Yeah, we can."
+       ]
+      },
+      {
+       "n": 7,
+       "q": "",
+       "options": [
+        "A) Hi there!",
+        "B) Sure!",
+        "C) Nice joke!"
+       ]
+      },
+      {
+       "n": 8,
+       "q": "",
+       "options": [
+        "A) I am very tall these days.",
+        "B) I am twenty-five years old.",
+        "C) I’ve been great, thanks!"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "NEW MATHS COURSE",
+     "lines": [
+      "▪ Name of Ben’s organisation: Bright Numbers",
+      "▪ Aim of course: Applying maths in (9)__________ situations.",
+      "▪ Closest course location for this group: (10)__________ hub.",
+      "▪ Length of course: (11)__________.",
+      "▪ Examples of activities we will do:",
+      "● Design and construct basic frameworks or small-scale builds.",
+      "● Create a detailed (12)__________ to manage the expenses of a modest gathering.",
+      "● Design a (13)__________ path for kids to try.",
+      "● You can even ask your (14)__________ to come."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear people speaking in different situations. Match each speaker (15-18) to things they dislike about their public transport(A-F). There are TWO EXTRA options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "matching",
+     "left": [
+      "15. Speaker 1 …",
+      "16. Speaker 2 …",
+      "17. Speaker 3 …",
+      "18. Speaker 4 …"
+     ],
+     "right": [
+      "A) Travelling at peak times is stressful due to lack of space",
+      "B) The system is badly managed and routes are inconvenient",
+      "C) The level of comfort and cleanliness is disappointing",
+      "D) Overcrowded with people and it moves very fast.",
+      "E) Transport services end too early for modern lifestyles",
+      "F) The service is untrustworthy and communication about delays is poor"
+     ]
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There are THREE extra options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "image",
+     "src": "m11-map.png"
+    },
+    {
+     "type": "lines",
+     "items": [
+      "19. Setting up a Fitness Centre …",
+      "20. Healthy Eating Schemes …",
+      "21. Transport Initiatives …",
+      "22. Running Sports Teams …",
+      "23. Conference Coordinator’s Office …"
+     ]
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract One\n*You hear part of a radio discussion about Monarch butterflies.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 24,
+       "q": "According to the man, in what way do Monarch butterflies differ from other butterflies?",
+       "options": [
+        "A) They fly very long distances.",
+        "B) They spend the winter in a warm climate.",
+        "C) They survive best at high altitude."
+       ]
+      },
+      {
+       "n": 25,
+       "q": "What does the man find surprising about Monarch butterflies?",
+       "options": [
+        "A) They can only migrate once.",
+        "B) They migrate in large groups.",
+        "C) They migrate to a precise location."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Two\n*You hear two friends talking about the final of a cookery competition they saw on television.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 26,
+       "q": "They agree that the winning contestant …",
+       "options": [
+        "A) performed well at a crucial moment.",
+        "B) fully deserved to win the contest.",
+        "C) used an intriguing range of ingredients."
+       ]
+      },
+      {
+       "n": 27,
+       "q": "The woman thinks that yesterday's cookery programme could be improved by …",
+       "options": [
+        "A) adding a new person to the judges' panel.",
+        "B) varying the format of the presentation.",
+        "C) specifying what style of cooking contestants must do."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Three\n*You hear two friends discussing a trip to a game park in South Africa.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 28,
+       "q": "Before the woman went to South Africa, the man had told her that …",
+       "options": [
+        "A) the sheer size of the animals would be impressive.",
+        "B) the game park would be the highlight of the trip.",
+        "C) the sunsets were spectacular in this kind of landscape."
+       ]
+      },
+      {
+       "n": 29,
+       "q": "The woman thought the elephant approached their jeep because …",
+       "options": [
+        "A) it wanted to warn them off.",
+        "B) it was searching for food.",
+        "C) it was simply curious."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 6,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "CHEETAHS",
+     "lines": [
+      "Volunteers were required to be flexible jobs that need doing. due to the number of different",
+      "Anna particularly appreciated being able to make (30)__________ out of doors.",
+      "Anna mentions a vehicle (31)__________ to explain the way a cheetah's feet function.",
+      "Anna's work involved using a new kind of (32)__________ developed to track the cheetahs.",
+      "Anna collected detailed information about the cheetahs' direction position and speed.",
+      "Anna found out that the speed of a cheetah is less important than the way it can turn (33)__________ suddenly.",
+      "Anna's results showed that (34)__________ was the most popular time of day for hunting.",
+      "Anna was surprised to find out that cheetahs went into areas of dense (35)__________ to hunt for food."
+     ]
+    }
+   ]
+  }
+ ]
+}

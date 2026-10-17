@@ -1,0 +1,281 @@
+{
+ "skill": "listening",
+ "mock": 10,
+ "parts": [
+  {
+   "part": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 1,
+       "q": "",
+       "options": [
+        "A) In the fridge.",
+        "B) It’s in the street.",
+        "C) On the table."
+       ]
+      },
+      {
+       "n": 2,
+       "q": "",
+       "options": [
+        "A) I don’t want it, thanks.",
+        "B) I’ll have coffee.",
+        "C) I’ll talk to you later."
+       ]
+      },
+      {
+       "n": 3,
+       "q": "",
+       "options": [
+        "A) Sure, I’ll carry it.",
+        "B) I’ll pack them later.",
+        "C) OK, take this box from me."
+       ]
+      },
+      {
+       "n": 4,
+       "q": "",
+       "options": [
+        "A) After 5 minutes.",
+        "B) From platform 3, I think.",
+        "C) To Paris, maybe."
+       ]
+      },
+      {
+       "n": 5,
+       "q": "",
+       "options": [
+        "A) No, we did.",
+        "B) Sure, I’ll watch it.",
+        "C) Yes, it was great."
+       ]
+      },
+      {
+       "n": 6,
+       "q": "",
+       "options": [
+        "A) Under the tree.",
+        "B) On Main Street.",
+        "C) I think it’s closed today."
+       ]
+      },
+      {
+       "n": 7,
+       "q": "",
+       "options": [
+        "A) It’s sunny.",
+        "B) He’s feeling very angry.",
+        "C) Looks like it."
+       ]
+      },
+      {
+       "n": 8,
+       "q": "",
+       "options": [
+        "A) I’ll open it later.",
+        "B) It’s already closed.",
+        "C) Sure, no problem."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "WORK EXPERIENCE",
+     "lines": [
+      "▪ Name: Jessica (9)__________.",
+      "▪ Job: Online language teacher",
+      "▪ Taught: Pupils in (10)__________",
+      "▪ (11)__________ was applied to interact students.",
+      "▪ Number of students: up to (12)_________",
+      "▪ In lessons: talked, played (13)__________ and sang songs",
+      "▪ Worked: from (14)__________ to September"
+     ]
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear people speaking in different situations. Match each speaker (1-4) to the description about living and studying far from home(A-F). There are TWO EXTRA options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "matching",
+     "left": [
+      "15. Speaker 1 …",
+      "16. Speaker 2 …",
+      "17. Speaker 3 …",
+      "18. Speaker 4 …"
+     ],
+     "right": [
+      "A) I’m still in touch with the people I lived with at first.",
+      "B) I’m still closest to the people I grew up with.",
+      "C) I found that joining a sports club helped me make friends.",
+      "D) I didn’t share many interests with my classmates.",
+      "E) It was easier making friends at a small college.",
+      "F) It was hard getting out to make friends at first."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There are THREE extra options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "image",
+     "src": "m10-map.png"
+    },
+    {
+     "type": "lines",
+     "items": [
+      "19. Workshop",
+      "20. Lunch room",
+      "21. Farm office",
+      "22. First aid room",
+      "23. Store Shed"
+     ]
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract One\n*You will hear three students, Steve, David, and Susan talking about their last semester.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 24,
+       "q": "What is the main topic of the discussion?",
+       "options": [
+        "A) The grades they received",
+        "B) The books they are studying",
+        "C) The lecturers and subjects."
+       ]
+      },
+      {
+       "n": 25,
+       "q": "What do they say about the book ‘Welfare State’?",
+       "options": [
+        "A) It’s too difficult to understand",
+        "B) It doesn’t relate to their course",
+        "C) It’s too long but well written"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Two\n*You will hear two students, Frank and Nicole, discussing their research on university waste.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 26,
+       "q": "Nicole received the best information from the",
+       "options": [
+        "A) staff.",
+        "B) students.",
+        "C) cleaners."
+       ]
+      },
+      {
+       "n": 27,
+       "q": "The product used most wastefully was",
+       "options": [
+        "A) copying paper.",
+        "B) plastic.",
+        "C) paper plates and cups."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Three\n*You will hear an interview with a professional athlete called Ann Brown.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 28,
+       "q": "What does Ann think of the idea of taking a ‘day off’ from training?",
+       "options": [
+        "A) She thinks all athletes need one sometimes.",
+        "B) She would like to have more of them.",
+        "C) She doesn’t find them necessary."
+       ]
+      },
+      {
+       "n": 29,
+       "q": "What is Ann’s attitude towards the other competitors in races?",
+       "options": [
+        "A) She avoids close social contact with them.",
+        "B) She’s made a few good friends amongst them.",
+        "C) She finds it easy to talk to them when she has to."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 6,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "AGRICULTURAL PROGRAMME IN MOZAMBIQUE",
+     "lines": [
+      "The programme focused on a dry and **arid** region in Chicualacuala district, near the Limpopo River.",
+      "People depended on the forest to provide (30)__________ as a source of income.",
+      "(31)__________ was seen as the main priority to ensure the supply of water.",
+      "Most of the work organised by farmers’ associations was done by (32)__________.",
+      "Fenced areas created to keep animals away from crops.",
+      "The programme provided (33)__________ for the fences and (34)__________ for suitable crops as well as water pumps.",
+      "The farmers provided labour and (35)__________ for the fences on their land."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,317 @@
+{
+ "skill": "reading",
+ "mock": 10,
+ "parts": [
+  {
+   "part": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text."
+    },
+    {
+     "type": "article",
+     "title": "THE MISSING PAINTING",
+     "paragraphs": [
+      "A famous artist once lived in a small seaside town. Every day, he painted beautiful pictures of the sea and sold the (1)__________ in a little near shop the harbour. People came from faraway cities to see his work, and some even waited hours just to meet him.",
+      "One day, the artist woke up and found that his newest painting was gone! It had disappeared from his studio. Shocked, he ran to the (2)__________ to tell everyone what had happened. The townspeople were surprised and offered to help him search.",
+      "The artist’s neighbour, a young fisherman, said he had seen someone walking near his (3)_________ late at night. The artist and the fisherman followed a trail of sandy footprints leading down to the beach. There, half-buried in the sand, they found a small piece of the painting’s golden frame.",
+      "Just as they were about to give up, they heard barking. The fisherman’s dog came running from behind a boat — with the missing painting in its mouth! The artist laughed in joy, relieved that his work was safe. Apparently, the (4)_________ had sneaked into the studio and taken it, thinking it was a game.",
+      "The artist didn’t get angry at that time. Instead, he cleaned the (5)__________, fixed the frame, and later painted a new picture — of the playful dog sitting proudly beside the sea. He called it “The Art Thief.”",
+      "From that (6)__________ on, visitors came not only to see the paintings but also to meet the clever dog. The artist said it was his greatest masterpiece, because it had made everyone in town smile."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "statements",
+     "items": [
+      "A. You want to learn how to write stories and share them with an online audience.",
+      "B. You’d like to join a short art course while travelling abroad.",
+      "C. You prefer a quiet place to paint landscapes with personal guidance.",
+      "D. You want to create digital designs and learn to use modern tools.",
+      "E. You want to take part in group performances and improve your acting skills.",
+      "F. You want to turn your photography hobby into a small business.",
+      "G. You’d like to join weekend pottery classes near your home.",
+      "H. You want to meet other musicians and play in a band.",
+      "I. You’re looking for a course that combines creativity with relaxation in nature.",
+      "J. You want to study art history and visit famous museums."
+     ]
+    },
+    {
+     "type": "cards",
+     "items": [
+      {
+       "title": "7. The Clay Corner",
+       "body": "Looking for something hands-on? Our studio in the city centre offers weekend workshops where you can learn to shape, glaze, and decorate your own creations. Classes are small, so there’s plenty of personal attention from our friendly instructors. You can take your finished pieces home as unique souvenirs or gifts."
+      },
+      {
+       "title": "8. WordWeavers Online",
+       "body": "This writing course is perfect for creative minds who love storytelling. You’ll get weekly challenges, feedback from published authors, and a chance to publish your short tales on our student blog. Many students later enter writing competitions or self-publish their work."
+      },
+      {
+       "title": "9. Lens & Light Academy",
+       "body": "You would like to earn money from your camera? Our course teaches you how to take professional portraits, advertise online, and manage clients. Graduates often start their own small studios within months. You’ll also build a professional portfolio to show your best work."
+      },
+      {
+       "title": "10. ArtEscape Retreats",
+       "body": "Recharge your imagination with our five-day retreat in the countryside. Paint, draw, and meditate in peaceful surroundings. All materials, meals, and accommodation are included — just bring your imagination. Evening campfires and group reflections make the experience unforgettable."
+      },
+      {
+       "title": "11. DesignNow Studio",
+       "body": "If you’re interested in digital creativity, this course introduces you to graphic design software and current illustration equipment. By the end, you’ll be able to create logos, posters, and social media visuals like a pro. No previous experience is needed — just curiosity and creativity."
+      },
+      {
+       "title": "12. StageSteps Theatre Group",
+       "body": "Express yourself on stage! Join our weekly drama classes to learn voice control, movement, and teamwork through fun exercises. Members often perform short plays for local audiences at the end of each term. It’s a great way to build confidence and make new friends."
+      },
+      {
+       "title": "13. The Travelling Painter",
+       "body": "Spend your holiday learning to paint Mediterranean landscapes. Our week-long drawing course takes place in Germany and France, with daily outdoor lessons and evening discussions about painting techniques. We provide all painting equipment, so you can focus on enjoying the view."
+      },
+      {
+       "title": "14. SoundCircle Clu",
+       "body": "Join local choirs every Friday evening for jam sessions and live performances. Whether you play guitar, drums, or sing, you’ll find a welcoming community and opportunities to perform on stage. Members also collaborate to write original songs for local festivals."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once."
+    },
+    {
+     "type": "headings",
+     "title": "LIST OF HEADINGS:",
+     "items": [
+      "A) Music and the human brain",
+      "B) The link between music and memory",
+      "C) How technology has changed our listening habits",
+      "D) The emotional influence of music",
+      "E) Music as a universal language",
+      "F) The role of music in medicine",
+      "G) From traditional to modern sounds",
+      "H) Music connecting people across borders"
+     ],
+     "right": [
+      "15. Paragraph I",
+      "16. Paragraph II",
+      "17. Paragraph III",
+      "18. Paragraph IV",
+      "19. Paragraph V",
+      "20. Paragraph VI"
+     ]
+    },
+    {
+     "type": "article",
+     "title": "THE POWER OF MUSIC",
+     "paragraphs": [
+      "I. From ancient tribal drums echoing through forests to today’s digital pop hits, music has always been an inseparable part of human civilization. Every society, regardless of its size or isolation, has produced its own forms of musical expression. This universality suggests that music is far more than a form of amusement — it is a vital channel for sharing feelings, preserving stories, and building connections among people. Even when listeners do not understand the lyrics, they can still sense the tone and emotion behind a melody. Music functions as a shared language of emotion, transcending cultural and linguistic barriers.",
+      "II. Music has a remarkable power to shape our moods. A delicate, slow melody can bring relaxation or peace, while an energetic rhythm can awaken excitement or tension. Filmmakers skillfully use soundtracks to influence how viewers interpret a scene’s atmosphere. According to neuroscientists, musical sounds stimulate the brain to produce substances such as dopamine — a chemical closely linked to pleasure, motivation, and reward. In this way, music does not merely reflect emotions; it actively alters them by changing our brain activity.",
+      "III. In modern medicine, music has earned recognition as a tool for recovery and psychological well-being. Hospitals increasingly use music therapy to reduce anxiety, enhance sleep quality, and stabilize blood pressure. For patients coping with mental health conditions or memory disorders like Alzheimer’s disease, familiar tunes often evoke a sense of comfort and help them recall happy experiences. Through these effects, music supports both emotional healing and physical rehabilitation, proving itself to be a natural form of therapy.",
+      "IV. Technological development has completely transformed how people consume and share music. In earlier times, audiences relied on live performances or purchased physical recordings. Now, digital platforms and streaming apps allow instant access to millions of songs from anywhere in the world. This convenience has revolutionized listening habits, making music highly personalized and ever-present. However, it has also weakened the collective experience once found in communal listening — at concerts, festivals, or family gatherings. Technology has expanded availability but reduced the shared social aspect of music.",
+      "V. Music holds an extraordinary ability to awaken memories long forgotten. A single familiar tune can transport someone back to a wedding, a childhood celebration, or a distant holiday. Scientists explain that music stimulates both emotional and memory-related regions of the brain simultaneously, allowing old experiences to resurface vividly. This is why people with memory loss can often recall lyrics or melodies even when other recollections have faded. Music serves as a key to unlock emotional and autobiographical memories.",
+      "VI. Whether performed in a Tokyo concert hall, sung in a Peruvian village, or played by an orchestra in Vienna, music resonates across humanity. It surpasses linguistic boundaries and unites listeners from every corner of the world. At global celebrations such as the Olympic Games, songs inspire collective emotion and a sense of belonging among diverse audiences. Music reminds us of our shared human experience, acting as a bridge between cultures and nations."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 21-29."
+    },
+    {
+     "type": "article",
+     "title": "THE INVENTION OF THE CAMERA",
+     "paragraphs": [
+      "Photography is so common today that people rarely stop to consider how revolutionary the invention of the camera truly was. From simple family snapshots to scientific discoveries, cameras have shaped how we see and record the world. Yet the history of photography stretches back far before the first photograph was taken.",
+      "The earliest concept of the camera came from a simple optical principle known as the camera obscura, meaning “dark chamber” in Latin. Ancient philosophers in China and Greece discovered that when light passes through a small hole into a dark room, it projects an upside-down image of the outside scene on the opposite wall. Artists in the Renaissance used this device to trace realistic images, but the pictures faded immediately.",
+      "That changed in the early 19th century. In 1826, a French inventor named Joseph Nicéphore Niépce managed to capture the first permanent image using a metal plate coated with a special chemical. However, his process required prolonged time of exposure to light. A few years later, Louis Daguerre, also French, refined the technique and introduced the daguerreotype, which produced clearer pictures in a fraction of the time. His invention quickly spread across Europe and the United States, marking the true beginning of photography as both an art and a science.",
+      "The next great leap came when photographic negatives were invented. British scientist Henry Fox Talbot developed a process called the calotype, which used paper coated with light-sensitive chemicals. Unlike Daguerre’s method, the calotype created a negative image that could be reproduced numerous times. This idea — making many prints from one negative — became the foundation of modern photography.",
+      "By the late 19th century, cameras were becoming smaller and easier to use. American entrepreneur George Eastman revolutionized photography by introducing roll film and launching his company, Kodak, in 1888. His slogan, “You press the button, we do the rest,” showed how simple photography had become. Now, anyone could capture moments of their lives without technical knowledge. This shift transformed photography from a scientific process into a popular hobby.",
+      "In the 21th century, cameras evolved rapidly. Portable film cameras were replaced by instant Polaroids, and later by digital devices that stored thousands of images on memory cards. Today, smartphone cameras combine sophisticated lenses and computer software to produce high-quality photos instantly. While the technology has changed dramatically, the goal remains the same: to preserve a moment in time.",
+      "The invention of the camera did more than create images — it changed human memory. People could now record their lives, share experiences, and even witness events they never attended. From documenting wars to capturing the first steps on the moon, cameras have not only reflected history but have also helped shape it."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 21-24, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 21,
+       "q": "What was the main limitation of the camera obscura?",
+       "options": [
+        "A) It produced blurred images.",
+        "B) It required a long exposure time.",
+        "C) The images could not be kept permanently.",
+        "D) It was too expensive for most artists."
+       ]
+      },
+      {
+       "n": 22,
+       "q": "Why was Daguerre’s invention important?",
+       "options": [
+        "A) It allowed photographs to be printed in color.",
+        "B) It made photography quicker with greater clarity.",
+        "C) It used roll film for the first time.",
+        "D) It introduced the concept of the negative."
+       ]
+      },
+      {
+       "n": 23,
+       "q": "What made Henry Fox Talbot’s method different from Daguerre’s?",
+       "options": [
+        "A) It produced images on metal plates.",
+        "B) It was cheaper but less clear.",
+        "C) It could produce multiple copies of the same image.",
+        "D) It used digital techniques to enhance pictures."
+       ]
+      },
+      {
+       "n": 24,
+       "q": "What was George Eastman’s main contribution to photography?",
+       "options": [
+        "A) He simplified the photographic process.",
+        "B) He developed instant photography.",
+        "C) He invented color film.",
+        "D) He discovered light-sensitive chemicals."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 25-29, decide if the following statements agree with the information given in the text. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 25,
+       "q": "The idea of the camera obscura was first discovered during the Middle Ages.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 26,
+       "q": "Niépce’s initial photograph took many hours under light before the image could fully form.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 27,
+       "q": "The calotype process could produce only one image at a time.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 28,
+       "q": "George Eastman’s main goal was to make photography affordable for professional photographers.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 29,
+       "q": "Digital photography completely dominated all other types of cameras in the 21st century.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 30-35."
+    },
+    {
+     "type": "article",
+     "title": "THE PSYCHOLOGY OF THE 'FLOW STATE'",
+     "paragraphs": [
+      "In the landscape of human psychology and productivity, few concepts are as sought-after as the 'flow state'. Coined by psychologist Mihaly Csikszentmihalyi, flow describes a state of complete immersion in an activity, where one feels energized, focused, and enjoys the process immensely. It is often referred to as being \"in the zone.\" During flow, your sense of self seems to vanish, your perception of time becomes distorted—hours can feel like minutes—and your concentration is so absolute that all other distractions fade away. This ephemeral state is not just the peak of productivity; Csikszentmihalyi's research suggests it is also the peak of human happiness, a key component of a life well-lived.",
+      "Achieving this state, however, is not a matter of chance. It requires a specific set of conditions to be met. First, the activity must have clear, moment-to-moment goals. One must know what they are doing and why they are doing it, providing a clear path forward. Second, the activity must provide immediate and unambiguous feedback, allowing for continuous adjustments. A musician knows instantly if they've hit a wrong note; a rock climber knows if their grip is secure. This constant feedback loop keeps the person engaged and focused on the present.",
+      "Perhaps the most crucial condition is maintaining a delicate equilibrium between the challenge of a task and the skill of the individual. If the task is too easy relative to one's skills, it leads to boredom and apathy. Conversely, if the task is too hard, it leads to frustration. The flow state exists in the narrow channel where the task is just challenging enough to stretch your existing skills, forcing you to grow and adapt without becoming overwhelmed. It is this perfect balance that makes the experience so compelling and rewarding.",
+      "The neurological foundations of flow are equally fascinating. Brain imaging studies suggest that during a flow state, the brain experiences something called 'transient hypofrontality'. In simpler terms, the prefrontal cortex—the part of the brain responsible for our sense of self and our nagging inner critic—temporarily quiets down. This neurological shift explains the loss of self-consciousness and the silencing of self-doubt. Simultaneously, the brain is flooded with a cocktail of performance-enhancing and pleasure-inducing neurochemicals, including dopamine which sharpens focus and generates a feeling of deep satisfaction.",
+      "The implications of cultivating flow are profound. It is the antidote to the apathy often experienced during passive leisure, such as scrolling through social media or watching television. By actively seeking out activities that induce flow—be it in our work, hobbies, or even in deep conversation—we engage in tasks that are intrinsically motivating. This pursuit not only enhances our skills and productivity but also contributes significantly to our overall sense of well-being and fulfillment."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question."
+    },
+    {
+     "type": "notes",
+     "title": "CONDITIONS FOR ACHIEVING FLOW",
+     "lines": [
+      "A person must have a precise understanding of their (30)_______________ at every stage of the activity. It is also essential to receive instant (31)_______________ on one's performance. Achieving a state of flow is dependent on several key factors. The task itself must not be so difficult that it causes (32)_______________, nor so simple that it results in boredom.",
+      "During a flow state, the brain’s prefrontal cortex becomes less active, reducing self-doubt, while chemicals such as (33)____________ enhance focus and pleasure."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 34,
+       "q": "According to the passage, what happens in the brain during a flow state?",
+       "options": [
+        "A) The brain releases hormones that cause anxiety and high alert.",
+        "B) All parts of the brain become more active simultaneously to boost performance.",
+        "C) A part of the brain associated with self-awareness becomes less active.",
+        "D) The brain's activity is identical to its state during passive leisure."
+       ]
+      },
+      {
+       "n": 35,
+       "q": "What is the writer's main purpose in the reading passage?",
+       "options": [
+        "A) To provide a definitive scientific formula for achieving happiness.",
+        "B) To describe the concept of the flow state, its conditions, and its benefits.",
+        "C) To argue that modern work environments prevent the flow state.",
+        "D) To compare the productivity of artists with that of athletes."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

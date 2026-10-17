@@ -1,0 +1,282 @@
+{
+ "skill": "listening",
+ "mock": 12,
+ "parts": [
+  {
+   "part": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 1,
+       "q": "",
+       "options": [
+        "A) Yes, I packed them yesterday.",
+        "B) No thanks, I understand everything.",
+        "C) They are very different."
+       ]
+      },
+      {
+       "n": 2,
+       "q": "",
+       "options": [
+        "A) On the farm.",
+        "B) In the centre.",
+        "C) At the balcony."
+       ]
+      },
+      {
+       "n": 3,
+       "q": "",
+       "options": [
+        "A) Sure, why not.",
+        "B) Yes, he can.",
+        "C) Is it the old car?"
+       ]
+      },
+      {
+       "n": 4,
+       "q": "",
+       "options": [
+        "A) No, I don’t.",
+        "B) Well, I didn’t play.",
+        "C) Can you teach him?"
+       ]
+      },
+      {
+       "n": 5,
+       "q": "",
+       "options": [
+        "A) When did she call you?",
+        "B) What did she do?",
+        "C) What did she tell you?"
+       ]
+      },
+      {
+       "n": 6,
+       "q": "",
+       "options": [
+        "A) Nice game!",
+        "B) Best of luck!",
+        "C) Welcome to the club!"
+       ]
+      },
+      {
+       "n": 7,
+       "q": "",
+       "options": [
+        "A) No, that doesn’t.",
+        "B) No, this cannot.",
+        "C) No, it isn’t."
+       ]
+      },
+      {
+       "n": 8,
+       "q": "",
+       "options": [
+        "A) Yes, I was in Rabat last month.",
+        "B) Yes, I haven’t.",
+        "C) Yes, we saw pyramids there."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "TRIP TO CHESTER",
+     "lines": [
+      "▪ Coach leaves: 9.15 a.m.",
+      "▪ The length of the trip: (9)__________",
+      "▪ First place to visit: (10)__________",
+      "▪ Ticket price for adults: (11) £___________",
+      "▪ Where they will have lunch: (12)__________",
+      "▪ Where they will go after lunch: (13)__________",
+      "▪ Advice about clothes: wearing (14)__________ footwear is recommended."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear people speaking in different situations. Match each speaker (15-18) to things they enjoy most about their job(A-F). There are TWO EXTRA options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "matching",
+     "left": [
+      "15. Speaker 1 …",
+      "16. Speaker 2 …",
+      "17. Speaker 3 …",
+      "18. Speaker 4 …"
+     ],
+     "right": [
+      "A) extending existing skills",
+      "B) travelling abroad",
+      "C) keeping regular hours",
+      "D) working as a team",
+      "E) meeting new people",
+      "F) satisfying customers"
+     ]
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. Label the places (19-23) on the map (A–I). There are FOUR extra options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "image",
+     "src": "m12-map.png"
+    },
+    {
+     "type": "lines",
+     "items": [
+      "19. Rocks …",
+      "20. Corley nature reserve …",
+      "21. Ashington chine factory …",
+      "22. Langton Forest …",
+      "23. Captain cook statue …"
+     ]
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract One\n*You hear two friends talking about a book.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 24,
+       "q": "What do the friends agree about?",
+       "options": [
+        "A) They find the characters in the book very convincing.",
+        "B) They immediately found the storyline absorbing.",
+        "C) They would like to see the place where the book was set."
+       ]
+      },
+      {
+       "n": 25,
+       "q": "According to the woman what is the author's reason for writing the book?",
+       "options": [
+        "A) to explore a new aspect of human psychology",
+        "B) to show that people have different interpretations of the same event",
+        "C) to make an interesting point that no one has made before"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Two\n*You hear two people talking about a piece of jewellery.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 26,
+       "q": "What does the man say about the origins of his bracelet?",
+       "options": [
+        "A) It was chosen as a way to thank him for his hard work.",
+        "B) It shows that his uncle had a good opinion of him.",
+        "C) It shows he is a man of high rank."
+       ]
+      },
+      {
+       "n": 27,
+       "q": "The woman understands that, for the man, the bracelet represents",
+       "options": [
+        "A) the importance of having clear goals.",
+        "B) the role he will have in the future.",
+        "C) the need to help other people."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Three\n*You hear two women talking about clothes for a special occasion.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 28,
+       "q": "They both agree that …",
+       "options": [
+        "A) the dress Louise tries on is a rather unflattering colour.",
+        "B) trouser suits always look like office wear.",
+        "C) pashminas are a very adaptable clothing accessory."
+       ]
+      },
+      {
+       "n": 29,
+       "q": "What do we learn about Jack's attitude to clothes?",
+       "options": [
+        "A) He is not worried about his appearance.",
+        "B) He rarely buys expensive clothes.",
+        "C) He disapproves of designer clothing."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 6,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "BASKETBALL TRAINER",
+     "lines": [
+      "▪ Bradley says that lack of communication causes most problems in a team.",
+      "▪ From his studies, Bradley finds what he learnt about the (30)__________ body particularly useful.",
+      "▪ Bradley finds injuries to players' (31)__________ are the most common.",
+      "▪ Bradley dismisses most of the new ideas about ways of increasing strength as unhelpful.",
+      "▪ Bradley says exercises focusing on improving (32)__________ are the most effective.",
+      "▪ Bradley advises players about (33)__________ to help them recover after a match.",
+      "▪ Bradley tries to match his approach to the particular (34)__________ in the team.",
+      "▪ According to Bradley, it is absolutely essential to have a sense of (35)__________ if you want to succeed as a trainer."
+     ]
+    }
+   ]
+  }
+ ]
+}

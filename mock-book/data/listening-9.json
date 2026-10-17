@@ -1,0 +1,280 @@
+{
+ "skill": "listening",
+ "mock": 9,
+ "parts": [
+  {
+   "part": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 1,
+       "q": "",
+       "options": [
+        "A) Last week.",
+        "B) I think it looks great on you.",
+        "C) From a shop."
+       ]
+      },
+      {
+       "n": 2,
+       "q": "",
+       "options": [
+        "A) Usually at 8 a.m.",
+        "B) Toast and coffee.",
+        "C) No, I’m not hungry right now."
+       ]
+      },
+      {
+       "n": 3,
+       "q": "",
+       "options": [
+        "A) Yes, please.",
+        "B) No, I already watched it.",
+        "C) Who knows, maybe."
+       ]
+      },
+      {
+       "n": 4,
+       "q": "",
+       "options": [
+        "A) No, I’ve never been there before.",
+        "B) Yes, I arrived yesterday.",
+        "C) It’s my favorite city."
+       ]
+      },
+      {
+       "n": 5,
+       "q": "",
+       "options": [
+        "A) Prices are growing.",
+        "B) I paid by card.",
+        "C) I didn’t check the price."
+       ]
+      },
+      {
+       "n": 6,
+       "q": "",
+       "options": [
+        "A) At 3 o’clock.",
+        "B) It’s in the main building.",
+        "C) I think it was expensive."
+       ]
+      },
+      {
+       "n": 7,
+       "q": "",
+       "options": [
+        "A) No, I’m fine, thanks.",
+        "B) That was great.",
+        "C) He already gone home."
+       ]
+      },
+      {
+       "n": 8,
+       "q": "",
+       "options": [
+        "A) No, I was not sure where I was going.",
+        "B) Maybe tomorrow morning.",
+        "C) Yes, let’s go."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "LIBRARY INFORMATION FOR STUDENTS",
+     "lines": [
+      "Library name: (0) **Lincoln** library.",
+      "Hours during term time: 24 hours a (9)___________",
+      "Hours outside term time: (10)__________- 7.00 p.m.",
+      "Number of books you can take out: (11)__________",
+      "Cost of returning CDs and magazines late: (12) £__________ per day",
+      "Cost of first library card: (13)__________",
+      "To get a card, give in a form and: (14)__________"
+     ]
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear people speaking in different situations. Match each speaker (1-4) to the place they are at(A-F). There are TWO EXTRA options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "matching",
+     "left": [
+      "15. Speaker 1 …",
+      "16. Speaker 2 …",
+      "17. Speaker 3 …",
+      "18. Speaker 4 …"
+     ],
+     "right": [
+      "A) In a supermarket",
+      "B) In an airport",
+      "C) In a gym",
+      "D) At home",
+      "E) In a café",
+      "F) In the cinema"
+     ]
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There are THREE extra options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "image",
+     "src": "m9-map.png"
+    },
+    {
+     "type": "lines",
+     "items": [
+      "19. Tour guide desk …",
+      "20. Interactive display …",
+      "21. The museum shop …",
+      "22. Reading room …",
+      "23. Restroom …"
+     ]
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract One\n*You will hear two students discussing a lecture they have just attended.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 24,
+       "q": "In the lecture, Ann was impressed…",
+       "options": [
+        "A) by the depth of the topic discussed",
+        "B) by the method of the lecturer",
+        "C) by how much she already knew"
+       ]
+      },
+      {
+       "n": 25,
+       "q": "The speakers both agree that they should…",
+       "options": [
+        "A) have asked more questions during the lecture",
+        "B) have been prepared better",
+        "C) have left earlier to take notes afterwards"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Two\n*You will hear two colleagues discussing about their recent business trip.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 26,
+       "q": "The reason why they went there was to…",
+       "options": [
+        "A) meet a company representative",
+        "B) gather data for research",
+        "C) influence a decision"
+       ]
+      },
+      {
+       "n": 27,
+       "q": "How does the man feel about the visit?",
+       "options": [
+        "A) He was glad to achieve his goal",
+        "B) He was disappointed by the outcome",
+        "C) He felt unsure about what to say"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Three\n*You will hear a scientist who is being interviewed on a research podcast.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 28,
+       "q": "In her career, the scientist…",
+       "options": [
+        "A) faced more challenges than recognition",
+        "B) achieved more than he expected",
+        "C) remained focused on teaching"
+       ]
+      },
+      {
+       "n": 29,
+       "q": "The most important quality of research for young scientists would be…",
+       "options": [
+        "A) understanding the requirements of being in research",
+        "B) developing good teamwork skills",
+        "C) publishing as many papers as possible"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 6,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "DUST STORMS",
+     "lines": [
+      "The lecture emphases on how human (30)__________ can impact dust storms.",
+      "Dust storms happen more when the ground is broken up or when vegetation (31)__________ are removed.",
+      "In the USA, the ‘dust bowl’ was caused by poor farming, and the decade was called the ‘Dirty (32)__________’.",
+      "In Arizona, the worst dust clouds come from dry (33)__________.",
+      "Dust from storms can be dangerous to machine (34)__________.",
+      "In the Sahara, strong winds and long-term (35)__________ have increased erosion."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,320 @@
+{
+ "skill": "reading",
+ "mock": 12,
+ "parts": [
+  {
+   "part": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text."
+    },
+    {
+     "type": "article",
+     "title": "THE SIGNIFICANCE OF SLEEP",
+     "paragraphs": [
+      "Sleep is essential for our physical and mental health. Scientists recommend that adults get at least seven hours of sleep every night. However, many (1)__________ struggle to get enough rest due to busy schedules and stress.",
+      "When we sleep, our bodies repair themselves. The brain releases hormones that help with growth and healing. This is why good sleep is important for both children and adults.",
+      "Sleep also affects our (2)__________. Scientists have found that people who do not get enough rest have a problem with memory and concentration. This can make learning and working more difficult.",
+      "Another (3)__________ caused by poor sleep is a weak immune system. The body needs rest to fight off illnesses. People who do not sleep (4)__________ often get sick more easily.",
+      "Technology can also impact sleep. Many people use their (5)__________ before bed, but the light from screens can make it harder to fall asleep. (6)__________ suggest turning off phones at least one hour before sleeping.",
+      "To improve sleep, it is important to follow a routine. Going to bed at the same time every night and creating a comfortable sleeping environment can help people feel more rested and energized."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "statements",
+     "items": [
+      "A. You can work here even if you lack experience.",
+      "B. You must be available for work on weekends.",
+      "C. They offer free transportation to employees.",
+      "D. You will have to deal with customers daily.",
+      "E. The job allows you to work under the blue sky.",
+      "F. You can earn extra money based on your performance.",
+      "G. You will receive a special reward for staying a year.",
+      "H. The company provides accommodation for workers.",
+      "I. You can do this job from anywhere.",
+      "J. They are looking for someone to manage a team."
+     ]
+    },
+    {
+     "type": "cards",
+     "items": [
+      {
+       "title": "7. Pulse Fitness Center",
+       "body": "\"Join our team as a Personal Trainer! Location: Miami, FL. Requirements: Certified fitness trainer with at least 2 years of experience. Benefits: Flexible schedule, performance-based bonuses, and free gym membership. Apply at pulsefitness.com/careers.\""
+      },
+      {
+       "title": "8. SkyServe Airlines",
+       "body": "\"Now hiring Flight Attendants! Location: Various international airports. Experience: No prior knowledge required; training provided. Benefits: Travel perks, free accommodation during layovers, and full insurance coverage. Apply at skyserveairlines.com/jobs.\""
+      },
+      {
+       "title": "9. GreenTech Landscaping",
+       "body": "\"Looking for a Landscape Technician! Location: Austin, TX. Experience: At least 1 year in landscaping or outdoor maintenance. Benefits: Work in natural settings, health insurance, and career advancement opportunities. Email us at careers@greentech.com.\""
+      },
+      {
+       "title": "10. Nexus Call Center",
+       "body": "\"We’re hiring Customer Service Representatives! Location: Chicago, IL (Remote positions available). Requirements: Strong communication skills, no prior experience needed. Perks: Paid training, performance-based bonuses, and work-from-home options. Apply at nexuscc.com/apply.\""
+      },
+      {
+       "title": "11. Urban Bites Restaurant",
+       "body": "\"Join our team as a Head Chef! Location: San Francisco, CA. Experience: 5+ years in high-end restaurant kitchens. Perks: Company-provided housing, meal discounts, and a supportive team. Apply now at urbanbites.com/careers.\""
+      },
+      {
+       "title": "12. Summit Realty Group",
+       "body": "\"Seeking a Sales Associate! Location: New York City, NY. Experience: 3+ years in sales, preferably in real estate. Benefits: Commission-based earnings, mentorship programs, and company-sponsored events. Apply at summitrealty.com/jobs.\""
+      },
+      {
+       "title": "13. Horizon Logistics",
+       "body": "\"Logistics Coordinator position open! Location: Atlanta, GA. Requirements: Experience in supply chain management preferred but not required. Perks: Annual travel reward, company car for senior employees, and professional growth support. Apply at horizonlogistics.com.\""
+      },
+      {
+       "title": "14. Elite Motors",
+       "body": "\"Now hiring Sales Managers! Location: Los Angeles, CA. Requirements: 4+ years of experience in sales management. Facilities: Base salary plus commission, company car, and leadership training. Apply at elitemotors.com/careers.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once."
+    },
+    {
+     "type": "headings",
+     "title": "LIST OF HEADINGS:",
+     "items": [
+      "A) Why your brain prefers unhealthy food",
+      "B) The secret tricks behind supermarket layouts",
+      "C) How companies make you trust them without realizing it",
+      "D) The psychology of impulse buying",
+      "E) Some services keep suggesting \"just one more\"",
+      "F) The surprising science behind favorite colors",
+      "G) How social pressure influences what you buy",
+      "H) The true motivation behind businesses promoting time-sensitive offers"
+     ],
+     "right": [
+      "15. Paragraph I",
+      "16. Paragraph II",
+      "17. Paragraph III",
+      "18. Paragraph IV",
+      "19. Paragraph V",
+      "20. Paragraph VI"
+     ]
+    },
+    {
+     "type": "article",
+     "title": "YOUR DAILY DECISIONS",
+     "paragraphs": [
+      "I. Ever walked into a store for one item and left with ten? That’s not an accident. Supermarkets are designed to make you spend more. Essentials like milk and bread are placed at the back, so you have to walk past tempting products first. Brightly colored displays, strategic lighting, and background music all influence how long you stay and how much you buy.",
+      "II. Have you ever noticed that some brands \"feel\" more trustworthy than others? That’s because companies use psychological tactics to create a sense of reliability. Simple logos, familiar colors, and friendly-sounding slogans all work together to make customers feel comfortable. Some brands even use specific scents in stores to trigger positive emotions.",
+      "III. People often assume they choose their favorite colors randomly, but science suggests otherwise. Studies show that certain colors are linked to emotions—blue can create feelings of calm, red increases excitement, and yellow grabs attention. That’s why fast-food chains use bright colors to make food seem more appealing, while luxury brands often stick to black and gold for sophistication.",
+      "IV. Why do we feel you have to buy something just because others are? The fear of being left out plays a huge role in decision-making. Whether it’s buying the latest gadget or trying a new trend, people tend to follow the crowd. Marketers take advantage of this by showing customer reviews, \"best-seller\" tags, and influencer endorsements to make products seem more desirable.",
+      "V. Streaming platforms use complex algorithms to keep you watching. Features like autoplay, personalized recommendations, and countdown timers between episodes trick your brain into staying longer. Every time you finish a show, the platform immediately suggests another, creating an endless loop of entertainment that’s hard to break.",
+      "VI. If a store tells you a sale is ending soon, do you feel the urge to buy something immediately? That’s because our brains react to scarcity. Limited-time deals, countdown timers, and \"only a few left in stock\" messages make people act fast. It’s a powerful marketing tool that creates urgency—even when there’s no real rush."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 21-29."
+    },
+    {
+     "type": "article",
+     "title": "OUR SHOPPING HABITS",
+     "paragraphs": [
+      "If you have ever been shopping and thought you were getting a bargain simply because the price appeared in red, or have left a shop because the sales assistant talked too much, you’re not alone. In fact, your actions are quite typical, according to experts on customer behaviour.",
+      "When it comes to shopping, experts explain that women think about everything much more carefully than men. A recent study showed that when men saw an advertisement with the prices written in red, they believed the shop was offering greater price savings than those printed in black. They felt very positive about buying the product as well.",
+      "In contrast, red didn’t have the same effect on female shoppers. It actually made them suspicious. Experts explain that if women see an ad in red, they question what’s happening and think they have to be extra careful. ‘Am I being tricked?’ they will ask themselves. Women also seem to have a much better memory than men when it comes to the prices in advertisements.",
+      "This could be because men don’t think so hard about adverts or because they just aren’t that interested.",
+      "In a separate study, it was found that customers seem to prefer sales people who can correctly read moods. This is news for managers who believe that sales will increase if shop assistants are always happy and friendly to customers. Researchers believe that the findings suggest that customers don’t always want sales staff to be extremely happy and chatty. Instead, we prefer staff who understand body language.",
+      "The key to a successful sale, then, is reading the customer’s mood and matching that mood. The experts explain that it isn’t advisable to match the mood of a customer who’s angry; a customer who is in a hurry or in a bad mood would rather deal with a sales person who understands them, can serve them quickly or just leave them alone – and not try to get them to chat about their family.",
+      "There are of course some factors which are outside the control of shop owners – like the weather, which can really change people’s moods. Experts are confident that good weather means good news for shop owners.",
+      "As much as 60–80% of customer decisions are made while people are actually in a shop, rather than before or after their visit. And as more people are out and about during nice weather, there is a higher chance they are shopping and therefore more opportunity for shops to make a sale. Rain and snow have the opposite effect, as people prefer to stay at home.",
+      "Another interesting finding from recent research is the growing impact of online shopping environments on customer psychology. Just like in physical stores, colours, layout, and tone of communication can influence buyers’ emotions and choices. For instance, websites that use bright colours and simple designs often make shoppers feel more confident about their purchases, while those that appear cluttered or confusing may cause hesitation. Moreover, customer reviews and ratings now play a major role in decision-making — far more than traditional advertising. This shows that, whether shopping online or in-store, people’s feelings and perceptions remain key drivers of their buying behaviour."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 21-24, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 21,
+       "q": "According to one study, when men saw prices written in red …",
+       "options": [
+        "A) they were not sure about the quality of the product.",
+        "B) the colour used made no difference to them.",
+        "C) they thought the product was more expensive than usual.",
+        "D) they thought they were getting a bargain."
+       ]
+      },
+      {
+       "n": 22,
+       "q": "The same study showed that women …",
+       "options": [
+        "A) cannot shop as quickly as men.",
+        "B) do not trust ads as easily as men.",
+        "C) are not such careful shoppers as men.",
+        "D) believe red prices always indicate high quality."
+       ]
+      },
+      {
+       "n": 23,
+       "q": "When remembering prices …",
+       "options": [
+        "A) women pay more attention than men.",
+        "B) men and women are equally good.",
+        "C) men have better memories than women.",
+        "D) both men and women remember prices perfectly."
+       ]
+      },
+      {
+       "n": 24,
+       "q": "According to experts, what kind of sales staff do customers prefer?",
+       "options": [
+        "A) ones who look happy and friendly.",
+        "B) ones who enjoy chatting to customers.",
+        "C) ones who understand their customers’ moods.",
+        "D) ones who always suggest extra products to buy."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 25-29, decide if the following statements agree with the information given in the text. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 25,
+       "q": "Most people have been unhappy with a shop assistant at some point.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 26,
+       "q": "It’s a good idea for sales assistants to respond to the customer’s mood.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 27,
+       "q": "Shop owners’ moods can change as much as their customers’ moods.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 28,
+       "q": "Most shoppers have decided what they will buy before entering a shop.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 29,
+       "q": "Shop sales usually increase when the weather is bad.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 30-35."
+    },
+    {
+     "type": "article",
+     "title": "A SCIENTIFIC PIONEER",
+     "paragraphs": [
+      "Marie Curie, born in 1867 in Warsaw, Poland, was a physicist and chemist whose groundbreaking work on radioactivity earned her two Nobel Prizes. From an early age, she demonstrated an exceptional aptitude for science, but as a woman in the late 19th century, she faced numerous barriers to higher education in her home country. Determined to pursue her passion, she moved to Paris to study at the Sorbonne, where she excelled despite financial hardships.",
+      "Curie’s research, conducted alongside her husband Pierre Curie, led to the discovery of two new elements, polonium and radium. Her work revolutionized the scientific understanding of radiation and its potential applications, particularly in medicine. However, prolonged exposure to radioactive materials took a toll on her health, leading to her death in 1934. Despite the risks, her discoveries paved the way for life-saving treatments such as radiotherapy, applied to combat cancer.",
+      "In addition to her scientific achievements, Curie played a crucial role in World War I by developing mobile X-ray units identified as \"Little Curies,\" which were used to diagnose battlefield injuries. She trained medical personnel to operate these machines, ensuring that wounded soldiers received proper treatment. Her contributions to medical science extended beyond her own discoveries, as she influenced upcoming generations of scholars and physicians.",
+      "Marie Curie remains an inspirational figure in science, not only for her findings but also for breaking gender barriers. She was the first woman to win a Nobel Prize and remains the only person to have won in two different scientific fields. Her legacy lives on through the institutions she founded, including the Curie Institute, which continues to be a leader in medical research today. Curie’s life demonstrates the power of perseverance and dedication, proving that scientific progress often comes with personal sacrifice.",
+      "Throughout her career, Curie remained committed to the advancement of science and the promotion of education. She strongly believed in sharing knowledge and collaborated with fellow scientists worldwide. Despite facing skepticism and discrimination, she remained focused on her work, letting her discoveries speak for themselves. Her relentless pursuit of knowledge and dedication to scientific inquiry continue to inspire scientists, particularly women, to break barriers and pursue their passions in STEM fields."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question."
+    },
+    {
+     "type": "notes",
+     "title": "",
+     "lines": [
+      "Marie Curie, originally from (30)__________, overcame numerous challenges to study science. Alongside her husband, she discovered polonium and radium, which contributed significantly to medical advancements.",
+      "Despite the dangers, her findings led to the development of vital healthcare procedures such as radiotherapy, which is used to treat (31)__________. Additionally, she developed mobile X-ray units to assist wounded soldiers during World War I.",
+      "Her impact on medical science went beyond her own discoveries, inspiring future researchers and (32)__________. Marie Curie continues to inspire the scientific community, both for her groundbreaking discoveries and for challenging (33)__________ norms."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 34,
+       "q": "Why did Marie Curie move to Paris?",
+       "options": [
+        "A) To escape political unrest in her home country.",
+        "B) To continue her scientific research with Pierre Curie.",
+        "C) To access educational opportunities unavailable to women in Poland.",
+        "D) To work at the Curie Institute."
+       ]
+      },
+      {
+       "n": 35,
+       "q": "What is one of Marie Curie’s most significant achievements?",
+       "options": [
+        "A) She developed mobile X-ray units used in World War I.",
+        "B) She pioneered the use of X-rays in modern medicine.",
+        "C) She won three Nobel Prizes for her contributions to science.",
+        "D) She was the first person to discover radioactivity."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

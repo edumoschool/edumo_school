@@ -1,0 +1,313 @@
+{
+ "skill": "reading",
+ "mock": 11,
+ "parts": [
+  {
+   "part": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text."
+    },
+    {
+     "type": "article",
+     "title": "REDUCING AVIATION'S IMPACT ON CLIMATE CHANGE",
+     "paragraphs": [
+      "The Earth's temperature is increasing. Many countries do not want the (1)__________ to become too warm. That is why they have set a goal to limit how much the (2)__________ increases. To reach their goal, the world must reach net-zero greenhouse gas emissions. That means the amount of greenhouse gases released into the atmosphere is the same as the amount removed from the atmosphere.",
+      "The aviation industry produces a significant amount of carbon dioxide. This is a (3)__________ gas. Airplanes use fossil fuels as an energy source. Burning fossil fuels releases greenhouse gases. Scientists predict that the total greenhouse gas emissions released by (4)__________ will increase. That's because more people are traveling by air. How can the aviation industry reach net-zero greenhouse gas emissions?",
+      "There are many options. One way is for people to fly less. Another one is to make more efficient airplanes. (5)__________ option is to offset the carbon dioxide produced by air travel. That means that the industry pays someone else to remove carbon dioxide from the atmosphere. But this can be tricky if it is not done correctly. The last option is to switch the fuel used by airplanes. Instead of fossil fuels, planes could use a (6)__________ that does not produce greenhouse gases when used."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "statements",
+     "items": [
+      "A. This place is perfect for history lovers and showcases objects from different time periods.",
+      "B. Visitors can enjoy spectacular views from a high point and take stunning photographs.",
+      "C. This attraction is famous for its impressive natural beauty and scenic landscapes.",
+      "D. People come here to see and interact with exotic animals from around the world.",
+      "E. You can explore an underground world filled with natural wonders and guided tours.",
+      "F. This location has a deep connection to an ancient civilization and its traditions.",
+      "G. Visitors can take part in exciting outdoor activities that test their courage.",
+      "H. This attraction features masterpieces from international artists.",
+      "I. Visitors can stroll through exquisitely landscaped gardens that showcase a variety of extraordinary and unique plant species.",
+      "J. This location is renowned for its spiritual importance and remains an active center for religious practices."
+     ]
+    },
+    {
+     "type": "cards",
+     "items": [
+      {
+       "title": "7. THE GRAND MOUNTAIN",
+       "body": "This towering peak is one of the most breathtaking locations for nature lovers and adventure seekers. Hikers can enjoy panoramic views of valleys, rivers, and snow-capped peaks. At sunrise and sunset, the view from the top is absolutely unforgettable."
+      },
+      {
+       "title": "8. NATIONAL HISTORY MUSEUM",
+       "body": "A must-visit for history enthusiasts, this museum holds a vast collection of artifacts, including ancient tools, royal crowns, medieval weapons, and interactive exhibits about past civilizations. Visitors can take guided tours to learn more about the world’s rich heritage."
+      },
+      {
+       "title": "9. OCEAN CAVES",
+       "body": "Hidden beneath the coastline, these incredible caves offer a thrilling underwater experience. With guided boat tours, visitors can witness mesmerizing rock formations, glowing mineral deposits, and mysterious tunnels carved by the sea over thousands of years."
+      },
+      {
+       "title": "10. WILD SAFARI PARK",
+       "body": "Home to some of the world’s most fascinating wildlife, this park allows visitors to see lions, elephants, zebras, and giraffes roaming freely. Guests can take a safari tour in open jeeps and even have close encounters with some friendly species in designated areas."
+      },
+      {
+       "title": "11. THE ANCIENT TEMPLE",
+       "body": "This centuries-old temple stands as a symbol of faith and tradition. With intricate carvings, sacred sculptures, and beautifully decorated prayer halls, it continues to be a place of worship and pilgrimage for visitors from around the world."
+      },
+      {
+       "title": "12. MODERN ART GALLERY",
+       "body": "Art lovers will be amazed by the diverse collection of contemporary artwork, featuring abstract paintings, stunning sculptures, and digital art installations. The gallery hosts exhibitions from renowned artists and offers workshops for aspiring creatives."
+      },
+      {
+       "title": "13. ROYAL BOTANIC GARDENS",
+       "body": "This beautifully designed garden is a paradise for plant lovers. It features rare flowers, exotic trees, and tranquil walking paths. Visitors can relax in peaceful surroundings, explore themed gardens, and learn about conservation efforts."
+      },
+      {
+       "title": "14. ADVENTURE VALLEY",
+       "body": "Perfect for thrill-seekers, this attraction offers adrenaline-pumping openair actions such as zip-lining, rock climbing, and white-water rafting. Whether you're looking for a challenge or just an exciting day outdoors, this destination has something for every adventure lover."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once."
+    },
+    {
+     "type": "headings",
+     "title": "LIST OF HEADINGS:",
+     "items": [
+      "A) The psychological reasons behind excessive social media use",
+      "B) How online personalities impact public views",
+      "C) The connection between social media and emotional well-being",
+      "D) The consequences of misinformation in the digital world",
+      "E) Factors that make certain online content widely popular",
+      "F) The impact of digital interactions on personal bonds.",
+      "G) The growing dominance of brief video content online",
+      "H) The strategies businesses use to shape user preferences"
+     ],
+     "right": [
+      "15. Paragraph I",
+      "16. Paragraph II",
+      "17. Paragraph III",
+      "18. Paragraph IV",
+      "19. Paragraph V",
+      "20. Paragraph VI"
+     ]
+    },
+    {
+     "type": "article",
+     "title": "THE INFLUENCE OF SOCIAL MEDIA",
+     "paragraphs": [
+      "I. Studies suggest that social media can have both positive and negative effects on mental health. While it allows people to stay connected, it can also lead to anxiety, depression, and low self-esteem, especially when users compare themselves to others. Additionally, excessive social media use has been linked to sleep disturbances and reduced productivity. Spending long hours online may also reduce time spent on physical activity, further impacting overall well-being.",
+      "II. One of the key explanations why people spend so much time on social media is because it is designed to be addictive. Features like endless scrolling, notifications, and personalized content trigger dopamine release in the brain, making it difficult to stop. These platforms use sophisticated algorithms to keep users engaged for as long as possible. This design can make it challenging for individuals to control their usage, leading to habitual checking throughout the day.",
+      "III. Many users rely on social media for news, but not everything they read is accurate. The spread of fake news has become a major issue, influencing public opinion and even political decisions. False information can be shared rapidly, making it challenging to distinguish between credible sources and misleading content. Users are encouraged to verify information with multiple trustworthy sources before forming opinions.",
+      "IV. Social media influencers have become incredibly powerful in marketing and public relations. With millions of followers, they can shape opinions on fashion, technology, and even political issues. Their endorsements often lead to significant trends, affecting consumer behavior and cultural movements. Influencers can also promote social causes and awareness campaigns, reaching audiences that traditional media may not.",
+      "V. While social media connects people across the world, it can also harm real-life relationships. Many people find themselves distracted by their phones during face-to-face conversations, leading to a decline in meaningful social interactions. Over time, this can weaken personal connections and create feelings of isolation. Excessive use may also reduce empathy and listening skills, making communication less effective.",
+      "VI. Short-form video content, such as TikTok and Instagram Reels, has become one of the most popular trends in social media. These quick, engaging videos appeal to short attention spans and are often designed to be highly shareable. As a result, brands and creators are increasingly focusing on producing concise, attention-grabbing videos to maximize audience engagement. The popularity of these videos has also influenced how information and entertainment are consumed, favoring shortness over depth. Critics warn that constant exposure to short-form content may reduce attention span over time."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 21-29."
+    },
+    {
+     "type": "article",
+     "title": "DESERT TRAVELS",
+     "paragraphs": [
+      "I checked my mobile phone and then looked towards the dirt path lit by our car lights. ‘It should be to our left,’ I said. We were passing through a small village, trying to reach the place I’d entered on my phone’s Global Positioning System (GPS).",
+      "Within minutes, we spotted what we were looking for. My companion stopped the vehicle. We looked into the night as our eyes got used to the dark and the view. We’d arrived at the start of our adventure. The plan was straightforward: leave the car and carry enough food and water in our backpacks to last a few days, and set out across the desert until we reached the road. And we’d chosen to do all this at the time of a full moon, which meant we could start our journey and walk mainly in the cool of the night. However, we wouldn’t set off on our desert adventure just yet. We put up the tent that we’d picked up while buying food at a local shop before setting off. The tent wouldn’t protect us from wind or rain, but it wasn’t complicated to put together, didn’t weigh much and cost less than a CD. Most importantly, it gave us somewhere to get a few hours’ rest.",
+      "We got up under the moonlight, lifted our backpacks and walked across some rough ground towards the sand. Our route was easy – we simply had to go east. We recorded how far we’d gone on my phone’s GPS, and checked our progress by counting the dunes – the great hills of sand that rose up like mountains across the desert. My GPS told me exactly how many there would be in total. Although it was still the early hours of the morning it was already hot, but we could just about handle it. After the night had passed, and as the sun moved higher in the sky, the heat became more unkind. There was no wind and no shade, but we carried on.",
+      "It is tiring to walk uphill; to do so with a heavy backpack is harder still, and walking on sand makes the whole experience almost impossible. I knew I had to save my energy, and even though I’d carefully planned what to take on the trip, at that point in time I was sure I’d got it wrong. I was glad, however, that I’d taken along two walking sticks.",
+      "These sticks actually served several purposes. As mid-morning approached, we stopped at the first tree we saw. We used it, my walking sticks and an old sheet to give us some shelter from the sun, resting as we waited for the cruel heat of the day to pass. It was only day one, and I already felt a strange mixture of excitement and exhaustion."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 21-24, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 21,
+       "q": "Why did the travelers choose to walk during the night?",
+       "options": [
+        "A) They wanted to admire the stars.",
+        "B) They had to follow the directions on their GPS.",
+        "C) It was too hot to walk during the day.",
+        "D) They didn’t have enough time to complete the journey."
+       ]
+      },
+      {
+       "n": 22,
+       "q": "What was the main advantage of the tent they bought?",
+       "options": [
+        "A) It was easy to carry and put up.",
+        "B) It kept them warm at night.",
+        "C) It protected them from bad weather.",
+        "D) It allowed them to carry more supplies."
+       ]
+      },
+      {
+       "n": 23,
+       "q": "What made the journey especially difficult?",
+       "options": [
+        "A) The danger of getting lost.",
+        "B) The lack of a clear route.",
+        "C) The weight of their backpacks.",
+        "D) The strong wind."
+       ]
+      },
+      {
+       "n": 24,
+       "q": "How did the author feel at the end of the first day?",
+       "options": [
+        "A) He regretted taking part in the journey.",
+        "B) He was unsure if he had made the right choices.",
+        "C) He was worried about getting lost.",
+        "D) He felt ready to continue without a break."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 25-29, decide if the following statements agree with the information given in the text. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 25,
+       "q": "He was confused about which direction to take.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 26,
+       "q": "The landscape helped the writer to understand how far he had walked.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 27,
+       "q": "He was able to deal with the early-morning heat.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 28,
+       "q": "He regretted taking his walking sticks.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 29,
+       "q": "He took a break of four hours from walking.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 30-35."
+    },
+    {
+     "type": "article",
+     "title": "THE FUTURE OF ARTIFICIAL INTELLIGENCE IN HEALTHCARE",
+     "paragraphs": [
+      "Artificial Intelligence (AI) is revolutionizing the healthcare industry, offering groundbreaking solutions that were once thought impossible. From diagnosing complex diseases to enhancing treatment plans and managing patient data, AI is transforming medical practices worldwide. Advanced AI-powered algorithms can now process vast amounts of medical data within seconds, making disease detection not only faster but also more precise. Machine learning models, for example, have demonstrated exceptional accuracy in identifying cancerous tumors in radiology scans. In many cases, their diagnostic performance is comparable to, or even superior to, that of experienced medical professionals.",
+      "As AI continues to improve, its role in predictive analytics is becoming increasingly important, helping doctors detect illnesses in their early stages before they become critical. Despite these remarkable advancements, the integration of AI in healthcare is not without its challenges. One major concern is data privacy, as AI systems rely on extensive patient records to function effectively. Ensuring that sensitive medical information is securely stored and ethically used remains a top priority for both medical institutions and regulatory bodies.",
+      "The risk of data breaches and unauthorized access has raised serious ethical and legal concerns, prompting calls for stricter data safety policies. Additionally, algorithmic bias is another matter that must be addressed. If an AI system is trained primarily on data from a specific demographic, it may struggle to provide accurate results for individuals outside that group. This bias can lead to disparities in healthcare outcomes and reinforce existing inequalities in medical treatment.",
+      "Another pressing issue is decision-making autonomy in medical practice. While AI can offer valuable insights and recommendations, it lacks human judgment and the ability to consider the full complexity of a patient’s condition. Doctors still play a crucial role in interpreting AI-generated results and ensuring that medical conclusions align with a patient’s unique needs.",
+      "Ethical concerns also arise when AI is used in life-or-death situations, such as critical surgeries or emergency care. If an AI-driven diagnosis or treatment leads to a fatal mistake, determining accountability becomes a complex issue. Should the blame fall on the medical professional overseeing the AI, the developers who designed the system, or the hospital that implemented the technology? These questions remain at the forefront of AI ethics discussions.",
+      "Despite these challenges, AI continues to reshape the healthcare industry at an unprecedented pace. The development of deep learning and robotic surgery has opened new possibilities for patient care, making procedures less invasive and recovery times shorter.",
+      "Additionally, AI is being used to streamline hospital operations, optimize resource allocation, and even predict disease outbreaks before they occur. As research in this field advances, AI’s potential in medicine is expanding rapidly, promising a future where medical treatments are more precise, efficient, and accessible to people around the world."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question."
+    },
+    {
+     "type": "notes",
+     "title": "",
+     "lines": [
+      "AI has transformed the field of (30)__________, making disease detection faster and more precise. However, worries remain, particularly regarding (31)___________ protection, as vast amounts of patient records are needed for AI to function effectively. Another issue is (32)____________, which occurs when When AI is involved in major operations or urgent healthcare intervention, deciding (33)_________ becomes complicated if it causes a deadly fault."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 34,
+       "q": "Why is AI considered beneficial in healthcare?",
+       "options": [
+        "A) It completely eliminates the need for human doctors.",
+        "B) It allows hospitals to replace all traditional treatments.",
+        "C) It enhances accuracy and efficiency in medical analysis.",
+        "D) It increases healthcare costs."
+       ]
+      },
+      {
+       "n": 35,
+       "q": "What is a potential ethical problem with AI in healthcare?",
+       "options": [
+        "A) AI might cause a financial crisis in the medical industry.",
+        "B) It can make critical decisions without human oversight.",
+        "C) Patients refuse to allow AI to be used in treatments.",
+        "D) AI will eventually stop improving in accuracy."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

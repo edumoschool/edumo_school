@@ -112,6 +112,9 @@ def skill_pages(test):
             f'<footer><span>Multilevel Mock Tests · Mock Test {n} · {s["title"].title()}</span><span class="pno"></span></footer></section>')
 
 
+MAP_LETTERS = {12: "ABCDEFGHI"}      # Mock 12's map has places A–I
+
+
 def answer_sheet(n):
     """Answer sheet in the official Multilevel layout (bubbles + letter boxes), one after every mock."""
     def bubbles(nums, letters, two=False):
@@ -134,7 +137,7 @@ def answer_sheet(n):
     listening = (grp("1-QISM / ЧАСТЬ 1", bubbles(list(r(1, 9)), abc, True), "w")
                  + example + grp("2-QISM / ЧАСТЬ 2", boxes(r(9, 15)))
                  + grp("3-QISM / ЧАСТЬ 3", bubbles(list(r(15, 19)), "ABCDEF"), "w")
-                 + grp("4-QISM / ЧАСТЬ 4", bubbles(list(r(19, 24)), "ABCDEFGH"), "w")
+                 + grp("4-QISM / ЧАСТЬ 4", bubbles(list(r(19, 24)), MAP_LETTERS.get(n, "ABCDEFGH")), "w")
                  + grp("5-QISM / ЧАСТЬ 5", bubbles(list(r(24, 30)), abc, True), "w")
                  + example + grp("6-QISM / ЧАСТЬ 6", boxes(r(30, 36))))
     reading = (example + grp("1-QISM / ЧАСТЬ 1", boxes(r(1, 7)))
@@ -186,7 +189,7 @@ def answer_key(tests):
         body += f'<div class="kmock"><h3>Mock Test {n} {note}</h3><table>{rows}</table></div>'
     return (f'<section class="page flow" data-run="Answer key"><div class="banner small"><div class="girih"></div><div class="bl">'
             f'<small>ALL TESTS</small><h1>ANSWER KEY</h1></div><div class="br"><span>Mocks 3–12: official answers</span></div></div>'
-            f'<div class="cols one"><div class="col">{split(body, "keys")}</div></div>'
+            f'<div class="cols"><div class="col">{split(body, "keys")}</div><div class="col"></div></div>'
             f'<footer><span>Multilevel Mock Tests · Answer key</span><span class="pno"></span></footer></section>')
 
 

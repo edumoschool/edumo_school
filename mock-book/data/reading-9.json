@@ -1,0 +1,319 @@
+{
+ "skill": "reading",
+ "mock": 9,
+ "parts": [
+  {
+   "part": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text."
+    },
+    {
+     "type": "article",
+     "title": "INTERNATIONAL INVENTIONS",
+     "paragraphs": [
+      "Do you use paper every day? Or check the time on your watch? These everyday things weren’t always part of life. Many of the (1)__________ we depend on today actually come from many different parts of the world.",
+      "Paper, for example, was first made in ancient China more than two thousand years ago. It was invented by a man named Cai Lun, who used tree bark and old cloth to make thin sheets. From (2)__________, the idea spread along trade routes to the Middle East and then to Europe. Without this discovery, reading and writing would have been much more difficult!",
+      "The wrist watch has its roots in Europe. The first small, portable clocks were made in Germany in the 1500s, and people started to wear them on their (3)__________ about 300 years later. Today, watches not only tell the (4)__________ but can also track our health and show messages.",
+      "And what about chocolate? It originally came from Central America, where the (5)__________ Mayans and Aztecs drank it as a bitter liquid. When Spanish explorers brought cocoa beans to Europe, people added sugar to this (6)_________ in order to make it sweeter. Now, chocolate is one of the most loved treats around the world.",
+      "Each of these items—paper, watches, and chocolate—shows how ideas travel and change. It’s amazing how inventions from long ago shape our daily lives today."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "statements",
+     "items": [
+      "A. You enjoy learning about different cultures and want to practice a new language during your trip.",
+      "B. You want to travel abroad and stay active with other people who love the outdoors.",
+      "C. You want to explore nature but would rather not stay overnight in tents.",
+      "D. You want to visit local museums and take part in short city walks with a friendly group.",
+      "E. You’d like to go on short weekday trips in your own country with an expert guide.",
+      "F. You’d like to travel on your own schedule, but still you need help with planning and bookings.",
+      "G. You want to learn photography and take pictures of amazing natural places.",
+      "H. You want a relaxing beach holiday but also want to join group games and sports.",
+      "I. You want to go on a cultural tour but only if it’s during school holidays.",
+      "J. You prefer luxury travel and comfortable hotels, and you don’t mind paying more for it."
+     ]
+    },
+    {
+     "type": "cards",
+     "items": [
+      {
+       "title": "7. WanderWise Adventures",
+       "body": "We organise active hiking and cycling holidays for people who love being outdoors. Our most popular tours include climbing routes in Spain and mountain biking in Italy. Accommodation is simple, but the landscapes make up for it. Evenings are often spent sharing travel stories around a campfire after a full day of activity."
+      },
+      {
+       "title": "8. CityMates Club",
+       "body": "Every weekend we visit a new town or historic site with small groups of 10–15 people. You’ll learn from a local expert, take gentle walks, and enjoy lunch together at a local café. Perfect for people who like relaxed day trips. Occasionally, members receive discounts on entrance tickets to special exhibitions."
+      },
+      {
+       "title": "9. SnapTravel",
+       "body": "Want to improve your shooting skills while seeing the world? Our professional instructors will teach you how to take great nature shots in national parks and along the coast. You’ll return home with stunning pictures and new friends. Workshops also include editing sessions to help you perfect your best photos."
+      },
+      {
+       "title": "10. SoloPlan",
+       "body": "If you like travelling independently but hate the stress of organising everything, we can help. We’ll design your perfect route, book your hotels and transport, and even suggest what to see each day — but you travel when you want. Our digital travel guide ensures you never miss local highlights along your journey."
+      },
+      {
+       "title": "11. Culture Connect Tours",
+       "body": "Practice communicating in a foreign tongue while discovering the traditions of another country. Our trips combine sightseeing with language lessons, homestays, and cooking classes, so you can practise what you learn every day. Even beginners quickly gain confidence by communicating daily with their host families."
+      },
+      {
+       "title": "12. Beach Breeze Holidays",
+       "body": "Sun, sand, and team fun! Each morning you can join volleyball matches, yoga sessions, or dance classes on the beach, and relax in the evenings at our open-air café. Accommodation is in seaside hotels with swimming pools. Guests often form close friendships during evening barbecues by the sea."
+      },
+      {
+       "title": "13. Royal Route Travel",
+       "body": "Our special packages include flights, five-star hotels, and personal guides in every city. You’ll enjoy fine dining, private museum tours, and top-class service from start to finish. Ideal for travellers who prefer elegance and comfort. Each itinerary is tailored to your interests, from art to gastronomy."
+      },
+      {
+       "title": "14. Eco Trails",
+       "body": "We offer guided walks through forests, lakes, and mountain valleys — but we return to a cozy local guesthouse every evening. You’ll spend the day outdoors but sleep in comfort, with the help of camping gear. Evening talks from local rangers help visitors learn more about the region’s wildlife."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once."
+    },
+    {
+     "type": "headings",
+     "title": "LIST OF HEADINGS:",
+     "items": [
+      "A) Some of the challenges the building project has to deal with",
+      "B) A reason for choosing to deal with a certain company",
+      "C) An advantage the building project will bring to the country",
+      "D) The period of time needed for the building project",
+      "E) Different services that the building will offer",
+      "F) Expert consulting and material testing for tower construction",
+      "G) The impact of the Kingdom Tower on global tourism",
+      "H) A comparison between Kingdom Tower and historical landmarks"
+     ],
+     "right": [
+      "15. Paragraph I",
+      "16. Paragraph II",
+      "17. Paragraph III",
+      "18. Paragraph IV",
+      "19. Paragraph V",
+      "20. Paragraph VI"
+     ]
+    },
+    {
+     "type": "article",
+     "title": "THE KINGDOM TOWER",
+     "paragraphs": [
+      "I. Work has just started on the new Kingdom Tower in the coastal city of Jeddah, Saudi Arabia. Its developers say it will be the tallest building in the world when it has been completed. Not only that, the Tower will also have the world’s fastest and highest double-decker elevator. The building is expected to take five years to complete and will be ready by 2019 at the latest.",
+      "II. The idea behind the project belongs to a member of the Saudi royal family, Prince Al Waleed bin Talal. The prince envisions that this project will make Saudi Arabia — particularly Jeddah — a global highlight and boost its international trade and business connections. He also hopes that the project will provide hundreds of jobs for the people of Saudi Arabia.",
+      "III. The Kingdom Tower will measure 1 km. This is 173 meters taller than the current world record holder, Dubai’s Burj Khalifa standing at 827 meters, and four times taller than The Shard in London, which is currently the tallest building in Western Europe. It is estimated that the building will cost $1.23 billion, using approximately 530,000 square meters of concrete and 80,000 tons of steel for its 200 floors. It will have a five-star hotel, apartments, office space and an observatory – a room from where people can watch the planets and stars – as well as amazing views of the Red Sea.",
+      "IV. The Jeddah Economic Company (JEC), which is responsible for building the Kingdom Tower, says the building will have a total of 59 elevators, including five that are double. These have a travel speed of over 10 meters per second and will take visitors to the observatory. Speaking for JEC, Mounib Hammoud said they plan to work with elevator company Kone because they have the best technology in the business. This means that elevators can travel to heights that are twice the distance that was previously possible, while still being environmentally friendly.",
+      "V. However, building a tower of this height is not simple. Because it is near the salt water of the sea, it is extremely important that the correct building materials are used. Wind can also be a problem for such a tall building, but the architects have found a solution. One of them, Gordon Gill, explains that ‘because it changes shape every few floors, the wind loads go round the building and won’t be as extreme as on a solid block.’",
+      "VI. A special team of technical advisers has also been employed on the project to ensure the highest standards of quality and safety. The Advanced Construction Technology Services Company is actively involved in experimenting and analyzing the materials required for constructing the tower. Their role includes assessing the durability, strength, and environmental impact of the materials to ensure they meet industry standards and regulatory requirements. Additionally, they provide expert recommendations on innovative building techniques and cutting-edge construction solutions to enhance the tower’s structural integrity and sustainability."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 21-29."
+    },
+    {
+     "type": "article",
+     "title": "THE BENEFITS OF BOREDOM",
+     "paragraphs": [
+      "Nowadays, wherever you look, it’s normal to see people plugged into various electronic devices such as smartphones and tablets. This information overload, designed to stimulate our minds and keep us distracted, seems like a very modern-day matter, but it isn’t. One unique thinker addressed a similar issue over seventy years ago: radical, or extreme boredom. In 1942, a German writer called Siegfried Kracauer described how city life provided people with too many things that kept their minds occupied. And he suggested we should cut ourselves off for controlled periods to experience ‘extraordinary, radical boredom’. On pleasant afternoons when everyone else was outside, he recommended instead that people should stay at home, draw the curtains and do nothing whatsoever on the sofa.",
+      "Kracauer believed that actively practicing boredom was a valuable means of unlocking playful wild ideas far away from plain reality. It’s a beautiful theory and one that would definitely appeal to many people, and modern research suggests that it might actually have a strong psychological basis.",
+      "To test the potential benefits of boredom, psychologist Dr Sandi Mann asked a group of forty people to complete a task designed to demonstrate their creativity. But before they started the task, a smaller group of people from this larger group was asked to perform a suitably dull task – copying numbers from the telephone directory for 15 minutes. The results of the overall test suggested that the smaller group that had done the boring task actually displayed more creative talent than those who hadn’t done it. According to psychologists, when people become bored and start to daydream about being on holiday in an exotic location or being rich, for instance, their minds use different processes which can help them work out more creative solutions to problems.",
+      "This might suggest then, that by keeping our minds continuously busy, we’re not just making ourselves more stressed, we’re also missing out on a chance to separate our thoughts from daily routines and to think more creatively. Psychologists explain that despite its bad reputation, boredom has a definite purpose. Mann says that without it, we’d be like very young children in a constant state of amazement at the world around us. Mann further points out that we shouldn’t teach small children that boredom and lack of stimulation are things to be feared rather than welcomed.",
+      "So how should we learn to get used to periods of radical boredom? The first step is realizing that it’s different from simply taking time to think about what you’ve done since getting up that morning. Mann explains that we can use boredom positively by creating opportunities when our minds aren’t occupied. This could be just staring out of the window or watching the rain. Anything that allows you to lose concentration is beneficial, according to Mann – a bit like taking a holiday from your brain!",
+      "Furthermore, embracing boredom can also improve mental well-being by reducing stress and anxiety. In today's fast-paced world, where people are constantly bombarded with notifications and deadlines, moments of boredom provide a rare opportunity for relaxation and introspection. Studies suggest that allowing the mind to wander freely can enhance problem-solving skills and emotional resilience. Instead of viewing boredom as an inconvenience, experts argue that it should be seen as a necessary mental reset—one that helps individuals regain focus, boost productivity, and cultivate a deeper sense of mindfulness in their daily lives."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 21-24, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 21,
+       "q": "What does the passage suggest about Kracauer’s idea of ‘radical boredom’?",
+       "options": [
+        "A) It was an outdated theory that has been proven incorrect.",
+        "B) It encourages people to disconnect from distractions to enhance creativity.",
+        "C) It emphasizes the importance of constant engagement with stimulating activities.",
+        "D) It suggests that boredom leads to stress and frustration."
+       ]
+      },
+      {
+       "n": 22,
+       "q": "What was the main finding of Dr. Sandi Mann’s experiment?",
+       "options": [
+        "A) People who engaged in a dull task before a creative one showed higher levels of creativity.",
+        "B) Participants who copied numbers from a phone book performed worse on creativity tasks.",
+        "C) Boredom negatively affected people's ability to focus on creative work.",
+        "D) Engaging in stimulating activities before a task led to more innovative solutions."
+       ]
+      },
+      {
+       "n": 23,
+       "q": "Why does the author mention young children in the discussion about boredom?",
+       "options": [
+        "A) To illustrate that children naturally seek out boredom as a way to learn.",
+        "B) To argue that young children have an exceptional ability to stay focused.",
+        "C) To highlight that without boredom, people would be overwhelmed by constant novelty.",
+        "D) To suggest that adults should adopt the same approach to learning as children."
+       ]
+      },
+      {
+       "n": 24,
+       "q": "According to the passage, what is the key to benefiting from boredom?",
+       "options": [
+        "A) Completely avoiding electronic devices and distractions.",
+        "B) Actively seeking moments of boredom to allow creative thinking.",
+        "C) Engaging in complex tasks immediately after a period of relaxation.",
+        "D) Training the brain to ignore distractions while staying occupied."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 25-29, decide if the following statements agree with the information given in the text. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 25,
+       "q": "Siegfried Kracauer recognized that for many years people have allowed themselves to get distracted.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 26,
+       "q": "According to Kracauer, practicing extreme boredom can improve people’s relationships.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 27,
+       "q": "Dr Mann’s experiment showed that periods of boredom lead to a decrease in creativity.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 28,
+       "q": "Dr Mann says that it’s wrong to encourage youngsters to believe that boredom is a bad thing.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 29,
+       "q": "Dr Mann recommends making a conscious effort to create periods of extreme boredom.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 30-35."
+    },
+    {
+     "type": "article",
+     "title": "HIGH PRICE OF PROGRESS",
+     "paragraphs": [
+      "Throughout history, human progress has often been celebrated as a triumph of intelligence and ambition. New inventions have allowed us to live longer, travel faster, and communicate instantly across the planet. Yet, every major leap forward has also brought its own set of dangers and ethical questions. The debate over how much risk society should tolerate in the name of progress remains unresolved, especially in an age when technological change happens faster than ever before.",
+      "The Industrial Revolution, for example, transformed economies and improved living standards for millions. But it also introduced several serious safety issues such as factory pollution, dangerous working conditions, and the exploitation of child labor. At the time, few questioned these consequences because industrialization promised growth and national power. In hindsight, we can see that the benefits were undeniable, but so were the costs. Similar patterns continue today in the digital age, where convenience often overshadows caution.",
+      "Artificial intelligence (AI) is one of the clearest examples of this dilemma. Supporters argue that AI can revolutionize medicine, transportation, and education by performing tasks faster and with more accuracy than humans. Yet, critics warn of serious dangers — from job losses to privacy violations, and even the possibility that machines could make harmful decisions without human control. Calls for stronger ethical regulation are often dismissed by those who fear that too much caution could slow innovation. The question, then, is not whether we should develop AI, but rather how to do so responsibly.",
+      "Some economists compare this situation to the early years of nuclear energy. When nuclear power was first developed, it was praised as a clean, efficient alternative to coal and oil. Few people imagined it would also lead to catastrophic accidents like Chernobyl or Fukushima, or that the same science could be used to create weapons of mass destruction. Advocates of progress often insist that the potential benefits outweigh the risks, but this argument assumes that human beings are capable of managing those risks perfectly — something history repeatedly disproves.",
+      "Nevertheless, a complete rejection of risk is neither realistic nor productive. Without taking risks, humanity would never have discovered vaccines, electricity, or the internet. What is needed is not blind fear or blind faith, but a middle path — a method of making informed decisions about risk. This means weighing the probable benefits against the potential harm, while ensuring that the people affected by new technologies have a voice in deciding whether they should be adopted.",
+      "Public awareness also plays a vital role. Many of the problems associated with new technology arise not from the inventions themselves, but from how they are used or misunderstood. For instance, social media was originally designed to connect people, yet it has contributed to misinformation and mental health issues. Similarly, genetic editing could cure diseases but might also be misused to create “designer babies.” In each case, society must decide whether the moral and social costs justify the advantages.",
+      "Ultimately, progress is not a single direction but a balance between innovation and responsibility. The more powerful our technologies become, the more humility we need in applying them. History suggests that true progress is not defined by how quickly we advance, but by how wisely we choose to move forward."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question."
+    },
+    {
+     "type": "notes",
+     "title": "",
+     "lines": [
+      "During the Industrial Revolution, improved living standards came at the cost of severe (30)__________ problems in factories.",
+      "Advocates of AI believe it could transform areas like healthcare, transportation, and education by improving both speed and (31)__________.",
+      "According to the passage, a balanced approach requires a system of (32)__________ risk.",
+      "One danger of social media is that it spreads (33)__________, despite its original purpose to bring people together."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 34,
+       "q": "What is the writer’s attitude toward technological progress?",
+       "options": [
+        "A) It should be slowed down until all risks are removed.",
+        "B) It is dangerous and should be avoided.",
+        "C) It is necessary but must be guided by responsibility.",
+        "D) It benefits everyone equally."
+       ]
+      },
+      {
+       "n": 35,
+       "q": "What message does the writer mainly want to convey?",
+       "options": [
+        "A) The greatest threat to progress is excessive regulation.",
+        "B) Human progress must balance innovation with moral awareness.",
+        "C) AI is the most dangerous invention in human history.",
+        "D) Every new technology will eventually create more harm than good."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
