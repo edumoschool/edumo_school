@@ -113,14 +113,52 @@ def skill_pages(test):
 
 
 def answer_sheet(n):
-    def grid(skill, total):
-        cells = "".join(f'<li><b>{i}</b><i></i></li>' for i in range(1, total + 1))
-        return f'<div class="sheet-skill"><h3>{SKILL[skill]["icon"]} {SKILL[skill]["title"]}</h3><ol class="agrid">{cells}</ol></div>'
-    return (f'<section class="page sheetpage"><div class="banner small"><div class="girih"></div><div class="bl"><small>MOCK TEST {n}</small>'
-            f'<h1>ANSWER SHEET</h1></div><div class="br"><span>Name: ______________________</span><span>Date: __________</span></div></div>'
-            f'{grid("listening", 35)}{grid("reading", 35)}'
-            f'<div class="scorebox"><span>Listening: <i></i> / 35</span><span>Reading: <i></i> / 35</span></div>'
-            f'<footer><span>Multilevel Mock Tests · Answer sheet {n}</span><span class="pno"></span></footer></section>')
+    """Answer sheet in the official Multilevel layout (bubbles + letter boxes), one after every mock."""
+    def bubbles(nums, letters, two=False):
+        def row(q):
+            return f'<div class="bq"><b>{q}</b>' + "".join(f"<i>{L}</i>" for L in letters) + "</div>"
+        if two:
+            half = (len(nums) + 1) // 2
+            return f'<div class="bcols"><div>{"".join(row(q) for q in nums[:half])}</div><div>{"".join(row(q) for q in nums[half:])}</div></div>'
+        return "".join(row(q) for q in nums)
+
+    def boxes(nums, cells=12):
+        return "".join(f'<div class="bx"><b>{q}</b>' + "<i></i>" * cells + "</div>" for q in nums)
+
+    def grp(label, inner, cls=""):
+        return f'<div class="grp {cls}"><span class="gl">{label}</span><div class="gi">{inner}</div></div>'
+
+    example = ('<div class="ex"><p>LOTIN BOSMA KATTA HARFLARDA YOZING<br>НАПИШИТЕ ЛАТИНСКИМИ<br>БОЛЬШИМИ ПРОПИСНЫМИ БУКВАМИ</p>'
+               '<div class="exb">' + "".join(f"<i>{c}</i>" for c in "EXAMPLE") + "<i></i></div></div>")
+    abc, r = "ABC", range
+    listening = (grp("1-QISM / ЧАСТЬ 1", bubbles(list(r(1, 9)), abc, True), "w")
+                 + example + grp("2-QISM / ЧАСТЬ 2", boxes(r(9, 15)))
+                 + grp("3-QISM / ЧАСТЬ 3", bubbles(list(r(15, 19)), "ABCDEF"), "w")
+                 + grp("4-QISM / ЧАСТЬ 4", bubbles(list(r(19, 24)), "ABCDEFGH"), "w")
+                 + grp("5-QISM / ЧАСТЬ 5", bubbles(list(r(24, 30)), abc, True), "w")
+                 + example + grp("6-QISM / ЧАСТЬ 6", boxes(r(30, 36))))
+    reading = (example + grp("1-QISM / ЧАСТЬ 1", boxes(r(1, 7)))
+               + grp("2-QISM / ЧАСТЬ 2", bubbles(list(r(7, 15)), "ABCDEFGHIJ"), "w")
+               + grp("3-QISM / ЧАСТЬ 3", bubbles(list(r(15, 21)), "ABCDEFGH"), "w")
+               + grp("4-QISM / ЧАСТЬ 4", '<div class="bcols"><div>' + bubbles(list(r(21, 25)), "ABCD") + '</div><div>'
+                     + bubbles(list(r(25, 30)), abc) + "</div></div>", "w")
+               + example + grp("5-QISM / ЧАСТЬ 5", boxes(r(30, 34)) + bubbles([34, 35], "ABCD")))
+    code = "".join('<div class="kc"><i class="kh"></i>' + "".join(f"<i>{d}</i>" for d in "1234567890") + "</div>" for _ in range(5))
+    marks = '<div class="marks">' + "<i></i>" * 46 + "</div>"
+    return (f'<section class="page asheet">{marks}<div class="frame">'
+            f'<div class="ahead"><img src="{uri(ASSETS / "brand" / "logo_red.png")}" alt="Impulse"><div><small>JAVOBLAR VARAQASI / ЛИСТ ОТВЕТОВ</small>'
+            f'<h1>Multilevel Answersheet</h1></div><span class="mk">MOCK {n}</span></div>'
+            f'<div class="atop"><div class="al"><p>DOIRACHANI BO‘YASH NAMUNASI / ОБРАЗЕЦ ЗАКРАШИВАНИЯ КРУЖОЧКОВ</p>'
+            f'<p class="c">To‘g‘ri / Правильно <span class="dot"></span></p>'
+            f'<p class="warn">DIQQAT! NOMZOD CHETLASHTIRILGANDA NAZORATCHI TOMONIDAN TO‘LDIRILADI.<br>ВНИМАНИЕ! ЗАПОЛНЯЕТСЯ НАБЛЮДАТЕЛЕМ ПРИ ОТСТРАНЕНИИ.</p>'
+            f'<i class="ln"></i><i class="ln"></i><p class="cap">(Chetlashtirish sababi / Причина отстранения)</p>'
+            f'<i class="ln"></i><p class="cap">Guruh nazoratchisining F.I.O / Ф.И.О наблюдателя группы</p><p class="cap r">Imzo / Подпись</p></div>'
+            f'<div class="am"><span class="vl">Maxsus kod / Специальный код</span><div class="code">{code}</div></div>'
+            f'<div class="ar"><i class="ln"></i><p class="cap">(Familiyasi / Фамилия)</p><i class="ln"></i><p class="cap">(Ismi / Имя)</p>'
+            f'<i class="ln"></i><p class="cap">(Otasining ismi / Отчество)</p><i class="ln s"></i><p class="cap">Imzo / Подпись</p></div></div>'
+            f'<div class="abody"><div class="sk"><h2>Tinglab tushunish / Аудирование</h2>{listening}</div>'
+            f'<div class="sk"><h2>O‘qish / Чтение</h2>{reading}</div></div></div>'
+            f'<p class="handle">@cefr_impulse</p></section>')
 
 
 def answer_key(tests):
@@ -147,13 +185,13 @@ def answer_key(tests):
 def how_page():
     tips = [("🎧", "Listening", "6 parts · 35 questions. Scan the QR / open the channel and play the audio for each test. Each recording is played twice."),
             ("📖", "Reading", "5 parts · 35 questions · 60 minutes. Do the test in one sitting, without a dictionary."),
-            ("📝", "Answer sheets", "Write your answers on the answer sheet at the back of the book — just like the real exam."),
+            ("📝", "Answer sheets", "After each test there is a Multilevel answer sheet — write your answers there, just like the real exam."),
             ("🔑", "Answer key", "Check your answers and count your score out of 35 for each skill."),
             ("📈", "Track progress", "Repeat the mocks after a few weeks and compare your scores.")]
     cards = "".join(f'<div class="tip"><span>{i}</span><div><b>{t}</b><p>{d}</p></div></div>' for i, t, d in tips)
     return (f'<section class="page howpage"><div class="banner"><div class="girih"></div><div class="bl"><small>MULTILEVEL · CEFR</small>'
-            f'<h1>HOW TO USE THIS BOOK</h1></div><div class="br"><b>2 mock tests</b><span>Listening + Reading</span></div></div>'
-            f'<p class="lead">This book contains <b>two complete Multilevel mock tests</b> in the real exam format. '
+            f'<h1>HOW TO USE THIS BOOK</h1></div><div class="br"><b>5 mock tests</b><span>Listening + Reading</span></div></div>'
+            f'<p class="lead">This book contains <b>five complete Multilevel mock tests</b> in the real exam format. '
             f'Treat each one like the real exam: keep to the time, write on the answer sheet and check your score.</p>'
             f'<div class="tips">{cards}</div>'
             f'<div class="audio"><div class="qrc">{qr_svg("https://" + CHANNEL)}</div><div><b>🎧 Audio for all listening tests</b>'
@@ -183,8 +221,12 @@ def build():
     for f in sorted(DATA.glob("*.json")):
         tests.append(json.loads(f.read_text(encoding="utf-8")))
     tests.sort(key=lambda t: (t["mock"], t["skill"] != "listening"))
-    pages = [how_page()] + [skill_pages(t) for t in tests]
-    pages += [answer_sheet(n) for n in sorted({t["mock"] for t in tests})] + [answer_key(tests)]
+    pages = [how_page()]
+    for t in tests:                      # listening, reading, then the answer sheet of that mock
+        pages.append(skill_pages(t))
+        if t["skill"] == "reading":
+            pages.append(answer_sheet(t["mock"]))
+    pages.append(answer_key(tests))
     css = (ROOT / "scripts" / "style.css").read_text(encoding="utf-8")
     fonts = ('<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;600;700;800'
              '&family=Open+Sans:ital,wght@0,400;0,600;0,700;0,800;1,400;1,600&display=block" rel="stylesheet">')

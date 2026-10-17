@@ -95,3 +95,54 @@ footer{display:flex;justify-content:space-between;align-items:center;font-size:7
 .kmock table{width:100%;border-collapse:collapse;font-size:8.8pt}
 .kmock th{text-align:left;width:30%;background:var(--soft);border:1px solid var(--line);padding:1.4mm 2.5mm}
 .kmock td{border:1px solid var(--line);padding:1.4mm 2.5mm;word-spacing:2px}
+
+/* ===== Multilevel answer sheet (official layout, red) ===== */
+.asheet{--r:#E22E28;--rs:#EE6E4D;--rl:#FCE4DC;padding:8mm 7mm 6mm 15mm;color:var(--r)}
+.asheet::before{display:none}
+.marks{position:absolute;left:4mm;top:12mm;bottom:12mm;display:flex;flex-direction:column;justify-content:space-between}
+.marks i{display:block;width:6mm;height:1.6mm;background:#111}
+.frame{flex:1;border:1.2px solid var(--r);border-radius:5mm;display:flex;flex-direction:column;overflow:hidden}
+.ahead{display:flex;align-items:center;gap:6mm;padding:2.5mm 5mm;border-bottom:1.2px solid var(--r);position:relative}
+.ahead img{height:12mm}
+.ahead div{flex:1;text-align:center;padding-right:24mm}
+.ahead small{font:700 7.4pt "Times New Roman",serif;letter-spacing:.02em}
+.ahead h1{font:700 19pt/1.1 "Times New Roman",serif}
+.ahead .mk{position:absolute;right:5mm;top:3mm;border:1.2px solid var(--r);border-radius:2mm;padding:.6mm 2.5mm;font:700 8pt "Open Sans"}
+.atop{display:grid;grid-template-columns:1.25fr .5fr 1fr;border-bottom:1.2px solid var(--r);font-size:6.4pt;min-height:62mm}
+.al,.ar{padding:2mm 3mm;display:flex;flex-direction:column}
+.al{border-right:1.2px solid var(--r)}
+.al p{margin-bottom:1mm}.al .c{text-align:center}
+.al .warn{border-top:1px solid var(--r);padding-top:1mm;margin-top:.5mm}
+.dot{display:inline-block;width:3mm;height:3mm;border-radius:50%;background:#111;vertical-align:middle;margin-left:2mm}
+.ln{display:block;border-bottom:1px solid var(--r);height:6mm}
+.ln.s{width:60%;margin:0 auto;border-bottom-style:dotted}
+.cap{text-align:center;font-style:italic;font-size:6.4pt}
+.cap.r{text-align:right}
+.ar{border-left:1.2px solid var(--r);justify-content:space-around}
+.am{display:flex;align-items:center;gap:1mm;padding:1.5mm}
+.vl{writing-mode:vertical-rl;transform:rotate(180deg);font-size:6pt}
+.code{display:flex;gap:.6mm;border:1px solid var(--r);border-radius:2.5mm;padding:1mm;background:var(--rl)}
+.kc{display:flex;flex-direction:column;gap:.6mm;align-items:center}
+.kc i{width:3.4mm;height:3.4mm;border:.8px solid var(--r);border-radius:50%;font:normal 5pt/3.2mm "Open Sans";text-align:center;background:#fff}
+.kc .kh{border-radius:.6mm;height:5mm;margin-bottom:.6mm}
+.abody{flex:1;display:grid;grid-template-columns:1fr 1fr;gap:2mm;padding:2mm}
+.sk{border:1px solid var(--r);display:flex;flex-direction:column;gap:1.2mm;padding-bottom:1.5mm}
+.sk h2{background:var(--rs);color:#fff;text-align:center;font:700 9.5pt "Open Sans";padding:1.4mm}
+.grp{display:flex;margin:0 2mm;border:1px dashed var(--r);border-radius:3mm;overflow:hidden}
+.grp.w{align-self:flex-start}
+.gl{writing-mode:vertical-rl;transform:rotate(180deg);font-size:5.6pt;padding:1mm .8mm;border-left:1px dashed var(--r);text-align:center}
+.gi{padding:.8mm 1.4mm;flex:1}
+.bcols{display:flex;gap:2.5mm}
+.bcols>div+div{border-left:1px dashed var(--r);padding-left:2mm}
+.bq{display:flex;align-items:center;gap:.7mm;height:4.3mm}
+.bq:nth-child(odd){background:var(--rl);border-radius:2mm}
+.bq b{width:4.6mm;text-align:right;color:#111;font:700 6.8pt "Open Sans";margin-right:.6mm}
+.bq i{width:3.5mm;height:3.5mm;border:.8px solid var(--r);border-radius:50%;font:normal 5pt/3.3mm "Open Sans";text-align:center;background:#fff;font-style:normal}
+.bx{display:flex;align-items:center;gap:.4mm;margin:.5mm 0}
+.bx b{width:4.6mm;text-align:right;color:#111;font:700 6.8pt "Open Sans";margin-right:.6mm}
+.bx i{width:5.2mm;height:5.2mm;border:1px solid var(--r);background:#fff}
+.ex{display:flex;align-items:center;justify-content:space-between;gap:1mm;padding:.8mm 2mm;border-top:1px solid var(--r);border-bottom:1px solid var(--r);margin:0}
+.ex p{font:700 5.2pt "Open Sans";line-height:1.25}
+.exb{display:flex}
+.exb i{width:4.4mm;height:5mm;border:1px solid var(--r);margin-left:-1px;font:normal 8pt/4.8mm "Open Sans";text-align:center;color:var(--r)}
+.handle{text-align:center;font:700 10pt "Times New Roman",serif;margin-top:1.5mm}
