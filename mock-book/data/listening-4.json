@@ -1,76 +1,279 @@
 {
-  "skill": "listening",
-  "mock": 4,
-  "parts": [
-    {"part": 1, "blocks": [
-      {"type": "instruction", "audio": true, "text": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet."},
-      {"type": "mcq", "items": [
-        {"n": 1, "q": "", "options": ["A) So good to see you again.", "B) Yes, she is very old.", "C) No, you aren’t her."]},
-        {"n": 2, "q": "", "options": ["A) I’m lovely, thank you.", "B) I met someone yesterday.", "C) Lovely to meet you too!"]},
-        {"n": 3, "q": "", "options": ["A) My home is very big.", "B) I’m from Valencia.", "C) There are many parks."]},
-        {"n": 4, "q": "", "options": ["A) Yeah, that’s him.", "B) No, they are.", "C) Yes, that did."]},
-        {"n": 5, "q": "", "options": ["A) You can also join our club.", "B) No, it is nice of them to leave.", "C) Yes, I’m happy to be here."]},
-        {"n": 6, "q": "", "options": ["A) Never mind.", "B) You’re right.", "C) Yeah, we can."]},
-        {"n": 7, "q": "", "options": ["A) Yeah!", "B) Sure!", "C) Nice!"]},
-        {"n": 8, "q": "", "options": ["A) I am very tall these days.", "B) I am twenty-five years old.", "C) I’ve been great, thanks!"]}
-      ]}
-    ]},
-    {"part": 2, "blocks": [
-      {"type": "instruction", "audio": true, "text": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer."},
-      {"type": "notes", "title": "NEW GYM", "lines": [
-        "Manager’s name: Emma (9)__________",
-        "Opening shift at: (10)__________",
-        "The gym placed at the (11)__________ floor.",
-        "You must wear: (12)__________ shoes.",
-        "If you work at: (13)__________ you get a list of participant check-ins and others.",
-        "You place your private items in (14)__________"
-      ]}
-    ]},
-    {"part": 3, "blocks": [
-      {"type": "instruction", "audio": true, "text": "You will hear people speaking in different situations. Match each speaker (1-4) to the place they are at(A-F). There are TWO EXTRA options which you do not need to use. Mark your answers on the answer sheet."},
-      {"type": "matching",
-        "left": ["15. Speaker 1 …", "16. Speaker 2 …", "17. Speaker 3 …", "18. Speaker 4 …"],
-        "right": ["A) Arrange to study with another person.", "B) Make sure you have a comfortable place to sit.", "C) Listening to music will help you to concentrate.", "D) Don’t eat too much while you’re studying.", "E) Study in the morning when your mind is clearer.", "F) Set yourself a series of targets to achieve."]}
-    ]},
-    {"part": 4, "blocks": [
-      {"type": "instruction", "audio": true, "text": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There are THREE extra options which you do not need to use. Mark your answers on the answer sheet."},
-      {"type": "image", "src": "m4-map.png"},
-      {"type": "lines", "items": [
-        "16. Café …",
-        "17. Kiosk …",
-        "18. Men’s wear …",
-        "19. Accessories …",
-        "20. Children’s clothes …"
-      ]}
-    ]},
-    {"part": 5, "blocks": [
-      {"type": "instruction", "audio": true, "text": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract. Mark your answers on the answer sheet."},
-      {"type": "subtitle", "text": "Extract One"},
-      {"type": "mcq", "items": [
-        {"n": 24, "q": "The man’s article wasn’t on this issue because …", "options": ["A) he forgot to send it to the editor.", "B) he didn’t have enough time to complete it.", "C) he thinks the next issue will be better."]},
-        {"n": 25, "q": "What does the woman think of the short stories?", "options": ["A) They are very amusing.", "B) They are not many.", "C) They are not true to life."]}
-      ]},
-      {"type": "subtitle", "text": "Extract Two"},
-      {"type": "mcq", "items": [
-        {"n": 26, "q": "What is the relationship between the speakers?", "options": ["A) Doctor and nurse.", "B) School principal and teacher.", "C) Secretary and patient."]},
-        {"n": 27, "q": "The doctor …", "options": ["A) is arriving soon.", "B) has just had a break.", "C) is examining someone."]}
-      ]},
-      {"type": "subtitle", "text": "Extract Three"},
-      {"type": "mcq", "items": [
-        {"n": 28, "q": "Why is the woman unhappy with the item she bought?", "options": ["A) Its quality is poor.", "B) She doesn’t like its style.", "C) The color doesn’t suit her."]},
-        {"n": 29, "q": "What will the woman receive?", "options": ["A) Her money back.", "B) A different clothing item.", "C) A gift card."]}
-      ]}
-    ]},
-    {"part": 6, "blocks": [
-      {"type": "instruction", "audio": true, "text": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer."},
-      {"type": "notes", "title": "WILLIAM THE CONQUEROR", "lines": [
-        "William the Conqueror defeated the (30)__________ army in 1066",
-        "The words beef, hour, fruit and (31)__________ all entered the English language from French.",
-        "Gothic (32)__________ architecture also arrived in England from France.",
-        "Construction of Wells Cathedral started in (33)__________.",
-        "It was (34)__________ in 1490.",
-        "Wells Cathedral is one of twenty-six cathedrals in England.\nThis (35)__________ is called the medieval cathedrals of England."
-      ]}
-    ]}
-  ]
+ "skill": "listening",
+ "mock": 4,
+ "parts": [
+  {
+   "part": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 1,
+       "q": "",
+       "options": [
+        "A) So good to see you again.",
+        "B) Yes, she is very old.",
+        "C) No, you aren’t her."
+       ]
+      },
+      {
+       "n": 2,
+       "q": "",
+       "options": [
+        "A) I’m lovely, thank you.",
+        "B) I met someone yesterday.",
+        "C) Lovely to meet you too!"
+       ]
+      },
+      {
+       "n": 3,
+       "q": "",
+       "options": [
+        "A) My home is very big.",
+        "B) I’m from Valencia.",
+        "C) There are many parks."
+       ]
+      },
+      {
+       "n": 4,
+       "q": "",
+       "options": [
+        "A) Yeah, that’s him.",
+        "B) No, they are.",
+        "C) Yes, that did."
+       ]
+      },
+      {
+       "n": 5,
+       "q": "",
+       "options": [
+        "A) You can also join our club.",
+        "B) No, it is nice of them to leave.",
+        "C) Yes, I’m happy to be here."
+       ]
+      },
+      {
+       "n": 6,
+       "q": "",
+       "options": [
+        "A) Never mind.",
+        "B) You’re right.",
+        "C) Yeah, we can."
+       ]
+      },
+      {
+       "n": 7,
+       "q": "",
+       "options": [
+        "A) Yeah!",
+        "B) Sure!",
+        "C) Nice!"
+       ]
+      },
+      {
+       "n": 8,
+       "q": "",
+       "options": [
+        "A) I am very tall these days.",
+        "B) I am twenty-five years old.",
+        "C) I’ve been great, thanks!"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "NEW GYM",
+     "lines": [
+      "Manager’s name: Emma (9)__________",
+      "Opening shift at: (10)__________",
+      "The gym placed at the (11)__________ floor.",
+      "You must wear: (12)__________ shoes.",
+      "If you work at: (13)__________ you get a list of participant check-ins and others.",
+      "You place your private items in (14)__________"
+     ]
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear people speaking in different situations. Match each speaker (1-4) to the place they are at(A-F). There are TWO EXTRA options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "matching",
+     "left": [
+      "15. Speaker 1 …",
+      "16. Speaker 2 …",
+      "17. Speaker 3 …",
+      "18. Speaker 4 …"
+     ],
+     "right": [
+      "A) Arrange to study with another person.",
+      "B) Make sure you have a comfortable place to sit.",
+      "C) Listening to music will help you to concentrate.",
+      "D) Don’t eat too much while you’re studying.",
+      "E) Study in the morning when your mind is clearer.",
+      "F) Set yourself a series of targets to achieve."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There are THREE extra options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "image",
+     "src": "m4-map.png"
+    },
+    {
+     "type": "lines",
+     "items": [
+      "19. Café …",
+      "20. Kiosk …",
+      "21. Men’s wear …",
+      "22. Accessories …",
+      "23. Children’s clothes …"
+     ]
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract One"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 24,
+       "q": "The man’s article wasn’t on this issue because …",
+       "options": [
+        "A) he forgot to send it to the editor.",
+        "B) he didn’t have enough time to complete it.",
+        "C) he thinks the next issue will be better."
+       ]
+      },
+      {
+       "n": 25,
+       "q": "What does the woman think of the short stories?",
+       "options": [
+        "A) They are very amusing.",
+        "B) They are not many.",
+        "C) They are not true to life."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Two"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 26,
+       "q": "What is the relationship between the speakers?",
+       "options": [
+        "A) Doctor and nurse.",
+        "B) School principal and teacher.",
+        "C) Secretary and patient."
+       ]
+      },
+      {
+       "n": 27,
+       "q": "The doctor …",
+       "options": [
+        "A) is arriving soon.",
+        "B) has just had a break.",
+        "C) is examining someone."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Three"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 28,
+       "q": "Why is the woman unhappy with the item she bought?",
+       "options": [
+        "A) Its quality is poor.",
+        "B) She doesn’t like its style.",
+        "C) The color doesn’t suit her."
+       ]
+      },
+      {
+       "n": 29,
+       "q": "What will the woman receive?",
+       "options": [
+        "A) Her money back.",
+        "B) A different clothing item.",
+        "C) A gift card."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 6,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "WILLIAM THE CONQUEROR",
+     "lines": [
+      "William the Conqueror defeated the (30)__________ army in 1066",
+      "The words beef, hour, fruit and (31)__________ all entered the English language from French.",
+      "Gothic (32)__________ architecture also arrived in England from France.",
+      "Construction of Wells Cathedral started in (33)__________.",
+      "It was (34)__________ in 1490.",
+      "Wells Cathedral is one of twenty-six cathedrals in England.\nThis (35)__________ is called the medieval cathedrals of England."
+     ]
+    }
+   ]
+  }
+ ]
 }

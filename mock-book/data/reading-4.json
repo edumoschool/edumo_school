@@ -1,0 +1,320 @@
+{
+ "skill": "reading",
+ "mock": 4,
+ "parts": [
+  {
+   "part": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text."
+    },
+    {
+     "type": "article",
+     "title": "THE MAGIC OF THE NORTHERN LIGHTS",
+     "paragraphs": [
+      "The Northern Lights, also known as the Aurora Borealis, are a spectacular natural light show visible in high-latitude regions. This phenomenon is caused by electrically charged particles from the sun colliding with gases in the Earth's atmosphere. The result is a wonderful display of dancing lights in the night sky. These beautiful (1)________ can appear in many colors, though pale green and pink are the most common. The specific (2)________ that are present in the atmosphere, such as oxygen and nitrogen, determine the colors we see.",
+      "For centuries, these lights have (3)_________ debates among scientists. Many ancient cultures believed the lights were spirits or gods. Today, science provides a clear explanation for this amazing (4)__________. The sun continuously sends out a stream of particles called the solar wind. When this solar wind reaches Earth, our planet's magnetic field funnels the (5)__________ toward the polar regions. This interaction creates the vibrant colors that mesmerize observers.",
+      "The best time to witness the Aurora Borealis is on a clear, dark night far from city light pollution. While the beauty is undeniable, the science behind the lights is just as fascinating. Understanding how particles from the (6)_________ create this celestial ballet only adds to the wonder of the experience."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "statements",
+     "items": [
+      "A. You are travelling by yourself, want to keep costs low, and are eager to socialise with other travellers.",
+      "B. You and your partner want a digital detox for a weekend, completely away from emails and social media.",
+      "C. Your job requires you to travel for a business trip where you'll need professional amenities and a reliable workspace.",
+      "D. You prefer a place where the mountain feels just a few steps away and comfort awaits you the moment you stop skiing.",
+      "E. You're starting a contract job in a new city for several weeks and need a place that offers more independence and home comforts than a hotel.",
+      "F. You want to book a holiday where the total cost is fixed in advance, covering all your food and entertainment.",
+      "G. You are bored with standard chain hotels and want to stay somewhere that reflects the local artistic scene.",
+      "H. You need accommodation that provides full-board catering for a large tour group.",
+      "I. You are looking for a hotel that offers a complimentary shuttle service to the airport.",
+      "J. You need accommodation with facilities specifically designed to keep your young children entertained."
+     ]
+    },
+    {
+     "type": "cards",
+     "items": [
+      {
+       "title": "7. The Grand Plaza Hotel",
+       "body": "Located in the heart of the financial district, our hotel offers executive suites with high-speed internet, a 24-hour business center, and meeting rooms. Perfect for the discerning corporate traveller."
+      },
+      {
+       "title": "8. Sunset Beach Resort (All-Inclusive)",
+       "body": "Leave your wallet at home! Our all-inclusive package includes all meals, drinks, and activities. Enjoy our private beach, multiple swimming pools, and nightly enjoyment. Ideal for a stress-free holiday."
+      },
+      {
+       "title": "9. The Backpacker's Hub",
+       "body": "Offering cheap dormitory beds and a lively social atmosphere, we're the top choice for solo travellers on a tight budget. Features include a shared kitchen, a common room with games, and nightly pub crawls."
+      },
+      {
+       "title": "10. \"The Nest\" - Secluded Forest Cabin",
+       "body": "Escape the city and reconnect with nature. Our cozy, self-catering cabin for two is located deep in the woods, with no Wi-Fi or television. It features a fireplace and a porch with stunning views. The perfect romantic getaway."
+      },
+      {
+       "title": "11. Family Fun Villas",
+       "body": "Our spacious two- and three-bedroom villas are perfect for families. Each comes with a full kitchen, a private garden, and access to the kids' club and a child-friendly swimming pool. We are located just a 5-minute drive from the main theme park."
+      },
+      {
+       "title": "12. The Art-House Boutique Hotel",
+       "body": "Each of our 12 rooms is uniquely designed by a local artist. We are situated in the cultural quarter, surrounded by galleries, theatres, and independent cafes. A unique experience for those who appreciate creativity and style."
+      },
+      {
+       "title": "13. Mountain Peak Lodge",
+       "body": "Situated at the base of the ski slopes, we offer ski-in/ski-out access. Our facilities include equipment rental, a sauna to relax your muscles after a long day on the mountain, and a hearty breakfast buffet."
+      },
+      {
+       "title": "14. City Centre Serviced Apartment",
+       "body": "A home away from home. Our apartments are available for weekly or monthly rentals and include a fully equipped kitchen, washing machine, and separate living area. Ideal for longer stays or for those who prefer more independence compered to a hotel offers."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once."
+    },
+    {
+     "type": "headings",
+     "title": "LIST OF HEADINGS:",
+     "items": [
+      "A) The financial cost of implementing smart technology",
+      "B) Examples of how technology can improve urban life",
+      "C) The risk of excluding non-tech-savvy citizens",
+      "D) A definition of the core concept",
+      "E) The importance of citizen participation in planning",
+      "F) Concerns regarding data privacy and surveillance",
+      "G) The technological backbone of a smart city",
+      "H) A historical look at city planning"
+     ],
+     "right": [
+      "15. Paragraph I",
+      "16. Paragraph II",
+      "17. Paragraph III",
+      "18. Paragraph IV",
+      "19. Paragraph V",
+      "20. Paragraph VI"
+     ]
+    },
+    {
+     "type": "article",
+     "title": "THE CONCEPT OF SMART CITIES",
+     "paragraphs": [
+      "I. A \"smart city\" is an urban area that uses various types of electronic methods and sensors to collect data. Insights gained from that data are used to manage assets, resources, and services efficiently. The ultimate goal is to improve the quality of life for its citizens by making urban operations and services more effective and responsive to their needs.",
+      "II. The foundation of any smart city is a robust and integrated network of information and communication technology (ICT). This includes the Internet of Things (IoT), where everyday objects are embedded with sensors and connected to the internet. These sensors can be placed in everything from streetlights and rubbish bins to public transport and water pipes, all feeding real-time information into a central system for analysis.",
+      "III. The practical applications of this technology are vast. For instance, smart traffic management systems can analyze live traffic flow to adjust traffic light timings, reducing congestion and pollution. Smart grids can optimize energy distribution, preventing blackouts and promoting the use of renewable energy. Connected rubbish bins can signal when they are full, allowing for more efficient waste collection routes.",
+      "IV. While the potential benefits are significant, the development of smart cities raises serious questions about privacy. The constant collection of data on citizens' movements, energy use, and daily habits could be misused. There is a risk of creating a surveillance society where personal information is vulnerable to cyberattacks or used for social control. Establishing strong data protection regulations and transparent policies is therefore essential.",
+      "V. Another critical challenge is ensuring that the benefits of a smart city are accessible to all residents. There is a danger of creating a \"digital divide,\" where those who are less comfortable with technology, often the elderly or low-income groups, are left behind. If services like public transport or healthcare access become primarily app-based, it could create new barriers for those without smartphones or digital literacy skills.",
+      "VI. Engagement of residents is a crucial element in the development of smart cities. Without the input of residents, urban planners may develop solutions that fail to address the actual needs of the community. Public consultations, participatory design workshops, and open forums can help ensure that smart city initiatives are inclusive and reflect the priorities of all citizens, fostering trust and collaboration between governments and the public."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 21-29."
+    },
+    {
+     "type": "article",
+     "title": "THE DIGITAL SHIFT",
+     "paragraphs": [
+      "The transition to remote work was, at first, liberating. For the first few months, I relished the flexibility. No more crowded morning commutes, the freedom to structure my day, and the quiet focus I could achieve without the constant interruptions of a busy office. I felt my productivity soar, and the work-life balance I had long chased seemed finally within my grasp. However, this initial honeymoon phase began to fade as a new kind of pressure slowly crept in: the tyranny of the digital leash.",
+      "The source of this pressure wasn't a single policy or a demanding boss, but a collective, unspoken set of expectations that our team had developed. The constant 'ping' of instant messages created an obligation to be perpetually connected. Emails sent late at night seemed to demand an immediate response, blurring the lines between work and personal time until they were almost non-existent. The culture had shifted from 'working from home' to 'living at work'.",
+      "This came to a head during a critical project with a tight deadline. I needed some vital data from a colleague, Mark, to complete my section. I sent him a message on our team chat, then an email. Hours passed in what I call 'digital silence'. My anxiety escalated as my mind raced with possibilities – was he ignoring the messages? Was he annoyed about something? I imagined the worst, and my frustration grew, stalling my progress entirely. By late afternoon, I was convinced the project was in jeopardy because of his lack of response.",
+      "Just as I was about to escalate the issue to our manager, a call came through from Mark. He sounded apologetic and flustered. It turned out his home internet connection had been down all day, and his messages to me, explaining the situation and providing the data from his phone, had been failing to send due to a temporary network glitch on his end. The fault wasn’t with Mark, but with our communication methods and the assumptions they encouraged. It was an epiphany for me; the real issue wasn't a lack of commitment from anyone, but the chaotic, high-anxiety system of communication we had fallen into.",
+      "That evening, I decided to be proactive. I spent a few hours drafting what I called a 'communications charter,' which I then proposed to my team leader before sharing it with the wider team. It wasn't revolutionary, but it set clear expectations: defined core working hours for communication, an agreement on expected response times (e.g., 24 hours for email, 2 hours for chat), and guidelines on when to use which tool—a phone call for anything urgent, for instance. To my relief, the idea was met with enthusiasm. It wasn't a panacea, but it was the first step in reclaiming our focus and well-being. The efficiency of the team has improved since, and more importantly, the collective anxiety has noticeably dropped."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 21-24, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 21,
+       "q": "What was the author's initial experience with remote work?",
+       "options": [
+        "A) She found it difficult to focus without her colleagues.",
+        "B) She felt it gave her a greater sense of personal independence.",
+        "C) She was worried about being less productive than in the office.",
+        "D) She immediately felt the pressure to be available at all times."
+       ]
+      },
+      {
+       "n": 22,
+       "q": "What does the author identify as the main problem that developed over time?",
+       "options": [
+        "A) Her manager became more demanding.",
+        "B) The technology the team used was unreliable.",
+        "C) There was an unspoken expectation to always be online.",
+        "D) Colleagues were not completing their work on time."
+       ]
+      },
+      {
+       "n": 23,
+       "q": "What did the author realize after the incident with her colleague, Mark?",
+       "options": [
+        "A) That Mark was an unreliable team member.",
+        "B) That the team's communication habits were the underlying problem.",
+        "C) That she should have contacted her manager much earlier.",
+        "D) That remote work was ultimately unsuitable for her team."
+       ]
+      },
+      {
+       "n": 24,
+       "q": "What was the main purpose of the 'communications charter'?",
+       "options": [
+        "A) To monitor employees' working hours more strictly.",
+        "B) To stop colleagues from using instant messaging.",
+        "C) To reduce the number of team meetings.",
+        "D) To establish clear and predictable rules for interaction."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 25-29, decide if the following statements agree with the information given in the text. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 25,
+       "q": "The author believed Mark might be ignoring her on purpose.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 26,
+       "q": "Before this incident, Mark had a history of being rather slow to respond.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 27,
+       "q": "The delay in communication from Mark was due to a problem with his computer.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 28,
+       "q": "The author created the 'communications charter' with help from her team leader.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      },
+      {
+       "n": 29,
+       "q": "The team's reaction to the proposed charter was encouraging.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) No Information"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 30-35."
+    },
+    {
+     "type": "article",
+     "title": "THE DECLINE OF TRADITIONAL RETAIL",
+     "paragraphs": [
+      "Over the past decade, the retail landscape has undergone dramatic transformation, with traditional brick-and-mortar stores struggling to maintain their foothold in the market. The rapid rise of e-commerce has fundamentally altered consumer behavior, with convenience, variety, and competitive pricing driving customers to online shopping platforms. While some retailers have adapted by embracing digital technologies, others have faltered, leading to the closure of countless high-street stores.",
+      "One significant factor contributing to this decline is the evolving expectations of consumers. Modern-day shoppers prioritize efficiency, often opting for the ability to browse and purchase items from the comfort of their homes. Same-day delivery and personalized marketing further enhance the appeal of online shopping. John Havers, a retail analyst, explains, \"Today's consumers value immediacy and tailored experiences. Traditional retail, which often relies on outdated methods, struggles to keep pace with these demands.\"",
+      "Economic pressures also play a vital role. The cost of maintaining physical stores, including rent and employment, adds a financial burden that many businesses cannot sustain. By contrast, online retailers operate with much lower overheads. This disparity has created a fiercely competitive environment, with online giants often undercutting their traditional counterparts on price.",
+      "However, it would be premature to declare the death of the physical store. Many successful retailers are adopting a hybrid model, blending the strengths of online and offline commerce. For instance, the concept of \"click-and-collect\" allows customers to shop online and pick up their purchases in-store, combining convenience with immediacy. Additionally, some brands are leveraging their physical spaces to create immersive experiences, such as interactive displays and exclusive in-store events, which cannot be replicated online.",
+      "Still, challenges remain. The loss of retail jobs and the decline of bustling high streets have social and economic repercussions, particularly in smaller communities. Moreover, the environmental impact of e-commerce, including increased packaging waste and carbon emissions from delivery services, raises important sustainability concerns.",
+      "To survive in this evolving landscape, traditional retailers must rethink their strategies, embracing innovation while maintaining a sense of community. As Havers notes, \"The future of retail lies not in resisting change but in finding ways to integrate the best of both worlds.\"",
+      "This means that brick-and-mortar stores need to blend digital convenience with personal, in-store experiences that online platforms cannot replicate. Investing in technologies such as augmented reality, personalized marketing, and seamless omnichannel systems can help retailers meet modern consumers’ expectations for speed and customization."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question."
+    },
+    {
+     "type": "notes",
+     "title": "THE CHALLENGES FACING RETAIL",
+     "lines": [
+      "Traditional retail has been significantly affected by the advance of (30)________, which offers convenience and competitive pricing. Consumers now expect (31)________, such as same-day delivery and personalized recommendations. Physical stores face higher expenses such as (32)________, and staffing costs, making it difficult to compete with online retailers. Some businesses are adopting hybrid models, including \"click-and-collect\" services, to combine online accessibility with in-store (33)________."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 34,
+       "q": "According to the text, what is one reason online shopping is more competitive than traditional retail?",
+       "options": [
+        "A) It offers a wider range of products than in-store shopping.",
+        "B) It operates with significantly lower costs than physical stores.",
+        "C) It allows customers to physically inspect items before purchasing.",
+        "D) It is less affected by economic pressures like inflation."
+       ]
+      },
+      {
+       "n": 35,
+       "q": "What does the author suggest is critical for the survival of traditional retail?",
+       "options": [
+        "A) Closing physical stores and focusing entirely on e-commerce.",
+        "B) Offering lower prices to rival those of online retailers.",
+        "C) Combining digital innovation with unique in-store experiences.",
+        "D) Advocating for stricter regulations on online competitors."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "key": {
+  "1": "1 lights  2 gases  3 caused  4 phenomenon  5 particles  6 sun",
+  "2": "7 C  8 F  9 A  10 B  11 J  12 G  13 D  14 E",
+  "3": "15 D  16 G  17 B  18 F  19 C  20 E",
+  "4": "21 B  22 C  23 B  24 D  25 A  26 C  27 B  28 B  29 A",
+  "5": "30 e-commerce  31 efficiency  32 rent  33 immediacy  34 B  35 C"
+ }
+}

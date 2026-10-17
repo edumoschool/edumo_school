@@ -1,0 +1,323 @@
+{
+ "skill": "reading",
+ "mock": 5,
+ "parts": [
+  {
+   "part": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text."
+    },
+    {
+     "type": "article",
+     "title": "THE AMAZING TRANSFORMATION OF A BUTTERFLY",
+     "paragraphs": [
+      "The life of a butterfly is a story of incredible change. This journey, known as metamorphosis, has four distinct stages. It all starts when a female butterfly lays a tiny egg, usually on a leaf or stem. This plant will serve as the first food for the creature that hatches from the (1)_______.",
+      "Soon, a small larva, which we call a caterpillar, emerges. The primary job of the caterpillar is to eat. It munches on leaves, growing bigger and bigger very quickly. As it grows, this hungry (2)_______ sheds its skin multiple times. Once it reaches its full size, it prepares for the most magical part of its life.",
+      "The caterpillar finds a safe spot and forms a protective casing around itself. This casing is called a chrysalis. Inside the (3)_______, the caterpillar’s body completely transforms. It might look like nothing is happening from the outside, but a remarkable change is taking place.",
+      "After a period of time, which can be weeks or months, a beautiful butterfly breaks free from the casing. At first, its wings are soft and folded. The new (4)_______ must pump fluid into its wings to make them strong enough for flight. After resting, the butterfly with its colorful (5)_______ will fly away to drink nectar from flowers. This entire process of change is called metamorphosis, and it is one of nature’s most amazing wonders. Understanding (6)_______ shows us how living things can adapt and change in extraordinary ways."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "statements",
+     "items": [
+      "A. You want to join a practical session that lets you try out acting techniques in front of an audience.",
+      "B. You’re eager to spend an evening tasting cuisine from around the world.",
+      "C. You’re travelling with children and want an event that combines entertainment with creative learning.",
+      "D. You enjoy architecture and want a guided experience that uncovers the city’s lesser-known heritage.",
+      "E. You’re hoping to meet other creative people and show your artwork publicly.",
+      "F. You’d like to attend a festival that includes open-air melodic performances by international artists.",
+      "G. You want a relaxed activity where you can produce something handmade to take home.",
+      "H. You’re interested in short films that focus on social themes and want to hear from the directors afterwards.",
+      "I. You’d like a weekend course focused on improving your photography skills.",
+      "J. You’re looking for a cultural activity that helps you forget daily stress through mindfulness and calm surroundings."
+     ]
+    },
+    {
+     "type": "cards",
+     "items": [
+      {
+       "title": "7. Clay & Calm Studio",
+       "body": "Our pottery classes combine art and relaxation. Under gentle instruction, participants shape and paint their own ceramic pieces in a peaceful studio overlooking the river. Most guests say they leave feeling refreshed and creative. A small exhibition of participants’ best works is held once a month, though taking part is optional."
+      },
+      {
+       "title": "8. Old Streets Story Walk",
+       "body": "Step away from tourist crowds and explore hidden courtyards, forgotten monuments, and unusual tales that never appear in guidebooks. Ideal for those who like history with a touch of mystery. The route also passes a few popular cafés, where the group can stop for refreshments."
+      },
+      {
+       "title": "9. Screen Voices Festival",
+       "body": "An annual showcase of independent cinema highlighting current social issues. After selected screenings, filmmakers hold discussions about what inspired their work and how audiences can get involved. Between sessions, visitors can browse a small market selling posters and film merchandise."
+      },
+      {
+       "title": "10. Global Flavours Evening",
+       "body": "Spend an unforgettable night sampling signature dishes prepared by chefs from several countries. Guests are invited to chat with the cooks and learn about the traditions behind each recipe. A short cultural performance follows dinner, but the main focus remains on the food experience."
+      },
+      {
+       "title": "11. Young Minds Arts Day",
+       "body": "A lively event designed for families. Children can paint murals, build musical instruments, and watch storytelling performances while parents enjoy local food stalls. Teen volunteers help run each activity, encouraging teamwork and problem-solving skills."
+      },
+      {
+       "title": "12. Night Under the Stars Concerts",
+       "body": "Every Friday in summer, the park fills with music from jazz to world folk. Visitors bring blankets, listen to international performers, and enjoy the open-air atmosphere. Some evenings also feature local dance groups before the main musical acts begin."
+      },
+      {
+       "title": "13. City Frame Photography Retreat",
+       "body": "This two-day course helps participants develop both camera and digital-editing skills. Outdoor photo walks are followed by feedback sessions in a creative studio. Although accommodation isn’t included, nearby guesthouses offer discounts for attendees."
+      },
+      {
+       "title": "14. Stage Steps Workshop",
+       "body": "Discover what it’s like to perform on stage! This intensive workshop introduces improvisation, voice control, and teamwork, ending with a short showcase for friends and family. Previous participants have used the skills they learned here to gain confidence in public speaking."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "headings",
+     "title": "LIST OF HEADINGS",
+     "items": [
+      "A) The negative effects of insufficient rest",
+      "B) A historical overview of sleep research",
+      "C) Practical advice for improving sleep quality",
+      "D) The role of dreams in emotional processing",
+      "E) Defining the fundamental stages of slumber",
+      "F) The essential functions of sleep for body and mind",
+      "G) How sleep patterns change throughout a person's life",
+      "H) An explanation of the body's internal clock"
+     ],
+     "right": [
+      "15. Paragraph I",
+      "16. Paragraph II",
+      "17. Paragraph III",
+      "18. Paragraph IV",
+      "19. Paragraph V",
+      "20. Paragraph VI"
+     ]
+    },
+    {
+     "type": "article",
+     "title": "THE SCIENCE OF SLEEP",
+     "paragraphs": [
+      "I. Sleep is a universal biological necessity, yet its precise mechanisms are still being explored. Far from being a passive state, sleep is a highly active period for the brain. It is governed by two main processes: the circadian rhythm, our internal 24-hour clock that tells us when to feel sleepy and when to be alert, and sleep pressure, which builds up the longer we are awake, creating a growing need for rest.",
+      "II. The architecture of sleep is complex, consisting of a recurring pattern of distinct phases. A typical night's sleep cycles between Non-Rapid Eye Movement (NREM) and Rapid Eye Movement (REM) sleep. NREM is further divided into three stages, progressing from light dozing to deep, restorative sleep. REM sleep, in contrast, is when the brain is highly active, breathing becomes irregular, and most vivid dreaming occurs. A full cycle through all stages takes approximately 90–110 minutes.",
+      "III. The reasons why we dedicate roughly a third of our lives to sleep are multifaceted. Physically, sleep is crucial for cellular repair, muscle growth, and the release of important hormones. Cognitively, it is indispensable for memory consolidation—the process by which recent learned experiences are transformed into long-term memory. It also allows the brain to clear out metabolic waste products that accumulate during waking hours.",
+      "IV. A chronic lack of sleep can have serious and wide-ranging consequences for health and well-being. In the short term, it leads to impaired concentration, poor decision-making, and mood swings. Over the long term, sleep deprivation is linked to an increased risk of significant health problems, including obesity, diabetes, cardiovascular disease, and a weakened immune system, making us more susceptible to infections.",
+      "V. Given its importance, cultivating good sleep hygiene is vital. Experts recommend maintaining a consistent sleep-wake schedule, even on weekends, to regulate the body's clock. Creating a relaxing bedtime routine, such as reading a book or taking a warm bath, can signal to the brain that it's time to wind down. It is also crucial to ensure the bedroom environment is dark, quiet, and cool, and to avoid stimulants like caffeine and electronic screens before bed.",
+      "VI. As people age, their sleep patterns often shift. Teenagers tend to fall asleep later and struggle to wake early, while older adults may become early risers and experience lighter, more fragmented sleep. These changes are influenced by hormonal variations and alterations in the body’s circadian rhythm. Understanding such natural shifts helps explain why sleep needs and habits vary across different stages of life."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 21-29."
+    },
+    {
+     "type": "article",
+     "title": "THE POWER OF SMELL",
+     "paragraphs": [
+      "For most people, sight and hearing are the dominant senses, while smell is often considered less important. Yet research increasingly shows that our sense of smell plays a far greater role in daily life than we realise. From influencing our emotions and memories to shaping our social connections, scent can quietly guide our thoughts and behaviour in powerful ways.",
+      "The human nose can detect over a trillion different odours, although we are rarely conscious of this ability. When we encounter a familiar fragrance, it can instantly transport us to a specific moment in the past — a phenomenon known as “odor-evoked memory.” For example, the smell of fresh rain might remind someone of their childhood garden. Scientists have found that smells trigger more vivid and emotional memories than visual or auditory cues, partly because the olfactory system is directly linked to the brain’s limbic region, which processes emotions and memory.",
+      "In recent years, psychologists have explored how scent can affect mood and performance. One study discovered that people exposed to the smell of lavender became calmer and performed better on memory tests, while the scent of lemon made participants feel more alert. Retailers have even begun using this knowledge: a pleasant fragrance in a shop can subtly encourage customers to stay longer and spend more money. However, the effects of scent are not universal. A smell that one person finds soothing may be irritating to another, depending on personal associations and cultural background.",
+      "Interestingly, our ability to recognise and interpret smells can also influence social behaviour. Research suggests that people subconsciously use body odour to detect emotions such as fear or happiness in others. Some scientists believe that this hidden form of chemical communication evolved to help early humans survive by warning each other of danger or signalling trust. Despite these ancient roots, the modern world has largely masked natural body scents through perfumes and deodorants, reducing our awareness of this subtle form of interaction.",
+      "While smell has clear benefits, it can also cause problems. Individuals who lose their sense of smell — a condition known as anosmia — often report feelings of isolation or depression. Without the emotional richness that smells provide, many find that food becomes less enjoyable and that they struggle to recall certain memories. Fortunately, advances in neuroscience are helping researchers understand how to restore or strengthen olfactory function, offering hope to those affected.",
+      "Although we rarely stop to think about it, smell continues to shape our thoughts, decisions, and relationships in countless invisible ways. The next time a familiar aroma catches your attention, it might be worth pausing — your nose could be telling you more than you think."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 21-24, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 21,
+       "q": "What is the main point made in the first paragraph?",
+       "options": [
+        "A) Smell is less influential than other senses.",
+        "B) People underestimate the impact of smell in their lives.",
+        "C) The sense of smell is primarily used for safety.",
+        "D) Smell affects people only in limited situations."
+       ]
+      },
+      {
+       "n": 22,
+       "q": "According to the passage, why do scents trigger strong memories?",
+       "options": [
+        "A) Because they are easier to identify than sounds or images.",
+        "B) Because the brain stores smell information more efficiently.",
+        "C) Because they connect directly with emotional parts of the brain.",
+        "D) Because people consciously link smells with past events."
+       ]
+      },
+      {
+       "n": 23,
+       "q": "What conclusion can be drawn from research involving lavender and lemon scents?",
+       "options": [
+        "A) Different smells can influence mood and behaviour in specific ways.",
+        "B) People react to fragrances in the same way across all cultures.",
+        "C) Pleasant scents always improve focus and concentration.",
+        "D) Fragrances affect mood only when people are aware of them."
+       ]
+      },
+      {
+       "n": 24,
+       "q": "What problem is mentioned in connection with anosmia?",
+       "options": [
+        "A) It can cause people to become physically ill.",
+        "B) It may reduce emotional well-being and quality of life.",
+        "C) It affects people’s ability to recognise colours and sounds.",
+        "D) It can permanently damage other sensory systems."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 25-29, decide if the following statements agree with the information given in the text. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 25,
+       "q": "Memories triggered by smells usually last longer than those triggered by sounds.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) Not Given"
+       ]
+      },
+      {
+       "n": 26,
+       "q": "Retailers use specific scents to influence customers’ behaviour in stores.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) Not Given"
+       ]
+      },
+      {
+       "n": 27,
+       "q": "Scientists have proven that all people find the smell of lavender relaxing.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) Not Given"
+       ]
+      },
+      {
+       "n": 28,
+       "q": "Natural body odours once played a role in early human communication.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) Not Given"
+       ]
+      },
+      {
+       "n": 29,
+       "q": "Modern perfumes have completely destroyed the human sense of smell.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) Not Given"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 30-35."
+    },
+    {
+     "type": "article",
+     "title": "THE PARADOX OF CHOICE",
+     "paragraphs": [
+      "In the modern world, consumers are surrounded by extraordinary abundance. Supermarkets, online platforms, and streaming services all promise endless possibilities — from thousands of breakfast cereals to millions of songs and movies. At first glance, this variety might appear to enhance personal freedom, giving people the ability to shape their experiences exactly as they wish. Yet psychologists argue that too many options can actually have the opposite effect. Instead of feeling liberated, individuals often become overwhelmed and stressed by the sheer number of decisions they must make each day.",
+      "The American psychologist Barry Schwartz introduced the term “the paradox of choice” to describe this phenomenon. His research suggests that when people face an excess of options, they experience decision fatigue and anxiety, often ending up less satisfied with their final choices. In one well-known experiment, shoppers presented with only six kinds of jam were far more likely to make a purchase than those offered twenty-four varieties. The conclusion was clear: a smaller number of choices makes decision-making both easier and more enjoyable.",
+      "However, not all scholars fully agree with Schwartz’s interpretation. Critics argue that the negative consequences of abundance depend largely on the context. For instance, individuals used to making complex decisions — such as investors, doctors, or managers — may actually thrive in environments with a wide range of alternatives. Others note that digital tools such as filters, search engines, and recommendation algorithms can simplify the process, allowing consumers to handle vast selections efficiently rather than feeling lost in them.",
+      "Cultural differences further complicate the picture. In some societies, the ability to choose freely is strongly associated with independence and personal identity, while in others, it is viewed as a potential source of pressure or confusion. Research shows that Western consumers often regard variety as empowering, whereas people from more collectivist cultures may prefer fewer, clearer choices. This suggests that the “paradox of choice” may not be a universal psychological truth, but rather a reflection of different cultural values and expectations.",
+      "Ultimately, the relationship between freedom and choice remains complex. Having multiple options can promote individuality and autonomy, yet an excess of them may undermine satisfaction and well-being. The challenge for modern societies is to strike the right balance — offering enough variety to support personal freedom without creating a sense of paralysis or discontent."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question."
+    },
+    {
+     "type": "notes",
+     "title": "",
+     "lines": [
+      "According to the passage, people often feel (30)________ when confronted with too many choices.",
+      "Schwartz’s experiment with jam demonstrated that consumers are more likely to buy when options are (31)________.",
+      "Critics believe that the effect of excessive choice can vary depending on the (32)________ in which decisions are made.",
+      "Cultural research indicates that the link between choice and (33)________ differs across societies."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 34,
+       "q": "What is one argument used by those who challenge Schwartz’s theory?",
+       "options": [
+        "A) Most people prefer to avoid making any choices at all.",
+        "B) Technological aids can make decision-making simpler despite large selections.",
+        "C) Consumers in all cultures experience the same reaction to abundance.",
+        "D) There is no psychological basis for the paradox of choice."
+       ]
+      },
+      {
+       "n": 35,
+       "q": "What message does the writer convey in the final paragraph?",
+       "options": [
+        "A) Excessive choice is unavoidable in the modern world.",
+        "B) Freedom of choice always results in greater happiness.",
+        "C) Societies must balance individual autonomy with simplicity.",
+        "D) Limiting variety is the only way to ensure satisfaction."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "key": {
+  "1": "1 egg  2 caterpillar  3 chrysalis  4 butterfly  5 wings  6 metamorphosis",
+  "2": "7 G  8 D  9 H  10 B  11 C  12 F  13 I  14 A",
+  "3": "15 H  16 E  17 F  18 A  19 C  20 G",
+  "4": "21 B  22 C  23 A  24 B  25 C  26 A  27 B  28 A  29 B",
+  "5": "30 overwhelmed  31 fewer  32 context  33 independence  34 B  35 C"
+ }
+}

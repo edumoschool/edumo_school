@@ -1,0 +1,319 @@
+{
+ "skill": "reading",
+ "mock": 3,
+ "parts": [
+  {
+   "part": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text."
+    },
+    {
+     "type": "article",
+     "title": "THE GREAT WALL OF CHINA",
+     "paragraphs": [
+      "The Great Wall of China is one of the most famous landmarks in the world. It was built to protect China from attacks. Construction of the wall began over two thousand years ago during the Qin Dynasty. Different dynasties added to the wall over time, making it longer and stronger. Today, the (1)_______ stretches over 13,000 miles across mountains, deserts, and plains. The (2) ________ of the wall is incredible, as it took millions of workers to build it. Many people call it the \"longest wall in the world.\"",
+      "The Great Wall was not just for defense. It also helped regulate trade along the Silk Road. Soldiers and guards also used the wall to (3)_______ the movement of goods and people. Watchtowers were built to send signals in case of (4)________. These towers gave the wall a better (5) ________ system.",
+      "Parts of the wall have been restored, while others have crumbled over the years. Tourists from around the world visit to see this ancient structure. Some sections are steep and hard to climb, but the view from the top is worth the effort. The Great Wall is a symbol of China's unity and strength. It shows how (6)_______ people worked together to achieve something great. This remarkable monument continues to amaze people today."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "statements",
+     "items": [
+      "A. You are a university student looking for a job you can do on Saturdays and Sundays.",
+      "B. You are a parent who needs someone to care for your young children in the afternoons.",
+      "C. You have just graduated with a design degree and have a great collection of your work, but no job history.",
+      "D. You are a native French speaker looking for flexible work you can do from home.",
+      "E. You are a highly experienced software architect with strong management skills.",
+      "F. You want a weekday job that finishes by noon so you can have your afternoons free.",
+      "G. You are a former nurse with several years of experience working in a hospital.",
+      "H. You have a talent for organization and have previously worked for a delivery company.",
+      "I. You are a skilled builder with over ten years of experience in the construction industry.",
+      "J. You have been working as a primary school teacher for the last five years."
+     ]
+    },
+    {
+     "type": "cards",
+     "items": [
+      {
+       "title": "7. Junior Graphic Designer",
+       "body": "We are a fast-growing marketing agency looking for a creative individual to join our team. This is an entry-level position, so professional experience is not a prerequisite, but a strong portfolio demonstrating your design skills is essential. Full training on our software suite will be provided. Must be a team player."
+      },
+      {
+       "title": "8. Part-Time Barista",
+       "body": "Our friendly neighbourhood coffee shop needs a barista for morning shifts (7 am - 12 pm), Monday to Friday. The ideal candidate will have excellent customer service skills and a passion for coffee. Previous experience is a plus but not required, as we are happy to train the right person."
+      },
+      {
+       "title": "9. Senior Backend Developer",
+       "body": "A leading tech firm is seeking an experienced developer to lead our server-side engineering team. Candidates must have a minimum of 8 years of experience with Python and cloud infrastructure (AWS/Azure). This is a leadership role that involves mentoring junior developers and architecting new systems."
+      },
+      {
+       "title": "10. Weekend Event Staff",
+       "body": "We run large-scale public events (concerts, festivals) and require reliable staff for weekend work. Duties include ticket scanning, guiding attendees, and light setup/cleanup. This is a flexible, seasonal role, perfect for those looking to earn extra money on Saturdays and Sundays."
+      },
+      {
+       "title": "11. Clinical Research Associate",
+       "body": "A pharmaceutical company is hiring a professional with a background in nursing or a related medical field. The role involves monitoring clinical trials, ensuring patient safety, and managing data. A degree in life sciences and at least 3 years of experience in a hospital or research setting are required."
+      },
+      {
+       "title": "12. Foreign Language Content Reviewer",
+       "body": "We need fluent speakers of German or French to review and edit translated documents for accuracy and cultural appropriateness. This is a remote, project-based role. You must be a native-level speaker of the target language and have a keen eye for detail."
+      },
+      {
+       "title": "13. Logistics Coordinator",
+       "body": "A busy shipping company is looking for an organized individual to manage schedules, track shipments, and communicate with drivers. Experience in logistics or supply chain management is highly desirable. Must be proficient with office software and able to solve problems under pressure."
+      },
+      {
+       "title": "14. Childminder / Nanny",
+       "body": "A family is looking for a caring and responsible person to look after their two children (ages 4 and 7) after school. Responsibilities include school pick-up, preparing snacks, and helping with homework. Must have a clean driving record and previous childcare experience."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once."
+    },
+    {
+     "type": "headings",
+     "title": "LIST OF HEADINGS:",
+     "items": [
+      "A) A summary of the decree inscribed on the stone",
+      "B) The far-reaching consequences of the discovery",
+      "C) An accidental find of major significance",
+      "D) A feature that provided the essential key",
+      "E) Ongoing debate over the object's rightful home",
+      "F) An analysis of the stone's geological composition",
+      "G) Acknowledging a principal figure's success",
+      "H) The specific strategy that unlocked the code"
+     ],
+     "right": [
+      "15. Paragraph I",
+      "16. Paragraph II",
+      "17. Paragraph III",
+      "18. Paragraph IV",
+      "19. Paragraph V",
+      "20. Paragraph VI"
+     ]
+    },
+    {
+     "type": "article",
+     "title": "THE ROSETTA STONE",
+     "paragraphs": [
+      "I. In 1799, during Napoleon's campaign in Egypt, a French soldier named Pierre-François Bouchard made an unexpected discovery in the town of Rosetta. He found a large, dark stone slab inscribed with text. Recognizing its potential importance, the slab was secured. It was immediately clear that this was no ordinary artifact, as it appeared to contain the same text written in three different scripts, presenting a linguistic puzzle that had confused scholars for centuries.",
+      "II. The true value of the Rosetta Stone lay in its trilingual inscription. The top section was written in Ancient Egyptian hieroglyphs, the script of monuments and religious texts which no one at the time could read. The middle section was in Demotic, a more common script used in ancient Egypt for everyday purposes. The bottom section was in Ancient Greek, a language that was well understood by scholars. It was this trilingual format that provided the pivotal clue for finally decoding the lost language of the pharaohs.",
+      "III. For over two decades, many scholars attempted to decipher the hieroglyphs with limited success. The final breakthrough came from a young French scholar named Jean-François Champollion. He had dedicated his life to the study of ancient Egypt and, in 1822, he announced his success. By building on the work of others and applying his own profound knowledge of Coptic (a language descended from Ancient Egyptian), he was able to unlock the secrets of the hieroglyphic script.",
+      "IV. Champollion's method was both systematic and brilliant. He hypothesized that the hieroglyphs enclosed in oval shapes, known as cartouches, represented the names of royal figures. By comparing the Greek names of pharaohs like Ptolemy and Cleopatra with the hieroglyphs in the corresponding cartouches, he was able to assign phonetic values to many of the hieroglyphic symbols. This phonetic approach, rather than treating each symbol as a picture of a word, was the crucial step that allowed the entire system to be understood.",
+      "V. The decipherment of the Rosetta Stone was a watershed moment in history. It didn't just allow one text to be read; it opened the door to understanding thousands of other inscriptions and papyri from ancient Egypt. For the first time, historians could read the history, literature, and religious beliefs of the Egyptians in their own words. This single discovery essentially gave birth to the entire field of modern Egyptology and unveiled the complexities of a civilization that had been silent for nearly two millennia.",
+      "VI. After the defeat of the French forces in Egypt in 1801, the Rosetta Stone was transferred to British possession under the terms of a treaty. It has been on public display at the British Museum in London since 1802, where it remains the single most visited object. However, its location is a source of ongoing contention, with Egyptian authorities and cultural heritage groups frequently calling for its repatriation to Egypt, arguing it is a vital piece of their national heritage."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 21-29."
+    },
+    {
+     "type": "article",
+     "title": "DAYDREAMING",
+     "paragraphs": [
+      "In today’s busy society, people often see daydreaming as a waste of time — a sign that someone is lazy or unable to focus. From classrooms to workplaces, being caught staring into space is usually considered a bad habit that needs to be corrected. However, recent research suggests that allowing our minds to wander freely might actually have important benefits for creativity, problem-solving, and emotional well-being.",
+      "For many years, psychologists believed that daydreaming prevented people from concentrating on real-world tasks. But a growing number of scientists now argue that the human brain is never completely at rest. Even when we are not focused on anything in particular, a network in our brain known as the default mode network becomes active. This system is responsible for imagination, self-reflection, and connecting different ideas — all of which are essential for innovative thinking.",
+      "Dr. Kalina Christoff, a neuroscientist at the University of British Columbia, has studied the brain activity of people while they daydream. Her research shows that moments of mental drifting can help the brain make unexpected connections, leading to sudden insights. She explains that when the mind is allowed to move freely from one thought to another, it can link distant memories or ideas in original ways — a process that structured, focused thinking often prevents.",
+      "To explore this idea further, a group of psychologists conducted an experiment in which participants were asked to perform a creative task after either resting quietly or doing a simple, repetitive activity such as sorting colored paperclips. Those who had a chance to let their minds wander during the dull activity produced more imaginative ideas than those who didn’t. According to the researchers, these results indicate that mild mental distraction gives the subconscious mind time to process information in the background.",
+      "Moreover, daydreaming might also play a role in emotional balance. When people think about their goals, memories, or relationships during idle moments, they are engaging in a kind of mental rehearsal that can prepare them for future situations. In moderation, this helps individuals reflect on their feelings and build empathy. However, experts inform that too much or negative daydreaming — for instance, repeatedly imagining stressful or unrealistic scenarios — can lead to anxiety or dissatisfaction.",
+      "In the modern world, where people are constantly connected to screens and notifications, genuine mental pauses have become rare. Psychologists suggest that taking short breaks without digital distractions can help restore mental energy and reduce stress. So, rather than trying to eliminate daydreaming, perhaps we should embrace it as a natural and valuable function of the mind."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 21-24, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 21,
+       "q": "What was traditionally believed about daydreaming?",
+       "options": [
+        "A) It improves people’s ability to concentrate.",
+        "B) It is a sign of deep thinking and self-awareness.",
+        "C) It stops people from focusing properly on tasks.",
+        "D) It helps people become more productive at work."
+       ]
+      },
+      {
+       "n": 22,
+       "q": "According to Dr. Christoff, what happens when the mind drifts?",
+       "options": [
+        "A) It becomes unable to connect different ideas.",
+        "B) It finds creative links between thoughts and memories.",
+        "C) It stops processing information altogether.",
+        "D) It repeats the same thought patterns endlessly."
+       ]
+      },
+      {
+       "n": 23,
+       "q": "What did the experiment involving paperclips demonstrate?",
+       "options": [
+        "A) Daydreaming reduces people’s ability to think logically.",
+        "B) Repetitive tasks increase stress and anxiety.",
+        "C) Focused concentration produces better ideas.",
+        "D) A relaxed mental state can enhance creativity."
+       ]
+      },
+      {
+       "n": 24,
+       "q": "What warning do experts give about daydreaming?",
+       "options": [
+        "A) It can have harmful effects if done excessively.",
+        "B) It always results in emotional stability.",
+        "C) It is less effective than using digital tools.",
+        "D) It should be avoided during leisure activities."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 25-29, decide if the following statements agree with the information given in the text. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 25,
+       "q": "The default mode network becomes inactive when people are daydreaming.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) Not Given"
+       ]
+      },
+      {
+       "n": 26,
+       "q": "Dr. Christoff’s research proves that daydreaming increases intelligence levels.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) Not Given"
+       ]
+      },
+      {
+       "n": 27,
+       "q": "Participants who did a boring activity before the creative task failed to generate more unique ideas.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) Not Given"
+       ]
+      },
+      {
+       "n": 28,
+       "q": "Excessive daydreaming can sometimes contribute to adverse emotions.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) Not Given"
+       ]
+      },
+      {
+       "n": 29,
+       "q": "The writer suggests that technology use has reduced opportunities for genuine mental rest.",
+       "options": [
+        "A) True",
+        "B) False",
+        "C) Not Given"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "text": "Read the following text for questions 30-35."
+    },
+    {
+     "type": "article",
+     "title": "THE TELECOMMUTING PARADIGM",
+     "paragraphs": [
+      "The paradigm of the traditional workplace is undergoing a seismic shift. Telecommuting, once a niche arrangement, has become increasingly prevalent across numerous sectors. Industries from technology to legal philosophy are progressively embracing flexible work models, permitting staff to operate remotely, at least on a hybrid basis. Nevertheless, the once-futuristic prophecy of near-vacant office buildings—populated only by essential maintenance or on-site personnel—remains a distant reality.",
+      "The tangible merits for employers are compelling. A distributed workforce mitigates the necessity for vast, costly office real estate. Furthermore, empirical data suggests a significant uptick in output. North American studies, for instance, indicate that remote employees can be 30-40% more prolific. Manager James Horgan posits that this surge is partially attributable to the elimination of the arduous daily commute. ‘Our findings revealed a pattern of reinvestment; the time recuperated from travel was largely channeled back into professional tasks,’ Horgan explains. ‘This new-found autonomy was highly valued, and in a gesture of reciprocity, employees demonstrated their commitment through heightened productivity.’",
+      "Beyond productivity, offering remote work serves as a powerful tool for talent acquisition and retention. The societal dividends are equally profound. Telecommuting fosters greater workforce inclusivity, democratizing access to employment for demographics that have historically faced barriers. This includes not only primary caregivers for the elderly or infirm, but also individuals with disabilities and those residing in geographically isolated regions. An ancillary benefit is the potential for enhanced civic engagement, as the temporal flexibility afforded by remote work allows individuals to participate more fully in local community life.",
+      "The endurance of the physical office, however, is rooted in more than mere tradition. Many organizations contend that the serendipitous collaboration and rapid innovation that fuel growth are best fostered in a shared environment. The organic process of mentorship, whereby junior staff absorb professional nuances through informal observation—a kind of corporate osmosis—is notoriously difficult to replicate virtually. The office thus remains a crucial crucible for forging company culture and a tangible sense of collective identity, elements that risk dilution within a fully atomized workforce.",
+      "However, this model is not without its detriments. A significant portion of the remote workforce grapples with feelings of isolation and the absence of the spontaneous, collegial camaraderie inherent in a physical office. Moreover, the erosion of clear boundaries between professional duties and personal time can make achieving a sustainable work-life equilibrium challenging. Consequently, it is incumbent upon employers to implement proactive support structures, such as regular virtual team-building activities and robust mental wellness programs, to ensure their distributed teams remain cohesive, motivated, and psychologically sound."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question."
+    },
+    {
+     "type": "notes",
+     "title": "THE RISE OF REMOTE WORK",
+     "lines": [
+      "The practice of telecommuting is now common in various fields, including the technology and (30)__________ sectors. For companies, a key advantage is a reduced need for physical office space. For employees, productivity can see a significant surge of up to (31)__________ percent. This increase is partly explained by the removal of the daily (32)________, with the saved time often being redirected into work. From a societal perspective, remote work promotes inclusivity by opening up job opportunities for groups such as caregivers and people living in (33)________ areas."
+     ]
+    },
+    {
+     "type": "instruction",
+     "text": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 34,
+       "q": "According to the text, what is a key psychological driver behind the increased productivity of remote workers?",
+       "options": [
+        "A) They face fewer interruptions from colleagues compared to an office environment.",
+        "B) They feel a sense of obligation to repay the company for the flexibility it provides.",
+        "C) Their performance is more easily and accurately measured through digital tools.",
+        "D) They have access to superior and more personalized technology in their home offices."
+       ]
+      },
+      {
+       "n": 35,
+       "q": "What does the author imply is a crucial responsibility for companies with a remote workforce?",
+       "options": [
+        "A) To subsidize the cost of home office equipment for all employees.",
+        "B) To actively prevent the potential for employee burnout through targeted support.",
+        "C) To decrease reliance on virtual meetings to combat screen fatigue.",
+        "D) To ensure all employees have equal access to high-speed internet."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "key": {
+  "1": "1 wall  2 construction  3 regulate  4 attacks  5 defense  6 many",
+  "2": "7 C  8 F  9 E  10 A  11 G  12 D  13 H  14 B",
+  "3": "15 C  16 D  17 G  18 H  19 B  20 E",
+  "4": "21 C  22 B  23 D  24 A  25 B  26 C  27 B  28 A  29 A",
+  "5": "30 legal  31 40  32 commute  33 isolated  34 B  35 B"
+ }
+}

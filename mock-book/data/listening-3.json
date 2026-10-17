@@ -1,0 +1,280 @@
+{
+ "skill": "listening",
+ "mock": 3,
+ "parts": [
+  {
+   "part": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 1,
+       "q": "",
+       "options": [
+        "A) Me too.",
+        "B) Can you?",
+        "C) Sure, you can."
+       ]
+      },
+      {
+       "n": 2,
+       "q": "",
+       "options": [
+        "A) Take bus 6.",
+        "B) It starts at 9 a.m. tomorrow.",
+        "C) It’s in the center."
+       ]
+      },
+      {
+       "n": 3,
+       "q": "",
+       "options": [
+        "A) OK, here it is.",
+        "B) No, that doesn’t suit you.",
+        "C) Sure, I’ll wait here."
+       ]
+      },
+      {
+       "n": 4,
+       "q": "",
+       "options": [
+        "A) In the school library.",
+        "B) Since 1997.",
+        "C) Before I was born."
+       ]
+      },
+      {
+       "n": 5,
+       "q": "",
+       "options": [
+        "A) You should take a short break.",
+        "B) Let’s get to work right now!",
+        "C) Don’t worry, they haven’t."
+       ]
+      },
+      {
+       "n": 6,
+       "q": "",
+       "options": [
+        "A) How about an ice-cream?",
+        "B) You need to wear your sweater.",
+        "C) Let’s eat some fresh pizza and chips."
+       ]
+      },
+      {
+       "n": 7,
+       "q": "",
+       "options": [
+        "A) When does it happen?",
+        "B) Where did you see that?",
+        "C) Who told you that?"
+       ]
+      },
+      {
+       "n": 8,
+       "q": "",
+       "options": [
+        "A) My hands are also firm.",
+        "B) Sounds like a boring person.",
+        "C) Can you expect anything?"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "School trip",
+     "lines": [
+      "● Teacher’s name: Turner",
+      "● They will visit by (9)__________",
+      "● The first activity they walk around (10)__________",
+      "● Students spend their free time in the (11)__________",
+      "● The lunch will be at (12)__________ together",
+      "● They will visit a (13)__________",
+      "● They should bring a (14)__________."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear people speaking in different situations. Match each speaker (1-4) to the place they are at(A-F). There are TWO EXTRA options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "matching",
+     "left": [
+      "15. Speaker 1 …",
+      "16. Speaker 2 …",
+      "17. Speaker 3 …",
+      "18. Speaker 4 …"
+     ],
+     "right": [
+      "A) In a swimming pool",
+      "B) At home",
+      "C) In a shopping centre",
+      "D) In a garden",
+      "E) In a restaurant",
+      "F) In a classroom"
+     ]
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There are THREE extra options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "image",
+     "src": "m3-map.png"
+    },
+    {
+     "type": "lines",
+     "items": [
+      "19. Bike racks …",
+      "20. Kitchen room …",
+      "21. Music room …",
+      "22. Shower room …",
+      "23. Restroom …"
+     ]
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract One\n*You hear a man and a woman discussing a new facility in their neighborhood.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 24,
+       "q": "What is the main conversation about?",
+       "options": [
+        "A) A new library and its features",
+        "B) A recent community event",
+        "C) Renovations at the local museum"
+       ]
+      },
+      {
+       "n": 25,
+       "q": "What is the woman concerned about?",
+       "options": [
+        "A) The lack of seating",
+        "B) There are too many people in the evenings",
+        "C) The opening hours are too short"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Two\n*You hear two friends talking about a coffee shop they visited.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 26,
+       "q": "What is the main conversation about?",
+       "options": [
+        "A) The menu options at a café",
+        "B) The location of a popular café",
+        "C) The size and atmosphere of a new coffee shop"
+       ]
+      },
+      {
+       "n": 27,
+       "q": "What did the man say about the new coffee shop?",
+       "options": [
+        "A) The service was slower",
+        "B) The prices were higher",
+        "C) The staff weren’t friendlier"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Three\n*You hear a conversation between two people discussing pets.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 28,
+       "q": "What is the main conversation about?",
+       "options": [
+        "A) The difficulty of taking care of a pet animal",
+        "B) Choosing the right breed for a family",
+        "C) Training a dog to behave indoors"
+       ]
+      },
+      {
+       "n": 29,
+       "q": "What was the woman's recommendation?",
+       "options": [
+        "A) Going for a smaller one",
+        "B) Buying a pet from a shelter",
+        "C) Hiring a professional trainer"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 6,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "MARKETING AND BRANDING",
+     "lines": [
+      "● A strong brand can help a company dominate its (30)__________.",
+      "● Apple products are considered more valuable because of their high (31)__________.",
+      "● Many brands focus less on selling logic and more on selling (32)__________.",
+      "● After drinking Coca-Cola, customers don’t notice the ingredients but experience a feeling of (33)__________.",
+      "● Online businesses track customer preferences using (34)__________ history.",
+      "● This data helps improve both the customer experience and overall (35)__________."
+     ]
+    }
+   ]
+  }
+ ]
+}

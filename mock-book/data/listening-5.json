@@ -1,0 +1,282 @@
+{
+ "skill": "listening",
+ "mock": 5,
+ "parts": [
+  {
+   "part": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet."
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 1,
+       "q": "",
+       "options": [
+        "A) Yes, I always play football.",
+        "B) I’m waiting for the menu.",
+        "C) No, I’m not hungry today."
+       ]
+      },
+      {
+       "n": 2,
+       "q": "",
+       "options": [
+        "A) Only on weekends.",
+        "B) I’m going to the park.",
+        "C) Football."
+       ]
+      },
+      {
+       "n": 3,
+       "q": "",
+       "options": [
+        "A) I’m not very hungry.",
+        "B) It’s nice.",
+        "C) I bought it last week."
+       ]
+      },
+      {
+       "n": 4,
+       "q": "",
+       "options": [
+        "A) I went shopping yesterday.",
+        "B) That’s my favorite song.",
+        "C) Take a little rest."
+       ]
+      },
+      {
+       "n": 5,
+       "q": "",
+       "options": [
+        "A) Maybe tomorrow.",
+        "B) I only make pasta.",
+        "C) I’m watching a movie now."
+       ]
+      },
+      {
+       "n": 6,
+       "q": "",
+       "options": [
+        "A) I watched a video.",
+        "B) I am hungry.",
+        "C) It’s very cold today."
+       ]
+      },
+      {
+       "n": 7,
+       "q": "",
+       "options": [
+        "A) Maybe next week’s weather is good.",
+        "B) I am working late today, sorry.",
+        "C) Yes, I like pizza."
+       ]
+      },
+      {
+       "n": 8,
+       "q": "",
+       "options": [
+        "A) No, mine is black.",
+        "B) I live near the station.",
+        "C) It costs about ten dollars."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "MUSIC FESTIVAL",
+     "lines": [
+      "● Will be held in where: (9)__________ Park.",
+      "● Duration: (10)__________ days.",
+      "● The cost of ticket for under 12-year-old children: (11)__________.",
+      "● Bring along: chair or (12)__________.",
+      "● The gates are scheduled to open (13)__________ a.m.",
+      "● For information:www.(14)__________com."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear people speaking in different situations. Match each speaker (1-4) to their descriptions about using the internet(A-F). There are TWO EXTRA options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "matching",
+     "left": [
+      "15. Speaker 1 …",
+      "16. Speaker 2 …",
+      "17. Speaker 3 …",
+      "18. Speaker 4 …"
+     ],
+     "right": [
+      "A) It makes people lose real social connections.",
+      "B) It helps me earn money and work from anywhere.",
+      "C) It’s hard to know what information to trust.",
+      "D) It’s great for learning and developing new skills.",
+      "E) It wastes too much time on unimportant things.",
+      "F) It makes shopping quicker and more convenient."
+     ]
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There are THREE extra options which you do not need to use. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "image",
+     "src": "m5-map.png"
+    },
+    {
+     "type": "lines",
+     "items": [
+      "19. Car Park …",
+      "20. Staff room",
+      "21. Shower room …",
+      "22. Outdoor gym area …",
+      "23. Cycling area"
+     ]
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract. Mark your answers on the answer sheet."
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract One\n*You will hear an interview with a woman called Adriana Moretti, who works as a wildlife photographer.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 24,
+       "q": "What disadvantage does Adriana say her work has?",
+       "options": [
+        "A) She sometimes feels lonely when she is working abroad.",
+        "B) She doesn’t see her family as often as she would like to.",
+        "C) She always has to go where the agency tells her."
+       ]
+      },
+      {
+       "n": 25,
+       "q": "Adriana believes it is becoming harder to get work as a wildlife photographer because …",
+       "options": [
+        "A) so many photos of wildlife are available on the Internet.",
+        "B) there is a lot of competition for jobs in wildlife photography.",
+        "C) people are becoming less interested in wildlife."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Two\n*You will hear an interview with travel writer Amy McCarthy about her first experience of travelling abroad.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 26,
+       "q": "When she was at the airport, Amy felt …",
+       "options": [
+        "A) glad she had taken sandwiches with her.",
+        "B) worried that she might miss her plane.",
+        "C) annoyed that she had spent so much."
+       ]
+      },
+      {
+       "n": 27,
+       "q": "Amy’s friend Carla annoyed Amy because Carla …",
+       "options": [
+        "A) sometimes left dirty dishes in the living room.",
+        "B) often forgot her keys when she went out.",
+        "C) wouldn’t do any food shopping."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "subtitle",
+     "text": "Extract Three\n*You will hear an interview with someone who was involved in the music business.*"
+    },
+    {
+     "type": "mcq",
+     "items": [
+      {
+       "n": 28,
+       "q": "What does James say about his ideas?",
+       "options": [
+        "A) Some of them are not very realistic.",
+        "B) He expects to have good ones all the time.",
+        "C) He makes sure that he doesn’t forget them."
+       ]
+      },
+      {
+       "n": 29,
+       "q": "James’s advice to listeners who might want to go into business is to …",
+       "options": [
+        "A) forget about past problems.",
+        "B) learn from past mistakes.",
+        "C) take big risks."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "part": 6,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "ARCHERY",
+     "lines": [
+      "● Anne used to shoot arrows from a bow made of plastic when she was a child.",
+      "● Anne only had time to read about the (30)__________ of archery before the beginner’s archery course.",
+      "● Anne’s archery course took place in a (31)__________.",
+      "● Anne was surprised that learning to (32)__________ properly was so difficult.",
+      "● The teacher told Anne she needed to relax her shoulders.",
+      "● One of Anne’s arrows went into a (33)__________ by accident.",
+      "● During the breaks, Ann was happy to look at the (34)__________ and talk to other people.",
+      "● Some of the people on Anne’s course said that a TV series had inspired them to try archery.",
+      "● Anne is trying to persuade her (35)__________ to do an archery course with her."
+     ]
+    }
+   ]
+  }
+ ]
+}
