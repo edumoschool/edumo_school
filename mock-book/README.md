@@ -1,11 +1,11 @@
 # Multilevel Mock Tests — Listening & Reading
 
-Two complete Uzbek Multilevel (CEFR) mock tests (Listening Parts 1–6, Reading Parts 1–5) from the
-"Multilevel with Halikulov" mock PDFs in `src/`, laid out in a compact **two-column A4** design with the
+Five complete Uzbek Multilevel (CEFR) mock tests (Listening Parts 1–6, Reading Parts 1–5) from the
+"Multilevel with Halikulov" mock PDFs (mocks 1–2) and `src/M3.pdf` ("Multilevel Zone", mocks 3–5) in `src/`, laid out in a compact **two-column A4** design with the
 Impulse / Unlock 5 style cover (white + blue band, 3D illustration, Uzbek girih ornaments).
 
-Contents: cover · how to use (with audio channel QR) · Mock Test 1 (Listening, Reading) · Mock Test 2 (Listening, Reading)
-· answer sheet for each mock · answer key (reading solved; listening blanks to fill from the audio) · back cover.
+Contents: cover · how to use (with audio channel QR) · Mock Tests 1–5 (Listening, Reading, then a Multilevel answer sheet)
+· answer key (reading solved; listening blanks to fill from the audio) · back cover.
 
 ## Build
 ```
