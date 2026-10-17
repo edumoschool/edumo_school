@@ -32,7 +32,7 @@ TASK = {
         "Read the context line of each extract — who is speaking and where?",
         "There are two questions per extract and they follow the order of the conversation.",
         "Questions often test opinion, attitude or purpose — listen to the whole idea, not single words."]),
-    ("listening", 6): ("Complete the lecture notes", [
+    ("listening", 6): ("Lecture notes", [
         "Read the notes first and predict the missing words.",
         "Write no more than ONE WORD for each answer, spelled correctly.",
         "The lecture is long — keep your place by following the notes line by line."]),
@@ -119,7 +119,7 @@ def answer_key(parts):
             rows += f'<tr><th>Test {t["test"]}</th><td>{md(ans)}</td></tr>'
         body += f'<div class="kmock"><h3>{SKILL[d["skill"]][1].title()} · Part {d["part"]}</h3><table>{rows}</table></div>'
     return (f'<section class="page flow" data-run="Answer key"><div class="banner small"><div class="girih"></div><div class="bl">'
-            f'<small>ALL PARTS</small><h1>ANSWER KEY</h1></div><div class="br"><span>Fill in the listening answers from the audio</span></div></div>'
+            f'<small>ALL PARTS</small><h1>ANSWER KEY</h1></div><div class="br"><span>Check your answers · blank lines: fill in from the audio</span></div></div>'
             f'<div class="cols"><div class="col">{split(body, "keys")}</div><div class="col"></div></div>'
             f'<footer><span>Multilevel Practice Book · Answer key</span><span class="pno"></span></footer></section>')
 

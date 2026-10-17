@@ -1,0 +1,206 @@
+{
+ "skill": "listening",
+ "part": 6,
+ "tests": [
+  {
+   "test": 1,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "A WEB DEVELOPER",
+     "lines": [
+      "● He studied computer science at a university.",
+      "● After his graduation, he worked as a freelancer and now he works with a (30)__________.",
+      "● He believes that organization is crucial for developers, so he starts his work with arrangements.",
+      "● He usually divides his projects into (31)__________.",
+      "● After planning, he puts his mind on the pieces of a website which (32)__________ see and interact with.",
+      "● Then, he takes a break for a while.",
+      "● He may get a (33)__________ to eat.",
+      "● Debugging, he claims, needs much attention to detail.",
+      "● When debugging, he fixes problems in the (34)__________.",
+      "● Optimizing means, improving loading times and checking the efficiency of the site.",
+      "● To optimize a site, he may compress images or refine the code.",
+      "● He notes the process as (35)__________.",
+      "● At the end of the day, he communicates with his clients."
+     ]
+    }
+   ]
+  },
+  {
+   "test": 2,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "THE GRAND UNION CANAL",
+     "lines": [
+      "● The canals were built despite the fact that there was no public (30)__________ and very little technology.",
+      "● From 1790 to 1929, there were many canals that were (31)__________ with each other but which were not uniform in size.",
+      "● The new union of canals provided a (32)__________ link between major industrial cities.",
+      "● There are plenty of natural habitats for a variety of wildlife on and around the canals.",
+      "● Walkers can go to the nearest waterway office to get information on circular (33)__________ so they can start and end at the same place.",
+      "● Anglers can fish in the canals and (34)__________.",
+      "● If you want to go fishing, you must buy a rod license.",
+      "● The waterways authority request that people are (35)__________ towards the canal users."
+     ]
+    }
+   ]
+  },
+  {
+   "test": 3,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "MICROWAVE",
+     "lines": [
+      "● The invention of the microwave oven began when a chocolate peanut bar (30)__________ in Percy Spencer’s pocket.",
+      "● Spencer had previously invented a method for mass-producing the tubes used in radar equipment.",
+      "● Spencer’s first experiment involved putting (31)__________ near to some radar equipment.",
+      "● In his next experiment, an egg was put into a kettle and it (32)__________.",
+      "● The first microwave oven was set up in (33)__________ in Boston in 1946.",
+      "● The first microwave oven got its name as a result of a competition at the company.",
+      "● One problem with the first microwave oven was that (34)__________ did not change colour in it.",
+      "● When a microwave oven that could be placed on top of a (35)__________ was produced, sales began to rise."
+     ]
+    }
+   ]
+  },
+  {
+   "test": 4,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "VANILLA",
+     "lines": [
+      "● Susie says that, despite its cost, vanilla is the world’s most (30)__________ spice.",
+      "● The vanilla plant is originally from Mexico, where it depends on a local (31)__________ for its existence.",
+      "● Susie says the term green gold is used to talk about vanilla plants on the island.",
+      "● Recently the vanilla harvest has been affected by (32)__________ and this impacts on the price.",
+      "● These days the vanilla plants are covered by (33)__________ for protection.",
+      "● Sometimes there are small holes in the vanilla seed pods to show which farm they come from.",
+      "● The vanilla pods are sun-dried and then (34)__________ briefly before being packed in boxes.",
+      "● The boxes used to store the pods are wrapped in (35)__________ to keep the heat in."
+     ]
+    }
+   ]
+  },
+  {
+   "test": 5,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "ROBOTS LIKE TERMITES",
+     "lines": [
+      "● Jim says termites differ from bees in that a (30)__________ is not responsible for organising their building work.",
+      "● Jim uses the word (31)__________ to refer to the group of robots he’s created to function as independent units.",
+      "● Jim observed termites depositing partially consumed (32)__________ in shared habitats, which activated a response from other termites.",
+      "● Jim states that the robots receive enough feedback to help them correct any errors they make.",
+      "● Jim got a single robot to finish the construction of a (33)__________ when publicly demonstrating how simple structure building is performed.",
+      "● Jim predicts that his robots will soon be able to move (34)__________ into position to help people cope with the threat of floods.",
+      "● Jim compares both termites and his robots to brain cells, in that they all create a superior form of (35)__________."
+     ]
+    }
+   ]
+  },
+  {
+   "test": 6,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "PROTECTING THE SEAS FROM POLLUTION",
+     "lines": [
+      "● The organisation Sarah works for is called Water response.",
+      "● Sarah was surprised to learn that seabirds have been known to eat light (30)__________ on occasions.",
+      "● Sarah says that plastic can be compared to a (31)__________ because of the way it absorbs dangerous substances.",
+      "● Sarah learned that the toxins in plastic harm the (32)__________ system of many creatures.",
+      "● Sarah explains how the breakdown of plastic items into small particles is caused by (33)__________ and the effects of the sun.",
+      "● Sarah says that most plastic in the sea has its origin in (34)__________ sources.",
+      "● Sarah gives the example of (35)__________ as something to use instead of household detergents.",
+      "● Sarah strongly advises car owners to prevent oil leaking from their vehicles."
+     ]
+    }
+   ]
+  },
+  {
+   "test": 7,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer."
+    },
+    {
+     "type": "notes",
+     "title": "WORKING WITH CHOCOLATE",
+     "lines": [
+      "● Janine trained as a chemist before working for her current employer.",
+      "● Janine found her background particularly helpful when working on a project to put (30)__________ into chocolate.",
+      "● Janine uses the word (31)__________ to describe chocolate as a substance to work with.",
+      "● Janine mentions the method of (32)__________ the cocoa beans as a variable affecting the taste of her chocolate.",
+      "● Janine says that ideas for new types of chocolate generally come from her company’s (33)__________ department.",
+      "● Janine says the staff responsible for packaging play a surprisingly important role in developing a new chocolate product.",
+      "● Janine gives the example of (34)__________ as a group that need to be considered when designing the label for a product.",
+      "● Janine thinks that (35)__________ is the most essential quality needed for her job."
+     ]
+    }
+   ]
+  },
+  {
+   "test": 8,
+   "blocks": [
+    {
+     "type": "instruction",
+     "audio": true,
+     "text": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer."
+    },
+    {
+     "type": "subtitle",
+     "text": "You will hear a man called Carl Pitman, giving a group of tourists practical advice about learning the sport of surfing."
+    },
+    {
+     "type": "notes",
+     "title": "LEARNING THE SPORT OF SURFING",
+     "lines": [
+      "● Carl recommends the national park as the best place for learning to surf in his area.",
+      "● Carl uses the term (30)__________ to describe the distance between waves.",
+      "● Carl advises getting a wetsuit that has a (31)__________ fit.",
+      "● Carl says it’s important to check the quantity of material beneath the (32)__________ of a new wetsuit.",
+      "● Carl says that the wetsuit, (33)__________ and footwear all need washing regularly.",
+      "● According to Carl, a hanger made of (34)__________ is best for storing wetsuits.",
+      "● Beginners most often damage surfboards through contact with their knees.",
+      "● Carl suggests using a (35)__________ as the first step in removing wax from a surfboard."
+     ]
+    }
+   ]
+  }
+ ]
+}

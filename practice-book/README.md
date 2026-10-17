@@ -6,4 +6,4 @@ The exam is trained part by part. Each part opens with a strategy box, then has 
 - Answer keys (optional): `data/keys/*.json`, e.g. `{"listening-1-1": "1 A  2 B ..."}`. Missing keys print as blank lines.
 - Build: `./build.sh` → `dist/Multilevel_Practice_Book.pdf` and `dist/Practice_Cover_spread_A4.pdf`
 
-Contents now: Listening Parts 1–5, 8 tests each. Still to add: Listening Part 6 and Reading Parts 1–5.
+Contents now: Listening Parts 1–6, 8 tests each. Answer keys are in for Parts 2–6. Still to add: the Part 1 key and Reading Parts 1–5.
