@@ -1,0 +1,268 @@
+{
+  "n": 5,
+  "topic": "Fitness club closure",
+  "emoji": "🏋️",
+  "situation": "You are a member of a fitness club. You received an email from the manager of the club.",
+  "email": {
+    "kind": "email",
+    "greeting": "Dear Member,",
+    "body": [
+      "I am sorry to inform you that the fitness center is closing for a month from next Monday. The building needs some repairs and we also plan to install some new equipment. What else do you think should be changed? As the center will not be operating for a month, what kind of alternative activities should we organize in the meantime? We appreciate your opinion very much."
+    ],
+    "signoff": "",
+    "from": "The Manager"
+  },
+  "task11": "Write a letter to your friend, who is also a member of the club. Write about your feelings and what you think the club management should do about the situation. Write about 50 words.",
+  "task12": "Write a letter to the manager. Write about your feelings and what you think the club management should do about the situation. Write about 120-150 words.",
+  "part2": {
+    "context": "You are participating in an online discussion for language learners.",
+    "question": "Is it better to live in a big city or a small town?",
+    "instruction": "Post your response, giving reasons and examples. Write 180-200 words."
+  },
+  "read_qs": [
+    {
+      "q": "How long will the fitness center be closed?",
+      "a": "For a month, from next Monday."
+    },
+    {
+      "q": "Why is the fitness center closing?",
+      "a": "The building needs repairs and new equipment will be installed."
+    },
+    {
+      "q": "What two things does the manager ask the members?",
+      "a": "What else should be changed, and what alternative activities to organize during the closure."
+    },
+    {
+      "q": "Who wrote the email?",
+      "a": "The manager of the fitness club."
+    }
+  ],
+  "plan": {
+    "t11": [
+      "How do you feel about the closure?",
+      "Why is the club important to you?",
+      "What should the management do – an idea for activities"
+    ],
+    "t12": [
+      "Paragraph 1 – thank the manager + your feelings about the closure",
+      "Paragraph 2 – suggest alternative activities for the month",
+      "Paragraph 3 – other changes or requests (e.g. updates, equipment)",
+      "Closing – appreciate their efforts + look forward to returning"
+    ],
+    "p2": [
+      "Your opinion in one sentence – city or town?",
+      "Advantage of big cities + example (culture, jobs)",
+      "Disadvantage of city life / advantage of small towns + example",
+      "Conclusion – it depends, but your final choice"
+    ]
+  },
+  "register": [
+    {
+      "phrase": "I hope you're doing well",
+      "type": "informal"
+    },
+    {
+      "phrase": "In light of this situation",
+      "type": "formal"
+    },
+    {
+      "phrase": "I feel quite disappointed",
+      "type": "informal"
+    },
+    {
+      "phrase": "Thank you for your email regarding",
+      "type": "formal"
+    },
+    {
+      "phrase": "What do you think?",
+      "type": "informal"
+    },
+    {
+      "phrase": "it would be beneficial",
+      "type": "formal"
+    },
+    {
+      "phrase": "Take care",
+      "type": "informal"
+    },
+    {
+      "phrase": "I appreciate your efforts",
+      "type": "formal"
+    }
+  ],
+  "p2_gaps": [
+    "Firstly",
+    "For example",
+    "Secondly",
+    "For instance",
+    "However",
+    "Ultimately"
+  ],
+  "samples": {
+    "t11": "Dear Jack,\nI hope you're doing well! I just received the email from the club manager about the fitness center closing for a month. I feel quite disappointed since I rely on it for my workouts. I think the management should consider offering online classes or outdoor group sessions during this time to keep us engaged. What do you think?\nTake care,\nAlex",
+    "t12": "Dear Manager,\n\nThank you for your email regarding the temporary closure of the fitness center. While I understand that repairs and new equipment are essential, I must admit I feel disappointed about the closure. The fitness center is a vital part of my routine, and I believe many members share this sentiment.\n\nIn light of this situation, I suggest that the management consider organizing alternative activities, such as outdoor fitness classes or virtual training sessions. These options would help maintain our motivation and foster a sense of community among members. Additionally, it would be beneficial to have regular updates on the progress of the repairs and any new equipment being installed.\n\nI appreciate your efforts in improving our fitness experience and look forward to returning to an even better facility soon.\n\nBest regards,\nAlex",
+    "p2": "In my opinion, both big cities and small towns have their unique advantages, but I believe that living in a big city offers more opportunities for personal and professional growth.\n\nFirstly, big cities are often hubs of diversity and culture. They provide access to a wide range of cultural experiences, including museums, theaters, and international cuisine. For example, in cities like New York or London, one can experience art from various cultures and attend performances from around the world. This cultural richness can greatly enhance one’s understanding of different perspectives.\n\nSecondly, big cities typically offer better job prospects. With numerous industries and companies located in urban areas, individuals have a greater chance of finding employment in their desired field. For instance, someone interested in technology may find better opportunities in a city like San Francisco, which is known for its thriving tech scene.\n\nHowever, it’s important to acknowledge the downsides of city living, such as higher costs of living and noise. In contrast, small towns often provide a sense of community and tranquility that can be appealing.\n\nUltimately, the choice depends on personal preferences and priorities, but for those seeking growth and adventure, big cities are often the better option."
+  },
+  "vocab": [
+    [
+      "disappointed",
+      "xafa"
+    ],
+    [
+      "closure",
+      "yopilish"
+    ],
+    [
+      "management",
+      "boshqaruv"
+    ],
+    [
+      "repairs",
+      "ta'mirlar"
+    ],
+    [
+      "equipment",
+      "jihozlar"
+    ],
+    [
+      "routine",
+      "tartib"
+    ],
+    [
+      "activities",
+      "faoliyatlar"
+    ],
+    [
+      "motivation",
+      "motivatsiya"
+    ],
+    [
+      "community",
+      "jamoa"
+    ],
+    [
+      "updates",
+      "yangilanishlar"
+    ],
+    [
+      "fitness center",
+      "sport zali"
+    ],
+    [
+      "temporary closure",
+      "vaqtincha yopilish"
+    ],
+    [
+      "organizing alternative activities",
+      "muqobil faoliyatlarni tashkil etish"
+    ],
+    [
+      "outdoor fitness classes",
+      "ochiq havodagi sport darslari"
+    ],
+    [
+      "virtual training sessions",
+      "onlayn mashg'ulotlar"
+    ],
+    [
+      "maintain our motivation",
+      "motivatsiyamizni saqlash"
+    ],
+    [
+      "sense of community",
+      "jamoa hissi"
+    ],
+    [
+      "regular updates",
+      "muntazam yangilanishlar"
+    ],
+    [
+      "improving our fitness experience",
+      "sport tajribamizni yaxshilash"
+    ],
+    [
+      "returning to an even better facility",
+      "yanada yaxshi muassasaga qaytish"
+    ],
+    [
+      "opportunities",
+      "imkoniyatlar"
+    ],
+    [
+      "diversity",
+      "xilma-xillik"
+    ],
+    [
+      "hub",
+      "markaz, muhim qism"
+    ],
+    [
+      "employment",
+      "ishga joylashish"
+    ],
+    [
+      "industry",
+      "sanoat"
+    ],
+    [
+      "community",
+      "jamoa"
+    ],
+    [
+      "tranquility",
+      "tinchlik"
+    ],
+    [
+      "perspective",
+      "nuqtai nazar"
+    ],
+    [
+      "experience",
+      "tajriba"
+    ],
+    [
+      "growth",
+      "o'sish"
+    ],
+    [
+      "personal and professional growth",
+      "shaxsiy va kasbiy o'sish"
+    ],
+    [
+      "cultural experiences",
+      "madaniy tajribalar"
+    ],
+    [
+      "job prospects",
+      "ish imkoniyatlari"
+    ],
+    [
+      "thriving tech scene",
+      "rivojlanayotgan texnologiya muhiti"
+    ],
+    [
+      "sense of community",
+      "jamoa hissi"
+    ],
+    [
+      "higher costs of living",
+      "yashash xarajatlarining yuqoriligi"
+    ],
+    [
+      "access to a wide range",
+      "keng doiraga kirish"
+    ],
+    [
+      "enhance understanding",
+      "tushunishni oshirish"
+    ],
+    [
+      "better opportunities",
+      "yaxshiroq imkoniyatlar"
+    ],
+    [
+      "personal preferences and priorities",
+      "shaxsiy afzalliklar va ustuvorliklar"
+    ]
+  ]
+}

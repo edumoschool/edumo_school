@@ -1,0 +1,122 @@
+EXERCISE 1
+Exercise-1
+PART 1
+You are a member of a local community library. You received an email from the head librarian.
+
+Dear Member,
+I hope this message finds you well. I regret to inform you that the library will be closed for two
+weeks starting next Friday for renovations and upgrades to our facilities. We aim to enhance your
+reading experience. In the meantime, we would love to hear your suggestions on what new
+programs or services we could offer upon reopening. Your input is invaluable to us.
+Best regards,
+The Head Librarian.
+
+Task 1.1
+Write a letter to your friend, who is also a member of the library. Write about your feelings and
+what you think the library management should do about the situation. Write about 50 words.
+
+Task 1.2
+Write a letter to the head librarian. Write about your feelings and what you think the library
+management should do about the situation. Write about 120-150 words.
+
+PART 2
+You are participating in an online discussion for language learners.
+The question is: “What are the advantages and disadvantages of online learning compared to
+traditional classroom learning?”
+Post your response, giving reasons and examples.
+Write 180-200 words.
+
+TASK:
+
+TASK:
+
+TASK:
+
+Sample Answers
+Task 1.1
+Hi Alex,
+Can you believe the library's closing for two weeks for renovations? I'm a bit gutted as I just
+started a new book series! Honestly, it's inconvenient, but hopefully, the upgrades will be worth
+it.
+Maybe we can try that new coffee shop during that time? Let me know what you think.
+Best,
+Alex
+Task 1.2
+Dear Head Librarian,
+Thank you for informing us about the upcoming renovations. While I understand the necessity for
+upgrades to enhance the member experience, I must admit to feeling a degree of disappointment
+regarding the two-week closure. As an avid reader, the library is a vital resource for me, and its
+temporary absence will present a challenge, particularly as I was looking forward to continuing
+with some current reading material.
+However, I do appreciate the proactive approach to seeking member input for future programs
+and services. Upon reopening, I would strongly suggest considering initiatives such as expanding
+the digital collection, perhaps offering more e-books and audiobooks. Additionally, introducing
+workshops on digital literacy or author talks could be highly beneficial and popular among
+members. Ensuring clear communication about the reopening date and any new offerings will also
+be key to a smooth transition.
+Thank you again for your commitment to improving the library.
+Sincerely,
+Alex
+
+1.Library-Kutubxona
+2.Renovations-Ta'mirlash
+3.Upgrades-Yangilashlar
+4.Member-A'zo
+5.Suggestions-Takliflar
+6.Programs-Dasturlar
+7.Services-Xizmatlar
+8.Experience-Tajriba
+9.Facilities-Inshootlar,qulayliklar
+10.Closure-Yopilish
+
+11.Inconvenient-Noqulay
+12.Resource-Resurs,manba
+13.Collection-To'plam
+14.Digital-Raqamli
+15.Literacy-Savodxonlik
+16.Workshops-Mashg'ulotlar
+17.Communication-Muloqot
+18.Transition-O'tish,o'zgarishdavri
+19.Sincerely-Samimiy
+20.Bestregards-Engyaxshitilaklarbilan
+
+Part-2:
+That's a really pertinent question. Having experienced both, I can see distinct advantages and
+disadvantages to online learning compared to traditional classroom settings.
+On the plus side, flexibility is arguably the biggest benefit of online learning. You can often access
+materials and lectures at any time that suits your schedule, which is invaluable for those juggling
+work or other commitments. For instance, I can rewatch a tricky grammar explanation as many
+times as needed, something impossible in a live class. Furthermore, the sheer volume of resources
+available online, from interactive exercises to vast digital libraries, is often far greater than what a
+single classroom can offer.
+However, traditional classrooms offer a unique social dynamic that online learning struggles to
+replicate. The face-to-face interaction with both the teacher and peers fosters immediate feedback
+and spontaneous discussion, which can significantly boost understanding and motivation. I've
+found that in-person group activities really help solidify vocabulary and speaking practice in a way
+that virtual breakout rooms sometimes don't quite capture. The lack of direct, immediate human
+connection can sometimes lead to feelings of isolation for online learners.
+Ultimately, I believe the ideal scenario might involve a blended approach, leveraging the
+convenience of online resources with the interactive benefits of in-person instruction.
+
+1. Online learning - Onlayn ta'lim
+2. Traditional classroom learning - An'anaviy sinf xonasi ta'limi
+3. Advantages - Afzalliklar
+4. Disadvantages - Kamchiliklar
+5. Compared to - Solishtirganda
+6. Flexible - Moslashuvchan
+7. Schedule - Jadval
+8. Access - Kirish, foydalanish
+9. Materials - Materiallar
+10. Lectures - Ma'ruzalar
+11. Invaluable - Qimmatbaho, bebaho
+12. Commitments - Majburiyatlar, vazifalar
+13. Interact / Interaction - O'zaro aloqa / O'zaro ta'sir
+14. Feedback - Fikr bildirish, javob
+15. Spontaneous discussion - To'satdan, o'z-o'zidan bo'ladigan muhokama
+16. Motivation - Motivatsiya, rag'bat
+17. Practise - Mashq qilish, amaliyot
+18. Isolation - Ajralish, yolg'izlik
+19. Blended approach - Aralash yondashuv
+20. Instruction - Ko'rsatma, ta'lim berish
+
+

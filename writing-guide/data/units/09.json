@@ -1,0 +1,189 @@
+{
+  "n": 9,
+  "topic": "Library job offer",
+  "emoji": "💼",
+  "situation": "You live near the local library and are unemployed. And you received an email from the library manager that they are offering you a job in their library.",
+  "email": {
+    "kind": "email",
+    "greeting": "Dear Alex,",
+    "body": [
+      "As we have expanded the library, we are looking for a hard worker for our team. We have been told that you are unemployed currently, and you have some experience working in a library so we are contacting you. What do you think about working in our library?",
+      "We appreciate your opinion very much."
+    ],
+    "signoff": "",
+    "from": "The Manager"
+  },
+  "task11": "Write a letter to your friend. Tell them about this job offer. Write about your feelings and whether you accept this offer or not. Write about 50 words.",
+  "task12": "Write a letter to the manager. Write about your feelings and whether you accept this offer or not. Write about 120-150 words.",
+  "part2": {
+    "context": "You are participating in an online discussion for language learners.",
+    "question": "Should children learn a foreign language from the time they start school or it is better to wait until a child is at secondary school?",
+    "instruction": "Post your response, giving reasons and examples. Write 180-200 words."
+  },
+  "read_qs": [
+    {
+      "q": "Why is the library looking for a new worker?",
+      "a": "Because it has expanded."
+    },
+    {
+      "q": "What kind of person does the library want for its team?",
+      "a": "A hard worker."
+    },
+    {
+      "q": "Why did the manager contact Alex?",
+      "a": "Alex is unemployed and has some experience working in a library."
+    },
+    {
+      "q": "What does the manager want to know?",
+      "a": "What Alex thinks about working in the library."
+    }
+  ],
+  "plan": {
+    "t11": [
+      "Share the news about the job offer",
+      "How do you feel about it?",
+      "Will you accept it? Why?"
+    ],
+    "t12": [
+      "Paragraph 1 – thank the manager + your feelings about the offer",
+      "Paragraph 2 – your experience and what you can bring to the team",
+      "Paragraph 3 – accept the offer + ask to discuss the details",
+      "Closing – thank them again and say you look forward to their reply"
+    ],
+    "p2": [
+      "Your opinion in one sentence – start early or wait?",
+      "Main reason + example (young children learn sounds easily)",
+      "Possible problem with starting early + how to solve it",
+      "Conclusion – sum up your view"
+    ]
+  },
+  "register": [
+    {
+      "phrase": "I hope you’re doing well!",
+      "type": "informal"
+    },
+    {
+      "phrase": "I would like to formally accept the job offer",
+      "type": "formal"
+    },
+    {
+      "phrase": "I feel thrilled about it",
+      "type": "informal"
+    },
+    {
+      "phrase": "I appreciate your consideration of my situation",
+      "type": "formal"
+    },
+    {
+      "phrase": "I’m leaning towards accepting the offer",
+      "type": "informal"
+    },
+    {
+      "phrase": "Please let me know when we can meet to finalize the arrangements",
+      "type": "formal"
+    },
+    {
+      "phrase": "Let’s catch up soon!",
+      "type": "informal"
+    },
+    {
+      "phrase": "I look forward to hearing from you soon",
+      "type": "formal"
+    }
+  ],
+  "p2_gaps": [
+    "Both approaches have their merits",
+    "The primary benefit of",
+    "For example",
+    "However",
+    "The key is",
+    "For that reason"
+  ],
+  "samples": {
+    "t11": "Dear Jack,\nI hope you’re doing well! I received an exciting job offer from the local library where I live. They want me to join their team, and I feel thrilled about it since I have some experience working in a library. I think this could be a great opportunity for me, and I’m leaning towards accepting the offer.\nLet’s catch up soon!\nBest,\nAlex",
+    "t12": "Dear Manager,\n\nThank you for your email regarding the job offer at the library. I am very excited about the opportunity to work with your team. Having some previous experience in a library, I believe I can contribute positively to the expansion efforts.\n\nI appreciate your consideration of my situation as an unemployed individual. Working in the library would not only provide me with valuable experience but also allow me to engage with the community and support others in their learning journeys.\n\nI would like to formally accept the job offer and am eager to discuss the details further. Please let me know when we can meet to finalize the arrangements.\n\nThank you once again for this opportunity. I look forward to hearing from you soon.\n\nSincerely,\nAlex",
+    "p2": "This is a classic debate: should kids dive into a foreign language right when they start primary school, or is it better to wait until they reach secondary school? Both approaches have their merits, but I personally believe that starting early offers significant advantages.\n\nThe primary benefit of early language learning is that young children's brains are incredibly receptive to new sounds and structures. They are less inhibited and more willing to experiment with pronunciation, which is crucial for developing fluency. Think about how easily toddlers pick up their native language – this plasticity is a window of opportunity. For example, children who start learning a language like Spanish in primary school often develop a more natural accent and a deeper intuitive grasp of grammar compared to those who start years later.\n\nHowever, I do acknowledge that starting too early without proper resources or engaging methods can be difficult. The key is to make early language learning fun and immersive, not a chore. This could involve songs, games, and interactive activities.\n\nFor that reason, if primary schools can provide this kind of engaging environment, then starting early truly sets children up for greater success in the long run, providing them with a valuable skill for life."
+  },
+  "vocab": [
+    [
+      "exciting job offer",
+      "qiziqarli ish taklifi"
+    ],
+    [
+      "join the team",
+      "jamoaga qo'shilish"
+    ],
+    [
+      "previous experience",
+      "oldingi tajriba"
+    ],
+    [
+      "contribute positively",
+      "ijobiy hissa qo'shish"
+    ],
+    [
+      "engage with the community",
+      "jamiyat bilan aloqada bo'lish"
+    ],
+    [
+      "support others",
+      "boshqalarga yordam berish"
+    ],
+    [
+      "formally accept",
+      "rasmiy ravishda qabul qilish"
+    ],
+    [
+      "discuss the details",
+      "tafsilotlarni muhokama qilish"
+    ],
+    [
+      "eager to discuss",
+      "muhokamaga intilish"
+    ],
+    [
+      "valuable experience",
+      "qimmatbaho tajriba"
+    ],
+    [
+      "foreign language",
+      "chet tili"
+    ],
+    [
+      "start early",
+      "erta boshlamoq"
+    ],
+    [
+      "significant advantages",
+      "kattakon afzalliklar / sezilarli ustunliklar"
+    ],
+    [
+      "language learning",
+      "til o'rganish"
+    ],
+    [
+      "new sounds and structures",
+      "yangi tovushlar va tuzilmalar"
+    ],
+    [
+      "develop fluency",
+      "ravonlikni rivojlantirish / silliq gapira olishni o'stirish"
+    ],
+    [
+      "native language",
+      "ona tili"
+    ],
+    [
+      "window of opportunity",
+      "imkoniyat oynasi / qulay fursat"
+    ],
+    [
+      "engaging methods",
+      "qiziqarli usullar / jalb qiluvchi uslublar"
+    ],
+    [
+      "valuable skill",
+      "qimmatli mahorat / foydali ko'nikma"
+    ]
+  ]
+}

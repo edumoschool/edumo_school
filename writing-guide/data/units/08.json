@@ -1,0 +1,188 @@
+{
+  "n": 8,
+  "topic": "Noisy neighbour",
+  "emoji": "🔊",
+  "situation": "You live in a high-rise building, and you received a complaint letter from your neighbor.",
+  "email": {
+    "kind": "complaint",
+    "greeting": "Dear Neighbor,",
+    "body": [
+      "I am sorry to inform you that your disturbance made some inconveniences for me and my family last night. You should consider other neighbors when you hold any gatherings in your flat. I hope that you will not cause loud noise anymore. I really appreciate your future actions to prevent such noise."
+    ],
+    "signoff": "Warm regards,",
+    "from": "Mr. Edward"
+  },
+  "task11": "Write a letter to your friend, who is also your neighbor. Write about your feelings about this complaint letter and what plans you have to prevent such inconveniences. Write about 50 words.",
+  "task12": "Write a letter to your neighbor. Write about your feelings about this complaint letter and what plans you have to prevent such inconveniences. Write about 120-150 words.",
+  "part2": {
+    "context": "You are participating in an online discussion for language learners.",
+    "question": "Should students not be allowed to use smartphones at schools?",
+    "instruction": "Post your response, giving reasons and examples. Write 180-200 words."
+  },
+  "read_qs": [
+    {
+      "q": "Who wrote the letter?",
+      "a": "Mr. Edward, your neighbor."
+    },
+    {
+      "q": "When did the disturbance happen?",
+      "a": "Last night."
+    },
+    {
+      "q": "What caused the problem?",
+      "a": "Loud noise from a gathering in your flat."
+    },
+    {
+      "q": "What does Mr. Edward want you to do?",
+      "a": "Consider other neighbors and not cause loud noise anymore."
+    }
+  ],
+  "plan": {
+    "t11": [
+      "How do you feel about the complaint?",
+      "What did you want from the gathering?",
+      "Two things you will do next time"
+    ],
+    "t12": [
+      "Paragraph 1 – thank him + apologize for the noise",
+      "Paragraph 2 – your plans for future gatherings",
+      "Paragraph 3 – why good relations with neighbors matter to you",
+      "Closing – thank him for understanding"
+    ],
+    "p2": [
+      "Your opinion in one sentence (ban or allow with rules?)",
+      "Argument against phones + example",
+      "Argument for phones + example",
+      "Conclusion – a compromise solution"
+    ]
+  },
+  "register": [
+    {
+      "phrase": "I sincerely apologize for any inconvenience",
+      "type": "formal"
+    },
+    {
+      "phrase": "I feel quite upset",
+      "type": "informal"
+    },
+    {
+      "phrase": "It was not my intention to disturb anyone",
+      "type": "formal"
+    },
+    {
+      "phrase": "we only wanted to have a good time",
+      "type": "informal"
+    },
+    {
+      "phrase": "I appreciate you bringing this to my attention",
+      "type": "formal"
+    },
+    {
+      "phrase": "keep the volume down",
+      "type": "informal"
+    },
+    {
+      "phrase": "Thank you for your understanding",
+      "type": "formal"
+    },
+    {
+      "phrase": "Let's discuss this when we catch up!",
+      "type": "informal"
+    }
+  ],
+  "p2_gaps": [
+    "Personally",
+    "On one hand",
+    "This can lead to",
+    "However",
+    "For instance",
+    "Therefore"
+  ],
+  "samples": {
+    "t11": "Dear Jack,\nI just received a complaint letter from Mr. Edward about the noise during our gathering last night. I feel quite upset because we only wanted to have a good time. To prevent this in the future, I plan to keep the volume down and inform neighbors in advance about any gatherings. Let's discuss this when we catch up!\nBest,\nAlex",
+    "t12": "Dear Mr. Edward,\n\nThank you for your letter regarding the noise from our gathering last night. I sincerely apologize for any inconvenience it caused you and your family. It was not my intention to disturb anyone, and I appreciate you bringing this to my attention.\n\nTo ensure that this will not happen again, I plan to keep future gatherings smaller and more low-key. I will also make sure to inform my neighbors in advance, so they are aware of any events. Additionally, I will be more mindful of the noise levels, especially during late hours.\n\nI value the harmony of our community and want to maintain a good relationship with all my neighbors. Thank you for your understanding, and I hope to avoid any further disturbances in the future.\n\nWarm regards,\nAlex",
+    "p2": "The question of whether students should be allowed to use smartphones at school is a really hot topic with strong arguments on both sides. Personally, I lean towards allowing them, but with clear guidelines and educational integration.\n\nOn one hand, smartphones are undeniable distractions. When a student's phone is buzzing with notifications during a lesson, it's incredibly hard for them to focus on the teacher or the material. This can lead to decreased learning and poorer academic performance. We've all seen examples of students scrolling through social media or playing games instead of paying attention. This constant temptation can really hinder the educational environment.\n\nHowever, smartphones are also incredibly powerful tools that can actually enhance learning. Many educational apps, online research tools, and even digital textbooks are accessible via smartphones. For instance, a student could use their phone to quickly look up an unfamiliar word, access a relevant historical document for a project, or even use a language learning app during breaks. Banning them entirely removes these educational opportunities.\n\nTherefore, instead of an outright ban, I believe schools should focus on teaching responsible digital citizenship and integrating smartphones as learning aids. Setting clear rules, like phones being put away during direct instruction but allowed for specific research tasks, could be a good compromise."
+  },
+  "vocab": [
+    [
+      "sincerely apologize",
+      "Samimiy uzr so'rayman"
+    ],
+    [
+      "bring to my attention",
+      "E'tiborimga olib kelmoq"
+    ],
+    [
+      "keep the volume down",
+      "Ovozni past tutmoq"
+    ],
+    [
+      "inform neighbors in advance",
+      "Qo'shnilarni oldindan xabardor qilmoq"
+    ],
+    [
+      "good relationship",
+      "Yaxshi munosabat"
+    ],
+    [
+      "prevent this in the future",
+      "Kelajakda buni oldini olish"
+    ],
+    [
+      "disturb anyone",
+      "Hech kimni bezovta qilmoq"
+    ],
+    [
+      "maintain harmony",
+      "Muvozanatni saqlamoq"
+    ],
+    [
+      "future gatherings",
+      "Kelajakdagi yig'ilishlar"
+    ],
+    [
+      "more low-key",
+      "Kamroq ko'zga tashlanadigan"
+    ],
+    [
+      "hot topic",
+      "Qizg'in mavzu"
+    ],
+    [
+      "strong arguments",
+      "Kuchli dalillar / asoslar"
+    ],
+    [
+      "lean towards",
+      "Tomonida bo'lmoq / moyil bo'lmoq"
+    ],
+    [
+      "clear guidelines",
+      "Aniqlik kiritilgan qoidalar / aniq yo'riqnomalar"
+    ],
+    [
+      "undeniable distractions",
+      "Inkorsiz chalg'ituvchi omillar"
+    ],
+    [
+      "poorer academic performance",
+      "Yomonroq o'quv natijalari / akademik samaradorlikning pasayishi"
+    ],
+    [
+      "enhance learning",
+      "O'rganishni yaxshilash / o'quv jarayonini kuchaytirish"
+    ],
+    [
+      "responsible digital citizenship",
+      "Mas'uliyatli raqamli fuqarolik"
+    ],
+    [
+      "direct instruction",
+      "To'g'ridan-to'g'ri o'qitish / dars berish"
+    ],
+    [
+      "learning aids",
+      "O'quv yordamchilari / vositalari"
+    ]
+  ]
+}

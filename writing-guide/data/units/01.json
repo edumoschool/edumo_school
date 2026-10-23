@@ -1,0 +1,268 @@
+{
+  "n": 1,
+  "topic": "Library closure",
+  "emoji": "📚",
+  "situation": "You are a member of a local community library. You received an email from the head librarian.",
+  "email": {
+    "kind": "email",
+    "greeting": "Dear Member,",
+    "body": [
+      "I hope this message finds you well. I regret to inform you that the library will be closed for two weeks starting next Friday for renovations and upgrades to our facilities. We aim to enhance your reading experience. In the meantime, we would love to hear your suggestions on what new programs or services we could offer upon reopening. Your input is invaluable to us."
+    ],
+    "signoff": "Best regards,",
+    "from": "The Head Librarian"
+  },
+  "task11": "Write a letter to your friend, who is also a member of the library. Write about your feelings and what you think the library management should do about the situation. Write about 50 words.",
+  "task12": "Write a letter to the head librarian. Write about your feelings and what you think the library management should do about the situation. Write about 120-150 words.",
+  "part2": {
+    "context": "You are participating in an online discussion for language learners.",
+    "question": "What are the advantages and disadvantages of online learning compared to traditional classroom learning?",
+    "instruction": "Post your response, giving reasons and examples. Write 180-200 words."
+  },
+  "read_qs": [
+    {
+      "q": "How long will the library be closed?",
+      "a": "For two weeks, starting next Friday."
+    },
+    {
+      "q": "Why is the library closing?",
+      "a": "For renovations and upgrades to its facilities."
+    },
+    {
+      "q": "What does the library want to improve?",
+      "a": "The members' reading experience."
+    },
+    {
+      "q": "What does the head librarian ask members for?",
+      "a": "Suggestions for new programs or services after reopening."
+    }
+  ],
+  "plan": {
+    "t11": [
+      "How do you feel about the closure?",
+      "What should the library do or offer?",
+      "Suggest something to do together in the meantime"
+    ],
+    "t12": [
+      "Paragraph 1 – thank them for the news + your feelings about the closure",
+      "Paragraph 2 – why the library matters to you",
+      "Paragraph 3 – your suggestions for new programs or services",
+      "Closing – thank them and sign off politely"
+    ],
+    "p2": [
+      "Your opinion in one sentence",
+      "Advantage of online learning + example",
+      "Advantage of the classroom / disadvantage of online learning + example",
+      "Conclusion – which approach is best for you"
+    ]
+  },
+  "register": [
+    {
+      "phrase": "I'm a bit gutted",
+      "type": "informal"
+    },
+    {
+      "phrase": "I must admit to feeling a degree of disappointment",
+      "type": "formal"
+    },
+    {
+      "phrase": "Can you believe",
+      "type": "informal"
+    },
+    {
+      "phrase": "Thank you for informing us about",
+      "type": "formal"
+    },
+    {
+      "phrase": "Honestly, it's inconvenient",
+      "type": "informal"
+    },
+    {
+      "phrase": "I would strongly suggest considering",
+      "type": "formal"
+    },
+    {
+      "phrase": "Let me know what you think",
+      "type": "informal"
+    },
+    {
+      "phrase": "Thank you again for your commitment",
+      "type": "formal"
+    }
+  ],
+  "p2_gaps": [
+    "On the plus side",
+    "For instance",
+    "Furthermore",
+    "However",
+    "The lack of",
+    "Ultimately"
+  ],
+  "samples": {
+    "t11": "Hi Alex,\nCan you believe the library's closing for two weeks for renovations? I'm a bit gutted as I just started a new book series! Honestly, it's inconvenient, but hopefully, the upgrades will be worth it.\nMaybe we can try that new coffee shop during that time? Let me know what you think.\nBest,\nAlex",
+    "t12": "Dear Head Librarian,\n\nThank you for informing us about the upcoming renovations. While I understand the necessity for upgrades to enhance the member experience, I must admit to feeling a degree of disappointment regarding the two-week closure. As an avid reader, the library is a vital resource for me, and its temporary absence will present a challenge, particularly as I was looking forward to continuing with some current reading material.\n\nHowever, I do appreciate the proactive approach to seeking member input for future programs and services. Upon reopening, I would strongly suggest considering initiatives such as expanding the digital collection, perhaps offering more e-books and audiobooks. Additionally, introducing workshops on digital literacy or author talks could be highly beneficial and popular among members. Ensuring clear communication about the reopening date and any new offerings will also be key to a smooth transition.\n\nThank you again for your commitment to improving the library.\n\nSincerely,\nAlex",
+    "p2": "That's a really pertinent question. Having experienced both, I can see distinct advantages and disadvantages to online learning compared to traditional classroom settings.\n\nOn the plus side, flexibility is arguably the biggest benefit of online learning. You can often access materials and lectures at any time that suits your schedule, which is invaluable for those juggling work or other commitments. For instance, I can rewatch a tricky grammar explanation as many times as needed, something impossible in a live class. Furthermore, the sheer volume of resources available online, from interactive exercises to vast digital libraries, is often far greater than what a single classroom can offer.\n\nHowever, traditional classrooms offer a unique social dynamic that online learning struggles to replicate. The face-to-face interaction with both the teacher and peers fosters immediate feedback and spontaneous discussion, which can significantly boost understanding and motivation. I've found that in-person group activities really help solidify vocabulary and speaking practice in a way that virtual breakout rooms sometimes don't quite capture. The lack of direct, immediate human connection can sometimes lead to feelings of isolation for online learners.\n\nUltimately, I believe the ideal scenario might involve a blended approach, leveraging the convenience of online resources with the interactive benefits of in-person instruction."
+  },
+  "vocab": [
+    [
+      "library",
+      "Kutubxona"
+    ],
+    [
+      "renovations",
+      "Ta'mirlash"
+    ],
+    [
+      "upgrades",
+      "Yangilashlar"
+    ],
+    [
+      "member",
+      "A'zo"
+    ],
+    [
+      "suggestions",
+      "Takliflar"
+    ],
+    [
+      "programs",
+      "Dasturlar"
+    ],
+    [
+      "services",
+      "Xizmatlar"
+    ],
+    [
+      "experience",
+      "Tajriba"
+    ],
+    [
+      "facilities",
+      "Inshootlar, qulayliklar"
+    ],
+    [
+      "closure",
+      "Yopilish"
+    ],
+    [
+      "inconvenient",
+      "Noqulay"
+    ],
+    [
+      "resource",
+      "Resurs, manba"
+    ],
+    [
+      "collection",
+      "To'plam"
+    ],
+    [
+      "digital",
+      "Raqamli"
+    ],
+    [
+      "literacy",
+      "Savodxonlik"
+    ],
+    [
+      "workshops",
+      "Mashg'ulotlar"
+    ],
+    [
+      "communication",
+      "Muloqot"
+    ],
+    [
+      "transition",
+      "O'tish, o'zgarish davri"
+    ],
+    [
+      "sincerely",
+      "Samimiy"
+    ],
+    [
+      "best regards",
+      "Eng yaxshi tilaklar bilan"
+    ],
+    [
+      "online learning",
+      "Onlayn ta'lim"
+    ],
+    [
+      "traditional classroom learning",
+      "An'anaviy sinf xonasi ta'limi"
+    ],
+    [
+      "advantages",
+      "Afzalliklar"
+    ],
+    [
+      "disadvantages",
+      "Kamchiliklar"
+    ],
+    [
+      "compared to",
+      "Solishtirganda"
+    ],
+    [
+      "flexible",
+      "Moslashuvchan"
+    ],
+    [
+      "schedule",
+      "Jadval"
+    ],
+    [
+      "access",
+      "Kirish, foydalanish"
+    ],
+    [
+      "materials",
+      "Materiallar"
+    ],
+    [
+      "lectures",
+      "Ma'ruzalar"
+    ],
+    [
+      "invaluable",
+      "Qimmatbaho, bebaho"
+    ],
+    [
+      "commitments",
+      "Majburiyatlar, vazifalar"
+    ],
+    [
+      "interact / interaction",
+      "O'zaro aloqa / O'zaro ta'sir"
+    ],
+    [
+      "feedback",
+      "Fikr bildirish, javob"
+    ],
+    [
+      "spontaneous discussion",
+      "To'satdan, o'z-o'zidan bo'ladigan muhokama"
+    ],
+    [
+      "motivation",
+      "Motivatsiya, rag'bat"
+    ],
+    [
+      "practise",
+      "Mashq qilish, amaliyot"
+    ],
+    [
+      "isolation",
+      "Ajralish, yolg'izlik"
+    ],
+    [
+      "blended approach",
+      "Aralash yondashuv"
+    ],
+    [
+      "instruction",
+      "Ko'rsatma, ta'lim berish"
+    ]
+  ]
+}

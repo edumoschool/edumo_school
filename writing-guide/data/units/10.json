@@ -1,0 +1,188 @@
+{
+  "n": 10,
+  "topic": "Internet problems",
+  "emoji": "🌐",
+  "situation": "You are a usual customer of an internet company. You received an email from the manager of the company.",
+  "email": {
+    "kind": "email",
+    "greeting": "",
+    "body": [
+      "We have heard that people in your area are having problems with their internet connection. We are truly sorry for that. We are going to fix them soon. And what improvements do you think should be done? We appreciate your opinion very much."
+    ],
+    "signoff": "",
+    "from": "The Manager"
+  },
+  "task11": "Write a letter to your friend, who is also a user of the internet company. Tell them about the email you received. Write about your feelings and what you think the company should do about the situation. Write about 50 words.",
+  "task12": "Write a letter to the manager. Write about your feelings and what you think the company should do about the situation. Write about 120-150 words.",
+  "part2": {
+    "context": "You are participating in an online discussion for language learners.",
+    "question": "Should schools teach how to manage money and cooking or traditional subjects like math and science are important?",
+    "instruction": "Post your response, giving reasons and examples. Write 180-200 words."
+  },
+  "read_qs": [
+    {
+      "q": "What problem are people in your area having?",
+      "a": "Problems with their internet connection."
+    },
+    {
+      "q": "How does the company feel about the problem?",
+      "a": "It is truly sorry."
+    },
+    {
+      "q": "What does the company promise to do?",
+      "a": "To fix the problems soon."
+    },
+    {
+      "q": "What does the manager ask the customers?",
+      "a": "What improvements they think should be done."
+    }
+  ],
+  "plan": {
+    "t11": [
+      "Tell your friend about the email from the manager",
+      "How do you feel about it?",
+      "What should the company do?"
+    ],
+    "t12": [
+      "Paragraph 1 – thank the manager + your feelings about the problem",
+      "Paragraph 2 – how the bad connection affects you",
+      "Paragraph 3 – improvements the company should make (infrastructure, updates, support)",
+      "Closing – thank them and say you hope for positive changes"
+    ],
+    "p2": [
+      "Your opinion in one sentence – a balance of both",
+      "Why traditional subjects matter + example",
+      "Why practical life skills matter + example",
+      "Conclusion – a curriculum that integrates both"
+    ]
+  },
+  "register": [
+    {
+      "phrase": "I hope you’re doing well!",
+      "type": "informal"
+    },
+    {
+      "phrase": "Thank you for considering my suggestions",
+      "type": "formal"
+    },
+    {
+      "phrase": "the connection issues we’ve been facing",
+      "type": "informal"
+    },
+    {
+      "phrase": "I must admit I'm quite frustrated",
+      "type": "formal"
+    },
+    {
+      "phrase": "I feel relieved",
+      "type": "informal"
+    },
+    {
+      "phrase": "would help alleviate frustration",
+      "type": "formal"
+    },
+    {
+      "phrase": "It would really help us!",
+      "type": "informal"
+    },
+    {
+      "phrase": "I look forward to seeing positive changes soon",
+      "type": "formal"
+    }
+  ],
+  "p2_gaps": [
+    "On one hand",
+    "isn't just about",
+    "For instance",
+    "However",
+    "Therefore",
+    "ultimately"
+  ],
+  "samples": {
+    "t11": "Dear Jack,\nI hope you’re doing well! I just received an email from our internet provider's manager regarding the connection issues we’ve been facing. I feel relieved that they acknowledged the problem, but I think they need to improve their customer support and provide regular updates. It would really help us!\nBest,\nAlex",
+    "t12": "Dear Manager,\n\nThank you for your email and for acknowledging the ongoing internet connection issues in our area. While I appreciate the apology and your commitment to fixing them soon, I must admit I'm quite frustrated. For weeks now, my connection has been unreliable, frequently dropping during important video calls for work and causing significant disruption.\n\nI believe the company should consider a few improvements. Firstly, enhancing the infrastructure would be crucial to ensure a stable connection for all customers. Additionally, providing timely updates about the status of repairs would help alleviate frustration and keep us informed. Lastly, improving customer support services would make it easier for users to report issues and receive assistance. Thank you for considering my suggestions. I look forward to seeing positive changes soon.\n\nSincerely,\nAlex",
+    "p2": "This is a really interesting question for our discussion board: should schools prioritize practical life skills like managing money and cooking, or stick to the more traditional subjects like math and science? It's a tough balancing act, and I think a compromise is definitely needed.\n\nOn one hand, subjects like math and science are fundamental. They build critical thinking, problem-solving abilities, and provide the foundational knowledge for many careers. Understanding physics or algebra isn't just about passing tests; it's about developing a logical mindset that's useful in many aspects of life. For instance, a grasp of scientific principles helps us understand the world around us, from weather patterns to how our bodies work.\n\nHowever, we can't ignore the importance of practical life skills. Many young adults leave school feeling unprepared for the realities of independent living. Knowing how to budget, manage personal finances, and prepare nutritious meals are essential skills that directly impact daily well-being and future success. I've seen friends struggle with debt because they never learned to budget, and others who rely heavily on convenience food because cooking seemed too daunting.\n\nTherefore, I believe schools should strive for a curriculum that integrates both. Balancing both traditional and practical subjects will ultimately benefit students in their future endeavors."
+  },
+  "vocab": [
+    [
+      "internet connection issues",
+      "internet ulanishidagi muammolar"
+    ],
+    [
+      "connection issues",
+      "ulanish muammolari"
+    ],
+    [
+      "internet provider",
+      "internet provayderi / ta'minotchisi"
+    ],
+    [
+      "acknowledged the problem",
+      "muammoni tan oldi / tasdiqladi"
+    ],
+    [
+      "improve their customer support",
+      "mijozlarni qo'llab-quvvatlash xizmatlarini yaxshilash"
+    ],
+    [
+      "provide regular updates",
+      "muntazam yangilanishlar / ma'lumotlar berib turish"
+    ],
+    [
+      "ongoing internet connection issues",
+      "davom etayotgan internet ulanishidagi muammolar"
+    ],
+    [
+      "significant disruption",
+      "jiddiy uzilish / buzilish"
+    ],
+    [
+      "enhancing the infrastructure",
+      "infrastrukturani yaxshilash / mustahkamlash"
+    ],
+    [
+      "stable connection",
+      "barqaror ulanish"
+    ],
+    [
+      "stick to",
+      "sodiq qolmoq / yopishib olmoq (ma'lum bir narsani qilishda davom etmoq)"
+    ],
+    [
+      "balancing act",
+      "muvozanatni saqlash harakati / muvozanatni topish"
+    ],
+    [
+      "on one hand / on the other hand",
+      "bir tomondan / ikkinchi tomondan"
+    ],
+    [
+      "build critical thinking",
+      "tanqidiy fikrlashni shakllantirmoq / rivojlantirmoq"
+    ],
+    [
+      "problem-solving abilities",
+      "muammolarni hal qilish qobiliyatlari"
+    ],
+    [
+      "understand the world around us",
+      "atrofimizdagi dunyoni tushunmoq"
+    ],
+    [
+      "can't ignore",
+      "e'tiborsiz qoldira olmaslik / rad eta olmaslik"
+    ],
+    [
+      "leave school",
+      "maktabni tugatmoq / maktabdan chiqmoq"
+    ],
+    [
+      "rely heavily on",
+      "...ga ko'p tayanmoq / ...dan ko'p foydalanmoq"
+    ],
+    [
+      "strive for",
+      "...ga intilmoq / ...uchun harakat qilmoq"
+    ]
+  ]
+}

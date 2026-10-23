@@ -1,0 +1,269 @@
+{
+  "n": 2,
+  "topic": "Community park",
+  "emoji": "🌳",
+  "situation": "You are a resident in a neighborhood where a new community park is being planned. You received a flyer from the local council.",
+  "email": {
+    "kind": "flyer",
+    "greeting": "Dear Resident,",
+    "body": [
+      "We are excited to announce plans for a new community park in our neighborhood! This project aims to create a green space for recreation and community gathering. We are currently in the early planning stages and want to gather your feedback on the proposed features. We have included a brief overview of some initial ideas, but we are keen to hear your thoughts and suggestions.",
+      "Your input is crucial in shaping this space for everyone to enjoy."
+    ],
+    "signoff": "Sincerely,",
+    "from": "The Local Council Planning Department"
+  },
+  "task11": "Write a short note to your neighbor, who is also your friend. Write about your initial reaction to the news and what you hope to see in the park. Write about 50 words.",
+  "task12": "Write an email to the Local Council Planning Department. Express your feelings about the park plans and provide specific suggestions for features or facilities you believe would benefit the community. Write about 120-150 words.",
+  "part2": {
+    "context": "You are participating in an online discussion for language learners.",
+    "question": "Is technology making our lives better or worse?",
+    "instruction": "Post your response, giving reasons and examples. Write 180-200 words."
+  },
+  "read_qs": [
+    {
+      "q": "What is the local council planning?",
+      "a": "A new community park in the neighborhood."
+    },
+    {
+      "q": "What is the purpose of the park?",
+      "a": "To create a green space for recreation and community gathering."
+    },
+    {
+      "q": "What stage is the project at now?",
+      "a": "The early planning stages."
+    },
+    {
+      "q": "What does the council want from residents?",
+      "a": "Their feedback, thoughts and suggestions on the proposed features."
+    }
+  ],
+  "plan": {
+    "t11": [
+      "What is your first reaction to the news?",
+      "Why is the park good for the neighborhood?",
+      "Which features do you hope to see?"
+    ],
+    "t12": [
+      "Paragraph 1 – why you are writing + your feelings about the plans",
+      "Paragraph 2 – features for exercise and families",
+      "Paragraph 3 – features for children or nature",
+      "Closing – thank them and look forward to the project"
+    ],
+    "p2": [
+      "Your opinion in one sentence",
+      "How technology makes life better + example",
+      "How technology makes life worse + example",
+      "Conclusion – how to balance the benefits and drawbacks"
+    ]
+  },
+  "register": [
+    {
+      "phrase": "I'm thrilled",
+      "type": "informal"
+    },
+    {
+      "phrase": "I am writing to express my excitement regarding",
+      "type": "formal"
+    },
+    {
+      "phrase": "I just received the flyer",
+      "type": "informal"
+    },
+    {
+      "phrase": "Thank you for considering my suggestions",
+      "type": "formal"
+    },
+    {
+      "phrase": "It's a fantastic opportunity",
+      "type": "informal"
+    },
+    {
+      "phrase": "I suggest incorporating a variety of features",
+      "type": "formal"
+    },
+    {
+      "phrase": "Let's discuss this further!",
+      "type": "informal"
+    },
+    {
+      "phrase": "I look forward to seeing this project come to life",
+      "type": "formal"
+    }
+  ],
+  "p2_gaps": [
+    "On one hand",
+    "For example",
+    "Moreover",
+    "Additionally",
+    "However",
+    "Ultimately"
+  ],
+  "samples": {
+    "t11": "Dear Jack,\n\nI just received the flyer about the new community park, and I'm thrilled! It's a fantastic opportunity for our neighborhood to have a green space for relaxation and socializing. I hope to see features like walking trails, picnic areas, and perhaps a small playground for children. Let's discuss this further!\n\nBest,\nAlex",
+    "t12": "Dear Local Council Planning Department,\n\nI am writing to express my excitement regarding the plans for a new community park in our neighborhood. This initiative is a wonderful opportunity to enhance our local environment and foster community spirit.\n\nTo make the park truly beneficial for everyone, I suggest incorporating a variety of features. Firstly, walking and cycling paths would encourage outdoor activities and promote a healthy lifestyle. Additionally, having picnic areas with tables and benches would provide families a space to gather and enjoy meals together. A children's playground would also be essential, as it would offer a safe area for kids to play and socialize.\n\nLastly, including native plants and trees would not only beautify the park but also support local wildlife. Thank you for considering my suggestions, and I look forward to seeing this project come to life.\n\nBest regards,\nAlex",
+    "p2": "Technology is a highly debated topic, and I am of the opinion that its impact on our lives can be seen as both positive and negative.\n\nOn one hand, technology has significantly improved our quality of life. For example, medical advancements have led to better healthcare outcomes, with telemedicine allowing patients to consult doctors remotely, especially during the pandemic. This accessibility is crucial for those in remote areas who might otherwise struggle to receive medical attention.\n\nMoreover, technology has transformed communication. Social media platforms enable us to stay connected with friends and family across the globe, fostering relationships that might have otherwise faded. Additionally, online learning has made education more accessible, allowing people from various backgrounds to acquire knowledge and skills that were previously out of reach.\n\nHowever, there are downsides. The pervasive use of smartphones and social media can lead to social isolation and mental health issues, particularly among younger generations. Furthermore, the rapid pace of technological change can result in job displacement, as automation replaces traditional roles.\n\nUltimately, while technology has undoubtedly improved many aspects of our lives, it also poses challenges that we must navigate carefully. Balancing these benefits and drawbacks is essential for a better future."
+  },
+  "vocab": [
+    [
+      "community",
+      "Jamiyat"
+    ],
+    [
+      "park",
+      "Park"
+    ],
+    [
+      "opportunity",
+      "Imkoniyat"
+    ],
+    [
+      "neighborhood",
+      "Mahalla"
+    ],
+    [
+      "relaxation",
+      "Dam olish"
+    ],
+    [
+      "socializing",
+      "Ijtimoiylashish"
+    ],
+    [
+      "features",
+      "Xususiyatlar"
+    ],
+    [
+      "walking trails",
+      "Yurish yo'llari"
+    ],
+    [
+      "picnic areas",
+      "Piknik joylari"
+    ],
+    [
+      "playground",
+      "O'yin maydoni"
+    ],
+    [
+      "children",
+      "Bolalar"
+    ],
+    [
+      "feedback",
+      "Fikr-mulohaza"
+    ],
+    [
+      "enhance",
+      "Yaxshilash"
+    ],
+    [
+      "environment",
+      "Atrof-muhit"
+    ],
+    [
+      "foster",
+      "Rag'batlantirish"
+    ],
+    [
+      "healthy lifestyle",
+      "Sog'lom turmush tarzi"
+    ],
+    [
+      "gather",
+      "To'planmoq"
+    ],
+    [
+      "native plants",
+      "Mahalliy o'simliklar"
+    ],
+    [
+      "beautify",
+      "Chiroyli qilish"
+    ],
+    [
+      "wildlife",
+      "Yovvoyi hayot"
+    ],
+    [
+      "technology",
+      "Texnologiya"
+    ],
+    [
+      "highly debated",
+      "Ko'p muhokama qilinadigan"
+    ],
+    [
+      "impact",
+      "Ta'sir"
+    ],
+    [
+      "quality of life",
+      "Hayot sifati"
+    ],
+    [
+      "medical advancements",
+      "Tibbiyotning yutuqlari"
+    ],
+    [
+      "healthcare outcomes",
+      "Sog'liqni saqlash natijalari"
+    ],
+    [
+      "telemedicine",
+      "Telemeditsina, masofadan turib davolanish"
+    ],
+    [
+      "accessibility",
+      "Qulaylik / Mavjudlik"
+    ],
+    [
+      "remote areas",
+      "Uzoq hududlar"
+    ],
+    [
+      "transformed communication",
+      "Aloqani o'zgartirdi"
+    ],
+    [
+      "social media platforms",
+      "Ijtimoiy media platformalari"
+    ],
+    [
+      "fostering relationships",
+      "Aloqalarni mustahkamlash"
+    ],
+    [
+      "online learning",
+      "Onlayn ta'lim"
+    ],
+    [
+      "acquire knowledge",
+      "Bilim orttirish"
+    ],
+    [
+      "social isolation",
+      "Ijtimoiy izolyatsiya"
+    ],
+    [
+      "mental health issues",
+      "Ruhiy salomatlik muammolari"
+    ],
+    [
+      "technological change",
+      "Texnologik o'zgarish"
+    ],
+    [
+      "job displacement",
+      "Ish o'rinlarining qisqarishi / Ishsizlik"
+    ],
+    [
+      "automation",
+      "Avtomatlashtirish"
+    ],
+    [
+      "navigate carefully",
+      "Ehtiyotkorlik bilan boshqarish"
+    ]
+  ]
+}

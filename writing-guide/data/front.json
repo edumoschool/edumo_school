@@ -1,0 +1,70 @@
+{
+ "intro": "Chet tilidan yozma ish topshiriqlari nomzodning til bilimini kompleks baholashga qaratilgan. Ushbu topshiriqlar orqali quyidagi ko‘nikmalar aniqlanadi:",
+ "skills": ["grammatik bilim", "so‘z boyligi", "fikrni mantiqiy va izchil ifodalash", "uslubiy moslik", "kommunikativ kompetensiya"],
+ "parts": [
+  {"title": "1-bo‘lim: Elektron xatlar", "level": "B1–B2", "lead": "Nomzod bitta vaziyat asosida ikki xil elektron xat (email) yozadi.",
+   "tasks": [
+    {"name": "Task 1.1 · Norasmiy xat (do‘stga)", "words": "≈ 50 so‘z", "level": "B1", "style": "oddiy, samimiy",
+     "aim": "shaxsiy fikr, hissiyot va rejalarni bildirish",
+     "req": ["sodda va tushunarli gaplar", "kundalik leksika", "fikrlar orasidagi mantiqiy bog‘lanish"]},
+    {"name": "Task 1.2 · Rasmiy xat (tashkilot yoki rahbariyatga)", "words": "120–150 so‘z", "level": "B2", "style": "rasmiy",
+     "aim": "muammo, taklif, shikoyat yoki so‘rov bildirish",
+     "req": ["rasmiy uslubga mos leksika", "murakkab grammatik tuzilmalar", "mantiqiy izchillik (coherence)", "bog‘lovchi vositalardan to‘g‘ri foydalanish (cohesion)"]}],
+   "note": "Nomzod bir xil vaziyatni ikki xil uslubda ifodalay olishi kerak. Bu uning tilni real hayotiy vaziyatlarda samarali qo‘llay olish qobiliyatini ko‘rsatadi."},
+  {"title": "2-bo‘lim: Blog posti yoki maqola", "level": "C1", "lead": "Nomzod umumiy qiziqish uyg‘otadigan mavzu asosida ijodiy-tahliliy matn yozadi.",
+   "tasks": [
+    {"name": "Part 2 · Blog posti / maqola / muhokama posti", "words": "180–200 so‘z", "level": "C1", "style": "ijodiy-tahliliy",
+     "aim": "mavzuni chuqur tahlil qilish",
+     "req": ["dalil va misollar keltirish", "mavhum g‘oyalarni aniq ifodalash", "yuqori darajadagi leksika va grammatika", "fikrlar orasidagi izchillik"]}],
+   "topics": ["onlayn ishlashning afzallik va kamchiliklari", "texnologiyaning ta’limga ta’siri", "yoshlar va ijtimoiy tarmoqlar", "masofaviy ta’lim"]}
+ ],
+ "functions": ["fikr bildirish", "sabab va asos keltirish", "reja va umidlarni ifodalash", "taklif va shikoyat bildirish", "taxmin qilish va baholash",
+               "rozilik yoki norozilik bildirish", "fikrni ehtiyotkorlik bilan ifodalash", "murosaga kelish", "fikrni ishonarli tarzda himoya qilish"],
+ "assess": [
+  {"title": "1-bo‘lim: Elektron xatlar", "range": "0–5 ball", "points": ["3–4 ball — B1/B2 darajaga mos javob", "5 ball — yuqori darajadagi yozma ish"],
+   "criteria": ["vazifaga moslik (task achievement)", "leksik boylik", "grammatik aniqlik", "mantiqiy bog‘lanish", "uslubiy moslik"]},
+  {"title": "2-bo‘lim: Maqola / blog posti", "range": "0–6 ball", "points": ["5 ball — C1 daraja", "6 ball — C1 dan yuqori daraja"],
+   "criteria": ["tahliliy fikrlash darajasi", "murakkab til tuzilmalaridan foydalanish", "uslubiy aniqlik", "mantiqiy izchillik", "argumentatsiya sifati"]}
+ ],
+ "summary": "Yozma ish topshiriqlari — bu faqat grammatik test emas, balki nomzodning fikrlash darajasi, kommunikativ qobiliyati va tilni real vaziyatda qo‘llash ko‘nikmasini aniqlashga xizmat qiluvchi muhim baholash vositasidir.",
+ "success": ["vaziyatni to‘g‘ri tushunish", "uslubni to‘g‘ri tanlash", "fikrni mantiqiy bayon qilish", "boy leksika va to‘g‘ri grammatikadan foydalanish"],
+
+ "rubrics": [
+  {"part": "Task 1.1", "bands": [
+   ["5", "B2 or above", "Performance is likely to be above B1 level."],
+   ["4", "Higher B1", "Response is on topic and shows the following features:|Register may not be consistently appropriate|Good control of simple grammatical structures, errors occur when attempting complex structures|Punctuation and spelling are mostly accurate; errors do not cause misunderstanding|Vocabulary is sufficient to respond to the task.|Uses simple cohesive devices to organize the response as a linear sequence of sentences."],
+   ["3", "Lower B1", "Response is partially on topic and shows the following features:|Register may not be consistently appropriate|Good control of simple grammatical structures, errors occur when attempting complex structures|Punctuation and spelling are mostly accurate; errors do not cause misunderstanding|Vocabulary is sufficient to respond to the task.|Uses simple cohesive devices to organize the response as a linear sequence of sentences."],
+   ["2", "A2", "Response may be partially on topic and shows the following features:|Uses simple grammatical structures to produce writing at the sentence level. Errors with simple structures are common and sometimes impede understanding.|Punctuation and spelling mistakes are noticeable.|Vocabulary is not sufficient to respond to the task. Inappropriate lexical choices are noticeable and sometimes impede understanding.|Response may not be organized as a cohesive text."],
+   ["1", "A1 or lower", "Performance is below A2, or substantial use of L1, or no meaningful language, or the response is completely off-topic (e.g. memorized script, guessing)."],
+   ["0", "", "No attempt (answer sheet is blank)"]]},
+  {"part": "Task 1.2", "bands": [
+   ["6", "C2", "Performance is likely to be above C1 level."],
+   ["5", "C1", "Response is on topic and shows the following features:|Register is consistently appropriate|A range of complex grammar constructions is used accurately. Some minor errors occur, but do not impede understanding.|No errors in spelling and punctuation.|A range of vocabulary is used to discuss the topics required by the task. Some awkward usage or slightly inappropriate lexical choices.|A range of cohesive devices is used to indicate the links between ideas."],
+   ["4", "Higher B2", "Response is on topic and shows the following features:|Register is consistently appropriate|Some complex grammar constructions are used accurately. Errors do not lead to misunderstanding.|Minor errors in punctuation and spelling occur but do not impede understanding.|Sufficient range of vocabulary to discuss the topics required by the task. Inappropriate lexical choices do not lead to misunderstanding.|A limited number of cohesive devices are used to indicate the links between ideas."],
+   ["3", "Lower B2", "Response may be partially on topic and shows the following features:|Register may not be consistently appropriate|Some complex grammar constructions are used accurately. Errors do not lead to misunderstanding.|Minor errors in punctuation and spelling occur but do not impede understanding.|Sufficient range of vocabulary to discuss the topics required by the task. Inappropriate lexical choices do not lead to misunderstanding.|A limited number of cohesive devices are used to indicate the links between ideas."],
+   ["2", "B1", "Response may be partially on topic and shows the following features:|Register may not be consistently appropriate|Good control of simple grammatical structures, errors occur when attempting complex structures|Punctuation and spelling are mostly accurate; errors do not cause misunderstanding|Vocabulary is sufficient to respond to the task.|Uses simple cohesive devices to organize the response as a linear sequence of sentences."],
+   ["1", "A2", "Response may be partially on topic and shows the following features:|No evidence of awareness of register.|Uses simple grammatical structures to produce writing at the sentence level. Errors with simple structures are common and sometimes impede understanding.|Punctuation and spelling mistakes are noticeable.|Vocabulary is not sufficient to respond to the task. Inappropriate lexical choices are noticeable and sometimes impede understanding.|Response may not be organized as a cohesive text."],
+   ["0", "", "No meaningful language, or substantial use of L1, or the response is completely off-topic (e.g. memorized script, guessing), or no attempt (answer sheet is blank)"]]},
+  {"part": "Part 2", "bands": [
+   ["6", "C2", "Performance is likely to be above C1 level."],
+   ["5", "C1", "Response shows the following features:|Fully addresses the question with clear stance and relevant arguments|A range of complex grammar constructions is used accurately. Some minor errors occur, but do not impede understanding.|A range of vocabulary is used to discuss the topics required by the task. Some awkward usage or slightly inappropriate lexical choices.|Well-structured post or article with clear paragraphs; smooth flow of ideas and use of linking expressions."],
+   ["4", "Higher B2", "Response shows the following features:|Addresses the question clearly with minor digressions; stance is evident.|Some complex grammar constructions are used accurately. Errors do not lead to misunderstanding.|Minor errors in punctuation and spelling occur but do not impede understanding.|Sufficient range of vocabulary to discuss the topics required by the task. Inappropriate lexical choices do not lead to misunderstanding.|Clear structure with some use of connectors and logical flow."],
+   ["3", "Lower B2", "Response shows the following features:|Mostly relevant but may lack clarity in stance or have minor off-topic parts.|Some complex grammar constructions are used accurately. Errors do not lead to misunderstanding.|Minor errors in punctuation and spelling occur but do not impede understanding.|Sufficient range of vocabulary to discuss the topics required by the task. Inappropriate lexical choices do not lead to misunderstanding.|Some organization; transitions may be unclear or mechanical."],
+   ["2", "B1", "Response shows the following features:|Mostly relevant but may lack clarity in stance or have minor off-topic parts.|Good control of simple grammatical structures, errors occur when attempting complex structures|Punctuation and spelling are mostly accurate; errors do not cause misunderstanding|Inappropriate lexical choices may sometimes lead to misunderstanding.|Uses simple cohesive devices to organize the response as a linear sequence of sentences."],
+   ["1", "A2", "Response shows the following features:|Limited focus on task; ideas may be unclear or partly off-topic.|Uses simple grammatical structures to produce writing at the sentence level. Errors with simple structures are common and sometimes impede understanding.|Punctuation and spelling mistakes are noticeable.|Vocabulary is not sufficient to respond to the task. Inappropriate lexical choices are noticeable and sometimes impede understanding.|Response may not be organized as a cohesive text."],
+   ["0", "", "No meaningful language, or substantial use of L1, or the response is completely off-topic (e.g. memorized script, guessing), or no attempt (answer sheet is blank)"]]}
+ ],
+ "conversion": [[17,75],[16.5,74],[16,72],[15.5,69],[15,67],[14.5,65],[14,63],[13.5,62],[13,61],[12.5,59],[12,57],[11.5,56],[11,54],[10.5,53],[10,51],[9.5,50],[9,49],[8.5,47],[8,45],[7.5,43],[7,42],[6.5,40],[6,38],[5.5,35],[5,32],[4.5,29],[4,26],[3.5,23],[3,21],[2.5,18],[2,15],[1.5,13],[1,11],[0.5,10],[0,0]],
+
+ "sample": {
+  "tasks": [
+   {"task": "Task 1.1", "mark": 5, "max": 5, "text": "Hi Ben,\nDid you hear the club is closing for a month? I'm really disappointed—we’ll miss our workouts! I think they should offer online classes or outdoor group sessions during the break. Also, it’d be great if they improve the showers and maybe add more space in the stretching area.\nTake care,\nNico",
+    "comment": "The response is beyond level B1."},
+   {"task": "Task 1.2", "mark": 3, "max": 6, "text": "Dear Manager,\n\nThank you for your email. Even I understand that the building needs some repairs and new equipment, I was a bit disappointed to hear that the fitness club will be closed for one month. I usually come a few times a week, so it’s an important part of my lifestyle.\n\nI would like to suggest some improvements. The changing rooms are sometimes too small and not very clean, so maybe they can be repaired. It would be also nice to have more fitness classes in the evenings when most people can come.\nThank you for listening to our opinions. I hope to return to club soon.\nBest regards,\nNicolas Tedros.",
+    "comment": "The response is on topic, but the questions are not fully addressed. The register is appropriate. A range of complex structures are used. Vocabulary is sufficient to discuss the topics. Errors in grammar, and word choice do not cause misunderstanding. Some cohesive devices and referencing are used to connect sentences."},
+   {"task": "Part 2", "mark": 4, "max": 6, "text": "I think living in a small town is better than living in a big city, even if both have some advantages. In my opinion, small towns are more calm and people can live there with less stress. There is not so much noise and traffic like in big cities, so it’s easier to relax and enjoy free time. Also, the air is more clean and the nature is closer, which is good for health.\n\nAnother reason is that people in small towns usually know each other and are more friendly. There is a stronger feeling of community, and it’s easier to make friends. For example, in my town I often meet people I know when I go outside.\n\nOf course, big cities offer more job opportunities and better education. You can find more shops, cinemas, and restaurants there. But I think life in a city can be very fast and tired. It’s not easy to find a silent place or to have time for yourself.\n\nIn conclusion, I prefer to living in a small town because the life is easier and more peaceful. I know that some people choose big cities, but for me, small town gives better quality of life.",
+    "comment": "The response is relevant, but the stance is clear. A range of complex structures are used. Vocabulary is sufficient to discuss the topics. Errors in grammar, and some awkward usage of vocabulary do not cause misunderstanding. Clear structure with some use of connectors and logical flow."}
+  ],
+  "overall": 12, "standard": 57, "level": "B2"
+ }
+}

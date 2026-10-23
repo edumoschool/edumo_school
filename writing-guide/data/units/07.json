@@ -1,0 +1,188 @@
+{
+  "n": 7,
+  "topic": "Working from home",
+  "emoji": "🏠",
+  "situation": "You work in a company, and you received a letter from the HR manager.",
+  "email": {
+    "kind": "letter",
+    "greeting": "Dear Worker,",
+    "body": [
+      "I want to inform you that we have decided to allow some workers to work from their homes. What do you think about this plan? Can this plan bring any benefits for workers and the company? We appreciate your opinion very much."
+    ],
+    "signoff": "",
+    "from": "The HR Manager"
+  },
+  "task11": "Write a letter to your friend. Write about your feelings about this method and whether you think they should also allow you to work from home or not. Write about 50 words.",
+  "task12": "Write a letter to the manager. Write about your feelings about this method and whether you think they should also allow you to work from home or not. Write about 120-150 words.",
+  "part2": {
+    "context": "You are participating in an online discussion for language learners.",
+    "question": "Why is the crime rate increasing among teenagers?",
+    "instruction": "Post your response, giving reasons and examples. Write 180-200 words."
+  },
+  "read_qs": [
+    {
+      "q": "Who wrote the letter?",
+      "a": "The HR manager of the company."
+    },
+    {
+      "q": "What has the company decided?",
+      "a": "To allow some workers to work from home."
+    },
+    {
+      "q": "What two questions does the manager ask?",
+      "a": "What workers think about the plan and whether it can bring benefits for workers and the company."
+    },
+    {
+      "q": "Does the plan include all workers?",
+      "a": "No, only some workers."
+    }
+  ],
+  "plan": {
+    "t11": [
+      "How do you feel about the news?",
+      "One benefit of working from home",
+      "Do you want to work from home too? Why?"
+    ],
+    "t12": [
+      "Paragraph 1 – thank the manager + your general reaction to the plan",
+      "Paragraph 2 – benefits for workers (e.g. productivity, less commuting)",
+      "Paragraph 3 – benefits for the company + ask to be included",
+      "Closing – thank them and say you look forward to a reply"
+    ],
+    "p2": [
+      "Your opinion in one sentence: there are several causes",
+      "Reason 1 – social media and technology + example",
+      "Reason 2 – family and money problems + example",
+      "Conclusion – what kind of solution is needed"
+    ]
+  },
+  "register": [
+    {
+      "phrase": "I hope you're doing well!",
+      "type": "informal"
+    },
+    {
+      "phrase": "Thank you for your letter regarding the new work-from-home policy",
+      "type": "formal"
+    },
+    {
+      "phrase": "I feel excited about this plan",
+      "type": "informal"
+    },
+    {
+      "phrase": "I would like to express my interest in being included in this initiative",
+      "type": "formal"
+    },
+    {
+      "phrase": "it would make me more productive and happier",
+      "type": "informal"
+    },
+    {
+      "phrase": "Thank you for considering my opinion",
+      "type": "formal"
+    },
+    {
+      "phrase": "Take care!",
+      "type": "informal"
+    },
+    {
+      "phrase": "I look forward to your response",
+      "type": "formal"
+    }
+  ],
+  "p2_gaps": [
+    "One major reason",
+    "For example",
+    "Furthermore",
+    "For instance",
+    "Finally",
+    "In short"
+  ],
+  "samples": {
+    "t11": "Dear Jack,\nI hope you're doing well! I just received news that some workers can now work from home. I feel excited about this plan because it can help improve work-life balance and reduce commuting stress. I think they should allow me to work from home too, as it would make me more productive and happier.\nTake care!\nBest,\nAlex",
+    "t12": "Dear HR Manager,\n\nThank you for your letter regarding the new work-from-home policy. I appreciate the company's efforts to adapt to modern working conditions. I believe this plan can bring significant benefits for both employees and the organization. Working from home can enhance productivity, as many workers find it easier to concentrate in a familiar environment without the distractions of the office. Moreover, allowing employees to work remotely can lead to improved job satisfaction and morale, which ultimately benefits the company. However, I would like to express my interest in being included in this initiative. I believe that with the right tools and communication, I could perform my duties effectively from home.\n\nThank you for considering my opinion. I look forward to your response.\n\nSincerely,\nAlex",
+    "p2": "This is a really serious and complex question: why is the crime rate among teenagers seemingly increasing? There isn't one simple answer, but I think several factors are contributing.\n\nOne major reason is the influence of social media and technology. Many young people are exposed to violent content online, which can normalize aggressive behavior. For example, some studies suggest that teenagers who play violent video games may become desensitized to violence and more likely to act out in real life.\n\nFurthermore, socio-economic factors play a big role. Poverty, unstable home environments, and lack of parental supervision can create a breeding ground for crime. When families are struggling, or when children don't have consistent guidance, they are more vulnerable. For instance, a teenager from a disadvantaged background might resort to theft out of desperation or a lack of other options.\n\nFinally, some argue that mental health issues are also a contributing factor. Untreated depression, anxiety, or other challenges can manifest in destructive ways, including anti-social behaviour.\n\nIn short, it's a multifaceted problem that needs a comprehensive approach, focusing on support, education, and opportunity."
+  },
+  "vocab": [
+    [
+      "work from home",
+      "Uydan ishlash"
+    ],
+    [
+      "job satisfaction",
+      "Ish qoniqishi"
+    ],
+    [
+      "work-life balance",
+      "Ish va hayot muvozanati"
+    ],
+    [
+      "remote work",
+      "Masofaviy ish"
+    ],
+    [
+      "improve productivity",
+      "Samaradorlikni oshirish"
+    ],
+    [
+      "reduce commuting stress",
+      "Yo'lga chiqish stressini kamaytirish"
+    ],
+    [
+      "modern working conditions",
+      "Zamonaviy ish shartlari"
+    ],
+    [
+      "effective communication",
+      "Samarali aloqa"
+    ],
+    [
+      "employee morale",
+      "Xodimlarning ruhiyati"
+    ],
+    [
+      "right tools",
+      "To'g'ri vositalar"
+    ],
+    [
+      "crime rate among teenagers",
+      "O'smirlar orasidagi jinoyat darajasi"
+    ],
+    [
+      "social media and technology",
+      "Ijtimoiy tarmoqlar va texnologiya"
+    ],
+    [
+      "exposed to violent content",
+      "Zo'ravon kontentga duchor bo'lish"
+    ],
+    [
+      "aggressive behavior",
+      "Zo'ravon harakat"
+    ],
+    [
+      "socio-economic factors",
+      "Ijtimoiy-iqtisodiy omillar"
+    ],
+    [
+      "lack of parental supervision",
+      "Ota-onalarning nazorat etishining yo'qligi"
+    ],
+    [
+      "breeding ground for crime",
+      "Jinoyat uchun sharoit yaratish"
+    ],
+    [
+      "struggling families",
+      "Qiyin ahvolda bo'lgan oilalar"
+    ],
+    [
+      "mental health issues",
+      "Ruhiy salomatlik muammolari"
+    ],
+    [
+      "comprehensive approach",
+      "Keng qamrovli yondashuv"
+    ]
+  ]
+}

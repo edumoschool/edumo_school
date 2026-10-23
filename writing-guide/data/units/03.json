@@ -1,0 +1,305 @@
+{
+  "n": 3,
+  "topic": "Welcoming new staff",
+  "emoji": "🤝",
+  "situation": "You are working in an office and your company wants to make new colleagues feel more welcome. Your company sent out a message about this.",
+  "email": {
+    "kind": "message",
+    "greeting": "Dear Employee,",
+    "body": [
+      "We want to make our new colleagues feel very welcome when they start working here! We are planning a new way to help them settle in quickly and feel part of the team. We are at the beginning of this plan and want to hear your ideas. We have some initial thoughts below, but we really want to know what you think.",
+      "Your ideas are important to help us make this a great welcome for everyone."
+    ],
+    "signoff": "Sincerely,",
+    "from": "The HR Department"
+  },
+  "task11": "Write a short message to a colleague. Tell them about the plan to welcome new staff. Say what you think about it and what kind of welcome you hope new people will get. Write about 50 words.",
+  "task12": "Write an email to the HR Department. Say you are happy about the plan to welcome new staff. Give some specific ideas for how to make new colleagues feel comfortable and quickly become part of the team. Write about 120-150 words.",
+  "part2": {
+    "context": "You are participating in an online discussion for language learners.",
+    "question": "Are celebrities good role models for young people?",
+    "instruction": "Post your response, giving reasons and examples. Write 180-200 words."
+  },
+  "read_qs": [
+    {
+      "q": "Who sent the message?",
+      "a": "The HR Department."
+    },
+    {
+      "q": "What does the company want to do for new colleagues?",
+      "a": "Make them feel welcome, settle in quickly and feel part of the team."
+    },
+    {
+      "q": "How far along is the plan?",
+      "a": "It is only at the beginning."
+    },
+    {
+      "q": "What does the company want from employees?",
+      "a": "Their ideas and opinions about the plan."
+    }
+  ],
+  "plan": {
+    "t11": [
+      "Tell your colleague about the HR message",
+      "What do you think of the plan?",
+      "What kind of welcome do you hope new people get?"
+    ],
+    "t12": [
+      "Paragraph 1 – why you are writing + your support for the plan",
+      "Paragraph 2 – idea 1: e.g. a buddy system and how it helps",
+      "Paragraph 3 – ideas 2 and 3: e.g. a team lunch, resources ready before day one",
+      "Closing – thank HR for the initiative"
+    ],
+    "p2": [
+      "Your opinion in one sentence (yes, no or mixed?)",
+      "Positive influences + example (causes, athletes)",
+      "Negative influences + example (lifestyle, scandals)",
+      "Conclusion – what young people should focus on"
+    ]
+  },
+  "register": [
+    {
+      "phrase": "Did you see the HR message",
+      "type": "informal"
+    },
+    {
+      "phrase": "I am writing in response to your recent message",
+      "type": "formal"
+    },
+    {
+      "phrase": "I think it's a great initiative!",
+      "type": "informal"
+    },
+    {
+      "phrase": "I wholeheartedly support this plan",
+      "type": "formal"
+    },
+    {
+      "phrase": "They're planning something",
+      "type": "informal"
+    },
+    {
+      "phrase": "could be invaluable",
+      "type": "formal"
+    },
+    {
+      "phrase": "maybe with a buddy system or a team lunch",
+      "type": "informal"
+    },
+    {
+      "phrase": "Thank you for prioritizing this important aspect of our workplace",
+      "type": "formal"
+    }
+  ],
+  "p2_gaps": [
+    "On one hand",
+    "For example",
+    "Similarly",
+    "However",
+    "Furthermore",
+    "Therefore"
+  ],
+  "samples": {
+    "t11": "Hi Jack,\nDid you see the HR message about welcoming new staff? They're planning something to help new colleagues settle in. I think it's a great initiative! I hope they create a really friendly and supportive environment from day one, maybe with a buddy system or a team lunch.\nBest,\nAlex",
+    "t12": "Dear HR Department,\n\nI am writing in response to your recent message regarding the initiative to enhance the welcome experience for new colleagues. I wholeheartedly support this plan; fostering a positive and inclusive onboarding process is crucial for employee retention and overall team morale.\n\nI believe several elements could greatly contribute to making new staff feel comfortable and integrated quickly. Firstly, implementing a \"buddy system\" where an experienced employee is assigned to guide a new starter for their first few weeks could be invaluable. This buddy could answer informal questions, introduce them to others, and help them navigate company culture.\n\nSecondly, a designated welcome lunch or coffee break within the first week, involving their immediate team, would provide a relaxed opportunity for introductions. Finally, ensuring that new employees have all necessary resources and access before their first day, and a clear introductory schedule for their first week, would significantly reduce initial stress and allow them to focus on learning their role and connecting with colleagues.\n\nThank you for prioritizing this important aspect of our workplace.\n\nSincerely,\nAlex",
+    "p2": "The idea of celebrities as role models for young people is a bit of a mixed bag, in my opinion. While they certainly have influence, it's not always for the better.\n\nOn one hand, some celebrities are genuinely positive influences. Many use their fame to support important causes, like raising awareness for environmental issues or promoting educational charities. For example, an actor who speaks out about the importance of literacy can inspire young people to value reading. Similarly, athletes who demonstrate dedication and discipline in their sport can motivate others to pursue their goals with hard work and commitment. These individuals often showcase admirable qualities like perseverance and resilience.\n\nHowever, there are significant downsides too. The lifestyles portrayed by many celebrities can be extremely extravagant and sometimes promote unhealthy values, such as excessive consumerism or superficial appearances. This can create unrealistic expectations for young fans, leading to disappointment or a focus on material possessions. Furthermore, some celebrities engage in controversial behaviour or scandals that are widely publicised, providing a poor example. Young people, especially, might not always have the maturity to critically assess the information they receive and could be negatively influenced by these aspects.\n\nTherefore, while celebrities can be role models, it's important for young people to be discerning and look beyond the glamour. They should focus on the actions and values that truly matter."
+  },
+  "vocab": [
+    [
+      "welcome experience",
+      "Qarshi olish tajribasi"
+    ],
+    [
+      "new colleagues",
+      "Yangi hamkasblar"
+    ],
+    [
+      "settle in",
+      "O'rnashib olish, joylashish"
+    ],
+    [
+      "feel part of the team",
+      "Jamoaning bir qismi ekanligini his qilish"
+    ],
+    [
+      "great initiative",
+      "Ajoyib tashabbus"
+    ],
+    [
+      "supportive environment",
+      "Qo'llab-quvvatlovchi muhit"
+    ],
+    [
+      "buddy system",
+      "Hamroh tizimi, \"do'st\" tizimi"
+    ],
+    [
+      "experienced employee",
+      "Tajribali xodim"
+    ],
+    [
+      "guide a new starter",
+      "Yangi boshlovchini yo'naltirish/rahbarlik qilish"
+    ],
+    [
+      "company culture",
+      "Kompaniya madaniyati"
+    ],
+    [
+      "informal questions",
+      "Norasmiy savollar"
+    ],
+    [
+      "welcome lunch/coffee break",
+      "Qarshi olish tushlik/qahva dam olishi"
+    ],
+    [
+      "immediate team",
+      "Yaqin jamoa"
+    ],
+    [
+      "relaxed opportunity",
+      "Noyob imkoniyat, erkin holat"
+    ],
+    [
+      "introductions",
+      "Tanishtiruvlar"
+    ],
+    [
+      "necessary resources",
+      "Zarur resurslar"
+    ],
+    [
+      "onboarding process",
+      "Ishga joylashish jarayoni"
+    ],
+    [
+      "employee retention",
+      "Xodimlarni saqlab qolish"
+    ],
+    [
+      "team morale",
+      "Jamoa kayfiyati"
+    ],
+    [
+      "first few weeks",
+      "Dastlabki bir necha hafta"
+    ],
+    [
+      "colleagues",
+      "Hamkasblar"
+    ],
+    [
+      "initiative",
+      "Tashabbus"
+    ],
+    [
+      "enhance",
+      "Yaxshilash, oshirish"
+    ],
+    [
+      "crucial",
+      "Muhim, hal qiluvchi"
+    ],
+    [
+      "fostering",
+      "Rivojlantirish, rag'batlantirish"
+    ],
+    [
+      "comfortable",
+      "Qulay, xotirjam"
+    ],
+    [
+      "integrated",
+      "Birlashtirilgan, qo'shilgan"
+    ],
+    [
+      "invaluable",
+      "Juda qimmatli, benazir"
+    ],
+    [
+      "navigate",
+      "Yo'naltirish, boshqarish"
+    ],
+    [
+      "influence",
+      "Ta'sir"
+    ],
+    [
+      "genuinely",
+      "Chinakamiga, haqiqatdan"
+    ],
+    [
+      "support",
+      "Qo'llab-quvvatlamoq"
+    ],
+    [
+      "dedication",
+      "Bag'ishlanish, sadoqat"
+    ],
+    [
+      "discipline",
+      "Intizom"
+    ],
+    [
+      "pursue",
+      "Intilmoq, ergashmoq"
+    ],
+    [
+      "commitment",
+      "Majburiyat, sodiqlik"
+    ],
+    [
+      "downsides",
+      "Kamchiliklar, yomon tomonlari"
+    ],
+    [
+      "exaggerated",
+      "Haddan tashqari, mubolag'ali"
+    ],
+    [
+      "maturity",
+      "Etuklik, voyaga yetganlik"
+    ],
+    [
+      "mixed bag",
+      "Aralash holat, yaxshi-yomon aralashgan"
+    ],
+    [
+      "positive influences",
+      "Ijobiy ta'sirlar"
+    ],
+    [
+      "raise awareness",
+      "Xabardorlikni oshirish, ma'lumot tarqatish"
+    ],
+    [
+      "educational charities",
+      "Ta'lim xayriyat jamg'armalari"
+    ],
+    [
+      "value reading",
+      "O'qishni qadrlamoq"
+    ],
+    [
+      "hard work and commitment",
+      "Mehnat va sodiqlik"
+    ],
+    [
+      "unrealistic expectations",
+      "Haqiqatga to'g'ri kelmaydigan umidlar"
+    ],
+    [
+      "material possessions",
+      "Moddiy boyliklar, mulklar"
+    ],
+    [
+      "controversial behaviour",
+      "Munozarali xatti-harakatlar"
+    ],
+    [
+      "critically assess",
+      "Tanqidiy baholamoq, sinchkovlik bilan tekshirmoq"
+    ]
+  ]
+}

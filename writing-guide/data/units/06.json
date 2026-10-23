@@ -1,0 +1,266 @@
+{
+  "n": 6,
+  "topic": "Hotel apology",
+  "emoji": "🏨",
+  "situation": "You recently stayed at the Grandview Hotel for a short trip. Unfortunately, your experience was not great; your room was very noisy, and the air conditioning wasn't working properly. After you complained upon check-out, the hotel has now sent you an apology letter.",
+  "email": {
+    "kind": "letter",
+    "greeting": "Dear Customer,",
+    "body": [
+      "We truly regret that your experience fell short of our usual high standards. Please be assured that we are addressing these issues immediately to prevent similar occurrences for future guests.",
+      "As a gesture of our sincere apology, we would like to offer you a complimentary one-night stay in a newly renovated deluxe room, valid for six months, to provide you with the exceptional experience we strive for.",
+      "We value your feedback and hope you will give us another opportunity to demonstrate our commitment to guest satisfaction."
+    ],
+    "signoff": "Sincerely,",
+    "from": "Grandview Hotel Manager"
+  },
+  "task11": "Write a short message to a friend, who knows about your recent trip. Tell them about the apology letter you received from the Grandview Hotel. Say what you think about their apology and the offer. Write about 50 words.",
+  "task12": "Write an email to the Hotel Manager. Express your appreciation for the apology and the offer. Explain if you plan to accept their offer, or if you have an alternative suggestion for a resolution. Write about 120-150 words.",
+  "part2": {
+    "context": "You are participating in an online discussion for language learners.",
+    "question": "What are the reasons for air pollution?",
+    "instruction": "Post your response, giving reasons and examples. Write 180-200 words."
+  },
+  "read_qs": [
+    {
+      "q": "What two problems did you have at the hotel?",
+      "a": "The room was very noisy and the air conditioning wasn't working properly."
+    },
+    {
+      "q": "What is the hotel doing about these issues?",
+      "a": "It is addressing them immediately to prevent similar problems for future guests."
+    },
+    {
+      "q": "What does the hotel offer you?",
+      "a": "A free (complimentary) one-night stay in a newly renovated deluxe room."
+    },
+    {
+      "q": "How long is the offer valid?",
+      "a": "For six months."
+    }
+  ],
+  "plan": {
+    "t11": [
+      "What did the hotel send you?",
+      "What do you think about the apology?",
+      "Will you use the free night?"
+    ],
+    "t12": [
+      "Paragraph 1 – thank them for the apology + mention the problems",
+      "Paragraph 2 – thank them for the offer of a free stay",
+      "Paragraph 3 – say if you accept the offer or suggest another solution",
+      "Closing – when you will contact them + hope for a better visit"
+    ],
+    "p2": [
+      "Introduction – air pollution is a serious problem; there are several reasons",
+      "Reason 1 – industry/factories + example",
+      "Reason 2 – transport/vehicles + example",
+      "Reason 3 + conclusion – household activities; why we must act"
+    ]
+  },
+  "register": [
+    {
+      "phrase": "It's nice they admitted the problems",
+      "type": "informal"
+    },
+    {
+      "phrase": "I appreciate you acknowledging the issues",
+      "type": "formal"
+    },
+    {
+      "phrase": "Talk soon",
+      "type": "informal"
+    },
+    {
+      "phrase": "Thank you very much for your recent letter of apology",
+      "type": "formal"
+    },
+    {
+      "phrase": "I'm not sure if I'll use it yet",
+      "type": "informal"
+    },
+    {
+      "phrase": "to take advantage of the complimentary stay",
+      "type": "formal"
+    },
+    {
+      "phrase": "You remember how noisy my hotel room was",
+      "type": "informal"
+    },
+    {
+      "phrase": "arrange a suitable date",
+      "type": "formal"
+    }
+  ],
+  "p2_gaps": [
+    "Firstly",
+    "For example",
+    "Secondly",
+    "For instance",
+    "Lastly",
+    "Ultimately"
+  ],
+  "samples": {
+    "t11": "Hi Jack,\nYou remember how noisy my hotel room was at the Grandview? Well, they sent me an apology letter! It's nice they admitted the problems. They offered me a free night in a deluxe room, which is a good offer. I'm not sure if I'll use it yet, but it's a kind gesture.\nTalk soon,\nAlex",
+    "t12": "Dear Hotel Manager,\n\nThank you very much for your recent letter of apology regarding my stay at the Grandview Hotel. I appreciate you acknowledging the issues with the noise and the air conditioning in my room. It’s good to know that you are taking steps to prevent these problems for future guests.\n\nI also want to thank you for the generous offer of a complimentary one-night stay in a deluxe room. This is a kind gesture, and I appreciate the opportunity to experience the hotel's usual high standards.\n\nAt this time, I believe I will accept your offer. I would like to plan a return visit within the next few months to take advantage of the complimentary stay. I will contact the hotel to arrange a suitable date. I hope this next visit will be a much better experience.\n\nSincerely,\nAlex",
+    "p2": "Air pollution is a pressing issue that affects many cities around the world. I’m of the opinion that there’re several key reasons for this problem. Let’s look through some of them!\n\nFirstly, one of the main contributors to air pollution is industrial activity. Factories release a significant amount of harmful gases and particulate matter into the atmosphere during production processes. For example, in countries with heavy manufacturing industries, such as China and India, air quality often suffers due to emissions from factories.\n\nSecondly, transportation is another major factor. Vehicles, especially those that run on fossil fuels like petrol and diesel, emit carbon monoxide, nitrogen oxides, and other pollutants. In urban areas with high traffic congestion, these emissions can lead to smog and respiratory issues for residents. For instance, cities like Los Angeles and Mexico City frequently experience poor air quality due to the number of cars on the road.\n\nLastly, household activities also contribute to air pollution. Burning wood or coal for heating and cooking releases smoke and toxic substances. In many developing countries, this practice is common and poses health risks to families.\n\nUltimately, industrial activities, transportation, and household practices are significant reasons for air pollution, and in my opinion, addressing these issues is crucial for improving air quality and public health."
+  },
+  "vocab": [
+    [
+      "noisy",
+      "shovqinli"
+    ],
+    [
+      "apology",
+      "uzr, kechirim"
+    ],
+    [
+      "offer",
+      "taklif"
+    ],
+    [
+      "gesture",
+      "imo-ishora, harakat (in this context, a kind act)"
+    ],
+    [
+      "generous",
+      "saxiy, bag'ishlovchi"
+    ],
+    [
+      "experience",
+      "tajriba"
+    ],
+    [
+      "prevent",
+      "oldini olmoq"
+    ],
+    [
+      "standards",
+      "standartlar, me'yorlar"
+    ],
+    [
+      "complimentary",
+      "bepul, hadya qilingan"
+    ],
+    [
+      "appreciate",
+      "qadrlamoq, minnatdor bo'lmoq"
+    ],
+    [
+      "short trip",
+      "qisqa safar"
+    ],
+    [
+      "air conditioning",
+      "konditsioner"
+    ],
+    [
+      "check-out",
+      "hisob-kitobni yakunlash, chiqish vaqti"
+    ],
+    [
+      "apology letter",
+      "uzr maktubi"
+    ],
+    [
+      "usual high standards",
+      "odatdagi yuqori standartlar"
+    ],
+    [
+      "addressing these issues",
+      "bu masalalarni hal qilmoq"
+    ],
+    [
+      "future guests",
+      "kelajakdagi mehmonlar"
+    ],
+    [
+      "sincere apology",
+      "samimiy uzr"
+    ],
+    [
+      "guest satisfaction",
+      "mehmonni qoniqtirish"
+    ],
+    [
+      "pollution",
+      "ifloslanish"
+    ],
+    [
+      "industry",
+      "sanoat"
+    ],
+    [
+      "emissions",
+      "chiqindilar"
+    ],
+    [
+      "vehicles",
+      "transport vositalari"
+    ],
+    [
+      "respiratory",
+      "nafas olish"
+    ],
+    [
+      "congestion",
+      "tiqilinch"
+    ],
+    [
+      "household",
+      "uy xo‘jaligi"
+    ],
+    [
+      "toxic",
+      "zaharli"
+    ],
+    [
+      "factories",
+      "zavodlar"
+    ],
+    [
+      "health",
+      "sog‘liq"
+    ],
+    [
+      "air quality",
+      "havo sifati"
+    ],
+    [
+      "harmful gases",
+      "zararli gazlar"
+    ],
+    [
+      "traffic congestion",
+      "transport tiqilinchligi"
+    ],
+    [
+      "public health",
+      "jamoat sog‘ligi"
+    ],
+    [
+      "particulate matter",
+      "zarracha moddalar"
+    ],
+    [
+      "fossil fuels",
+      "qazilma yoqilg‘ilar"
+    ],
+    [
+      "heavy manufacturing industries",
+      "og‘ir ishlab chiqarish sanoatlari"
+    ],
+    [
+      "urban areas",
+      "shahar hududlari"
+    ],
+    [
+      "burning wood or coal",
+      "yog‘och yoki ko‘mir yoqish"
+    ],
+    [
+      "poor air quality",
+      "yomon havo sifati"
+    ]
+  ]
+}
